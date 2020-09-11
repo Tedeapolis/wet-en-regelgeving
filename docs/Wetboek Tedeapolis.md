@@ -86,7 +86,7 @@
 
 ## Titel I - Vermogensdelicten
 
-![Titel I](https://i.imgur.com/QYoLGtN.png)
+![Titel I](img/wetboek/Vermogen.png)
 
 ### Artikel I-1 Diefstal (310 SR)
 
@@ -172,7 +172,7 @@
 
 ## Titel II - Geweldsdelicten
 
-![Titel II](https://i.imgur.com/U6KmYvP.png)
+![Titel II](img/wetboek/Geweld.png)
 
 ### Artikel II-1 Wederspannigheid/verzet (180 SR)
 
@@ -260,7 +260,7 @@
 
 ## Titel III - Verkeersdelicten
 
-![Titel III](https://i.imgur.com/bCaBrEy.png)
+![Titel III](img/wetboek/verkeer.png)
 
 ### Artikel III-1 Verkeersovertredingen in algemene zin (5 WVW)
 
@@ -359,7 +359,7 @@
 
 ## Titel IV - Opiumwet
 
-![Titel IV](https://i.imgur.com/Fu4cD1H.png)
+![Titel IV](img/wetboek/opium.png)
 
 ### Artikel IV-1 Harddrugs (2 OW)
 
@@ -464,7 +464,7 @@
 
 ## Titel V - Wet Wapens en Munitie
 
-![Titel V](https://i.imgur.com/cyC9z68.png)
+![Titel V](img/wetboek/WWM.png)
 
 ### Artikel V-1 Tasers (26 WWM)
 
@@ -483,13 +483,13 @@
    * kleine vuurwapens (pistolen, revolvers, e.d.), aangeduid als Categorie 1;
    * Automatische vuurwapens, jachtgeweren, shotguns, explosieven, granaten, etc., aangeduid als Categorie 2.
 
-| `**Categorie 1**`  | *Celstraf*  | *Taakstraf*  | *boete*  |
+| ***`Categorie 1`***  | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
 |  **Eerste Veroordeling** | 30 maanden  |  | €10,000  |
 | **Tweede Veroordeling**  | 60 maanden  |  | €12,500  |
 | **Meerdere Veroordelingen**  | 90 maanden  |  | €15,000  |
 
-| `**Categorie 2**`  | *Celstraf*  | *Taakstraf*  | *boete*  |
+| ***`Categorie 2`***  | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
 |  **Eerste Veroordeling** | 90 maanden  |  | €20,000  |
 | **Tweede Veroordeling**  | 120 maanden  |  | €25,000  |
@@ -508,7 +508,7 @@
 
 ## Titel VI - Overige
 
-![Titel VI](https://i.imgur.com/AZq2R6s.png)
+![Titel VI](img/wetboek/Overige.png)
 
 ### Artikel VI-1 Niet voldoen aan een bevel of vordering (184 SR)
 
