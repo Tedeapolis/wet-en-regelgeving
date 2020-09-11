@@ -422,7 +422,7 @@
 7. Strafbepaling geschiedt op basis van aantallen ingrediënten en aantallen eindproducten.
 8. Wanneer er een mix van de aantallen in lid 7 aangetroffen wordt, zal er met een berekening van het aantal eindproducten maal 5, een totaal aan goederen berekend worden. De strafbepaling geschiedt vervolgens zoals bepaald in lid 2.
 
-#### Rekentabel Softdrugs: ingrediënten**
+#### Rekentabel Softdrugs: ingrediënten
 
 |***`6-25 ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
