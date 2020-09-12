@@ -516,7 +516,6 @@
 | **Tweede Veroordeling**  | 18 maanden   |   | €7,500  |
 | **Meerdere Veroordelingen**  | 27 maanden  |   | €10,000  |
 
-
 ## Titel VI - Overige
 
 ![Titel VI](img/wetboek/Overige.png)
