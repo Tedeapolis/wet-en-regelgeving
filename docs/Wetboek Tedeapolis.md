@@ -506,6 +506,17 @@
 | **Tweede Veroordeling**  |   | 40 uur  | €7,500  |
 | **Meerdere Veroordelingen**  | 15 maanden  |   | €10,000  |
 
+### Artikel V-4 Nepwapens, holsters en replica's (26 WWM)
+
+1. Strafbaar is een persoon die een holster draagt met daarin een nepwapen of replica die, van dichtbij of op enige afstand, niet gemakkelijk van echt te onderscheiden is.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 9 maanden   |  | €5,000  |
+| **Tweede Veroordeling**  | 18 maanden   |   | €7,500  |
+| **Meerdere Veroordelingen**  | 27 maanden  |   | €10,000  |
+
+
 ## Titel VI - Overige
 
 ![Titel VI](img/wetboek/Overige.png)
