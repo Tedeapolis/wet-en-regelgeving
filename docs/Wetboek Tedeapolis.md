@@ -516,11 +516,63 @@
 | **Tweede Veroordeling**  | 18 maanden   |   | €7,500  |
 | **Meerdere Veroordelingen**  | 27 maanden  |   | €10,000  |
 
-## Titel VI - Overige
 
-![Titel VI](img/wetboek/Overige.png)
+## Titel VI - Wet op de Kansspelen
 
-### Artikel VI-1 Niet voldoen aan een bevel of vordering (184 SR)
+![Titel VII](https://i.imgur.com/wSx6zkY.png)
+
+### Artikel VI-1 Algemeen verbod (1 Wok)
+
+1. Schuldig is een persoon die zonder geldige vergunning een gelegenheid biedt om mee te dingen naar prijzen of geld, in de vorm van een kansspel.
+2. Niet schuldig is een persoon die hiervoor een geldende vergunning heeft.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   |   | €1,000  |
+| **Tweede Veroordeling**  |   |   | €2,500  |
+| **Meerdere Veroordelingen**  |   |  | €7,500  |
+
+### Artikel VI-2 Casinospelen (27g Wok)
+
+1. Schuldig is een persoon die zonder geldige vergunning casinospelen op basis van kansbepaling publiekelijk of bedrijfsmatig aanbiedt.   
+2. Niet schuldig is een persoon die hiervoor een geldende vergunning heeft.
+3. De Overheid behoudt het recht om op één of enkele plekken casinospelen aan te bieden.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 5 uur  | €1,000  |
+| **Tweede Veroordeling**  |   | 10 uur  | €2,500  |
+| **Meerdere Veroordelingen**  |   | 20 uur | €5,000  |
+
+### Artikel VI-3 Loterijen (27 Wok)
+
+1. Schuldig is een persoon die zonder geldige vergunning een gelegenheid biedt om mededingers een aantal symbolen te doen voorspellen, die door loting of trekking worden verkregen uit een van tevoren opgegeven aantal symbolen ("De Lotto").
+2. Schuldig is een persoon die zonder geldige vergunning een loterij houdt waarbij een winnend lotnummer door trekking wordt gekozen.
+3. Niet schuldig is een persoon die hiervoor een geldende vergunning heeft.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   |  | €2,500  |
+| **Tweede Veroordeling**  |   | 10 uur  | €5000  |
+| **Meerdere Veroordelingen**  |   | 20 uur | €7,500  |
+ 
+### Artikel VI-4 Verdubbelaar en pyramidespel (1a Wok)
+
+1. Schuldig is een persoon die zonder geldige vergunning een gelegenheid biedt om geld of goederen te verdubbelen door het afgeven of overmaken van een voorgesteld bedrag of goed.
+2. Schuldig is een persoon die zonder geldige vergunning geld of goederen eist, teneinde daaruit een voordeel uit te beloven dat geheel of ten dele afhankelijk is van de afgifte van geld of goederen door latere deelnemers.
+3. Niet schuldig is een persoon die hiervoor een geldende vergunning heeft. 
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 5 uur  | €2,500  |
+| **Tweede Veroordeling**  |   | 10 uur  | €5,000  |
+| **Meerdere Veroordelingen**  |   | 20 uur | €10,000  |
+ 
+## Titel VII - Overige
+
+![Titel VII](img/wetboek/Overige.png)
+
+### Artikel VII-1 Niet voldoen aan een bevel of vordering (184 SR)
 
 1. Schuldig is een persoon die opzettelijk niet voldoet aan een bevel of vordering dat krachtens wettelijk voorschrift wordt gegeven door een ambtenaar in functie.
 2. Schuldig is een persoon die opzettelijk een ambtenaar in functie belemmert in de uitvoering daarvan.
@@ -531,20 +583,20 @@
 | **Tweede Veroordeling**  |   | 30 uur  | €320  |
 | **Meerdere Veroordelingen**  |   | 40 uur  | €320  |
 
-### Artikel VI-2 Belediging (266 SR)
+### Artikel VII-2 Belediging (266 SR)
 
 1. Schuldig is een persoon die opzettelijk een ander belegdigt op straffe van een boete van €200,- per geval.
 2. Wanneer de belediging opzettelijk is geuit richting een ambtenaar in functie wordt de boete met 1/3 verhoogd.
 
-### Artikel VI-3 Opgeven valse gegevens (435 SR)
+### Artikel VII-3 Opgeven valse gegevens (435 SR)
 
 1. Schuldig is een persoon die bij vordering van een ambtenaar in functie valse gegevens opgeeft, op straffe van een boete van €250,- per geval.
 
-### Artikel VI-4 Niet op eerste vordering tonen van identiteitsbewijs (447e SR)
+### Artikel VII-4 Niet op eerste vordering tonen van identiteitsbewijs (447e SR)
 
 1. Schuldig is een persoon die geen gehoor geeft aan een vordering tot inzage van het identiteitsbewijs door een ambtenaar in functie, wanneer dit in het kader van de wet door de ambtenaar als noodzakelijk wordt geacht, op straffe van een boete van €320,- per geval.
 
-### Artikel VI-5 Openbare dronkenschap (453 SR)
+### Artikel VII-5 Openbare dronkenschap (453 SR)
 
 1. Schuldig is een persoon die zich begeeft in de openbare ruimte terwijl hij of zij in kennelijke staat van dronkenschap verkeert.
 
@@ -554,7 +606,7 @@
 | **Tweede Veroordeling**  |   |   | €120  |
 | **Meerdere Veroordelingen**  |   | 5 uur  | €120  |
 
-### Artikel VI-6 Onbevoegd begeven op privé terrein (461 SR)
+### Artikel VII-6 Onbevoegd begeven op privé terrein (461 SR)
 
 1. Schuldig is een persoon die zich zonder toestemming, wederrechtelijk, toegang verschaft tot een terrein of locatie.
 
@@ -564,7 +616,7 @@
 | **Tweede Veroordeling**  |   |   | €180  |
 | **Meerdere Veroordelingen**  |   | 5 uur  | €180  |
 
-### Artikel VI-7 Dragen van gezichtsbedekkende kledij (1 Wet gedeeltelijk verbod gezichtsbedekkende kleding)
+### Artikel VII-7 Dragen van gezichtsbedekkende kledij (1 Wet gedeeltelijk verbod gezichtsbedekkende kleding)
 
 1. Schuldig is een persoon die kleding draagt, die het gezicht geheel bedekt of zodanig bedekt dat alleen de ogen onbedekt zijn, dan wel onherkenbaar maakt, op straffe van een boete van €200,- per geval.
 2. Het eerste lid is niet van toepassing, voor zover kleding als bedoeld in dat lid:
