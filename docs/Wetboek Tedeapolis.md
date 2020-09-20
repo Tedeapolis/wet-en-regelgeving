@@ -516,10 +516,9 @@
 | **Tweede Veroordeling**  | 18 maanden   |   | €7,500  |
 | **Meerdere Veroordelingen**  | 27 maanden  |   | €10,000  |
 
-
 ## Titel VI - Wet op de Kansspelen
 
-![Titel VII](https://i.imgur.com/wSx6zkY.png)
+![Titel VII](img/wetboek/kansspellen.png)
 
 ### Artikel VI-1 Algemeen verbod (1 Wok)
 
@@ -534,7 +533,7 @@
 
 ### Artikel VI-2 Casinospelen (27g Wok)
 
-1. Schuldig is een persoon die zonder geldige vergunning casinospelen op basis van kansbepaling publiekelijk of bedrijfsmatig aanbiedt.   
+1. Schuldig is een persoon die zonder geldige vergunning casinospelen op basis van kansbepaling publiekelijk of bedrijfsmatig aanbiedt.
 2. Niet schuldig is een persoon die hiervoor een geldende vergunning heeft.
 3. De Overheid behoudt het recht om op één of enkele plekken casinospelen aan te bieden.
 
@@ -555,19 +554,19 @@
 |  **Eerste Veroordeling** |   |  | €2,500  |
 | **Tweede Veroordeling**  |   | 10 uur  | €5000  |
 | **Meerdere Veroordelingen**  |   | 20 uur | €7,500  |
- 
+
 ### Artikel VI-4 Verdubbelaar en pyramidespel (1a Wok)
 
 1. Schuldig is een persoon die zonder geldige vergunning een gelegenheid biedt om geld of goederen te verdubbelen door het afgeven of overmaken van een voorgesteld bedrag of goed.
 2. Schuldig is een persoon die zonder geldige vergunning geld of goederen eist, teneinde daaruit een voordeel uit te beloven dat geheel of ten dele afhankelijk is van de afgifte van geld of goederen door latere deelnemers.
-3. Niet schuldig is een persoon die hiervoor een geldende vergunning heeft. 
+3. Niet schuldig is een persoon die hiervoor een geldende vergunning heeft.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
 |  **Eerste Veroordeling** |   | 5 uur  | €2,500  |
 | **Tweede Veroordeling**  |   | 10 uur  | €5,000  |
 | **Meerdere Veroordelingen**  |   | 20 uur | €10,000  |
- 
+
 ## Titel VII - Overige
 
 ![Titel VII](img/wetboek/Overige.png)
