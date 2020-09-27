@@ -9,7 +9,7 @@ De anwb heeft een prijzen lijst deze is als volgt opgesteld
 Bij de anwb worden verschillende categorieën gehanteerd hier onder zijn deze te vinden.
 
 |Categorie| omschrijving |
-|:-------:|:------------:|
+|:-------:|------------|
 | Categorie 1 |Lakschade, Wagen kan niet meer getuned worden, orange motorlampje |
 | Categorie 2 |koplam(en) en of achterlamp(en) stuk, kleine deuken, Eén of twee ramen kapot, Eén lekke band.|
 | Categorie 3 | Grote deuken, Meer dan twee ramen kapot, meerdere banenden lek, twee deuren weg, motorkap/kofferklep weg|
@@ -53,7 +53,7 @@ Bij de anwb worden verschillende categorieën gehanteerd hier onder zijn deze te
 ### Extra's
 
 | Dienst | Prijs |
-|:---------:|:-----------:|
+|:---------|:-----------:|
 | Brandblusser | € 2500,- |
 | Schoonmaken | € 50,- |
 | Takelkosten | € 500,- |
@@ -68,7 +68,7 @@ De Ambulance heeft een prijzen lijst deze is als volgt opgesteld
 ### Interventies
 
 | Operatie / Handeling | Prijs verzekerd | Prijs onverzekerd |
-|:--------------------:|:---------------:|:-----------------:|
+|:--------------------|:---------------:|:-----------------:|
 | Aanrijden Ambulance | € 0,- | € 600,- |
 | Transport Ambulance | € 0,- | € 800,- |
 | Aanrijden MMT-voertuig | € 0,- | € 400,- |
@@ -78,7 +78,7 @@ De Ambulance heeft een prijzen lijst deze is als volgt opgesteld
 ### Behandelingen
 
 | Operatie / Handeling | Prijs verzekerd | Prijs onverzekerd |
-|:--------------------:|:---------------:|:-----------------:|
+|:--------------------|:---------------:|:-----------------:|
 | Pleister plakken                      | € 75,- | € 150,- |
 | Behandeling kleine schaafwond         | € 75,- | € 150,- |
 | Behandeling kleine brandwond          | € 75,- | € 150,- |
@@ -91,7 +91,7 @@ De Ambulance heeft een prijzen lijst deze is als volgt opgesteld
 ### Operaties
 
 | Operatie / Handeling | Prijs verzekerd | Prijs onverzekerd |
-|:--------------------:|:---------------:|:-----------------:|
+|:--------------------|:---------------:|:-----------------:|
 | Operatie grote schaafwond(en)         | € 250,- | € 1000,- |
 | Operatie steekwond(en)                | € 500,- | € 2000,- |
 | Operatie grote brandwond(en)          | € 750,- | € 3000,- |
@@ -101,7 +101,7 @@ De Ambulance heeft een prijzen lijst deze is als volgt opgesteld
 ### Medicatie
 
 | Operatie / Handeling | Prijs verzekerd | Prijs onverzekerd |
-|:--------------------:|:---------------:|:-----------------:|
+|:--------------------|:---------------:|:-----------------:|
 | Hoest siroop                  | € 75,- | € 150,- |
 | Antibiotica                   | € 75,- | € 150,- |
 | Antibiotica voor Psoriasis    | € 75,- | € 150,- |
