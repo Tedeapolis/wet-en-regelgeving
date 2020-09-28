@@ -84,6 +84,21 @@
 4. Indien de oproep zoals genoemd in lid 3 niet mogelijk blijkt, of de verdachte weigert een advocaat op te roepen, dan is de politie verplicht tot het doen oproepen van een advocaat voor de verdachte;
 5. Uitsluitingsgrond voor lid 4 is wanneer verdachte expliciet en ondubbelzinnig afziet van zijn of haar recht tot consultatie.
 
+### A9 - Algemene rechtsbeginselen
+
+1. De algemene rechtsbeginselen stellen eisen en scheppen kaders aan beleid of regelgeving. Beleid of regelgeving dat onvoldoende aansluit op algemene rechtsbeginselen kan onderhevig zijn aan uitsluiting of verwerping.
+2. Onder de algemene rechtsbeginselen wordt verstaan:
+   * Subsidiariteit, het toepassen van maatregelen en acties die het minst bezwarend zijn;
+   * Proportionaliteit, het in verhouding hebben en houden van acties, sancties en beslissingen ten opzichte van het (mogelijk) gepleegde feit;
+   * Behoorlijk Bestuur, gebaseerd op de beginselen van vertrouwen, rechtszekerheid, gelijkheid en onpartijdigheid;
+   * Legaliteit, waarbij het overheidsoptreden dat ingrijpt op de rechten en plichten (persoonlijke levenssfeer) van burgers moet berusten op een wettelijke grondslag;
+   * Kenbaarheid van regelgeving, waarbij burgers in staat gesteld moeten zijn kennis te nemen van regelgeving;
+   * Redelijkheid en billijkheid, waarbij als factor de redelijkheid en rechtmatigheid als ongeschreven regel dient te gelden bij overeenkomsten en situaties;
+   * hoor en wederhoor, waarbij alle partijen recht hebben om hun zegje te doen;
+   * onschuldpresumptie, waarbij een verdachte onschuldig is tot het tegendeel bewezen is;
+   * détournement de pouvoir, waarbij de wet alleen mag toegepast worden waar deze voor bedoeld is;
+   * ne bis in idem, waarbij iemand niet tweemaal veroordeeld mag worden voor hetzelfde feit;
+
 ## Titel I - Vermogensdelicten
 
 ![Titel I](img/wetboek/Vermogen.png)
@@ -264,7 +279,7 @@
 
 ### Artikel III-1 Verkeersovertredingen in algemene zin (5 WVW)
 
-1. Voor verkeersovertredingen in algemene zin, niet verder gespecificeerd als zijnde zwaardere delicten, geldt een boete van €140,- per geval.
+1. Voor verkeersovertredingen in algemene zin, niet verder gespecificeerd als zijnde zwaardere delicten, geldt een boete van €430,- per geval.
 2. Afhankelijk van de aard van de overtreding kan de dienstdoende agent kiezen een waarschuwing te geven in plaats van een boete.
 
 ### Artikel III-2 Gevaar / hinder zonder ongeval (5 WVW)
@@ -290,7 +305,7 @@
 | **Tweede Veroordeling**  |   | 15 uur | €3,000  | 0-24 uur |
 | **Meerdere Veroordelingen**  |   | 20 uur | €4,000  | 0-24 uur |
 
-### Artikel III-3 Veroorzaken ongeval, met zwaar lichamelijk letsel tot gevolg (6 WVW)
+### Artikel III-4 Veroorzaken ongeval, met zwaar lichamelijk letsel tot gevolg (6 WVW)
 
 1. Schuldig is een persoon die een ongeval veroorzaakt, met zwaar lichamelijk letsel aan een derde tot gevolg, door een gevaarlijke dan wel hinderlijke deelname aan het verkeer.
 2. Zwaar lichamelijk letsel is in dezen alle letsel die niet ter plaatse te behandelen is.
@@ -302,7 +317,7 @@
 | **Tweede Veroordeling**  |   | 20 uur | €6,000  | 0-24 uur |
 | **Meerdere Veroordelingen**  |   | 25 uur | €7,000  | 0-24 uur |
 
-### Artikel III-3 Veroorzaken ongeval, met de dood tot gevolg (6 WVW)
+### Artikel III-5 Veroorzaken ongeval, met de dood tot gevolg (6 WVW)
 
 1. Schuldig is een persoon die een ongeval veroorzaakt, met de dood van een derde tot gevolg, door een gevaarlijke dan wel hinderlijke deelname aan het verkeer.
 2. Op basis van inschatting van de dienstdoende agent kan eveneens overgegaan worden tot invordering van het rijbewijs.
@@ -313,7 +328,7 @@
 | **Tweede Veroordeling**  | 10 maanden  |  | €9,000  | 0-24 uur |
 | **Meerdere Veroordelingen**  | 20 maanden  |  | €10,000  | 0-24 uur |
 
-### Artikel III-4 Verlaten plaats van verkeersongeval (7 WVW)
+### Artikel III-6 Verlaten plaats van verkeersongeval (7 WVW)
 
 1. Schuldig is een persoon die een plaats van verkeersongeval verlaat ongeacht of hij of zij schuldig was aan het veroorzaken daarvan.
 2. Wanneer daarbij een derde wordt achtergelaten in hulpeloze toestand wordt de straf verhoogd met 1/3.
@@ -325,7 +340,7 @@
 | **Tweede Veroordeling**  | 10 maanden  |  | €6,000  |   |
 | **Meerdere Veroordelingen**  | 25 maanden  |  | €7,000  |   |
 
-### Artikel III-5 Rijden onder invloed (8 WVW)
+### Artikel III-7 Rijden onder invloed (8 WVW)
 
 1. Schuldig is een persoon die deelneemt aan het verkeer onder invloed van alcohol, verdovende middelen of medicijnen die de rijvaardigheid beïnvloeden.
 2. Uitzonderingsgrond is het te voet deelnemen aan het verkeer.
@@ -336,7 +351,7 @@
 | **Tweede Veroordeling**  |   | 40 uur | €4,000  | 0-24 uur |
 | **Meerdere Veroordelingen**  |   | 50 uur | €5,000  | 0-24 uur |
 
-### Artikel III-6 Rijden zonder bevoegdheid (9 WVW)
+### Artikel III-8 Rijden zonder bevoegdheid (9 WVW)
 
 1. Schuldig is een persoon die weet of redelijkerwijs behoort te weten dat hem of haar de rijbevoegdheid is ontzegd en desondanks deelneemt aan het verkeer.
 2. Uitzonderingsgrond is het te voet deelnemen aan het verkeer.
@@ -348,7 +363,7 @@
 | **Tweede Veroordeling**  |   | 20 uur | €4,000  | 0-24 uur |
 | **Meerdere Veroordelingen**  |   | 30 uur | €6,000  | 0-24 uur |
 
-### Artikel III-7 Negeren van de grenscontrole (1:1 - 1:31 Algemene Douanewet)
+### Artikel III-9 Negeren van de grenscontrole (1:1 - 1:31 Algemene Douanewet)
 
 1. Schuldig is een persoon die opzettelijk en wederrechtelijk een grenspost ontwijkt daar waar hij redelijkerwijs deze grenspost zou moeten passeren;
 2. Schuldig is tevens een persoon die zich onthoudt van aanhouding dan wel controle door de Koninklijke Marechaussee bij een grenspost;
@@ -356,6 +371,63 @@
 4. Niet schuldig is tevens een persoon die een grenspost passeert zonder controle wanneer deze persoon niet tijdig en duidelijk tot stilstand wordt gemaand door het dienstdoend personeel;
 5. Niet schuldig is tevens een persoon die, gelet op artikel 4, zijn of haar voertuig na passeren van de grens, met inachtneming van enige redelijkheid van afstand en tijd, tot stilstand brengt om alsnog te worden gecontroleerd;
 6. De straf gegeven voor de overtredingen als bedoeld in lid 1 en 2 wordt gegeven in de vorm van een boete van €10,000 voor de eerste maal, en €15,000 voor alle opvolgende malen.
+
+### Artikel III-10 Fout parkeren (25 RVV 1990)
+
+1. Schuldig is een persoon die zijn of haar voertuig parkeert op een wijze die niet sluit met de aangegeven parkeersituatie, zoals:
+  * dubbelparkeren of het moedwillig doorkruisen van parkeervakken;
+  * het parkeren langs een rode trottoirrand;
+  * volledig parkeren op de stoep;
+2. De vastgestelde boete voor bovenstaande acties is €1500,-
+
+### Artikel III-11 Snelheidsovertredingen
+
+1. Schuldig is een persoon die de wettelijk bepaalde snelheden voor verkeer niet in acht neemt tijdens deelname aan het verkeer.
+2. De toegestane snelheden zijn 80KM/h binnen de bebouwde kom, 130KM/h buiten de bebouwde kom.
+3. De op diverse plaatsen flitscamera's zullen in geval van overtreding een boete doen uitsturen naar de overtredende partij.
+4. Indien een dienstdoende agent een overtredende partij staande houdt, is hij of zij gerechtigd tot het uitschrijven van de volgende boetes:
+
+| ***`Binnen de Bebouwde Kom`***  |   |
+|---|---|
+| Te hard rijden < 10KM/H | €50 |
+| Te hard rijden 10 - 20KM/H | €300 |
+| Te hard rijden 21 - 30KM/H | €800 |
+| Te hard rijden 31 - 40KM/H | €1,100 |
+| Te hard rijden 41 - 50KM/H | €1,600 |
+| Te hard rijden 51 - 60KM/H | €1,900 |
+
+| ***`Buiten de Bebouwde Kom`***  |   |
+|---|---|
+| Te hard rijden < 10KM/H | €120 |
+| Te hard rijden 10 - 20KM/H | €300 |
+| Te hard rijden 21 - 30KM/H | €500 |
+| Te hard rijden 31 - 40KM/H | €720 |
+| Te hard rijden 41 - 50KM/H | €1,000 |
+| Te hard rijden 51 - 60KM/H | €1,500 |
+
+5. Voor snelheidsovertredingen die de bovenstaande snelheden overschreiden kan de agent overgaan tot arrestatie en strafvervolging.
+
+### Artikel III-12 Overige verkeersboetes
+
+1. Ter bevordering der transparantie is opgenomen dit artikel met daarin gespecificeerde boetes, teneinde transparantie te verlenen.
+2. Onderstaande strafbare feiten kunnen bestraft worden met een boete, als zodanig:
+
+|   |   |
+|---|---|
+| Blokkeren van de weg | €160 |
+| Maken van een U-turn daar waar dat niet is toegestaan | €190 |
+| Rijden in een voertuig dat niet toegestaan is op de openbare weg | €1,100  |
+| Rijden in een voertuig met een WOK-status  | €1,500 |
+| Maken van een zgn. Burnout  | €420 |
+| Onnodig Claxoneren | €95  |
+| Over een doorgestrokken streep rijden  | €240  |
+| Aan de verkeerde kant van de weg rijden | €640 |
+| Illegaal off road rijden | €140 |
+| Stilstaan daar waar dit niet is toegestaan | €230 |
+| Onnodig links rijden | €140  |
+| Doorrijden bij een stopbord | €160  |
+| Illegaal inhalen | €180  |
+
 
 ## Titel IV - Opiumwet
 
@@ -498,7 +570,8 @@
 ### Artikel V-3 Steek- en slagwapens (27 WWM)
 
 1. Strafbaar is een persoon die een steek- of slagwapen voorhanden heeft, bij zich draagt, of opgeslagen heeft in huis of in de laadruimte van zijn of haar vervoersmiddel, waarvan redelijkerwijs kan worden aangenomen dat deze bestemd is om letsel toe te brengen.
-2. Uitgezonderd is het in het bezit zijn van een honkbalknuppel, wanneer deze niet kan worden aangemerkt als beschreven onder lid 1.
+2. Voor steekwapens die aangemerkt kunnen worden als zijnde stiletto geldt een uitzondering; deze zijn altijd verboden.
+3. Uitgezonderd is het in het bezit zijn van een honkbalknuppel, wanneer deze niet kan worden aangemerkt als beschreven onder lid 1.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -567,11 +640,53 @@
 | **Tweede Veroordeling**  |   | 10 uur  | €5,000  |
 | **Meerdere Veroordelingen**  |   | 20 uur | €10,000  |
 
-## Titel VII - Overige
+## Titel VII - Uitsluitings- en strafverminderingsgronden
 
-![Titel VII](img/wetboek/Overige.png)
+![Titel VII](https://i.imgur.com/7KGl9DA.png)
 
-### Artikel VII-1 Niet voldoen aan een bevel of vordering (184 SR)
+### Artikel VII-1 Algemene Uitsluitingen (39-43 SR)
+
+1. Niet schuldig is een persoon die:
+   * wegens de gebrekkige ontwikkeling of ziekelijke stoornis van zijn of haar geestvermogens een strafbaar feit begaat;
+   * door overmacht is gedwongen een strafbaar feit te begaan;
+   * vanwege een noodzakelijke verdediging van eigen of andermans lijf, eerbaarheid of goed tegen ogenblikkelijke, wederrechtelijke aanranding een strafbaar feit begaat;
+   * de grenzen van bovenstaande noodweer overtreedt gevolgens een hevige gemoedsbeweging, veroorzaakt door de aanranding;
+   * een strafbaar feit begaat ter uitvoering van een wettelijk voorschrift;
+   * een strafbaar feit begaat ter uitvoering van een ambtelijk bevel, gegeven door het daartoe bevoegde gezag;
+      * Een onbevoegd gegeven ambtelijk bevel heft de strafbaarheid niet op, tenzij het door de ondergeschikte te goeder trouw als bevoegd gegeven werd beschouwd en de nakoming daarvan binnen de kring van zijn ondergeschiktheid was gelegen.
+
+### Artikel VII-2 Vormfouten
+
+1. Uitgesloten van rechtsvervolging is een persoon wiens telastelegging versperd wordt door een of meerdere vormfouten, zijnde:
+   * een vooringenomen, sturende, druk uitoefenende manier van verhoren;
+   * wanneer ontlastende informatie wordt verzwegen, en/of bewijsmateriaal wordt vernietigd;
+   * het niet afgeven van de cautie (*"het voorlezen van de rechten"*) aan verdachte voorafgaand aan het verhoor;
+   * verhoren van een verdachte voordat hij of zij het recht tot consultatie heeft kunnen gebruiken;
+   * wanneer er een onvolledig, onzorgvuldig onderzoek is gepleegd;
+   * het tappen van een met geheimhoudingsplicht bezwaarde professional, zoals arts, notaris, geestelijke, apotheker, advocaat;
+   * het voeren van een meinedig proces-verbaal zijnde tegenstrijdigheid met andere processen-verbaal, verklaringen onder ede, camerabeelden, geluidsopnamen;
+
+### Artikel VII-3 Strafvermindering (44a.2 SR)
+
+1. Wanneer besloten wordt tot een strafvermindering kan als leidraad gebruikt worden:
+   * vermindering van maximaal de helft bij een onvoorwaardelijke tijdelijke vrijheidsstraf, taakstraf of geldboete, of
+   * de omzetting van maximaal de helft van het onvoorwaardelijke gedeelte van een vrijheidsstraf, taakstraf of van een geldboete in een voorwaardelijk gedeelte, of
+   * de vervanging van maximaal een derde gedeelte van een vrijheidsstraf door taakstraf of een onvoorwaardelijke geldboete.
+   
+2. Strafverminderingsgronden worden bepaald in overleg tussen overheid en verdachte met bijstand van advocaat. Hierin meegenomen worden:
+   * eventuele eerdere vergrijpen (en/of het gebrek daar aan);
+   * goed gedrag en meewerking van de verdachte tijdens en na zijn of haar aanhouding;
+   * verzachtende omstandigheden;
+   * overmacht als gevolg van Stadsproblemen ("storm");
+   * proportionaliteit;
+   * aandeel van de verdachte in het geheel, indien er sprake is van een grootschalige overtreding met meerdere partijen.
+   
+
+## Titel VIII - Overige
+
+![Titel VIII](img/wetboek/Overige.png)
+
+### Artikel VIII-1 Niet voldoen aan een bevel of vordering (184 SR)
 
 1. Schuldig is een persoon die opzettelijk niet voldoet aan een bevel of vordering dat krachtens wettelijk voorschrift wordt gegeven door een ambtenaar in functie.
 2. Schuldig is een persoon die opzettelijk een ambtenaar in functie belemmert in de uitvoering daarvan.
@@ -582,20 +697,20 @@
 | **Tweede Veroordeling**  |   | 30 uur  | €320  |
 | **Meerdere Veroordelingen**  |   | 40 uur  | €320  |
 
-### Artikel VII-2 Belediging (266 SR)
+### Artikel VIII-2 Belediging (266 SR)
 
 1. Schuldig is een persoon die opzettelijk een ander belegdigt op straffe van een boete van €200,- per geval.
 2. Wanneer de belediging opzettelijk is geuit richting een ambtenaar in functie wordt de boete met 1/3 verhoogd.
 
-### Artikel VII-3 Opgeven valse gegevens (435 SR)
+### Artikel VIII-3 Opgeven valse gegevens (435 SR)
 
 1. Schuldig is een persoon die bij vordering van een ambtenaar in functie valse gegevens opgeeft, op straffe van een boete van €250,- per geval.
 
-### Artikel VII-4 Niet op eerste vordering tonen van identiteitsbewijs (447e SR)
+### Artikel VIII-4 Niet op eerste vordering tonen van identiteitsbewijs (447e SR)
 
 1. Schuldig is een persoon die geen gehoor geeft aan een vordering tot inzage van het identiteitsbewijs door een ambtenaar in functie, wanneer dit in het kader van de wet door de ambtenaar als noodzakelijk wordt geacht, op straffe van een boete van €320,- per geval.
 
-### Artikel VII-5 Openbare dronkenschap (453 SR)
+### Artikel VIII-5 Openbare dronkenschap (453 SR)
 
 1. Schuldig is een persoon die zich begeeft in de openbare ruimte terwijl hij of zij in kennelijke staat van dronkenschap verkeert.
 
@@ -605,7 +720,7 @@
 | **Tweede Veroordeling**  |   |   | €120  |
 | **Meerdere Veroordelingen**  |   | 5 uur  | €120  |
 
-### Artikel VII-6 Onbevoegd begeven op privé terrein (461 SR)
+### Artikel VIII-6 Onbevoegd begeven op privé terrein (461 SR)
 
 1. Schuldig is een persoon die zich zonder toestemming, wederrechtelijk, toegang verschaft tot een terrein of locatie.
 
@@ -615,7 +730,7 @@
 | **Tweede Veroordeling**  |   |   | €180  |
 | **Meerdere Veroordelingen**  |   | 5 uur  | €180  |
 
-### Artikel VII-7 Dragen van gezichtsbedekkende kledij (1 Wet gedeeltelijk verbod gezichtsbedekkende kleding)
+### Artikel VIII-7 Dragen van gezichtsbedekkende kledij (1 Wet gedeeltelijk verbod gezichtsbedekkende kleding)
 
 1. Schuldig is een persoon die kleding draagt, die het gezicht geheel bedekt of zodanig bedekt dat alleen de ogen onbedekt zijn, dan wel onherkenbaar maakt, op straffe van een boete van €200,- per geval.
 2. Het eerste lid is niet van toepassing, voor zover kleding als bedoeld in dat lid:
@@ -623,6 +738,27 @@
    * noodzakelijk is ter bescherming van het lichaam in verband met de gezondheid of de veiligheid,
    * noodzakelijk is in verband met eisen die aan de uitoefening van een beroep of sport worden gesteld,
    * passend is in verband met het deelnemen aan een feestelijke of een culturele activiteit.
+
+### Artikel VIII-8 Identiteitsfraude
+
+1. Schuldig is een persoon die zich uitgeeft als iemand anders, onder naam van iemand anders, in naam van iemand anders, of gelieerd aan iemand anders met als doel daaruit een gewin te behalen in brede zin.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   |   | €2,000  |
+| **Tweede Veroordeling**  |   |   | €4,000  |
+| **Meerdere Veroordelingen**  |   | 20 uur  | €6,000  |
+
+### Artikel VIII-9 Deelname aan een criminele organisatie
+1. Schuldig is een persoon die deelneemt aan, steun verleent aan, of gelieerd is aan een organisatie die tot doel heeft het plegen van misdrijven.
+2. Ten aanzien van de oprichters, leiders of bestuurders kunnen de gevangenisstraffen met een derde worden verhoogd.
+3. Onder deelneming als omschreven in het eerste lid wordt mede begrepen het verlenen van geldelijke of andere stoffelijke steun aan alsmede het werven van gelden of personen ten behoeve van de daar omschreven organisatie.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   |   | €3,000  |
+| **Tweede Veroordeling**  |   | 20 uur  | €6,000  |
+| **Meerdere Veroordelingen**  | 20 maanden  |  | €9,000  |
 
 ---------------------
 *Wetboek Tedeapolis is opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Tedeapolis”, opgetekend door Bram Mosterdfiets, te Tedeapolis.*
