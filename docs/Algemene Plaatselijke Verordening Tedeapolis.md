@@ -58,10 +58,12 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 
 ## Overtredingen - Verstoring openbare orde (RP)
 
-### Artikel 1 - FailRP
+### Artikel 1 - FailRP & Powergaming
 
 1. Hij/zij die opzettelijk een roleplay van zeer slechte kwaliteit uitspeelt wordt gestraft volgens de 1e categorie.
 2. De overtreding vermeld in het eerste lid staat bekend als “FailRP”
+3. Hij/zij die opzettelijk de roleplay zodanig vormt dat er een oneerlijke of onrealistische draai aan het verhaal geeft, of de roleplay van de andere partij zelf invult door een onrealistische dwang, wordt gestraft volgens de 1e categorie.
+4. De overtreding vermeld in het derde lid staat bekend als "powergaming"
 
 ### Artikel 2 - Cheats
 
