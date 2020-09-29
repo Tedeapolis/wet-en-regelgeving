@@ -3,6 +3,12 @@ site_description: 'wet en regelgeving van tedeapolis roleplay'
 site_author: 'Tedeapolis'
 site_url: https://wetboek.tedeapolis.nl
 repo_url: https://github.com/Tedeapolis/wet-en-regelgeving
+repo_name: Tedeapolis/wet-en-regelgeving
 google_analytics: ['UA-167800475-2', 'wetboek.tedeapolis.nl']
 theme:
   name: material
+  language: nl
+  palette:
+    scheme: preference
+  favicon: img/logoTedeapolis.png
+  logo: img/logoTedeapolis.png
