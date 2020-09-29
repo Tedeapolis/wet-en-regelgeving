@@ -18,4 +18,4 @@ plugins:
       time_zone: Europe/Amsterdam
       locale: en
       fallback_to_build_date: false
-  - git-authors
+  # - git-authors
