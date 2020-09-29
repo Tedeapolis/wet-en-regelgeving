@@ -164,10 +164,11 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 3. Het is als je een report maakt niet de bedoeling om dit in game te melden aan mensen. Staff kiest zelf het moment om aan te geven dat zij aanwezig zijn en doen dit pas wanneer zij vinden dat zij genoeg hebben gezien. Aangeven dat er een report is gemaakt of dat Staff meekijkt zorgt er meestal voor dat er geen straffen kunnen worden uitgedeeld.
 4. Het overtreden van lid 3 zal resulteren in een straf volgens de 2e categorie.
 
-### Artikel 16 - Benoemen van pakken van wapen
-
-1. Indien een persoon een wapen anders dan een pistool pakt wordt er van deze persoon verwacht dit aan te kondigen door middel van het commando “/me pakt wapen”
-2. Indien de regel zoals genoemd in lid 1 overtreden wordt, wordt dit bestraft met een straf volgens categorie 1.
+### Artikel 16 - Karakter breken
+1. Het is te allen tijde verboden om je karakter te breken. Hiermee bedoelen we dat je enige term gebruikt die gezien wordt als OOC (out of character). Hieronder vallen ook termen zoals "report", "admin", "ticket" en dergelijke. 
+2. Het is tevens verboden om te benoemen dat een persoon een artikel van de algemene plaatselijke verordering heeft overtreden. Indien een persoon een artikel van de APV heeft overtreden, neem dan de correcte stappen zoals het aanmaken van een report of een ticket. 
+3. Het verbod zoals beschreven in lid 1 & 2 geldt niet voor medewerkers van de gemeenteraad (staffleden) indien zij een gesprek voeren ten behoeve van de uitvoering van hun werkzaamheden als gemeentelid. Dit geldt ook voor de personen waarmee zij in gesprek zijn. 
+2. Indien de regel zoals genoemd in lid 1 & 2 overtreden wordt, wordt dit bestraft met een straf volgens categorie 1.
 
 ### Artikel 17 - Out Of Character chat
 
@@ -295,50 +296,58 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 1. Wanneer de leden in een server supported organisatie zodanig opvallen op een negatieve manier (bijvoorbeeld veel warnings), zal de Hoge Raad beslissen over een gepaste straf jegens deze organisatie. Bij criminele organisaties kan dit zelfs leiden tot een volledige opschorting van de groep.
 
+### Artikel 36 - Illegale activiteiten op Twitter
+
+1. Het is niet toegestaan om illegale activiteiten te bedrijven op Twitter of op enige voor publiek toegankelijke plaats (Blokkenpark, het casino, het politiebureau, het ziekenhuis en dergelijke). 
+2. Onder illegale activiteiten wordt onder andere verstaan, maar niet beperkt tot, het verkopen van locaties waar illegale substanties opgehaald, verwerkt of verkocht kunnen worden, het verkopen en/of verhandelen van (illegale) wapens en in het algemeen handelen in enige goederen waaruit criminelen redelijkerwijs voordeel kunnen halen.  
+3. Het verbod zoals vermeld in lid 1 geldt tevens voor het handelen in illegale goederen of het verkopen hiervan waarbij NIET expliciet wordt vermeld dat het om deze illegale goederen, locaties of spullen gaat. 
+4. Bij overtreding van lid 1 of lid 3 zal er een straf uitgedeeld worden volgens de 1e categorie.
+5. Bij herhaalde overtreding zal er een straf van de 2e categorie volgen.
+
 ## Overige bepalingen
 
-### Artikel 36 - Bodycams
+### Artikel 37 - Bodycams
 
 1. Bodycam beelden zijn op de volgende manier toegestaan
     * Overheidsdiensten zijn uitgerust met bodycams.
+    * Medewerkers van de Politie en de Koninklijke Marechaussee zijn verplicht om de bodycams visueel te dragen als zij de bodycambeelden als bewijs willen gebruiken. 
     * Burgers kunnen alleen met hun telefoon filmen.
     * De voertuigen van de overheidsdiensten zijn uitgerust met een 360 graden camera.
     * overige voertuigen zijn uitgerust met een dashcam gericht naar voren.
 2. De voorbeelden benoemd in lid zijn bedoeld in de context van Roleplay. Voor bewijsvoering in een ticket of report is alle beeldmateriaal toegestaan.
 
-### Artikel 37 - Journalistiek
+### Artikel 38 - Journalistiek
 
 1. Wanneer een journalist bezig is met een opname of live is, is het niet toegestaan deze te storen. Wanneer deze regel overtreden wordt zal dit resulteren in een ban tot de opname voorbij is en een straf volgens de 1e categorie.
 
-### Artikel 38 - Gezichtsbedekking
+### Artikel 39 - Gezichtsbedekking
 
 1. Het is verboden om gezichtsbedekkende kleding te dragen in het openbaar.
 Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 
-### Artikel 39 - Stemherkenning
+### Artikel 40 - Stemherkenning
 
 1. Het is niet toegestaan om een speler te herkennen aan zijn/haar stem als deze zich zodanig heeft gekleed dat hij/zij op uiterlijk onherkenbaar is.
 Het overtreden van het feit beschreven in lid 1 zal worden gestraft met een straf van de eerste categorie.
 
-### Artikel 40 - Streamsniping
+### Artikel 41 - Streamsniping
 
 1. Streamsnipen is ten strengste verboden. Ga jij spelers in game opzoeken aan de hand van iemand zijn/haar stream, of informatie gebruiken die jij uit zijn/haar stream haalt, zal dit bestraft worden volgens de 5e categorie.
 
-### Artikel 41 - Discord
+### Artikel 42 - Discord
 
 1. Het is niet toegestaan om externe discords te gebruiken voor gangs of andere zaken, die niet gemaakt zijn door staff.
 Het overtreden van het feit genoemd in lid 1 zal resulteren in een straf van de 1e categorie.
 
-### Artikel 42 - Zelfdoding
+### Artikel 43 - Zelfdoding
 
 1. Bij een zelfmoord scenario moet de persoon in kwestie een account wipe krijgen en verplicht voor zijn nieuwe karakter een biografie schrijven. Mocht de persoon dit puur voor aandacht doen en niet uiteindelijk zijn/haar leven beëindigen, zal deze voor 200 uur naar de gevangenis gestuurd worden in isolatie.
 
-### Artikel 43 - Voertuigverlies in water (bij achtervolging)
+### Artikel 44 - Voertuigverlies in water (bij achtervolging)
 
 1. Wanneer men een voertuig dumpt tijdens een achtervolging, waar bij deze in het water terecht komt, zal deze 7 dagen in beslag genenomen worden, waarna er 30% van de nieuwprijs voor moet worden betaald om het voertuig weer op te halen.
 
 ## Slotbepaling: Regels in het kort
-
 * Geen FailRP (Roleplay van zeer slechte kwaliteit, niet realistisch)
 * Geen VDM (Vehicle deathmatch, je wagen als wapen gebruiken).
 * Geen RDM (Random deathmatch, zonder goede reden mensen dood slaan/ schieten).
@@ -354,12 +363,12 @@ Het overtreden van het feit genoemd in lid 1 zal resulteren in een straf van de 
 * Houd het realistisch, ga niet met een Lamborghini door de woestijn racen met 200 km/h, of met auto's gebouwen in.
 * Ga zuinig om met je leven, dus niet zomaar zelfmoord plegen zonder reden.
 * Wanneer je bent gerespawned herinnert jouw karakter niets van wat er met je gebeurd is. Je weet nog wel dingen als je Baan en je vrienden maar je weet niet hoe je bent doodgegaan of door wie en dergelijke.
+* Het is verboden om OOC te praten/je karakter te breken. 
 * Het is VERPLICHT een microfoon te hebben om te kunnen communiceren en Roleplayen.
-Nederlands kunnen spreken is verplicht.
+* Nederlands kunnen spreken is verplicht.
 * Je kunt alleen contant geld stelen bank geld kan niet gestolen worden.(edited)
 * Werk je bij de overheidsdiensten dan geldt er een zero tolerance beleid met bate tot drugs of criminele activiteiten word je ingame gepakt door een agent dan betekent dit einde baan, het is daarnaast verboden om overheids voorwerpen te verkopen of weg te geven en dit is ban-waardig denk hierbij aan wapens, medkits, of in beslag genomen voertuigen en drugs, ook is het verboden om je beroep in je voordeel te gebruiken bij criminele activiteiten.
-* Gebruikt /report om mensen te rapporteren die niet naar de regels luisteren. (Maakt de RP veel beter)
-* Bij het pakken van wapens anders dat Handgeweren (Pistolen) moet je Roleplayen dat je deze pakt en een tas op je rug dragen. (Voorbeeld: /me Pakt AK-47 uit tas ).
+* Gebruikt /report om mensen te rapporteren die niet naar de regels luisteren. (Maakt de RP veel beter).
 * Niet ADVERTEREN met je eigen server/discord in de server zowel als op de discord.
 * Gebruik Twitter voor in character berichten, dus juist voor Roleplay.
 * Het is verboden voertuigen van jobs te gebruiken voor criminaliteit denk hierbij aan bijvoorbeeld een vuilnis truck.
@@ -370,6 +379,7 @@ Nederlands kunnen spreken is verplicht.
 * Ben je als agent niet in game mag je niet deelnemen aan de overval.
 * wanneer je wordt vermoord door een rivaliserende gang mag je 24 uur niet deelnemen aan eventuele wraakacties of roleplay richting een andere gang.
 * Het is verboden een ambulancier of anwb'er te vermoorden of te ontvoeren bij een oproep of gebruik van hun.
+* Het is verboden om drugslocaties of wapens te verkopen via twitter, ook als je het hebt over "theeblaadjeslocaties", "broodmessen", "waterpistolen" en dergelijke. 
 
 ---------------------
 APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Tedeapolis”, opgetekend door Bram Mosterdfiets, te Tedeapolis.
