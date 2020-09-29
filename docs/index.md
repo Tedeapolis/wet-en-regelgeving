@@ -9,4 +9,4 @@ Zorg ervoor, dat je voor je deelneemt aan Tedeapolis, kennis hebt genomen van de
 - Het Wetboek Tedeapolis bevat alle wetten voor de burgers;
 - Alle overige documenten zijn specifiek bedoeld voor bepaalde zaken (zoals een belastingdocument waar je kan opzoeken hoeveel de autobelasting is).
 
-Iets niet duidelijk? Het Ministerie van Justitie kan je wellicht helpen! Hier is de Discord van het Ministerie -> {Voegen we later nog toe}
+Iets niet duidelijk? Het Ministerie van Justitie kan je wellicht helpen! Hier is de Discord van het Ministerie -> https://discord.gg/UY8MhbV
