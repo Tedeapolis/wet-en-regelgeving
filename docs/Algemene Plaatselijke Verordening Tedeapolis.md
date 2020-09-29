@@ -165,10 +165,11 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 4. Het overtreden van lid 3 zal resulteren in een straf volgens de 2e categorie.
 
 ### Artikel 16 - Karakter breken
-1. Het is te allen tijde verboden om je karakter te breken. Hiermee bedoelen we dat je enige term gebruikt die gezien wordt als OOC (out of character). Hieronder vallen ook termen zoals "report", "admin", "ticket" en dergelijke. 
-2. Het is tevens verboden om te benoemen dat een persoon een artikel van de algemene plaatselijke verordering heeft overtreden. Indien een persoon een artikel van de APV heeft overtreden, neem dan de correcte stappen zoals het aanmaken van een report of een ticket. 
-3. Het verbod zoals beschreven in lid 1 & 2 geldt niet voor medewerkers van de gemeenteraad (staffleden) indien zij een gesprek voeren ten behoeve van de uitvoering van hun werkzaamheden als gemeentelid. Dit geldt ook voor de personen waarmee zij in gesprek zijn. 
-2. Indien de regel zoals genoemd in lid 1 & 2 overtreden wordt, wordt dit bestraft met een straf volgens categorie 1.
+
+1. Het is te allen tijde verboden om je karakter te breken. Hiermee bedoelen we dat je enige term gebruikt die gezien wordt als OOC (out of character). Hieronder vallen ook termen zoals "report", "admin", "ticket" en dergelijke.
+2. Het is tevens verboden om te benoemen dat een persoon een artikel van de algemene plaatselijke verordering heeft overtreden. Indien een persoon een artikel van de APV heeft overtreden, neem dan de correcte stappen zoals het aanmaken van een report of een ticket.
+3. Het verbod zoals beschreven in lid 1 & 2 geldt niet voor medewerkers van de gemeenteraad (staffleden) indien zij een gesprek voeren ten behoeve van de uitvoering van hun werkzaamheden als gemeentelid. Dit geldt ook voor de personen waarmee zij in gesprek zijn.
+4. Indien de regel zoals genoemd in lid 1 & 2 overtreden wordt, wordt dit bestraft met een straf volgens categorie 1.
 
 ### Artikel 17 - Out Of Character chat
 
@@ -298,9 +299,9 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 ### Artikel 36 - Illegale activiteiten op Twitter
 
-1. Het is niet toegestaan om illegale activiteiten te bedrijven op Twitter of op enige voor publiek toegankelijke plaats (Blokkenpark, het casino, het politiebureau, het ziekenhuis en dergelijke). 
+1. Het is niet toegestaan om illegale activiteiten te bedrijven op Twitter of op enige voor publiek toegankelijke plaats (Blokkenpark, het casino, het politiebureau, het ziekenhuis en dergelijke).
 2. Onder illegale activiteiten wordt onder andere verstaan, maar niet beperkt tot, het verkopen van locaties waar illegale substanties opgehaald, verwerkt of verkocht kunnen worden, het verkopen en/of verhandelen van (illegale) wapens en in het algemeen handelen in enige goederen waaruit criminelen redelijkerwijs voordeel kunnen halen.  
-3. Het verbod zoals vermeld in lid 1 geldt tevens voor het handelen in illegale goederen of het verkopen hiervan waarbij NIET expliciet wordt vermeld dat het om deze illegale goederen, locaties of spullen gaat. 
+3. Het verbod zoals vermeld in lid 1 geldt tevens voor het handelen in illegale goederen of het verkopen hiervan waarbij NIET expliciet wordt vermeld dat het om deze illegale goederen, locaties of spullen gaat.
 4. Bij overtreding van lid 1 of lid 3 zal er een straf uitgedeeld worden volgens de 1e categorie.
 5. Bij herhaalde overtreding zal er een straf van de 2e categorie volgen.
 
@@ -310,7 +311,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 1. Bodycam beelden zijn op de volgende manier toegestaan
     * Overheidsdiensten zijn uitgerust met bodycams.
-    * Medewerkers van de Politie en de Koninklijke Marechaussee zijn verplicht om de bodycams visueel te dragen als zij de bodycambeelden als bewijs willen gebruiken. 
+    * Medewerkers van de Politie en de Koninklijke Marechaussee zijn verplicht om de bodycams visueel te dragen als zij de bodycambeelden als bewijs willen gebruiken.
     * Burgers kunnen alleen met hun telefoon filmen.
     * De voertuigen van de overheidsdiensten zijn uitgerust met een 360 graden camera.
     * overige voertuigen zijn uitgerust met een dashcam gericht naar voren.
@@ -348,6 +349,7 @@ Het overtreden van het feit genoemd in lid 1 zal resulteren in een straf van de 
 1. Wanneer men een voertuig dumpt tijdens een achtervolging, waar bij deze in het water terecht komt, zal deze 7 dagen in beslag genenomen worden, waarna er 30% van de nieuwprijs voor moet worden betaald om het voertuig weer op te halen.
 
 ## Slotbepaling: Regels in het kort
+
 * Geen FailRP (Roleplay van zeer slechte kwaliteit, niet realistisch)
 * Geen VDM (Vehicle deathmatch, je wagen als wapen gebruiken).
 * Geen RDM (Random deathmatch, zonder goede reden mensen dood slaan/ schieten).
@@ -363,7 +365,7 @@ Het overtreden van het feit genoemd in lid 1 zal resulteren in een straf van de 
 * Houd het realistisch, ga niet met een Lamborghini door de woestijn racen met 200 km/h, of met auto's gebouwen in.
 * Ga zuinig om met je leven, dus niet zomaar zelfmoord plegen zonder reden.
 * Wanneer je bent gerespawned herinnert jouw karakter niets van wat er met je gebeurd is. Je weet nog wel dingen als je Baan en je vrienden maar je weet niet hoe je bent doodgegaan of door wie en dergelijke.
-* Het is verboden om OOC te praten/je karakter te breken. 
+* Het is verboden om OOC te praten/je karakter te breken.
 * Het is VERPLICHT een microfoon te hebben om te kunnen communiceren en Roleplayen.
 * Nederlands kunnen spreken is verplicht.
 * Je kunt alleen contant geld stelen bank geld kan niet gestolen worden.(edited)
@@ -379,7 +381,7 @@ Het overtreden van het feit genoemd in lid 1 zal resulteren in een straf van de 
 * Ben je als agent niet in game mag je niet deelnemen aan de overval.
 * wanneer je wordt vermoord door een rivaliserende gang mag je 24 uur niet deelnemen aan eventuele wraakacties of roleplay richting een andere gang.
 * Het is verboden een ambulancier of anwb'er te vermoorden of te ontvoeren bij een oproep of gebruik van hun.
-* Het is verboden om drugslocaties of wapens te verkopen via twitter, ook als je het hebt over "theeblaadjeslocaties", "broodmessen", "waterpistolen" en dergelijke. 
+* Het is verboden om drugslocaties of wapens te verkopen via twitter, ook als je het hebt over "theeblaadjeslocaties", "broodmessen", "waterpistolen" en dergelijke.
 
 ---------------------
 APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Tedeapolis”, opgetekend door Bram Mosterdfiets, te Tedeapolis.
