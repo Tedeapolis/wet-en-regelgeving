@@ -105,5 +105,3 @@ De Ambulance heeft een prijzen lijst deze is als volgt opgesteld
 | Hoest siroop                  | € 75,- | € 150,- |
 | Antibiotica                   | € 75,- | € 150,- |
 | Antibiotica voor Psoriasis    | € 75,- | € 150,- |
-
-
