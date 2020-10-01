@@ -9,4 +9,13 @@ Zorg ervoor, dat je voor je deelneemt aan Tedeapolis, kennis hebt genomen van de
 - Het Wetboek Tedeapolis bevat alle wetten voor de burgers;
 - Alle overige documenten zijn specifiek bedoeld voor bepaalde zaken (zoals een belastingdocument waar je kan opzoeken hoeveel de autobelasting is).
 
-Iets niet duidelijk? Het Ministerie van Justitie kan je wellicht helpen! Hier is de Discord van het Ministerie -> [Ministerie van Justitie en Veiligheid](https://discord.gg/UY8MhbV)
+## Officiële discord servers
+
+Tedeapolis heeft verschillende discord servers die zijn goed gekeurd door het stadsbestuur deze zijn:
+
+| Server | Beschrijving | Invite link |
+|---|---|:---:|
+|Tedeapolis RolePlay| Main discord server van Tedeapolis | [Invite](https://discord.gg/tedeapolis) |
+|Tedeapolis Cardealer| Cardealer discord server van Tedeapolis | [Invite](https://discord.gg/UcCG2kn) |
+|Tedeapolis Flightschool| Vliegschool discord server van Tedeapolis | [Invite](https://discord.gg/auN5WCH) |
+|Ministerie van Justitie en Veiligheid| Ministerie van Justitie en Veiligheid van Tedeapolis | [Invite](https://discord.gg/UcCG2kn) |
