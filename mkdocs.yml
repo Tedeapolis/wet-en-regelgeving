@@ -13,9 +13,7 @@ repo_name: Tedeapolis/wet-en-regelgeving
 edit_uri: ""
 
 # Google Analytics
-google_analytics:
-  - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
-  - auto
+google_analytics: ['UA-167800475-3', 'wetboek.tedeapolis.nl']
 
 # Congiguration
 theme:
