@@ -1,10 +1,23 @@
+# Project information
 site_name: Tedeapolis wet en regelgeving
+site_url: https://wetboek.tedeapolis.nl/
 site_description: 'wet en regelgeving van tedeapolis roleplay'
 site_author: 'Tedeapolis'
-site_url: https://wetboek.tedeapolis.nl/
+
+# Copyright
+copyright: Copyright &copy; 2019 - 2020 Tedeapolis
+
+# Repository
 repo_url: https://github.com/Tedeapolis/wet-en-regelgeving/
 repo_name: Tedeapolis/wet-en-regelgeving
-google_analytics: ['UA-167800475-2', 'wetboek.tedeapolis.nl']
+edit_uri: ""
+
+# Google Analytics
+google_analytics:
+  - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
+  - auto
+
+# Congiguration
 theme:
   name: material
   palette:
@@ -12,10 +25,11 @@ theme:
   favicon: img/logoTedeapolis.png
   logo: img/logoTedeapolis.png
   custom_dir: docs/overrides
+  language: nl
 plugins:
   - git-revision-date-localized:
       type: timeago
       time_zone: Europe/Amsterdam
-      locale: en
+      locale: nl
       fallback_to_build_date: false
   # - git-authors
