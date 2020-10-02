@@ -2,125 +2,112 @@
 
 De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worden worden gewijzigd
 
-!!! attention "LET OP"
-    Deze prijzen zijn de prijzen zoals ze in de het huidige systeem staan deze zijn niet up-to-date en zullen zo spoedig mogelijk worden aangepast zodra deze zijn vast gesteld.
-
 ## Verkeers misdrijf
 
 |Feit|Boete bedrag|
 |:---|:----:|
-| Binnen bebouwde kom < 10 KM/H te hard | €50,- |
+| Rijden met rijontzegging 1e keer | €2000,- |
+| Zonder rijbewijs rijden | €2000,- |
+| Zonder rijbewijs rijden 2e keer | 4000,- |
+| Binnen bebouwde kom < 10 KM/H te hard | €80,- |
+| Binnen bebouwde kom 10-20 KM/H te hard | €200,- |
+| Binnen bebouwde kom 20-30 KM/H te hard | €340,- |
+| Binnen bebouwde kom 30-40 KM/H te hard | €500,- |
+| Binnen bebouwde kom 40-50 KM/H te hard | €900,- |
+| Binnen bebouwde kom 50-60 KM/H te hard | €1200,- |
+| Buiten bebouwde kom < 10 KM/H te hard | €75,- |
+| Buiten bebouwde kom 10-20 KM/H te hard | €190,- |
+| Buiten bebouwde kom 20-30 KM/H te hard | €330,- |
+| Buiten bebouwde kom 30-40 KM/H te hard | €450,- |
+| Buiten bebouwde kom 40-50 KM/H te hard | €600,- |
+| Buiten bebouwde kom 50-60 KM/H te hard | €900,- |
+| Door rood licht rijden met een fiets | €95,- |
+| Door rood licht rijden met een bromfiets | €160,- |
+| Door rood licht rijden | €240,- |
 | Verkeerde voertuig informatie doorgeven | €90,- |
 | Onnodig claxoneren | €95,- |
-| Buiten bebouwde kom < 10 KM/H te hard | €120,- |
+| Joyriding | €850,- |
+| Rijden onder invloed | €3000,- |
 | Illegaal off road rijden | €140,- |
-| Onnodig linksrijden | €140,- |
-| Niet luisteren naar een agent | €150,- |
-| Door rijden bij een stop bord | €160,- |
-| Omdraaien op een punt waar dit niet mag | €170,- |
-| Illegaal inhalen | €180,- |
-| U-turn | €190,- |
-| Stil staan met je auto waar dat niet mag | €230,- |
+| Door rijden bij een stop bord | €140,- |
+| Illegaal inhalen over een vluchtstrook | €380,- |
+| U-turn | €140,- |
 | Over een doorgetrokken streep rijden | €240,- |
-| Onverzekerd rijden | €290,- |
-| Buiten bebouwde kom 10-20 KM/H te hard | €300,- |
-| Binnen bebouwde kom 10-20 KM/H te hard | €300,- |
-| Door rood licht rijden met een fiets | €335,- |
-| Zonder rijbewijs rijden (nieuwe speler) | €400,- |
-| BurnOut | €420,- |
-| Door rood licht rijden | €430,- |
-| Door rood licht rijden met een bromfiets | €440,- |
-| Buiten bebouwde kom 20-30 KM/H te hard | €500,- |
-| Aan de verkeerde kant van de weg rijden | €640,- |
-| Doorrijden na een ongeluk | €650,- |
-| Buiten bebouwde kom 30-40 KM/H te hard | €720,- |
-| Overtreding van WOK status | €750,- |
-| Binnen bebouwde kom 20-30 KM/H te hard | €800,- |
-| Buiten bebouwde kom 40-50 KM/H te hard | €1000,- |
+| Onnodig linksrijden | €140,- |
+| Spookrijden | €620,- |
+| Stil staan met je auto waar dat niet mag | €140,- |
+| Hinder zonder ongeval | €1000,- |
+| Verkeersongeval met licht lichamelijk letsel | €2000,- |
+| Verkeersongeval met zwaar lichamelijk letsel | €5000,- |
+| Dodelijk verkeersongeval | €8000,- |
+| Doorrijden na een ongeluk | €5000,- |
+| Overtreding van WOK status | €400,- |
 | Verboden voertuig openbare weg | €1100,- |
-| Binnen bebouwde kom 30-40 KM/H te hard | €1100,- |
 | Negeren van stopteken | €1200,- |
-| Auto afslepen | €1250,- |
-| Zonder rijbewijs rijden | €1400,- |
 | Fout parkeren | €1500,- |
-| Rijden met rijontzegging 1e keer | €1500,- |
 | Roekeloos Rijgedrag | €1500,- |
 | Voertuig rijden met een wok status | €1500,- |
-| Buiten bebouwde kom 50-60 KM/H te hard | €1500,- |
-| Binnen bebouwde kom 40-50 KM/H te hard | €1600,- |
-| Binnen bebouwde kom 50-60 KM/H te hard | €1900,- |
-| Zonder rijbewijs rijden 2e keer | €3000,- |
+| Weg blokkeren | €240,- |
+| Verkeersovertreding niet nader gespecificeerd | €430,- |
 
 ## Klein misdrijf
 
 |Feit|Boete bedrag|
 |:---|:---:|
-| Verbaal mensen bedreigen | €75,- |
-| Openbare dronkenschap | €90,- |
-| Fysieke bedreiging richting mensen | €90,- |
-| Verbale bedreiging van een overheidsmedewerker | €110,- |
+| Openbare dronkenschap | €120,- |
 | Rechtsdoorgang beletten | €130,- |
-| Weg blokkeren | €160,- |
-| Fysieke bedreiging richting overheidsmedewerkers | €180,- |
-| Beledigen van een ambtenaar in functie | €210,- |
-| Openbare verstoring | €220,- |
+| Onbevoegd begeven op privé terrein | €180,- |
+| Dragen van gezichtsbedekkende kledij | €200,- |
+| Beledigen van een ambtenaar in functie | €600,- |
+| Verstoring Openbare orde | €220,- |
 | Valse informatie geven | €250,- |
 | Valse melding | €450,- |
-| Poging tot diefstal | €450,- |
-| Diefstal | €600,- |
-| Poging tot omkopen | €1300,- |
-| Rijden met rijontzegging 2e keer | €3000,- |
-| Rijden met rijontzegging 3e keer | €7500,- |
+| In het bezit zijn van inbrekers gereedschap | €2500,- |
+| Poging tot diefstal | €1400,- |
+| Diefstal | €2000,- |
+| Poging tot omkopen | €1500,- |
+| Rijden met rijontzegging 2e keer | €4000,- |
+| Rijden met rijontzegging 3e keer | €6000,- |
 
 ## Middelmatig misdrijf
 
 |Feit|Boete bedrag|
 |:---|:---:|
-| Illegaal doorverkoop van legale wapens | €120,- |
-| In het bezit zijn van inbrekers gereedschap | €300,- |
-| Afkopen gevangenis straf 1 maand | €500,- |
-| Joyriding | €850,- |
-| Doodsbedreigingen richting een overheismedewerker | €1000,- |
-| Afkopen gevangenis straf 2 maanden | €1000,- |
-| Geen vuurwapen vergunning | €1100,- |
-| Verkopen van illegale substancies | €1500,- |
-| Maken van illegale substancies | €1500,- |
-| In het bezit zijn van illegale substancies | €1500,- |
-| Afkopen gevangenis straf 3 maanden | €1500,- |
-| Verkopen van illegale wapens | €1900,- |
-| Fraude | €2000,- |
-| In het bezit zijn van een verboden slagwapen | €2300,- |
-| Auto Oplsag politie | €3000,- |
-| Buiten dienst wapen dragen | €4250,- |
+| Bedreiging | €3000,- |
+| Bedreiging overheidsmedewerker | €4000,- |
+| Afpersing / Chantage | €7500,- |
+| Verduistering | €5000,- |
+| Fraude / Heling | €2000,- |
+| Buiten dienst wapen dragen | €10000,- |
 | Een auto stelen | €5600,- |
-| Ontvoering van een burger | €8500,- |
-| Overval | €9500,- |
-| Auto borg | €10000,- |
-| Ontvoering van een overheidsmedewerker | €12500,- |
-| In het bezit zijn van een illegaal vuurwapen/nepwapen | €12500,- |
-| Gijzeling van een burger | €12500,- |
-| Gewapende overval | €15000,- |
-| Gijzeling van een overheidsmedewerker | €15000,- |
+| Identiteitsfraude | €2000,- |
+| Ontvoering/gijzeling van een burger | €10000,- |
+| Ontvoering van een overheidsmedewerker | €13000,- |
+| In het bezit zijn van een illegaal vuurwapen Cat. 1 | €10000,- |
+| In het bezit zijn van een illegaal vuurwapen Cat. 2 | €20000,- |
+| In het bezit zijn van een nepwapen of holster | €5000,- |
+| In het bezit zijn van taser | €5000,- |
+| In het bezit zijn van een slag/steekwapen | €5000,- |
+| Deelname aan een criminele organisatie | €3000,- |
 
 ## Grootmisdrijf
 
 |Feit|Boete bedrag|
 |:--|:---:|
-| Aanvallen van een burger | €4000,- |
-| Aanvallen van een overheidsmedewerker | €5000,- |
-| Op de vlucht slaan voor de politie | €5000,- |
-| Poging tot doodslag | €6000,- |
-| Overheids medewerker hinderen met dood tot gevolg | €7500,- |
-| Doodslag | €12000,- |
-| Doodslag op een overheidsmedewerker | €12000,- |
-| Winkeloverval | €12500,- |
-| Poging tot  doodslag op een overheidsmedewerker | €15000,- |
-| Poging tot moord | €27500,- |
-| Overval op een bank | €27500,- |
-| Poging tot moord op een overheidsmedewerker | €32500,- |
-| Gewapend overval op een bank | €35000,- |
-| Moord | €40000,- |
-| Moord op een overheidsmedewerker | €55000,- |
+| Eenvoudige mishandeling | €5000,- |
+| Zware mishandeling | €10000,- |
+| Eenvoudige mishandeling overheidsmedewerker | €6600,- |
+| Zware mishandeling overheidsmedewerker | €13300,- |
+| Poging tot doodslag | €10000,- |
+| Poging tot doodslag overheidsmedewerker | €13300,- |
+| Doodslag | €15000,- |
+| Doodslag overheidsmedewerker | €20000,- |
+| Poging tot moord | €14400,- |
+| Poging tot moord op een overheidsmedewerker | €19150,- |
+| Moord | €20000,- |
+| Moord op een overheidsmedewerker | €26600,- |
+| Overval | €20000,- |
+| Witwassen | €15000,- |
 | Zonder Vliegbrevet vliegen | €75000,- |
 
 !!! attention "LET OP"
