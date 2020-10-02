@@ -30,4 +30,5 @@ plugins:
       time_zone: Europe/Amsterdam
       locale: nl
       fallback_to_build_date: false
-  # - git-authors
+  - search:
+      lang: nl
