@@ -375,9 +375,9 @@
 ### Artikel III-10 Fout parkeren (25 RVV 1990)
 
 1. Schuldig is een persoon die zijn of haar voertuig parkeert op een wijze die niet sluit met de aangegeven parkeersituatie, zoals:
-  * dubbelparkeren of het moedwillig doorkruisen van parkeervakken;
-  * het parkeren langs een rode trottoirrand;
-  * volledig parkeren op de stoep;
+   * dubbelparkeren of het moedwillig doorkruisen van parkeervakken;
+   * het parkeren langs een rode trottoirrand;
+   * volledig parkeren op de stoep;
 2. De vastgestelde boete voor bovenstaande acties is €1500,-
 
 ### Artikel III-11 Snelheidsovertredingen
@@ -385,7 +385,8 @@
 1. Schuldig is een persoon die de wettelijk bepaalde snelheden voor verkeer niet in acht neemt tijdens deelname aan het verkeer.
 2. De toegestane snelheden zijn 80KM/h binnen de bebouwde kom, 130KM/h buiten de bebouwde kom.
 3. De op diverse plaatsen flitscamera's zullen in geval van overtreding een boete doen uitsturen naar de overtredende partij.
-4. Indien een dienstdoende agent een overtredende partij staande houdt, is hij of zij gerechtigd tot het uitschrijven van de volgende boetes:
+4. Indien een dienstdoende agent een overtredende partij staande houdt, is hij of zij gerechtigd tot het uitschrijven van de volgende boetes.
+5. Voor snelheidsovertredingen die de bovenstaande snelheden overschreiden kan de agent overgaan tot arrestatie en strafvervolging.
 
 | ***`Binnen de Bebouwde Kom`***  |   |
 |---|---|
@@ -404,8 +405,6 @@
 | Te hard rijden 31 - 40KM/H | €450 |
 | Te hard rijden 41 - 50KM/H | €600 |
 | Te hard rijden 51 - 60KM/H | €900 |
-
-5. Voor snelheidsovertredingen die de bovenstaande snelheden overschreiden kan de agent overgaan tot arrestatie en strafvervolging.
 
 ### Artikel III-12 Overige verkeersboetes
 
@@ -428,7 +427,6 @@
 | Onnodig links rijden | €140  |
 | Doorrijden bij een stopbord | €140  |
 | Illegaal inhalen | €380  |
-
 
 ## Titel IV - Opiumwet
 
@@ -673,7 +671,6 @@
    * vermindering van maximaal de helft bij een onvoorwaardelijke tijdelijke vrijheidsstraf, taakstraf of geldboete, of
    * de omzetting van maximaal de helft van het onvoorwaardelijke gedeelte van een vrijheidsstraf, taakstraf of van een geldboete in een voorwaardelijk gedeelte, of
    * de vervanging van maximaal een derde gedeelte van een vrijheidsstraf door taakstraf of een onvoorwaardelijke geldboete.
-   
 2. Strafverminderingsgronden worden bepaald in overleg tussen overheid en verdachte met bijstand van advocaat. Hierin meegenomen worden:
    * eventuele eerdere vergrijpen (en/of het gebrek daar aan);
    * goed gedrag en meewerking van de verdachte tijdens en na zijn of haar aanhouding;
@@ -681,7 +678,6 @@
    * overmacht als gevolg van Stadsproblemen ("storm");
    * proportionaliteit;
    * aandeel van de verdachte in het geheel, indien er sprake is van een grootschalige overtreding met meerdere partijen.
-   
 
 ## Titel VIII - Overige
 
@@ -751,6 +747,7 @@
 | **Meerdere Veroordelingen**  |   | 20 uur  | €6,000  |
 
 ### Artikel VIII-9 Deelname aan een criminele organisatie
+
 1. Schuldig is een persoon die deelneemt aan, steun verleent aan, of gelieerd is aan een organisatie die tot doel heeft het plegen van misdrijven.
 2. Ten aanzien van de oprichters, leiders of bestuurders kunnen de gevangenisstraffen met een derde worden verhoogd.
 3. Onder deelneming als omschreven in het eerste lid wordt mede begrepen het verlenen van geldelijke of andere stoffelijke steun aan alsmede het werven van gelden of personen ten behoeve van de daar omschreven organisatie.
