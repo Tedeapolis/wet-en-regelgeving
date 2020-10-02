@@ -2,10 +2,7 @@
 
 De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worden worden gewijzigd
 
-!!! attention "LET OP"
-    Deze prijzen zijn leidend, maar voor een deel nog niet opgenomen in het politiesysteem. Uitschrijving van de boete kan daarom soms iets langer duren.
-
-### Verkeers misdrijf
+## Verkeers misdrijf
 
 |Feit|Boete bedrag|
 |:---|:----:|
@@ -53,7 +50,7 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Weg blokkeren | €240,- |
 | Verkeersovertreding niet nader gespecificeerd | €430,- |
 
-### Klein misdrijf
+## Klein misdrijf
 
 |Feit|Boete bedrag|
 |:---|:---:|
@@ -72,7 +69,7 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Rijden met rijontzegging 2e keer | €4000,- |
 | Rijden met rijontzegging 3e keer | €6000,- |
 
-### Middelmatig misdrijf
+## Middelmatig misdrijf
 
 |Feit|Boete bedrag|
 |:---|:---:|
@@ -93,7 +90,7 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | In het bezit zijn van een slag/steekwapen | €5000,- |
 | Deelname aan een criminele organisatie | €3000,- |
 
-### Grootmisdrijf
+## Grootmisdrijf
 
 |Feit|Boete bedrag|
 |:--|:---:|
