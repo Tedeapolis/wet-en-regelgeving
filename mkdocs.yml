@@ -18,6 +18,8 @@ google_analytics: ['UA-167800475-3', 'wetboek.tedeapolis.nl']
 # Congiguration
 theme:
   name: material
+  features:
+    - navigation.tabs
   palette:
     scheme: preference
   favicon: img/logoTedeapolis.png
@@ -32,3 +34,19 @@ plugins:
       fallback_to_build_date: false
   - search:
       lang: nl
+markdown_extensions:
+  - admonition
+  - attr_list
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - javascripts/tables.js
+nav:
+  - Home: index.md
+  - Algemene Plaatselijke Verordening: apv.md
+  - Wetboek: wetboek.md
+  - Belastingen: belastingen.md
+  - Kosten:
+    - Ambulence: kosten/ambulence.md
+    - ANWB: kosten/anwb.md
+    - Politie: kosten/politie.md
+    - Vliegschool: kosten/vliegschool.md
