@@ -120,9 +120,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 40 maanden  |  | €10,000  |
-| **Tweede Veroordeling**  | 80 maanden  |  | €15,000  |
-| **Meerdere Veroordelingen**  | 120 maanden  |  | €20,000  |
+|  **Eerste Veroordeling** | 40 maanden  |  | €20,000  |
+| **Tweede Veroordeling**  | 80 maanden  |  | €25,000  |
+| **Meerdere Veroordelingen**  | 120 maanden  |  | €30,000  |
 
 ### Artikel I-3 Afpersing (317 SR)
 
@@ -389,44 +389,45 @@
 
 | ***`Binnen de Bebouwde Kom`***  |   |
 |---|---|
-| Te hard rijden < 10KM/H | €50 |
-| Te hard rijden 10 - 20KM/H | €300 |
-| Te hard rijden 21 - 30KM/H | €800 |
-| Te hard rijden 31 - 40KM/H | €1,100 |
-| Te hard rijden 41 - 50KM/H | €1,600 |
-| Te hard rijden 51 - 60KM/H | €1,900 |
+| Te hard rijden < 10KM/H | €80 |
+| Te hard rijden 10 - 20KM/H | €200 |
+| Te hard rijden 21 - 30KM/H | €340 |
+| Te hard rijden 31 - 40KM/H | €500 |
+| Te hard rijden 41 - 50KM/H | €900 |
+| Te hard rijden 51 - 60KM/H | €1,200 |
 
 | ***`Buiten de Bebouwde Kom`***  |   |
 |---|---|
-| Te hard rijden < 10KM/H | €120 |
-| Te hard rijden 10 - 20KM/H | €300 |
-| Te hard rijden 21 - 30KM/H | €500 |
-| Te hard rijden 31 - 40KM/H | €720 |
-| Te hard rijden 41 - 50KM/H | €1,000 |
-| Te hard rijden 51 - 60KM/H | €1,500 |
+| Te hard rijden < 10KM/H | €75 |
+| Te hard rijden 10 - 20KM/H | €190 |
+| Te hard rijden 21 - 30KM/H | €330 |
+| Te hard rijden 31 - 40KM/H | €450 |
+| Te hard rijden 41 - 50KM/H | €600 |
+| Te hard rijden 51 - 60KM/H | €900 |
 
 5. Voor snelheidsovertredingen die de bovenstaande snelheden overschreiden kan de agent overgaan tot arrestatie en strafvervolging.
 
 ### Artikel III-12 Overige verkeersboetes
 
 1. Ter bevordering der transparantie is opgenomen dit artikel met daarin gespecificeerde boetes, teneinde transparantie te verlenen.
-2. Onderstaande strafbare feiten kunnen bestraft worden met een boete, als zodanig:
+2. Een volledig overzicht van alle boetes is tevens te vinden in het Kostendocument.
+3. Onderstaande strafbare feiten kunnen bestraft worden met een boete, als zodanig:
 
 |   |   |
 |---|---|
-| Blokkeren van de weg | €160 |
-| Maken van een U-turn daar waar dat niet is toegestaan | €190 |
+| Blokkeren van de weg | €240 |
+| Maken van een U-turn daar waar dat niet is toegestaan | €140 |
 | Rijden in een voertuig dat niet toegestaan is op de openbare weg | €1,100  |
 | Rijden in een voertuig met een WOK-status  | €1,500 |
-| Maken van een zgn. Burnout  | €420 |
+| Maken van een zgn. Burnout  | €430 |
 | Onnodig Claxoneren | €95  |
 | Over een doorgestrokken streep rijden  | €240  |
-| Aan de verkeerde kant van de weg rijden | €640 |
+| Aan de verkeerde kant van de weg rijden | €620 |
 | Illegaal off road rijden | €140 |
-| Stilstaan daar waar dit niet is toegestaan | €230 |
+| Stilstaan daar waar dit niet is toegestaan | €140 |
 | Onnodig links rijden | €140  |
-| Doorrijden bij een stopbord | €160  |
-| Illegaal inhalen | €180  |
+| Doorrijden bij een stopbord | €140  |
+| Illegaal inhalen | €380  |
 
 
 ## Titel IV - Opiumwet
