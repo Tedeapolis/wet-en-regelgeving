@@ -232,9 +232,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 ### Artikel 26 - Belediging
 
-1. Hij/zij die scheld met hedendaags relevante ziektes (kanker en dergelijke) of met racistische opmerkingen, of andere ongepaste opmerkingen, wordt gestraft met een straf volgens de 3e categorie.
-2. Bij een eerste overtreding kan ervoor gekozen worden een mondelinge waarschuwing te geven mits de context dit toestaat.
-3. Bij herhaalde overtredingen van lid 1 wordt de straf direct verhoogd naar de 6e categorie.
+1. Hij/zij die scheld met hedendaags relevante ziektes (kanker en dergelijke) of met racistische opmerkingen, of andere ongepaste opmerkingen, wordt gestraft met een straf van maximaal de 7e categorie
 
 ## Overtredingen - Criminele activiteiten
 
