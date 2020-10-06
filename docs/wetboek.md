@@ -273,6 +273,19 @@
 | **Tweede Veroordeling**  | 15 maanden  |  | €12,500  |
 | **Meerdere Veroordelingen**  | 20 maanden  |  | €15,000  |
 
+### Artikel II-8 Vernieling (350 SR)
+
+1. Schuldig is een persoon die opzettelijk en wederrechtelijk een goed dat geheel of ten dele aan een ander toebehoort, vernielt, beschadigt, onbruikbaar maakt of wegmaakt.
+2. Met vernieling wordt ook gelijkgesteld het opzettelijk en wederrechtelijk doden, beschadigen, onbruikbaar maken of wegmaken van een (huis)dier.
+3. Wanneer het goed of dier aangemerkt kan worden als eigendom van de overheid wordt de straf met 1/3 verhoogd.
+4. Bij een poging tot vernieling wordt de straf met 1/3 verminderd.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 15 uur | €3,000  |
+| **Tweede Veroordeling**  |   | 25 uur | €4,500  |
+| **Meerdere Veroordelingen**  | 10 maanden  |  | €6,000  |
+
 ## Titel III - Verkeersdelicten
 
 ![Titel III](img/wetboek/verkeer.png)
