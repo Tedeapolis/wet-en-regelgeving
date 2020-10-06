@@ -286,7 +286,6 @@
 | **Tweede Veroordeling**  |   | 25 uur | €4,500  |
 | **Meerdere Veroordelingen**  | 10 maanden  |  | €6,000  |
 
-
 ## Titel III - Verkeersdelicten
 
 ![Titel III](img/wetboek/verkeer.png)
