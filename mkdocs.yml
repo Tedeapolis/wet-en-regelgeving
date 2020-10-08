@@ -46,6 +46,7 @@ nav:
   - Wetboek: wetboek.md
   - Belastingen: belastingen.md
   - Kosten:
+    - Advocatuur: kosten/advocatuur.md
     - Ambulence: kosten/ambulence.md
     - ANWB: kosten/anwb.md
     - Politie: kosten/politie.md
