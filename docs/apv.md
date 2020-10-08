@@ -285,11 +285,12 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 3. Met betrekking tot de regel in lid 1 is het aan te raden om nooit valse meldingen te maken. Dit kan eventueel ook bestraft worden volgens artikel 7.
 4. Indien de regel beschreven in lid 1 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.
 
-### Artikel 34 - Ledenaantal Criminele Organisaties
+### Artikel 34 - Roleplay & Ledenaantal Criminele Organisaties
 
 1. Criminele organisaties mogen een maximaal ledenaantal hebben van 15 personen.
-2. Overtreding van het ledenaantal genoemd in lid 1 zal een straf worden uitgedeeld volgens de 1e categorie aan de eigena(a)r(en) van de organisatie.
-3. Bij herhaalde overtreding zal er een straf van de 2e categorie volgen.
+2. Een roleplayscenario van/met een criminele organisatie mag maximaal bestaan uit 15 personen, inclusief de leden van de criminele organisatie zelf. Dit houdt dus in dat iedereen die op dat moment enige medewerking verleent aan de criminele organisatie, ook indien zij officieel niet tot de criminele organisatie behoren, tot dit aantal wordt gerekend. 
+3. Overtreding van het ledenaantal genoemd in lid 1 & 2 zal een straf worden uitgedeeld volgens de 1e categorie aan de eigena(a)r(en) & deelnemers van de organisatie.
+4. Bij herhaalde overtreding zal er een straf van de 2e categorie volgen.
 
 ### Artikel 35 - Gedrag Criminele Organisaties
 
