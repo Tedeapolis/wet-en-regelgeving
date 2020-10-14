@@ -601,6 +601,19 @@
 | **Tweede Veroordeling**  | 18 maanden   |   | €7,500  |
 | **Meerdere Veroordelingen**  | 27 maanden  |   | €10,000  |
 
+### Artikel V-5 Wapenhandel (14-20 WWM)
+
+1. Strafbaar is een persoon die wapens, aangemerkt als niet legaal, invoert, uitvoert, of doorvoert zonder hiervoor een geldig consent te hebben.
+2. Indien een ophanden zijnde wapentransactie aantoonbaar gepleegd zou gaan worden, of dreigde te gaan worden, doch niet is afgerond, wordt dit aangemerkt als poging tot wapenhandel.
+3. Een poging tot wapenhandel zoals beschreven in lid 2 wordt bestraft als zijnde wapenhandel, verminderd met 1/2.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 20 maanden  |  | €25,000  |
+| **Tweede Veroordeling**  | 40 maanden  |  | €30,000  |
+| **Meerdere Veroordelingen**  | 60 maanden  |  | €45,000  |
+
+
 ## Titel VI - Wet op de Kansspelen
 
 ![Titel VII](img/wetboek/kansspellen.png)
