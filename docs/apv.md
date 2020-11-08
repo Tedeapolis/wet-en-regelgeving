@@ -285,12 +285,13 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 1. Het is nadat iemand van het leven beroofd is door een rivaliserende groep, gedurende 24 uur niet toegestaan mee te doen aan eventuele wraakacties tegen deze groep.
 2. Indien de regel zoals beschreven in lid 1 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.
 
-### Artikel 33 - Valse meldingen
+### Artikel 33 - Crimineel gedrag jegens ambulancemedewerkers en andere overheidsmedewerkers
 
-1. Het is niet toegestaan een melding te maken naar een overheids instantie met de intentie om degene die hierop reageert te vermoorden en/of te ontvoeren.
-2. Er moeten ten allen tijden vijf overheidsmedewerkers binnen een baan beschikbaar blijven nadat er één ontvoert is, dus als er 6 agenten aanwezig zijn mag er 1 ontvoert worden, als er 5 aanwezig zijn mag er geen ontvoert worden.
-3. Met betrekking tot de regel in lid 1 is het aan te raden om nooit valse meldingen te maken. Dit kan eventueel ook bestraft worden volgens artikel 7.
-4. Indien de regel beschreven in lid 1 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.
+1. Het is ten strengste verboden om een ambulancemedewerker te ontvoeren. 
+2. Het is niet toegestaan een melding te maken naar een overheids instantie met de intentie om degene die hierop reageert te vermoorden en/of te ontvoeren.
+3. Er moeten ten allen tijden vijf overheidsmedewerkers binnen een baan beschikbaar blijven nadat er één ontvoert is, dus als er 6 agenten aanwezig zijn mag er 1 ontvoert worden, als er 5 aanwezig zijn mag er geen ontvoert worden.
+4. Indien de regel beschreven in lid 1 overtreden wordt zal dit bestraft worden met een straf volgens de 5e categorie. Bij herhaalde overtreding volgt er ten hoogste een straf volgens de 6e categorie. 
+5. Indien de regel beschreven in lid 2 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.
 
 ### Artikel 34 - Roleplay & Ledenaantal Criminele Organisaties
 
