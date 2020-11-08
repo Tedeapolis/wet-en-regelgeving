@@ -4,7 +4,7 @@ De ambulance hanteert de volgende prijzen voor de diensten die zij leveren.
 
 ## Zorgverzekering
 
-Je kan een zorgverzekering afsluiten bij de ambulance dienst, deze kan je aanvragen bij een van de ambulanciers deze zal dan de papieren in orde maken en je rekening in gang zetten. 
+Je kan een zorgverzekering afsluiten bij de ambulance dienst, deze kan je aanvragen bij een van de ambulanciers deze zal dan de papieren in orde maken en je rekening in gang zetten.
 
 De kosten voor een zorg verzekering zijn als volgt op gebouwd:
 

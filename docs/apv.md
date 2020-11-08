@@ -94,9 +94,9 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 4. Voor communicatie over lengte in game kun je een telefoon en/of portofoon gebruiken welke je in de telefoon winkel kunt kopen.
 5. Bij het gebruik van een portofoon-systeem in welke vorm dan ook dient de persoon die praat ook ingame te horen te zijn.
 6. Het niet naleven van het feit beschreven in lid 5 staat eveneens bekend als "meta-gaming" en zal worden bestraft worden met een straf van de 1e categorie
-7. Het is verboden om in (externe) discord calls te zitten met iemand die ook in de stad aanwezig is. 
-8. Het overtreden van lid 7 zal resulteren in een straf volgens de 1e categorie. 
-9. Ten behoeve van het handhaven van dit artikel is een stafflid bevoegd om beelden op te vragen van de persoon die verdacht wordt van het overtreden van lid 7. Indien de speler dit niet kan, dan volgt er een straf volgens lid 3. 
+7. Het is verboden om in (externe) discord calls te zitten met iemand die ook in de stad aanwezig is.
+8. Het overtreden van lid 7 zal resulteren in een straf volgens de 1e categorie.
+9. Ten behoeve van het handhaven van dit artikel is een stafflid bevoegd om beelden op te vragen van de persoon die verdacht wordt van het overtreden van lid 7. Indien de speler dit niet kan, dan volgt er een straf volgens lid 3.
 
 ### Artikel 6 - Beroepskleding
 
@@ -159,8 +159,8 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 ### Artikel 14 - Nederlandse Taal
 
 1. Er wordt van spelers verwacht de Nederlandse taal te beheersen. Indien iemand de Nederlandse taal niet beheerst is deze persoon niet welkom op de server.
-2. Andere talen dan het Nederlands en het Engels mogen niet gebruikt worden op een provocerende of beledigende manier gedurende de roleplay. 
-3. Tijdens een staffgesprek en tijdens een gesprek met een medewerker van een overheidsdienst (Politie, KMar, ambulance of ANWB) dient de persoon te allen tijde Nederlands te spreken indien de medewerker dit wenst. 
+2. Andere talen dan het Nederlands en het Engels mogen niet gebruikt worden op een provocerende of beledigende manier gedurende de roleplay.
+3. Tijdens een staffgesprek en tijdens een gesprek met een medewerker van een overheidsdienst (Politie, KMar, ambulance of ANWB) dient de persoon te allen tijde Nederlands te spreken indien de medewerker dit wenst.
 4. Bij een overtreding van de regel in lid 2 en 3 wordt de overtreder bestraft met een bestraffing van de 1e categorie.
 5. Bij herhaalde overtreding zal er een straf van de 2e categorie volgen.
 
@@ -287,16 +287,16 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 ### Artikel 33 - Crimineel gedrag jegens ambulancemedewerkers en andere overheidsmedewerkers
 
-1. Het is ten strengste verboden om een ambulancemedewerker te ontvoeren. 
+1. Het is ten strengste verboden om een ambulancemedewerker te ontvoeren.
 2. Het is niet toegestaan een melding te maken naar een overheids instantie met de intentie om degene die hierop reageert te vermoorden en/of te ontvoeren.
 3. Er moeten ten allen tijden vijf overheidsmedewerkers binnen een baan beschikbaar blijven nadat er één ontvoert is, dus als er 6 agenten aanwezig zijn mag er 1 ontvoert worden, als er 5 aanwezig zijn mag er geen ontvoert worden.
-4. Indien de regel beschreven in lid 1 overtreden wordt zal dit bestraft worden met een straf volgens de 5e categorie. Bij herhaalde overtreding volgt er ten hoogste een straf volgens de 6e categorie. 
+4. Indien de regel beschreven in lid 1 overtreden wordt zal dit bestraft worden met een straf volgens de 5e categorie. Bij herhaalde overtreding volgt er ten hoogste een straf volgens de 6e categorie.
 5. Indien de regel beschreven in lid 2 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.
 
 ### Artikel 34 - Roleplay & Ledenaantal Criminele Organisaties
 
 1. Criminele organisaties mogen een maximaal ledenaantal hebben van 15 personen.
-2. Een roleplayscenario van/met een criminele organisatie mag maximaal bestaan uit 15 personen, inclusief de leden van de criminele organisatie zelf. Dit houdt dus in dat iedereen die op dat moment enige medewerking verleent aan de criminele organisatie, ook indien zij officieel niet tot de criminele organisatie behoren, tot dit aantal wordt gerekend. 
+2. Een roleplayscenario van/met een criminele organisatie mag maximaal bestaan uit 15 personen, inclusief de leden van de criminele organisatie zelf. Dit houdt dus in dat iedereen die op dat moment enige medewerking verleent aan de criminele organisatie, ook indien zij officieel niet tot de criminele organisatie behoren, tot dit aantal wordt gerekend.
 3. Overtreding van het ledenaantal genoemd in lid 1 & 2 zal een straf worden uitgedeeld volgens de 1e categorie aan de eigena(a)r(en) & deelnemers van de organisatie.
 4. Bij herhaalde overtreding zal er een straf van de 2e categorie volgen.
 

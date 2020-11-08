@@ -613,7 +613,6 @@
 | **Tweede Veroordeling**  | 40 maanden  |  | €30,000  |
 | **Meerdere Veroordelingen**  | 60 maanden  |  | €45,000  |
 
-
 ## Titel VI - Wet op de Kansspelen
 
 ![Titel VII](img/wetboek/kansspellen.png)

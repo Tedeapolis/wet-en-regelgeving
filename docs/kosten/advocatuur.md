@@ -20,6 +20,5 @@ Een voorbeeld:
 |40 minuten | €5.000,- |
 |70 minuten | €7.500,- |
 
-
 !!! attention "LET OP"
     De prijzen kunnen ten alle tijden worden worden gewijzigd
