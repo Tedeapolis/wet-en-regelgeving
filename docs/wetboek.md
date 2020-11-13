@@ -421,24 +421,23 @@
 
 ### Artikel III-12 Voertuigeisen
 
-1. Schuldig is een persoon van wie zijn of haar voertuig niet voldoet aan de volgende eisen; 
-2. Het voertuig, uitgezonderd fietsen, heeft 1 of meer nummerplaten, als dit niet mogelijk is moet de bestuurder in het bezit zijn van een geldig bewijs in vorm van een document als ontheffing daarvoor; 
+1. Schuldig is een persoon van wie zijn of haar voertuig niet voldoet aan de volgende eisen.
+2. Het voertuig, uitgezonderd fietsen, heeft 1 of meer nummerplaten, als dit niet mogelijk is moet de bestuurder in het bezit zijn van een geldig bewijs in vorm van een document als ontheffing daarvoor.
 3. Het voertuig bezit ramen waarbij het gezicht van de bestuurder en passagier(s) zichtbaar is.
+4. De eerste keer dat dit opgemerkt wordt is de bestuurder verplicht om in direct naar de ANWB of een andere garage te gaan om dit te laten veranderen, gebeurt dit niet, dan krijgt deze persoon een boete en een W.O.K. (wachten op keuring) status.
+5. Een W.O.K. status is een status dat vastgelegd is bij de Politie en Koninklijke marechaussee. Deze status kan na een reparatie of aanpassing van het voertuig door de Politie of Koninklijke marechaussee verwijderd worden na een visuele controle van het voertuig.
+6. Wordt een bestuurder na een eerdere W.O.K. status wederom staande gehouden zal dit worden gezien als een misdrijf. Dit kan bestraft worden met in eerste instantie een boete en bij meerdere constateringen met een boete, inbeslagname en een taakstraf, als zodanig:
 
-|   |   |
-|---|---|
-| Rijden zonder kentekenplaat of platen | €140 |
-| Ramen dusdanig donker getint zodat de bestuurder (en passagier) niet zichtbaar is | €230 |
-
-4. De eerste keer dat dit opgemerkt wordt is de bestuurder verplicht om in direct naar de ANWB of een andere garage te gaan om dit te laten veranderen, gebeurt dit niet, dan krijgt deze persoon een boete en een wok status. 
-5. Een W.O.K. (Wachten Op Keuren) status is een status dat vastgelegd is bij de Politie en KMAR. Deze status kan na een reparatie of aanpassing van het voertuig door de Politie of KMAR verwijderd worden na een visuele controle van het voertuig.
-6.Wordt een bestuurder na een eerdere WOK status wederom staande gehouden zal dit worden gezien als een misdrijf. Dit kan bestraft worden met in eerste instantie een boete en bij meerdere constateringen met een boete, inbeslagname en een taakstraf, als zodanig:
-
-|  | *Taakstraf*  | *Sanctie*  | *boete*  | 
+|  | *Taakstraf*  | *Sanctie*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Staandehouding** |  |  |  | €1,500 |
+|  **Eerste Staandehouding** |  |  | €1,500 |
 | **Tweede Staandehouding**  |  | Inbeslagname Voertuig | €1,500 |
-| **Meerdere Staandehoudingen**  | 30 uur | Inbeslagename voertuig voor 14 werkdagen | €1,500 |
+| **Meerdere Staandehoudingen**  | 30 uur | Inbeslagname voertuig | €1,500 |
+
+| *Feit* | *boete* |
+|---|---|
+| Rijden zonder kentekenplaten | €140 |
+| Ramen dusdanig donker getint zodat de bestuurder en passagier voor in niet zichtbaar zijn | €230 |
 
 ### Artikel III-13 Overige verkeersboetes
 

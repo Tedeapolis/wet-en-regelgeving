@@ -49,6 +49,8 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Voertuig rijden met een wok status | €1500,- |
 | Weg blokkeren | €240,- |
 | Verkeersovertreding niet nader gespecificeerd | €430,- |
+| Rijden zonder kentekenplaten | €140,- |
+| Geblindeerde ramen | €230,- |
 
 ## Klein misdrijf
 
