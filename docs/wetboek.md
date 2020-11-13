@@ -419,7 +419,30 @@
 | Te hard rijden 41 - 50KM/H | €600 |
 | Te hard rijden 51 - 60KM/H | €900 |
 
-### Artikel III-12 Overige verkeersboetes
+### Artikel III-12 Voertuigeisen
+
+Artikel III- 11 Voertuig verplichtingen
+1. Schuldig is een persoon van wie zijn of haar voertuig niet voldoet aan de volgende eisen; 
+2. Het voertuig, uitgezonderd fietsen, heeft 1 of meer nummerplaten, als dit niet mogelijk is moet de bestuurder in het bezit zijn van een geldig bewijs in vorm van een document als ontheffing daarvoor; 
+3. Het voertuig bezit ramen waarbij het gezicht van de bestuurder en passagier(s) zichtbaar is.
+
+|   |   |
+|---|---|
+| Rijden zonder kentekenplaat of platen | €140 |
+| Ramen dusdanig donker getint zodat de bestuurder (en passagier) niet zichtbaar is | €230 |
+
+4. De eerste keer dat dit opgemerkt wordt is de bestuurder verplicht om in direct naar de ANWB of een andere garage te gaan om dit te laten veranderen, gebeurt dit niet, dan krijgt deze persoon een boete en een wok status. 
+5. Een W.O.K. (Wachten Op Keuren) status is een status dat vastgelegd is bij de Politie en KMAR. Deze status kan na een reparatie of aanpassing van het voertuig door de Politie of KMAR verwijderd worden na een visuele controle van het voertuig.
+6.Wordt een bestuurder na een eerdere WOK status wederom staande gehouden zal dit worden gezien als een misdrijf. Dit kan bestraft worden met in eerste instantie een boete en bij meerdere constateringen met een boete, inbeslagname en een taakstraf, als zodanig:
+
+|  | *Taakstraf*  | *Sanctie*  | *boete*  | 
+|---|---|---|---|
+|  **Eerste Staandehouding** |  |  |  | €1,500 |
+| **Tweede Staandehouding**  |  | Inbeslagname Voertuig | €1,500 |
+| **MeerdereStaandehouding**  | 30 uur | Inbeslagename voertuig voor 14 werkdagen | €1,500 |
+
+
+### Artikel III-13 Overige verkeersboetes
 
 1. Ter bevordering der transparantie is opgenomen dit artikel met daarin gespecificeerde boetes, teneinde transparantie te verlenen.
 2. Een volledig overzicht van alle boetes is tevens te vinden in het Kostendocument.
