@@ -421,7 +421,6 @@
 
 ### Artikel III-12 Voertuigeisen
 
-Artikel III- 11 Voertuig verplichtingen
 1. Schuldig is een persoon van wie zijn of haar voertuig niet voldoet aan de volgende eisen; 
 2. Het voertuig, uitgezonderd fietsen, heeft 1 of meer nummerplaten, als dit niet mogelijk is moet de bestuurder in het bezit zijn van een geldig bewijs in vorm van een document als ontheffing daarvoor; 
 3. Het voertuig bezit ramen waarbij het gezicht van de bestuurder en passagier(s) zichtbaar is.
@@ -439,7 +438,7 @@ Artikel III- 11 Voertuig verplichtingen
 |---|---|---|---|
 |  **Eerste Staandehouding** |  |  |  | €1,500 |
 | **Tweede Staandehouding**  |  | Inbeslagname Voertuig | €1,500 |
-| **MeerdereStaandehouding**  | 30 uur | Inbeslagename voertuig voor 14 werkdagen | €1,500 |
+| **Meerdere Staandehoudingen**  | 30 uur | Inbeslagename voertuig voor 14 werkdagen | €1,500 |
 
 ### Artikel III-13 Overige verkeersboetes
 
