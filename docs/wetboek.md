@@ -441,7 +441,6 @@ Artikel III- 11 Voertuig verplichtingen
 | **Tweede Staandehouding**  |  | Inbeslagname Voertuig | €1,500 |
 | **MeerdereStaandehouding**  | 30 uur | Inbeslagename voertuig voor 14 werkdagen | €1,500 |
 
-
 ### Artikel III-13 Overige verkeersboetes
 
 1. Ter bevordering der transparantie is opgenomen dit artikel met daarin gespecificeerde boetes, teneinde transparantie te verlenen.
