@@ -362,6 +362,13 @@ Het overtreden van het feit genoemd in lid 1 zal resulteren in een straf van de 
 1. Het is verboden voor de bestuurder om van uit een voertuig een vuurwapen af te vuren.
 2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 1e categorie uitgedeeld.
 
+## Tijdelijke bepalingen
+
+### Artikel 46 - Uitbreken uit de gevangenis
+
+1. Het is verboden om tussen 01:00 en 08:00 uit de gevangenis te breken.
+2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 2e categorie uitgedeeld.
+
 ## Slotbepaling: Regels in het kort
 
 * Geen FailRP (Roleplay van zeer slechte kwaliteit, niet realistisch)
