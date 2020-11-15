@@ -360,7 +360,7 @@ Het overtreden van het feit genoemd in lid 1 zal resulteren in een straf van de 
 ### Artikel 45 - Schieten van uit een voertuig
 
 1. Het is verboden voor de bestuurder om van uit een voertuig een vuurwapen af te vuren.
-2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 1e categorie.
+2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 1e categorie uitgedeeld.
 
 ## Slotbepaling: Regels in het kort
 
