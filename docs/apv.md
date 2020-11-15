@@ -357,6 +357,11 @@ Het overtreden van het feit genoemd in lid 1 zal resulteren in een straf van de 
 
 1. Wanneer men een voertuig dumpt tijdens een achtervolging, waar bij deze in het water terecht komt, zal deze 7 dagen in beslag genenomen worden, waarna er 30% van de nieuwprijs voor moet worden betaald om het voertuig weer op te halen.
 
+### Artikel 45 - Schieten van uit een voertuig
+
+1. Het is verboden voor de bestuurder om van uit een voertuig een vuurwapen af te vuren.
+2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 1e categorie.
+
 ## Slotbepaling: Regels in het kort
 
 * Geen FailRP (Roleplay van zeer slechte kwaliteit, niet realistisch)
