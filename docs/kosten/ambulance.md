@@ -31,7 +31,8 @@ De kosten hier voor zijn per cursus: €1500,-
 
 | Operatie / Handeling | Prijs verzekerd | Prijs onverzekerd |
 |:--------------------|:---------------:|:-----------------:|
-| Pleister plakken                      | € 75,- | € 150,- |
+| Behandeling Kleine wond               | € 75,- | € 150,- |
+| Behandelen Grote wond                 | € 150,- | € 300,- |
 | Behandeling kleine schaafwond         | € 75,- | € 150,- |
 | Behandeling kleine brandwond          | € 75,- | € 150,- |
 | Hechting                              | € 75,- | € 150,-  |
@@ -49,14 +50,6 @@ De kosten hier voor zijn per cursus: €1500,-
 | Operatie grote brandwond(en)          | € 750,- | € 3000,- |
 | Operatie botbreuk(en)                 | € 1000,- | € 4000,- |
 | Operatie schotwond(en)                | € 1500,- | € 6000,- |
-
-## Medicatie
-
-| Operatie / Handeling | Prijs verzekerd | Prijs onverzekerd |
-|:--------------------|:---------------:|:-----------------:|
-| Hoest siroop                  | € 75,- | € 150,- |
-| Antibiotica                   | € 75,- | € 150,- |
-| Antibiotica voor Psoriasis    | € 75,- | € 150,- |
 
 !!! attention "LET OP"
     De prijzen kunnen ten alle tijden worden worden gewijzigd
