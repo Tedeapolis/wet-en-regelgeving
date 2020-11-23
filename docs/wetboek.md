@@ -425,7 +425,7 @@
 1. Schuldig is een persoon van wie zijn of haar voertuig niet voldoet aan de volgende eisen.
 2. Het voertuig, uitgezonderd fietsen, heeft 1 of meer nummerplaten, als dit niet mogelijk is moet de bestuurder in het bezit zijn van een geldig bewijs in vorm van een document als ontheffing daarvoor.
 3. Het voertuig bezit ramen waarbij het gezicht van de bestuurder en passagier(s) zichtbaar is.
-4. De eerste keer dat dit opgemerkt wordt is de bestuurder verplicht om naar een tuning shop te gaan om dit te laten veranderen, gebeurt dit niet, dan krijgt deze persoon een boete en een W.O.K. (wachten op keuring) status.
+4. De eerste keer dat dit opgemerkt wordt is de bestuurder verplicht om naar een tuning shop te gaan om dit te laten veranderen. Tevens krijgt de bestuurder een boete en het voertuig een W.O.K. (wachten op keuring) status.
 5. Een W.O.K. status is een status dat vastgelegd is bij de Politie en Koninklijke marechaussee. Deze status kan na een reparatie of aanpassing van het voertuig door de Politie of Koninklijke marechaussee verwijderd worden na een visuele controle van het voertuig.
 6. Wordt een bestuurder na een eerdere W.O.K. status wederom staande gehouden zal dit worden gezien als een misdrijf. Dit kan bestraft worden met in eerste instantie een boete en bij meerdere constateringen met een boete, inbeslagname en een taakstraf, als zodanig:
 
@@ -446,6 +446,8 @@
 2. Een volledig overzicht van alle boetes is tevens te vinden in het Kostendocument.
 3. Onderstaande strafbare feiten kunnen bestraft worden met een boete, als zodanig:
 
+Echter dient de bestuurder na een W.O.K. registratie in de gelegenheid te worden gesteld om de gebreken te herstellen of aan te passen. Dit betekend dat tussen elke sanctie genoemd in "Artikel III-12" minimaal 6 uur zit voor men over mag gaan tot de volgende sanctie.
+ 
 |   |   |
 |---|---|
 | Blokkeren van de weg | €240 |
