@@ -425,14 +425,13 @@
 1. Schuldig is een persoon van wie zijn of haar voertuig niet voldoet aan de volgende eisen.
 2. Het voertuig, uitgezonderd fietsen, heeft 1 of meer nummerplaten, als dit niet mogelijk is moet de bestuurder in het bezit zijn van een geldig bewijs in vorm van een document als ontheffing daarvoor.
 3. Het voertuig bezit ramen waarbij het gezicht van de bestuurder en passagier(s) zichtbaar is.
-4. De eerste keer dat dit opgemerkt wordt is de bestuurder verplicht om naar een tuning shop te gaan om dit te laten veranderen, gebeurt dit niet, dan krijgt deze persoon een boete en een W.O.K. (wachten op keuring) status.
+4. De eerste keer dat dit opgemerkt wordt zal het voertuig een een W.O.K. (wachten op keuring) status krijgen. Dit betekend dat het voertuig niet meer mag rijden op de openbare weg. De bestuurder zal de ANWB in kennis moeten stellen om het voertuig af te laten slepen naar een modshop zodat de de gebreken kunnen worden hersteld en/of aangepast. Dit geheel op kosten van de bestuurder. Mocht hier geen gehoor aan worden gegeven dan kan de Politie of Koninklijke marechaussee direct overgaan tot punt 6 van Artikel III-12 Voertuigeisen.
 5. Een W.O.K. status is een status dat vastgelegd is bij de Politie en Koninklijke marechaussee. Deze status kan na een reparatie of aanpassing van het voertuig door de Politie of Koninklijke marechaussee verwijderd worden na een visuele controle van het voertuig.
-6. Wordt een bestuurder na een eerdere W.O.K. status wederom staande gehouden zal dit worden gezien als een misdrijf. Dit kan bestraft worden met in eerste instantie een boete en bij meerdere constateringen met een boete, inbeslagname en een taakstraf, als zodanig:
+6. Wordt een bestuurder na een eerdere W.O.K. status wederom staande gehouden zal dit worden gezien als een misdrijf. Dit kan bestraft worden met in eerste instantie een boete en inbeslagname. Wordt de bestuurder nogmaals staande gehouden zal de sanctie van een boete en inbeslagname vermeerderd worden met een taakstraf als zondanig:
 
 |  | *Taakstraf*  | *Sanctie*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Staandehouding** |  |  | €1,500 |
-| **Tweede Staandehouding**  |  | Inbeslagname Voertuig | €1,500 |
+| **Eerste Staandehouding**  |  | Inbeslagname Voertuig | €1,500 |
 | **Meerdere Staandehoudingen**  | 30 uur | Inbeslagname voertuig | €1,500 |
 
 | *Feit* | *boete* |
