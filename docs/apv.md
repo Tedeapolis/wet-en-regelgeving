@@ -248,7 +248,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 1. Het overvallen/oplichten van mensen is verboden, dit mag alleen wanneer een persoon bezig is met criminele activiteiten.
 2. Het is geen enkele situatie toegestaan om geld van mensen hun bank te stelen.
 3. Met criminele activiteiten zoals vermeldt in lid 1 worden dingen met betrekking tot drugs, overvallen, witwassen etc bedoeld, en dus geen overtredingen.
-4. Bij een overtreding van de wet in lid 1 wordt de persoon gestraft volgens de 3e categorie en wordt het geld teruggegeven aan het slachtoffer. Wanneer de persoon het geld al heeft uitgegeven zal het resulteren in een account wipe.
+4. Bij een overtreding van de wet in lid 1 wordt de persoon gestraft volgens de 3e categorie en wordt het geld teruggegeven aan het slachtoffer. Wanneer de persoon het geld al heeft uitgegeven zal het resulteren in straf van de 8e categorie.
 5. Contant geld volgens lid 1 is geld wat de persoon op dat moment op zak heeft.
 6. Hou hiermee wel rekening dat het bij het vergrijp zoals beschreven in lid 1 niet de bedoeling is hiermee misbruik te maken van onwetendheid van mensen, dus vermijd het oplichten van nieuwe spelers.
 7. Het is voor criminelen toegestaan om mensen gedurende langere tijd te ondervragen en/of te martelen. Echter mag dit maximaal circa 2 uur duren. Er dient ook goede roleplay aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
