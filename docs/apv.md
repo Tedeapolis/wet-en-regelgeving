@@ -364,9 +364,9 @@ Het overtreden van het feit genoemd in lid 1 zal resulteren in een straf van de 
 
 ### Artikel 46 - Jobhoppen
 
-1. Gangleden dienen minimaal een maand te wachten nadat zij de groep verlaten voordat zij aangenomen mogen worden bij een overheidsbaan of bij een andere gang. 
-2. (Ex-)medewerkers van een overheidsbaan dienen minimaal een week te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een andere overheidsbaan. 
-3. Bij overtreding van de feiten beschreven in lid 1 en/of lid 2 wordt een straf van de 1e categorie uitgedeeld en zal de desbetreffende persoon worden ontslagen. 
+1. Gangleden dienen minimaal een maand te wachten nadat zij de groep verlaten voordat zij aangenomen mogen worden bij een overheidsbaan of bij een andere gang.
+2. (Ex-)medewerkers van een overheidsbaan dienen minimaal een week te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een andere overheidsbaan.
+3. Bij overtreding van de feiten beschreven in lid 1 en/of lid 2 wordt een straf van de 1e categorie uitgedeeld en zal de desbetreffende persoon worden ontslagen.
 
 ## Tijdelijke bepalingen
 
