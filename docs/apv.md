@@ -246,7 +246,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 ### Artikel 27 - Overvallen & Oplichten
 
 1. Het overvallen/oplichten van mensen is verboden, dit mag alleen wanneer een persoon bezig is met criminele activiteiten.
-2. Het is geen enkele situatie toegestaan om geld van mensen hun bank te stelen.
+2. Het is in geen enkele situatie toegestaan om geld van mensen hun bank te stelen of om te scammen met voertuigen.
 3. Met criminele activiteiten zoals vermeldt in lid 1 worden dingen met betrekking tot drugs, overvallen, witwassen etc bedoeld, en dus geen overtredingen.
 4. Bij een overtreding van de wet in lid 1 wordt de persoon gestraft volgens de 3e categorie en wordt het geld teruggegeven aan het slachtoffer. Wanneer de persoon het geld al heeft uitgegeven zal het resulteren in straf van de 8e categorie.
 5. Contant geld volgens lid 1 is geld wat de persoon op dat moment op zak heeft.
@@ -362,9 +362,15 @@ Het overtreden van het feit genoemd in lid 1 zal resulteren in een straf van de 
 1. Het is verboden voor de bestuurder om van uit een voertuig een vuurwapen af te vuren.
 2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 1e categorie uitgedeeld.
 
+### Artikel 46 - Jobhoppen
+
+1. Gangleden dienen minimaal een maand te wachten nadat zij de groep verlaten voordat zij aangenomen mogen worden bij een overheidsbaan of bij een andere gang.
+2. (Ex-)medewerkers van een overheidsbaan dienen minimaal een week te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een andere overheidsbaan.
+3. Bij overtreding van de feiten beschreven in lid 1 en/of lid 2 wordt een straf van de 1e categorie uitgedeeld en zal de desbetreffende persoon worden ontslagen.
+
 ## Tijdelijke bepalingen
 
-### Artikel 46 - Uitbreken uit de gevangenis
+### Artikel 47 - Uitbreken uit de gevangenis
 
 1. Het is verboden om tussen 01:00 en 08:00 uit de gevangenis te breken.
 2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 2e categorie uitgedeeld.
