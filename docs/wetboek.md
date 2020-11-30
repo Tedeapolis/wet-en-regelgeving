@@ -580,12 +580,12 @@
 | **Tweede Veroordeling**  | 30 maanden  |  | €7,500  |
 | **Meerdere Veroordelingen**  | 60 maanden  |  | €10,000  |
 
-### Artikel V-2 Vuurwapens (26 WWM)
+### Artikel V-2 Vuurwapens en Explosieven (26 WWM)
 
 1. Strafbaar is een persoon die een vuurwapen voorhanden heeft, bij zich draagt, of opgeslagen heeft in huis of in de laadruimte van zijn of haar vervoersmiddel.
 2. Onderscheid wordt gemaakt tussen:
    * kleine vuurwapens (pistolen, revolvers, e.d.), aangeduid als Categorie 1;
-   * Automatische vuurwapens, jachtgeweren, shotguns, explosieven, granaten, etc., aangeduid als Categorie 2.
+   * Automatische vuurwapens, jachtgeweren, shotguns, explosieven, granaten, thermiet, etc., aangeduid als Categorie 2.
 
 | ***`Categorie 1`***  | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
