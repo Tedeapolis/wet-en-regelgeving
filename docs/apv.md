@@ -367,7 +367,7 @@ Het overtreden van het feit genoemd in lid 1 zal resulteren in een straf van de 
 1. Gangleden dienen minimaal een maand te wachten nadat zij de groep verlaten voordat zij aangenomen mogen worden bij een overheidsbaan of bij een andere gang.
 2. (Ex-)medewerkers van een overheidsbaan dienen minimaal een week te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een andere overheidsbaan.
 3. Bij overtreding van de feiten beschreven in lid 1 en/of lid 2 wordt een straf van de 1e categorie uitgedeeld en zal de desbetreffende persoon worden ontslagen.
-4. Bij herhaalde overtredingen van lid 1 of lid 2 zal het mangament van van de desbetreffende organisatie die de werknemer heeft aangenomen een passende sanctie worden opgelegd door de hogeraad.
+4. Bij herhaalde overtredingen van lid 1 of lid 2 zal het management van van de desbetreffende organisatie die de werknemer heeft aangenomen een passende sanctie worden opgelegd door de hogeraad.
 
 ## Tijdelijke bepalingen
 
