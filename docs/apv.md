@@ -364,10 +364,19 @@ Het overtreden van het feit genoemd in lid 1 zal resulteren in een straf van de 
 
 ### Artikel 46 - Jobhoppen
 
-1. Gangleden dienen minimaal een maand te wachten nadat zij de groep verlaten voordat zij aangenomen mogen worden bij een overheidsbaan of bij een andere gang.
+1. (Ex-)leden van een criminele organisatie dienen minimaal een maand te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een overheidsbaan.
 2. (Ex-)medewerkers van een overheidsbaan dienen minimaal een week te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een andere overheidsbaan.
-3. Bij overtreding van de feiten beschreven in lid 1 en/of lid 2 wordt een straf van de 1e categorie uitgedeeld en zal de desbetreffende persoon worden ontslagen.
-4. Bij herhaalde overtredingen van lid 1 of lid 2 zal het management van van de desbetreffende organisatie die de werknemer heeft aangenomen een passende sanctie worden opgelegd door de hogeraad.
+3. (Ex-)medewerkers van een overheidsbaan dienen minimaal een maand te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een criminele organisatie.
+4. (Ex-)leden van een criminele organisatie dienen minimaal een week te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een andere criminele organisatie.
+5. Bij overtreding van de feiten beschreven in lid 1 en/of lid 2 wordt een straf van de 1e categorie uitgedeeld en zal de desbetreffende persoon worden ontslagen.
+6. Bij herhaalde overtredingen van lid 1 of lid 2 zal het management van van de desbetreffende organisatie die de werknemer heeft aangenomen een passende sanctie worden opgelegd door de hogeraad.
+
+| Van | Naar | Wachttijd |
+| --- | --- | --- |
+| Overheidsbaan | Overheidsbaan | een week |
+| Criminele organisatie | Criminele organisatie | een week |
+| Overheidsbaan | Criminele organisatie | een maand |
+| Criminele organisatie | Overheidsbaan | een maand |
 
 ## Tijdelijke bepalingen
 
