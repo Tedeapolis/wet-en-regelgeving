@@ -368,8 +368,8 @@ Het overtreden van het feit genoemd in lid 1 zal resulteren in een straf van de 
 2. (Ex-)medewerkers van een overheidsbaan dienen minimaal een week te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een andere overheidsbaan.
 3. (Ex-)medewerkers van een overheidsbaan dienen minimaal een maand te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een criminele organisatie.
 4. (Ex-)leden van een criminele organisatie dienen minimaal een week te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een andere criminele organisatie.
-5. Bij overtreding van de feiten beschreven in lid 1 en/of lid 2 wordt een straf van de 1e categorie uitgedeeld en zal de desbetreffende persoon worden ontslagen.
-6. Bij herhaalde overtredingen van lid 1 of lid 2 zal het management van van de desbetreffende organisatie die de werknemer heeft aangenomen een passende sanctie worden opgelegd door de hogeraad.
+5. Bij overtreding van de feiten beschreven in lid 1 en/of lid 2 en/of lid 3 en/of lid 4 wordt een straf van de 1e categorie uitgedeeld en zal de desbetreffende persoon worden ontslagen.
+6. Bij herhaalde overtredingen van lid 1 en/of lid 2 en/of lid 3 en/of lid 4 zal het management van van de desbetreffende organisatie die de werknemer heeft aangenomen een passende sanctie worden opgelegd door de hogeraad.
 
 | Van | Naar | Wachttijd |
 | --- | --- | --- |
