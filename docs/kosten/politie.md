@@ -73,7 +73,9 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Rijden met rijontzegging 2e keer | €4000,- |
 | Rijden met rijontzegging 3e keer | €6000,- |
 | Vernieling Eerste Veroordeling | €3000,- |
-| Lokaalvredebreuk | €1500,- |
+| Lokaalvredebreuk eerste veroordeling | €1500,- |
+| Lokaalvredebreuk tweede veroordeling | €2000,- |
+| Lokaalvredebreuk derde veroordeling | €3000,- |
 
 ## Middelmatig misdrijf
 
