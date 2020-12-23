@@ -51,6 +51,8 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Verkeersovertreding niet nader gespecificeerd | €430,- |
 | Rijden zonder kentekenplaten | €140,- |
 | Geblindeerde ramen | €230,- |
+| Verlichting(NEON) onder het voertuig | €230 |
+
 
 ## Klein misdrijf
 
@@ -71,6 +73,7 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Rijden met rijontzegging 2e keer | €4000,- |
 | Rijden met rijontzegging 3e keer | €6000,- |
 | Vernieling Eerste Veroordeling | €3000,- |
+| Lokaalvredebreuk | €1500,- |
 
 ## Middelmatig misdrijf
 
