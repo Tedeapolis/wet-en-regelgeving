@@ -366,19 +366,18 @@ Het overtreden van het feit genoemd in lid 1 zal resulteren in een straf van de 
 
 ### Artikel 46 - Jobhoppen
 
-1. (Ex-)leden van een criminele organisatie dienen minimaal een maand te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een overheidsbaan.
-2. (Ex-)medewerkers van een overheidsbaan dienen minimaal een week te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een andere overheidsbaan.
-3. (Ex-)medewerkers van een overheidsbaan dienen minimaal een maand te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een criminele organisatie.
-4. (Ex-)leden van een criminele organisatie dienen minimaal een week te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een andere criminele organisatie.
-5. Bij overtreding van de feiten beschreven in lid 1 en/of lid 2 en/of lid 3 en/of lid 4 wordt een straf van de 1e categorie uitgedeeld en zal de desbetreffende persoon worden ontslagen.
-6. Bij herhaalde overtredingen van lid 1 en/of lid 2 en/of lid 3 en/of lid 4 zal het management van van de desbetreffende organisatie die de werknemer heeft aangenomen een passende sanctie worden opgelegd door de hogeraad.
+1. (Ex-)leden van een criminele organisatie dienen minimaal een week te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een overheidsbaan of een andere criminele organisatie, tenzij anders is bepaald door een lid van de hoge raad.
+2. (Ex-)medewerkers van een overheidsbaan dienen minimaal een week te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een andere overheidsbaan of een criminele organisatie, tenzij anders is bepaald door een lid van de hoge raad. 
+3. Bij overtreding van de feiten beschreven in lid 1 en/of lid 2 wordt een straf van de 1e categorie uitgedeeld en zal de desbetreffende persoon worden ontslagen.
+4. Het is voor de leidinggevenden van overheidsbanen en criminele organisaties verplicht om een document bij te houden met informatie omtrent de in- en uitdiensttreding van hun medewerkers ten behoeve van de handhaving van dit artikel. 
+5. Bij herhaalde overtredingen van lid 1 en/of lid 2 en/of lid 4 zal het management van van de desbetreffende organisatie die de werknemer heeft aangenomen een passende sanctie worden opgelegd door de hogeraad.
 
 | Van | Naar | Wachttijd |
 | --- | --- | --- |
 | Overheidsbaan | Overheidsbaan | een week |
 | Criminele organisatie | Criminele organisatie | een week |
-| Overheidsbaan | Criminele organisatie | een maand |
-| Criminele organisatie | Overheidsbaan | een maand |
+| Overheidsbaan | Criminele organisatie | een week |
+| Criminele organisatie | Overheidsbaan | een week |
 
 ## Tijdelijke bepalingen
 
