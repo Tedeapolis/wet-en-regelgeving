@@ -213,8 +213,8 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 ### Artikel 22 - Impersonatie overheidsmedewerker
 
 1. Het is verboden om jezelf te verkleden als overheidsmedewerker en impliciet of expliciet aan te geven dat je een overheidsmedewerker bent. Dit is ter beoordeling aan een stafflid.
-2. Het is toegestaan om kogelwerende vesten te dragen, echter is het verboden als er termen als "Politie" opstaan, redelijkerwijs gebruikt worden door de Nederlandse politie/koninklijke marechaussee of verwijzen naar de Politie/KMar. 
-3. Waar is verwezen naar de Politie/KMar in dit artikel kan ook een officiële vertakking van deze overheidsdiensten (zoals de recherche of de dienst speciale interventies) of een andere officiële overheidsdienst worden ingevuld. 
+2. Het is toegestaan om kogelwerende vesten te dragen, echter is het verboden als er termen als "Politie" opstaan, redelijkerwijs gebruikt worden door de Nederlandse politie/koninklijke marechaussee of verwijzen naar de Politie/KMar.
+3. Waar is verwezen naar de Politie/KMar in dit artikel kan ook een officiële vertakking van deze overheidsdiensten (zoals de recherche of de dienst speciale interventies) of een andere officiële overheidsdienst worden ingevuld.
 4. Bij overtreding van lid 1 en/of lid 2 zal er een straf uitgedeeld worden volgens de 2e categorie.
 
 ### Artikel 23 - SafeZone FailRP
@@ -367,9 +367,9 @@ Het overtreden van het feit genoemd in lid 1 zal resulteren in een straf van de 
 ### Artikel 46 - Jobhoppen
 
 1. (Ex-)leden van een criminele organisatie dienen minimaal een week te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een overheidsbaan of een andere criminele organisatie, tenzij anders is bepaald door een lid van de hoge raad.
-2. (Ex-)medewerkers van een overheidsbaan dienen minimaal een week te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een andere overheidsbaan of een criminele organisatie, tenzij anders is bepaald door een lid van de hoge raad. 
+2. (Ex-)medewerkers van een overheidsbaan dienen minimaal een week te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een andere overheidsbaan of een criminele organisatie, tenzij anders is bepaald door een lid van de hoge raad.
 3. Bij overtreding van de feiten beschreven in lid 1 en/of lid 2 wordt een straf van de 1e categorie uitgedeeld en zal de desbetreffende persoon worden ontslagen.
-4. Het is voor de leidinggevenden van overheidsbanen en criminele organisaties verplicht om een document bij te houden met informatie omtrent de in- en uitdiensttreding van hun medewerkers ten behoeve van de handhaving van dit artikel. 
+4. Het is voor de leidinggevenden van overheidsbanen en criminele organisaties verplicht om een document bij te houden met informatie omtrent de in- en uitdiensttreding van hun medewerkers ten behoeve van de handhaving van dit artikel.
 5. Bij herhaalde overtredingen van lid 1 en/of lid 2 en/of lid 4 zal het management van van de desbetreffende organisatie die de werknemer heeft aangenomen een passende sanctie worden opgelegd door de hogeraad.
 
 | Van | Naar | Wachttijd |

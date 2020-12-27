@@ -53,7 +53,6 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Geblindeerde ramen | €230,- |
 | Verlichting(NEON) onder het voertuig | €230 |
 
-
 ## Klein misdrijf
 
 |Feit|Boete bedrag|
