@@ -316,9 +316,17 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 4. Bij overtreding van lid 1 of lid 3 zal er een straf uitgedeeld worden volgens de 1e categorie.
 5. Bij herhaalde overtreding zal er een straf van de 2e categorie volgen.
 
+### Artikel 37 - Ontsnappen uit het cellencomplex
+
+1. Het is toegestaan om te ontsnappen uit het cellencomplex, echter dient hier een geldig roleplayscenario aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid. 
+2. Het is niet toegestaan om te ontsnappen of jezelf uit te laten breken indien er is afgesproken om het roleplayscenario op een later tijdstip voort te zetten, bijvoorbeeld vanwege tijdsgebrek of andere beperkingen. 
+3. Het is niet toegestaan om een uit-dienst politiemedewerker te ontvoeren om een ontsnapping van een arrestant uit het cellencomplex te faciliteren of te vergemakkelijken. Deze agenten zijn op dat moment immers niet bezig met de uitvoering van de politietaak. 
+4. Het is niet toegestaan om jezelf voor te doen als overheidsmedewerker bij het ontsnappen of helpen ontsnappen van een derde persoon uit het cellencomplex. 
+5. Bij overtreding van lid 1, lid 2, lid 3 en/of lid 4 zal er een straf uitgedeeld worden volgens de 1e categorie en zal het roleplayscenario worden teruggedraaid. 
+
 ## Overige bepalingen
 
-### Artikel 37 - Bodycams
+### Artikel 38 - Bodycams
 
 1. Bodycam beelden zijn op de volgende manier toegestaan
     * Overheidsdiensten zijn uitgerust met bodycams.
@@ -328,43 +336,43 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
     * overige voertuigen zijn uitgerust met een dashcam gericht naar voren.
 2. De voorbeelden benoemd in lid zijn bedoeld in de context van Roleplay. Voor bewijsvoering in een ticket of report is alle beeldmateriaal toegestaan.
 
-### Artikel 38 - Journalistiek
+### Artikel 39 - Journalistiek
 
 1. Wanneer een journalist bezig is met een opname of live is, is het niet toegestaan deze te storen. Wanneer deze regel overtreden wordt zal dit resulteren in een ban tot de opname voorbij is en een straf volgens de 1e categorie.
 
-### Artikel 39 - Gezichtsbedekking
+### Artikel 40 - Gezichtsbedekking
 
 1. Het is verboden om gezichtsbedekkende kleding te dragen in het openbaar.
 Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 
-### Artikel 40 - Stemherkenning
+### Artikel 41 - Stemherkenning
 
 1. Het is niet toegestaan om een speler te herkennen aan zijn/haar stem als deze zich zodanig heeft gekleed dat hij/zij op uiterlijk onherkenbaar is.
 Het overtreden van het feit beschreven in lid 1 zal worden gestraft met een straf van de eerste categorie.
 
-### Artikel 41 - Streamsniping
+### Artikel 42 - Streamsniping
 
 1. Streamsnipen is ten strengste verboden. Ga jij spelers in game opzoeken aan de hand van iemand zijn/haar stream, of informatie gebruiken die jij uit zijn/haar stream haalt, zal dit bestraft worden volgens de 5e categorie.
 
-### Artikel 42 - Discord
+### Artikel 43 - Discord
 
 1. Het is niet toegestaan om externe discords te gebruiken voor gangs of andere zaken, die niet gemaakt zijn door staff.
 Het overtreden van het feit genoemd in lid 1 zal resulteren in een straf van de 1e categorie.
 
-### Artikel 43 - Zelfdoding
+### Artikel 44 - Zelfdoding
 
 1. Bij een zelfmoord scenario moet de persoon in kwestie een account wipe krijgen en verplicht voor zijn nieuwe karakter een biografie schrijven. Mocht de persoon dit puur voor aandacht doen en niet uiteindelijk zijn/haar leven beëindigen, zal deze voor 200 uur naar de gevangenis gestuurd worden in isolatie.
 
-### Artikel 44 - Voertuigverlies in water (bij achtervolging)
+### Artikel 45 - Voertuigverlies in water (bij achtervolging)
 
 1. Wanneer men een voertuig dumpt tijdens een achtervolging, waar bij deze in het water terecht komt, zal deze 7 dagen in beslag genenomen worden, waarna er 30% van de nieuwprijs voor moet worden betaald om het voertuig weer op te halen.
 
-### Artikel 45 - Schieten van uit een voertuig
+### Artikel 46 - Schieten van uit een voertuig
 
 1. Het is verboden voor de bestuurder om van uit een voertuig een vuurwapen af te vuren.
 2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 1e categorie uitgedeeld.
 
-### Artikel 46 - Jobhoppen
+### Artikel 47 - Jobhoppen
 
 1. (Ex-)leden van een criminele organisatie dienen minimaal een week te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een overheidsbaan of een andere criminele organisatie, tenzij anders is bepaald door een lid van de hoge raad.
 2. (Ex-)medewerkers van een overheidsbaan dienen minimaal een week te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een andere overheidsbaan of een criminele organisatie, tenzij anders is bepaald door een lid van de hoge raad.
@@ -381,7 +389,7 @@ Het overtreden van het feit genoemd in lid 1 zal resulteren in een straf van de 
 
 ## Tijdelijke bepalingen
 
-### Artikel 47 - Uitbreken uit de gevangenis
+### Artikel 48 - Uitbreken uit de gevangenis
 
 1. Het is verboden om tussen 01:00 en 08:00 uit de gevangenis te breken.
 2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 2e categorie uitgedeeld.
