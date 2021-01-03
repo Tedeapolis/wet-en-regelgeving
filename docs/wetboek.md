@@ -24,6 +24,7 @@
 2. Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die over hunzelf, vrienden en/of familie gaat. Dit om te versterken dat een zaak op een eerlijke en rechtvaardige manier behandeld wordt.
 3. Een overtreding of misdrijf die niet opgenomen is in het Wetboek Tedeapolis, maar wel als zodanig bekend staat in het Nederland Recht, kan niet bestraft worden.
    * Wel kan een dergelijke overtreding of misdrijf leiden tot een notitie, ten behoeve van de politieadministratie.
+4. Minderjarigen worden binnen TeDeApolis op dezelfde manier behandeld als volwassenen. Alle bepalingen, straffen en dergelijke zijn ook van toepassing op hen. Minderjarigen hebben dezelfde rechten en plichten als volwassenen. Het jeugdstrafrecht is in TeDeApolis niet van toepassing. 
 
 ### A3 - Strafbepaling
 
@@ -43,7 +44,7 @@
 ### A4 - Strafblad
 
 1. Alleen straffen die enige vorm van celstraf bevatten kunnen leiden tot een strafblad.
-2. Een strafblad blijft staan voor een periode van 3 (realtime) maanden voor alle geweldsdelicten met celstraf, en 1 maand voor alle overige delicten met celstraf, ingaand op de datum van de opgelegde celstraf.
+2. Een strafblad blijft staan voor een periode van 2 (realtime) maanden voor alle geweldsdelicten met celstraf, en 1 maand voor alle overige delicten met celstraf, ingaand op de datum van de opgelegde celstraf.
 3. Wanneer een nieuwe overtreding of misdrijf wordt begaan, wordt de resterende tijd gereset naar de datum van de laatst opgelegde celstraf.
 
 ### A5 - Verduidelijking en algemene aanvulling
