@@ -318,11 +318,11 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 ### Artikel 37 - Ontsnappen uit het cellencomplex
 
-1. Het is toegestaan om te ontsnappen uit het cellencomplex, echter dient hier een geldig roleplayscenario aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid. 
-2. Het is niet toegestaan om te ontsnappen of jezelf uit te laten breken indien er is afgesproken om het roleplayscenario op een later tijdstip voort te zetten, bijvoorbeeld vanwege tijdsgebrek of andere beperkingen. 
-3. Het is niet toegestaan om een uit-dienst politiemedewerker te ontvoeren om een ontsnapping van een arrestant uit het cellencomplex te faciliteren of te vergemakkelijken. Deze agenten zijn op dat moment immers niet bezig met de uitvoering van de politietaak. 
-4. Het is niet toegestaan om jezelf voor te doen als overheidsmedewerker bij het ontsnappen of helpen ontsnappen van een derde persoon uit het cellencomplex. 
-5. Bij overtreding van lid 1, lid 2, lid 3 en/of lid 4 zal er een straf uitgedeeld worden volgens de 1e categorie en zal het roleplayscenario worden teruggedraaid. 
+1. Het is toegestaan om te ontsnappen uit het cellencomplex, echter dient hier een geldig roleplayscenario aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
+2. Het is niet toegestaan om te ontsnappen of jezelf uit te laten breken indien er is afgesproken om het roleplayscenario op een later tijdstip voort te zetten, bijvoorbeeld vanwege tijdsgebrek of andere beperkingen.
+3. Het is niet toegestaan om een uit-dienst politiemedewerker te ontvoeren om een ontsnapping van een arrestant uit het cellencomplex te faciliteren of te vergemakkelijken. Deze agenten zijn op dat moment immers niet bezig met de uitvoering van de politietaak.
+4. Het is niet toegestaan om jezelf voor te doen als overheidsmedewerker bij het ontsnappen of helpen ontsnappen van een derde persoon uit het cellencomplex.
+5. Bij overtreding van lid 1, lid 2, lid 3 en/of lid 4 zal er een straf uitgedeeld worden volgens de 1e categorie en zal het roleplayscenario worden teruggedraaid.
 
 ## Overige bepalingen
 
