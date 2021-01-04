@@ -350,7 +350,7 @@ Het overtreden van het feit beschreven in lid 1 zal worden gestraft met een stra
 
 1. Het is niet toegestaan om externe discords te gebruiken voor gangs of andere zaken, die niet gemaakt zijn door staff.
 2. Het overtreden van het feit genoemd in lid 1 zal resulteren in een straf van de 1e categorie.
-3. Het overtreden van het feit genoemd in lid 1 als eigenaar, moderator en/of stafflid van deze server zal resulteren in een straf van de 7e categorie. 
+3. Het overtreden van het feit genoemd in lid 1 als eigenaar, moderator en/of stafflid van deze server zal resulteren in een straf van de 7e categorie.
 
 ### Artikel 43 - Zelfdoding
 
