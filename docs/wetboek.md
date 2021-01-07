@@ -308,6 +308,35 @@
 | **Tweede Veroordeling**  |   | 5 uur | €1,500  | 0-24 uur |
 | **Meerdere Veroordelingen**  |   | 10 uur | €2,000  | 0-24 uur |
 
+### Artikel III-3 Opzettelijk veroorzaken van ernstig gevaar of hinder (5a WvW)
+
+1. Het is eenieder verboden opzettelijk zich zodanig in het verkeer te gedragen dat de verkeersregels in ernstige mate worden geschonden, indien daarvan levensgevaar of gevaar voor zwaar lichamelijk letsel voor een ander te duchten is.
+2. Als zodanige verkeersgedragingen kunnen de volgende gedragingen worden aangemerkt:
+a. onvoldoende rechts houden op onoverzichtelijke plaatsen;
+b. gevaarlijk inhalen;
+c. over een vluchtstrook rijden waar dit niet is toegestaan;
+d. niet verlenen van voorrang;
+e. overschrijden van de krachtens deze wet vastgestelde maximumsnelheid;
+f. zeer dicht achter een ander voertuig rijden;
+g. door rood licht rijden;
+h. tegen de verkeersrichting inrijden;
+i. tijdens het rijden een mobiel elektronisch apparaat vasthouden;
+j. niet opvolgen van verkeersaanwijzingen van daartoe op grond van deze wet bevoegde personen;
+k. overtreden van andere verkeersregels van soortgelijk belang als die onder a tot en met j genoemd.
+4. Hierbij gelden de volgende aandachtspunten:
+a. Het moet gaan om een opzettelijke gedraging, waardoor de verkeersregels ernstig worden geschonden. Dus gaat het om een onverantwoordelijk en roekeloos rijgedrag, ook wanneer daardoor (nét) geen ongeval ontstaat;
+b. Door dat asociale en roekeloze gedrag moet duidelijk blijken dat daardoor levensgevaar dan wel gevaar voor zwaar lichamelijk letsel voor een ander kan ontstaan;
+c. Door één enkele van de genoemde overtredingen, al dan niet bewust gepleegd, wordt niet meteen dit artikel overtreden, het moet gaan om een combinatie van meerdere feiten die leiden tot roekeloos weggedrag en onaanvaardbaar risico of veroordelingen voor artikel III-2/III-3 (5/5a WvW) in het verleden. Die worden bepaald door de aard en het samenstel van alle gedragingen en de omstandigheden waaronder deze werden verricht en alle overige feitelijke omstandigheden van het geval;
+d. Voor wat betreft de handhaving is staandehouding het uitgangspunt;
+5. Veroordeling voor dit artikel kan enkel verlopen met toestemming van een (h)OvJ of een rechter. 
+6. Op basis van inschatting van de feiten en omstandigheden kan eveneens overgegaan worden tot invordering van het rijbewijs.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
+|---|---|---|---|---|
+|  **Eerste Veroordeling** | | 45 uur | €3,000  | 24-48 uur |
+| **Tweede Veroordeling**  | 12 maanden  | | €7,500  | 48-72 uur |
+| **Meerdere Veroordelingen**  | 18 maanden  |  | €10,500  | 48-72 uur |
+
 ### Artikel III-3 Veroorzaken ongeval, met al dan niet licht lichamelijk letsel tot gevolg (6 WVW)
 
 1. Schuldig is een persoon die een ongeval veroorzaakt, met al dan niet licht lichamelijk letsel aan een derde tot gevolg, door een gevaarlijke dan wel hinderlijke deelname aan het verkeer.
