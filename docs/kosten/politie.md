@@ -52,6 +52,9 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Rijden zonder kentekenplaten | €140,- |
 | Geblindeerde ramen | €230,- |
 | Verlichting(NEON) onder het voertuig | €230 |
+| Opzettelijk veroorzaken van ernstig gevaar of hinder - eerste veroordeling | €3000,- |
+| Opzettelijk veroorzaken van ernstig gevaar of hinder - tweede veroordeling | €7500,- |
+| Opzettelijk veroorzaken van ernstig gevaar of hinder - derde veroordeling | €10500,- |
 
 ## Klein misdrijf
 
