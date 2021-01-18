@@ -22,9 +22,7 @@
 
 1. Bij veranderingen van een wetgeving na het tijdstip waarop het feit begaan is, worden de voor de verdachte meest gunstigste bepalingen toegepast.
 2. Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die over hunzelf, vrienden en/of familie gaat. Dit om te versterken dat een zaak op een eerlijke en rechtvaardige manier behandeld wordt.
-3. Een overtreding of misdrijf die niet opgenomen is in het Wetboek Tedeapolis, maar wel als zodanig bekend staat in het Nederland Recht, kan niet bestraft worden.
-   * Wel kan een dergelijke overtreding of misdrijf leiden tot een notitie, ten behoeve van de politieadministratie.
-4. Minderjarigen worden binnen TeDeApolis op dezelfde manier behandeld als volwassenen. Alle bepalingen, straffen en dergelijke zijn ook van toepassing op hen. Minderjarigen hebben dezelfde rechten en plichten als volwassenen. Het jeugdstrafrecht is in TeDeApolis niet van toepassing.
+3. Minderjarigen worden binnen TeDeApolis op dezelfde manier behandeld als volwassenen. Alle bepalingen, straffen en dergelijke zijn ook van toepassing op hen. Minderjarigen hebben dezelfde rechten en plichten als volwassenen. Het jeugdstrafrecht is in TeDeApolis niet van toepassing.
 
 ### A3 - Strafbepaling
 
