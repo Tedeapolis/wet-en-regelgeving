@@ -603,7 +603,7 @@
 ### Artikel V-3 Steek- en slagwapens (27 WWM)
 
 1. Strafbaar is een persoon die een steek- of slagwapen voorhanden heeft, bij zich draagt, of opgeslagen heeft in huis of in de laadruimte van zijn of haar vervoersmiddel, waarvan redelijkerwijs kan worden aangenomen dat deze bestemd is om letsel toe te brengen.
-2. Voor steekwapens die aangemerkt kunnen worden als zijnde stiletto geldt een uitzondering; deze zijn altijd verboden.
+2. Voor steekwapens die aangemerkt kunnen worden als zijnde stiletto (switchblade) geldt een uitzondering; deze zijn altijd verboden.
 3. Uitgezonderd is het in het bezit zijn van een honkbalknuppel, wanneer deze niet kan worden aangemerkt als beschreven onder lid 1.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
