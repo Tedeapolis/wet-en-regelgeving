@@ -824,7 +824,7 @@
 1. Indien de zaak eindigt zonder oplegging van straf of maatregel of met zodanige oplegging, doch op grond van een feit waarvoor voorlopige hechtenis niet is toegelaten, wordt hem een vergoeding uit de overheid kas toegekend voor de schade welke hij ten gevolge van ondergane inverzekeringstelling of voorlopige hechtenis heeft geleden.
 2. Onder een vergoeding, als bedoeld in het eerste lid vallen o.a. kosten van een advocaat, vergoeding vanwege onterechte detentie/vrijheidsberoving en misgelopen inkomsten vanwege het niet kunnen uitvoeren van persoon zijn werk.
 3. Vergoedingen zoals opgenomen in onderstaande tabel is gebaseerd op onterechte detentie en misgelopen inkomsten van het niet kunnen werken. Vergoeding van de advocaat wordt bepaald aan de hand van de daadwerkelijke kosten van de advocaat.
-4. Het eisen van een vergoeding is alleen mogelijk indien een advocaat is betrokken bij de zaak. 
+4. Het eisen van een vergoeding is alleen mogelijk indien een advocaat is betrokken bij de zaak.
 5. Een uitzondering op lid 4 is indien vanuit de politie wordt besloten dat de persoon vrij wordt gesproken zonder dat er op dat moment een advocaat bij de zaak betrokken is. Een OvJ/HOvJ/hOvJ dient hierbij dan bij betrokken te zijn.
 
 |   | Vergoedingen | schadevergoeding  |
@@ -836,18 +836,18 @@
 ## Artikel IX-2 (Im)materiële schadevergoeding voor buitensporig geweld door overheidsmedewerker
 
 1. De overheidsmedewerker die is aangesteld voor de uitvoering van de politietaak, is bevoegd in de rechtmatige uitoefening van zijn bediening geweld of vrijheidsbeperkende middelen te gebruiken, wanneer het daarmee beoogde doel dit, mede gelet op de aan het gebruik hiervan verbonden gevaren, rechtvaardigt en dat doel niet op een andere wijze kan worden bereikt. Aan het gebruik van geweld gaat zo mogelijk een waarschuwing vooraf.
-2. Bij bepaling of buitensporig geweld van toepassing is wordt uitgegaan van Artikel A9 lid 3 Subsidiariteit en Artikel A9 lid 4 Proportionaliteit. 
-3. Subsidiariteit geeft aan of geweld gebruikt mag worden mits het doel niet op een andere manier kan worden bereikt. 
+2. Bij bepaling of buitensporig geweld van toepassing is wordt uitgegaan van Artikel A9 lid 3 Subsidiariteit en Artikel A9 lid 4 Proportionaliteit.
+3. Subsidiariteit geeft aan of geweld gebruikt mag worden mits het doel niet op een andere manier kan worden bereikt.
 4. Proportionaliteit geeft aan dat de overheidsmedewerker die is aangesteld voor de uitvoering van de politietaak, niet méér geweld mag gebruiken dan nodig is. Belangrijk is dat het gebruikte geweld altijd in verhouding staat met de ernst van de situatie en het misdrijf.
 5. Indien niet is voldaan aan de vereisten van subsidiariteit en proportionaliteit en er is sprake van buitensporig geweld met schade tot gevolg, dan is de politie aansprakelijk voor de veroorzaakte schade. De schadevergoeding wordt bepaald aan de hand van onderstaande vergoeding tabel.
-6. Het eisen van een vergoeding is alleen mogelijk indien een advocaat is betrokken bij de zaak. 
+6. Het eisen van een vergoeding is alleen mogelijk indien een advocaat is betrokken bij de zaak.
 7. Een uitzondering op lid 6 is indien vanuit de politie zelf wordt aangegeven dat er buitensporig geweld is gebruikt zonder dat er op dat moment een advocaat bij de zaak betrokken is. Een OvJ/HOvJ/hOvJ dient hierbij dan bij betrokken te zijn.
 
 |   | Vergoedingen | schadevergoeding |
 |---|---|---|
 | Onterecht fysieke aanval als geweldsmiddel | €2,000 |
 | Onterecht gebruik wapenstok als geweldsmiddel | €3,000 |
-| Onterecht gebruik taser als geweldsmiddel | €5,000 |
+| Onterecht gebruik stroomstootwapen als geweldsmiddel | €5,000 |
 | Onterecht gebruik vuurwapen (cat. 1) als geweldsmiddel | €8,000 |
 | Onterecht gebruik vuurwapen (cat. 2) als geweldsmiddel | €12,500 |
 ---------------------
