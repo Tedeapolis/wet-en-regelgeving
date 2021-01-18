@@ -312,22 +312,22 @@
 
 1. Het is eenieder verboden opzettelijk zich zodanig in het verkeer te gedragen dat de verkeersregels in ernstige mate worden geschonden, indien daarvan levensgevaar of gevaar voor zwaar lichamelijk letsel voor een ander te duchten is.
 2. Als zodanige verkeersgedragingen kunnen de volgende gedragingen worden aangemerkt:
-- onvoldoende rechts houden op onoverzichtelijke plaatsen;
-- gevaarlijk inhalen;
-- over een vluchtstrook rijden waar dit niet is toegestaan;
-- niet verlenen van voorrang;
-- overschrijden van de krachtens deze wet vastgestelde maximumsnelheid;
-- zeer dicht achter een ander voertuig rijden;
-- door rood licht rijden;
-- tegen de verkeersrichting inrijden;
-- tijdens het rijden een mobiel elektronisch apparaat vasthouden;
-- niet opvolgen van verkeersaanwijzingen van daartoe op grond van deze wet bevoegde personen;
-- overtreden van andere verkeersregels van soortgelijk belang als die onder lid 2 genoemd.
+   * Onvoldoende rechts houden op onoverzichtelijke plaatsen;
+   * Gevaarlijk inhalen;
+   * Over een vluchtstrook rijden waar dit niet is toegestaan;
+   * Niet verlenen van voorrang;
+   * Overschrijden van de krachtens deze wet vastgestelde maximumsnelheid;
+   * Zeer dicht achter een ander voertuig rijden;
+   * Door rood licht rijden;
+   * Tegen de verkeersrichting inrijden;
+   * Tijdens het rijden een mobiel elektronisch apparaat vasthouden;
+   * Niet opvolgen van verkeersaanwijzingen van daartoe op grond van deze wet bevoegde personen;
+   * Overtreden van andere verkeersregels van soortgelijk belang als die onder lid 2 genoemd.
 3. Hierbij gelden de volgende aandachtspunten:
-- Het moet gaan om een opzettelijke gedraging, waardoor de verkeersregels ernstig worden geschonden. Dus gaat het om een onverantwoordelijk en roekeloos rijgedrag, ook wanneer daardoor (nét) geen ongeval ontstaat;
-- Door dat asociale en roekeloze gedrag moet duidelijk blijken dat daardoor levensgevaar dan wel gevaar voor zwaar lichamelijk letsel voor een ander kan ontstaan;
-- Door één enkele van de genoemde overtredingen, al dan niet bewust gepleegd, wordt niet meteen dit artikel overtreden, het moet gaan om een combinatie van meerdere feiten die leiden tot roekeloos weggedrag en onaanvaardbaar risico. Die worden bepaald door de aard en het samenstel van alle gedragingen en de omstandigheden waaronder deze werden verricht en alle overige feitelijke omstandigheden van het geval. Er wordt ook gekeken naar veroordelingen voor artikel III-2/III-3 (5/5a WvW) in het verleden;
-- Voor wat betreft de handhaving is staandehouding het uitgangspunt.
+   * Het moet gaan om een opzettelijke gedraging, waardoor de verkeersregels ernstig worden geschonden. Dus gaat het om een onverantwoordelijk en roekeloos rijgedrag, ook wanneer daardoor (nét) geen ongeval ontstaat;
+   * Door dat asociale en roekeloze gedrag moet duidelijk blijken dat daardoor levensgevaar dan wel gevaar voor zwaar lichamelijk letsel voor een ander kan ontstaan;
+   * Door één enkele van de genoemde overtredingen, al dan niet bewust gepleegd, wordt niet meteen dit artikel overtreden, het moet gaan om een combinatie van meerdere feiten die leiden tot roekeloos weggedrag en onaanvaardbaar risico. Die worden bepaald door de aard en het samenstel van alle gedragingen en de omstandigheden waaronder deze werden verricht en alle overige feitelijke omstandigheden van het geval. Er wordt ook gekeken naar veroordelingen voor artikel III-2/III-3 (5/5a WvW) in het verleden;
+   * Voor wat betreft de handhaving is staandehouding het uitgangspunt.
 4. Veroordeling voor dit artikel kan enkel geschieden met toestemming van een (h)OvJ of een rechter.
 5. Op basis van inschatting van de feiten en omstandigheden kan eveneens overgegaan worden tot invordering van het rijbewijs en/of inbeslagname van het voertuig.
 
