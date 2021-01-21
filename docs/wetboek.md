@@ -829,8 +829,8 @@
 
 |   | Vergoedingen | schadevergoeding  |
 |---|---|---|
-| per 1 uur politiebureau | €5,000 |
-| per 1 uur gevangenis | €7,500 |
+| per 1 uur politiebureau | €3,000 |
+| per 1 uur gevangenis | €5,000 |
 | Advocaat kosten | n.t.b. |
 
 ## Artikel IX-2 (Im)materiële schadevergoeding voor buitensporig geweld door overheidsmedewerker
@@ -845,10 +845,9 @@
 
 |   | Vergoedingen | schadevergoeding |
 |---|---|---|
-| Onterecht fysieke aanval als geweldsmiddel | €2,000 |
-| Onterecht gebruik wapenstok als geweldsmiddel | €3,000 |
-| Onterecht gebruik stroomstootwapen als geweldsmiddel | €5,000 |
-| Onterecht gebruik vuurwapen (cat. 1) als geweldsmiddel | €8,000 |
-| Onterecht gebruik vuurwapen (cat. 2) als geweldsmiddel | €12,500 |
+| Onterecht gebruik wapenstok als geweldsmiddel | €1,000 |
+| Onterecht gebruik stroomstootwapen als geweldsmiddel | €2,500 |
+| Onterecht gebruik vuurwapen (cat. 1) als geweldsmiddel | €4,000 |
+| Onterecht gebruik vuurwapen (cat. 2) als geweldsmiddel | €6,000 |
 ---------------------
 *Wetboek Tedeapolis is opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Tedeapolis”, opgetekend door Bram Mosterdfiets, te Tedeapolis.*
