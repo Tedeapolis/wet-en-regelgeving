@@ -874,7 +874,8 @@
 | Onterecht gebruik wapenstok als geweldsmiddel | €1,000 |
 | Onterecht gebruik stroomstootwapen als geweldsmiddel | €2,500 |
 | Onterecht gebruik vuurwapen (cat. 1) als geweldsmiddel | €4,000 |
-| Onterecht gebruik vuurwapen (cat. 2) als geweldsmiddel | €6,000 |
+| Onterecht inzet surveillancehond als geweldsmiddel | €5,000 |
+| Onterecht gebruik vuurwapen (cat. 2) als geweldsmiddel | €7,000 |
 
 ## Artikel IX-3 (Im)materiële schadevergoeding voor buitensporig geweld door burger jegens overheidsmedewerker
 
