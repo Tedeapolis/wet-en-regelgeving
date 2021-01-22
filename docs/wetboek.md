@@ -847,9 +847,9 @@
 2. Onder een vergoeding, als bedoeld in het eerste lid vallen o.a. kosten van een advocaat, vergoeding vanwege onterechte detentie/vrijheidsberoving en misgelopen inkomsten vanwege het niet kunnen uitvoeren van persoon zijn werk.
 3. Vergoedingen zoals opgenomen in onderstaande tabel is gebaseerd op onterechte detentie en misgelopen inkomsten van het niet kunnen werken. Vergoeding van de advocaat wordt bepaald aan de hand van de daadwerkelijke kosten van de advocaat.
 4. Het eisen van een vergoeding is alleen mogelijk indien een advocaat is betrokken bij de zaak.
-5. Een uitzondering op lid 4 is indien vanuit de politie wordt besloten dat de persoon vrij wordt gesproken zonder dat er op dat moment een advocaat bij de zaak betrokken is. Een OvJ/HOvJ/hOvJ dient hierbij dan bij betrokken te zijn.
+5. Een uitzondering op lid 4 is indien vanuit de politie wordt besloten dat de persoon vrij wordt gesproken zonder dat er op dat moment een advocaat bij de zaak betrokken is. Een OvJ/HOvJ/hOvJ dient hierbij dan betrokken te zijn.
 6. Het schadevergoeding document kan alleen worden ondertekend door een advocaat of OvJ/HOvJ/hOvJ.
-7. Schadevergoeding wordt uitgekeerd vanuit Justitie op vertoon van het schadevergoeding document.
+7. Een Schadevergoeding wordt uitgekeerd vanuit Justitie op vertoon van het schadevergoeding document.
 
 |   | Vergoedingen | schadevergoeding  |
 |---|---|---|
