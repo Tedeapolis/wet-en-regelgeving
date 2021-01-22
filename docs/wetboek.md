@@ -202,8 +202,7 @@
 ### Artikel II-2 Gijzeling (282 SR)
 
 1. Schuldig is een persoon die overgaat tot wederrechtelijke beroving van de vrijheid van een derde.
-2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 1/3 verhoogd.
-3. Bij poging tot wederrechtelijke beroving van de vrijheid van een derde wordt de straf met 1/3 verminderd.
+2. Bij poging tot wederrechtelijke beroving van de vrijheid van een derde wordt de straf met 1/3 verminderd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -214,8 +213,7 @@
 ### Artikel II-3 Bedreiging (285 SR)
 
 1. Schuldig is een persoon die dreiging uit met gewelddadige inhoud of misdadig karakter, jegens personen of goederen.
-2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 1/3 verhoogd.
-3. Bij een poging tot bedreiging als genoemd in lid 1 wordt de straf met 1/3 verminderd.
+2. Bij een poging tot bedreiging als genoemd in lid 1 wordt de straf met 1/3 verminderd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -251,8 +249,7 @@
 
 1. Schuldig is een persoon die opzettelijk en wederrechtelijk een ander mishandeld met ten hoogste licht lichamelijk, dan wel geestelijk letsel tot gevolg.
 2. Met mishandeling wordt gelijkgesteld het opzettelijk benadelen van de gezondheid.
-3. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 1/3 verhoogd.
-4. Een poging tot eenvoudige mishandeling is niet strafbaar.
+3. Een poging tot eenvoudige mishandeling is niet strafbaar.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -264,8 +261,7 @@
 
 1. Schuldig is een persoon die opzettelijk en wederrechtelijk een ander mishandeld met zwaar lichamelijk, dan wel geestelijk letsel tot gevolg.
 2. Met mishandeling wordt gelijkgesteld het opzettelijk benadelen van de gezondheid.
-3. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 1/3 verhoogd.
-4. Bij een poging tot zware mishandeling wordt de straf met 1/3 verminderd.
+3. Bij een poging tot zware mishandeling wordt de straf met 1/3 verminderd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
