@@ -20,7 +20,7 @@
 
 ### A2 - Geldigheid
 
-1. Bij veranderingen van een wetgeving na het tijdstip waarop het feit begaan is, worden de voor de verdachte meest gunstigste bepalingen toegepast.
+1. Bij veranderingen van een wetgeving na het tijdstip waarop het feit begaan is, wordt voor de verdachte de meest gunstigste bepalingen toegepast.
 2. Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die over hunzelf, vrienden en/of familie gaat. Dit om te versterken dat een zaak op een eerlijke en rechtvaardige manier behandeld wordt.
 3. Minderjarigen worden binnen TeDeApolis op dezelfde manier behandeld als volwassenen. Alle bepalingen, straffen en dergelijke zijn ook van toepassing op hen. Minderjarigen hebben dezelfde rechten en plichten als volwassenen. Het jeugdstrafrecht is in TeDeApolis niet van toepassing.
 
@@ -41,14 +41,14 @@
 
 ### A4 - Strafblad
 
-1. Alleen straffen die enige vorm van celstraf bevatten kunnen leiden tot een strafblad.
+1. Straffen die enige vorm van celstraf bevatten leiden tot een strafblad.
 2. Een strafblad blijft staan voor een periode van 2 (realtime) maanden voor alle geweldsdelicten met celstraf, en 1 maand voor alle overige delicten met celstraf, ingaand op de datum van de opgelegde celstraf.
-3. Wanneer een nieuwe overtreding of misdrijf wordt begaan, wordt de resterende tijd gereset naar de datum van de laatst opgelegde celstraf.
+3. Wanneer een nieuwe overtreding of misdrijf wordt begaan, dan wordt de resterende tijd gereset naar de datum van de laatst opgelegde celstraf.
 
 ### A5 - Verduidelijking en algemene aanvulling
 
-1. Onder goederen kan worden verstaan alles wat tussen twee personen kan worden uitgewisseld, behalve geld of informatie.
-   * Hieronder valt, onder andere, alles wat in de inventaris gevonden kan worden, alsmede voertuigen.
+1. Onder goederen kan worden verstaan alles wat tussen twee personen kan worden uitgewisseld.
+   * Hieronder valt alles wat in de inventaris gevonden kan worden, alsmede voertuigen.
 2. Onderzoek, tenzij expliciet anders aangegeven, duurt in de regel maximaal twee (2) dagen.
    * Als na deze termijn geen conclusie is getrokken of getrokken kan worden, is de Overheid verplicht tot het retourneren van de onderzochte goederen.
 3. Zij, die in dienst van de Overheid, genoodzaakt zijn een actie uit te voeren welke volgens de wet verboden is, kunnen vanwege het noodzakelijk aspect, binnen de contouren van hun functie, niet aangeklaagd worden als zijnde in overtreding van de wet.
@@ -63,18 +63,18 @@
    * Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek;
    * Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een misdrijf waarbij de eigenaar ook veroordeeld is, uitgekocht kunnen worden voor 20% van de cataloguswaarde;
    * Zal deze, wanneer, met inachtneming van de vorige regel, het voertuig tevens uit het water moest worden gehaald, uitgekocht kunnen worden voor 30% van de cataloguswaarde;
-   * Is er een vastgesteld maximum voor bovenstaande uitkoopbedragen van ten hoogste €200,000
+   * Is er een vastgesteld maximum voor bovenstaande uitkoopbedragen van ten hoogste €200.000,--
    * Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eigenaar geen strafbaar feit ten laste is gelegd, of kan gelegd worden, welke in directe zin gekoppeld is aan de reden van inbeslagname.
    * Wanneer het voertuig bewijsbaar onderdeel was van het misdrijf en de eigenaar daarvan overleden is, dan zal het voertuig uitgekocht kunnen worden voor 20% van de cataloguswaarde.
 
 ### A7 - Openstaande boetes
 
-1. Wanneer tijdens een controle of aanhouding aangetoond wordt dat het totaalbedrag van openstaande boetes boven de €10,000 reikt, kan dit impact hebben op de situatie.
+1. Wanneer tijdens een controle of aanhouding aangetoond wordt dat het totaalbedrag van openstaande boetes boven de €10.000,-- reikt, kan dit impact hebben op de situatie.
    * Wanneer dit aangetoond wordt bij het opvragen van een inbeslaggenomen goed of voertuig kan geëist worden eerst het boetebedrag te voldoen;
-   * Wanneer dit aangetoond wordt tijdens onderzoek volgende op een misdrijf of crimineel feit kan hiervoor een boete of taakstraf worden opgelegd;
-   * De hoogte van deze boete of taakstraf is ter beoordeling van de OvD (doch binnen het realistisch, juridisch kader);
-   * Deze boete of taakstraf wordt bijgevoegd bij de totale straf eis.
-2. Onder het voldoen van het boetebedrag wordt verstaan tenminste een zodanige betaling te voldoen dat het totale boetebedrag onder de €10,000 komt.
+   * Wanneer dit aangetoond wordt tijdens onderzoek vanuit een misdrijf of crimineel feit kan hiervoor een boete of taakstraf worden opgelegd;
+   * De hoogte van deze boete of taakstraf is ter beoordeling van de OvD, naar redelijkheid en billijkheid;
+   * Deze boete of taakstraf wordt bijgevoegd bij de totale strafeis.
+2. Onder het voldoen van het boetebedrag wordt verstaan een zodanige betaling te voldoen dat het totale boetebedrag tenminste onder de €10.000,-- komt.
 
 ### A8 - Consultatierecht
 
@@ -94,10 +94,10 @@
    * Legaliteit, waarbij het overheidsoptreden dat ingrijpt op de rechten en plichten (persoonlijke levenssfeer) van burgers moet berusten op een wettelijke grondslag;
    * Kenbaarheid van regelgeving, waarbij burgers in staat gesteld moeten zijn kennis te nemen van regelgeving;
    * Redelijkheid en billijkheid, waarbij als factor de redelijkheid en rechtmatigheid als ongeschreven regel dient te gelden bij overeenkomsten en situaties;
-   * hoor en wederhoor, waarbij alle partijen recht hebben om hun zegje te doen;
-   * onschuldpresumptie, waarbij een verdachte onschuldig is tot het tegendeel bewezen is;
-   * détournement de pouvoir, waarbij de wet alleen mag toegepast worden waar deze voor bedoeld is;
-   * ne bis in idem, waarbij iemand niet tweemaal veroordeeld mag worden voor hetzelfde feit;
+   * Hoor en wederhoor, waarbij alle partijen recht hebben om hun zegje te doen;
+   * Onschuldpresumptie, waarbij een verdachte onschuldig is tot het tegendeel bewezen is;
+   * Détournement de pouvoir, waarbij de wet alleen mag toegepast worden waar deze voor bedoeld is;
+   * Ne bis in idem, waarbij iemand niet tweemaal veroordeeld mag worden voor hetzelfde feit;
 
 ## Titel I - Vermogensdelicten
 
@@ -105,7 +105,7 @@
 
 ### Artikel I-1 Diefstal (310 SR)
 
-1. Schuldig is een persoon die een goed, of voertuig, wegneemt zonder daarvoor toestemming of enig recht toe te hebben
+1. Schuldig is een persoon die een goed wegneemt, zonder daarvoor toestemming of enig recht toe te hebben.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -174,16 +174,16 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 60 uur  | €15,000  |
+|  **Eerste Veroordeling** | 30 maanden  |  | €15,000  |
 | **Tweede Veroordeling**  | 60 maanden  |  | €20,000  |
 | **Meerdere Veroordelingen**  | 120 maanden  |  | €25,000  |
 
 ### Artikel I-8 Geldige verklaring herkomst contanten (321 SR)
 
-1. Wanneer er tijdens aanhouding van een persoon door Politie of Koninklijke Marechaussee een geldbedrag, hoger dan €15,000 aan contanten, aangetroffen wordt bij die persoon, zal er om geldige verklaring van herkomst gevraagd worden.
-2. Wanneer deze verklaring niet bewijsbaar of redelijkerwijs aannemelijk is, is het de Politie of Koninklijke Marechaussee toegestaan dit bedrag in beslag te nemen voor onderzoek.
-3. Wanneer onderzoek, volgend op de inbeslagname zoals bedoeld in lid 2, geen criminele herkomst kan aantonen, dan is Politie of Koninklijke Marechaussee gemaand tot restitutie.
-4. Wanneer onderzoek, volgend op de inbeslagname zoals bedoeld in lid 2, criminele herkomst aantoont, dan zal de in beslag genomen som vernietigd worden.
+1. Wanneer er tijdens aanhouding van een persoon door Politie of Koninklijke Marechaussee een geldbedrag, hoger dan €15.000,-- aan contanten, aangetroffen wordt bij die persoon, zal er om geldige verklaring van herkomst gevraagd worden.
+2. Wanneer deze verklaring niet bewijsbaar of redelijkerwijs aannemelijk is, dan heeft de Politie of Koninklijke Marechaussee de bevoegdheid dit bedrag in beslag te nemen voor onderzoek.
+3. Wanneer uit onderzoek, volgend op de inbeslagname zoals bedoeld in lid 2, geen criminele herkomst kan aantonen, dan is Politie of Koninklijke Marechaussee gemaand tot restitutie.
+4. Wanneer uit onderzoek, volgend op de inbeslagname zoals bedoeld in lid 2, criminele herkomst aantoont, dan zal de in beslag genomen som vernietigd worden.
 
 ## Titel II - Geweldsdelicten
 
@@ -213,7 +213,7 @@
 
 ### Artikel II-3 Bedreiging (285 SR)
 
-1. Schuldig is een persoon die dreiging uit met gewelddadige inhoud of misdadig karakter, jegens personen of goederen.
+1. Schuldig is een persoon die dreiging uit met gewelddadige inhoud of misdadig karakter, jegens personen of zijn goederen.
 2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 1/3 verhoogd.
 3. Bij een poging tot bedreiging als genoemd in lid 1 wordt de straf met 1/3 verminderd.
 
@@ -284,7 +284,7 @@
 |---|---|---|---|
 |  **Eerste Veroordeling** |   | 15 uur | €3,000  |
 | **Tweede Veroordeling**  |   | 25 uur | €4,500  |
-| **Meerdere Veroordelingen**  | 10 maanden  |  | €6,000  |
+| **Meerdere Veroordelingen**  |  | 50 uur | €6,000  |
 
 ## Titel III - Verkeersdelicten
 
