@@ -110,10 +110,10 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
     * ANWB
     * Gemeenteraad
 
-### Artikel 7 - Cop-baiting
+### Artikel 7 - Uitdagen
 
 1. Hij/zij die moedwillig ambtenaren uitlokt met de intentie deze te irriteren en/of bezig te houden zal bestraft worden met een straf volgens de 1e categorie.
-2. De overtreding zoals beschreven in lid 1 staat bekend als “cop-baiting”
+2. Hij/zij die moedwillig burgers uitlokt met de intentie deze te irriteren, bezig te houden en/of de roleplaytijd te verzieken zal bestraft worden met een straf volgens de 1e categorie.
 
 ### Artikel 8 - Spam
 
