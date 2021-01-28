@@ -851,8 +851,8 @@
 6. Het schadevergoeding document kan alleen worden ondertekend door een advocaat of OvJ/HOvJ/hOvJ.
 7. Een Schadevergoeding wordt uitgekeerd vanuit Justitie op vertoon van het schadevergoeding document.
 
-|   | Vergoedingen | schadevergoeding  |
-|---|---|---|
+| Vergoedingen | schadevergoeding  |
+|---|---|
 | per 1 uur politiebureau | €3,000 |
 | per 1 uur gevangenis | €5,000 |
 | Advocaat kosten | n.t.b. |
@@ -869,8 +869,8 @@
 8. Het schadevergoeding document kan alleen worden ondertekend door een advocaat of OvJ/HOvJ/hOvJ.
 9. Schadevergoeding wordt uitgekeerd vanuit Justitie op vertoon van het schadevergoeding document.
 
-|   | Vergoedingen | schadevergoeding |
-|---|---|---|
+| Vergoedingen | schadevergoeding |
+|---|---|
 | Onterecht gebruik wapenstok als geweldsmiddel | €1,000 |
 | Onterecht gebruik stroomstootwapen als geweldsmiddel | €2,500 |
 | Onterecht gebruik vuurwapen (cat. 1) als geweldsmiddel | €4,000 |
