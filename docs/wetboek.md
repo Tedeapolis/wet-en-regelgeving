@@ -500,8 +500,8 @@
 4. Indien persoon zoals bedoeld in lid 3 niet de eigenaar van het voertuig is, wordt het voertuig tevens direct in beslag genomen en vernietigd.
 5. De eigenaar van het voertuig blijft verantwoordelijk, ook al wordt het voertuig met een andere bestuurder aangetroffen.
 
-|   | Illegale voertuigen | Soort |
-|---|---|---|
+| Illegale voertuigen | Soort |
+|---|---|
 | Cliffhanger | Motor |
 | Dune Buggy | Buggy |
 | Manchez | Motor |
