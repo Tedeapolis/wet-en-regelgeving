@@ -202,8 +202,7 @@
 ### Artikel II-2 Gijzeling (282 SR)
 
 1. Schuldig is een persoon die overgaat tot wederrechtelijke beroving van de vrijheid van een derde.
-2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 1/3 verhoogd.
-3. Bij poging tot wederrechtelijke beroving van de vrijheid van een derde wordt de straf met 1/3 verminderd.
+2. Bij poging tot wederrechtelijke beroving van de vrijheid van een derde wordt de straf met 1/3 verminderd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -214,8 +213,7 @@
 ### Artikel II-3 Bedreiging (285 SR)
 
 1. Schuldig is een persoon die dreiging uit met gewelddadige inhoud of misdadig karakter, jegens personen of goederen.
-2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 1/3 verhoogd.
-3. Bij een poging tot bedreiging als genoemd in lid 1 wordt de straf met 1/3 verminderd.
+2. Bij een poging tot bedreiging als genoemd in lid 1 wordt de straf met 1/3 verminderd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -251,8 +249,7 @@
 
 1. Schuldig is een persoon die opzettelijk en wederrechtelijk een ander mishandeld met ten hoogste licht lichamelijk, dan wel geestelijk letsel tot gevolg.
 2. Met mishandeling wordt gelijkgesteld het opzettelijk benadelen van de gezondheid.
-3. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 1/3 verhoogd.
-4. Een poging tot eenvoudige mishandeling is niet strafbaar.
+3. Een poging tot eenvoudige mishandeling is niet strafbaar.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -264,8 +261,7 @@
 
 1. Schuldig is een persoon die opzettelijk en wederrechtelijk een ander mishandeld met zwaar lichamelijk, dan wel geestelijk letsel tot gevolg.
 2. Met mishandeling wordt gelijkgesteld het opzettelijk benadelen van de gezondheid.
-3. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 1/3 verhoogd.
-4. Bij een poging tot zware mishandeling wordt de straf met 1/3 verminderd.
+3. Bij een poging tot zware mishandeling wordt de straf met 1/3 verminderd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -842,5 +838,56 @@
 |  Eerste Veroordeling |   | 35 uur  | €1,500  |
 | Tweede Veroordeling  |   | 40 uur  | €2,000  |
 | Meerdere Veroordelingen  |   | 50 uur | €3,000  |
+
+## Titel IX – Schadevergoeding
+
+## Artikel IX-1 (Im)materiële schadevergoeding voor onterechte inverzekeringstelling of voorlopige hechtenis (artikel 533 sv)
+
+1. Indien de zaak eindigt zonder oplegging van straf of maatregel of met zodanige oplegging, doch op grond van een feit waarvoor voorlopige hechtenis niet is toegelaten, wordt hem een vergoeding uit de overheid kas toegekend voor de schade welke hij ten gevolge van ondergane inverzekeringstelling of voorlopige hechtenis heeft geleden.
+2. Onder een vergoeding, als bedoeld in het eerste lid vallen o.a. kosten van een advocaat, vergoeding vanwege onterechte detentie/vrijheidsberoving en misgelopen inkomsten vanwege het niet kunnen uitvoeren van persoon zijn werk.
+3. Vergoedingen zoals opgenomen in onderstaande tabel is gebaseerd op onterechte detentie en misgelopen inkomsten van het niet kunnen werken. Vergoeding van de advocaat wordt bepaald aan de hand van de daadwerkelijke kosten van de advocaat.
+4. Het eisen van een vergoeding is alleen mogelijk indien een advocaat is betrokken bij de zaak.
+5. Een uitzondering op lid 4 is indien vanuit de politie wordt besloten dat de persoon vrij wordt gesproken zonder dat er op dat moment een advocaat bij de zaak betrokken is. Een OvJ/HOvJ/hOvJ dient hierbij dan betrokken te zijn.
+6. Het schadevergoeding document kan alleen worden ondertekend door een advocaat of OvJ/HOvJ/hOvJ.
+7. Een Schadevergoeding wordt uitgekeerd vanuit Justitie op vertoon van het schadevergoeding document.
+
+|   | Vergoedingen | schadevergoeding  |
+|---|---|---|
+| per 1 uur politiebureau | €3,000 |
+| per 1 uur gevangenis | €5,000 |
+| Advocaat kosten | n.t.b. |
+
+## Artikel IX-2 (Im)materiële schadevergoeding voor buitensporig geweld door overheidsmedewerker
+
+1. De overheidsmedewerker die is aangesteld voor de uitvoering van de politietaak, is bevoegd in de rechtmatige uitoefening van zijn bediening geweld of vrijheidsbeperkende middelen te gebruiken, wanneer het daarmee beoogde doel dit, mede gelet op de aan het gebruik hiervan verbonden gevaren, rechtvaardigt en dat doel niet op een andere wijze kan worden bereikt. Aan het gebruik van geweld gaat zo mogelijk een waarschuwing vooraf.
+2. Bij bepaling of buitensporig geweld van toepassing is wordt uitgegaan van Artikel A9 lid 3 Subsidiariteit en Artikel A9 lid 4 Proportionaliteit.
+3. Subsidiariteit geeft aan of geweld gebruikt mag worden mits het doel niet op een andere manier kan worden bereikt.
+4. Proportionaliteit geeft aan dat de overheidsmedewerker die is aangesteld voor de uitvoering van de politietaak, niet méér geweld mag gebruiken dan nodig is. Belangrijk is dat het gebruikte geweld altijd in verhouding staat met de ernst van de situatie en het misdrijf.
+5. Indien niet is voldaan aan de vereisten van subsidiariteit en proportionaliteit en er is sprake van buitensporig geweld met schade tot gevolg, dan is de politie aansprakelijk voor de veroorzaakte schade. De schadevergoeding wordt bepaald aan de hand van onderstaande vergoeding tabel.
+6. Het eisen van een vergoeding is alleen mogelijk indien een advocaat is betrokken bij de zaak.
+7. Een uitzondering op lid 6 is indien vanuit de politie zelf wordt aangegeven dat er buitensporig geweld is gebruikt zonder dat er op dat moment een advocaat bij de zaak betrokken is. Een OvJ/HOvJ/hOvJ dient hierbij dan bij betrokken te zijn.
+8. Het schadevergoeding document kan alleen worden ondertekend door een advocaat of OvJ/HOvJ/hOvJ.
+9. Schadevergoeding wordt uitgekeerd vanuit Justitie op vertoon van het schadevergoeding document.
+
+|   | Vergoedingen | schadevergoeding |
+|---|---|---|
+| Onterecht gebruik wapenstok als geweldsmiddel | €1,000 |
+| Onterecht gebruik stroomstootwapen als geweldsmiddel | €2,500 |
+| Onterecht gebruik vuurwapen (cat. 1) als geweldsmiddel | €4,000 |
+| Onterecht inzet surveillancehond als geweldsmiddel | €5,000 |
+| Onterecht gebruik vuurwapen (cat. 2) als geweldsmiddel | €7,000 |
+
+## Artikel IX-3 (Im)materiële schadevergoeding voor buitensporig geweld door burger jegens overheidsmedewerker
+
+1. Een overheidsmedewerker zoals bedoeld in dit artikel is een ambtenaar in functie werkzaam voor: Politie/KMAR, Ambulance of Justitie.
+2. Bij bepaling of buitensporig geweld van toepassing is wordt uitgegaan van Artikel II-6 Eenvoudige mishandeling (300 SR), Artikel II-7 Zware mishandeling (302 SR), Artikel II-2 Gijzeling (282 SR) en Artikel II-3 Bedreiging (285 SR). Artikel II-4 Doodslag (287 SR) en Artikel II-5 Moord (289 SR) zijn alleen van toepassing indien het een "poging tot" betreft.
+3. Buitensporig geweld dient jegens een overheidsmedewerker te zijn toegepast.
+4. Indien verdachte conform lid 2 wordt veroordeeld wordt de boete die ontstaat uit de artikelen benoemt in lid 2 met 1/3 verhoogd en komt dit 1/3 deel als vergoeding ten gunste van de getroffen overheidsmedewerker.
+5. Indien meerdere overheidsmedewerkers slachtoffer zijn van het buitensporig geweld, dan wordt de vergoeding zoals beschreven in lid 4 evenredig verdeeld over de overheidsmedewerkers.
+6. Een vergoeding die ten gunste komt van de getroffen overheidsmedewerker is alleen mogelijk indien een advocaat is betrokken bij de zaak.
+7. Een uitzondering op lid 6 is indien er een besluit is genomen door OvJ/HOvJ/hOvJ die betrokken wordt bij de zaak.
+8. Het schadevergoeding document kan alleen worden ondertekend door korpsleiding of een OvJ/HOvJ/hOvJ.
+9. Schadevergoeding wordt uitgekeerd vanuit de korpsleiding op vertoon van het schadevergoeding document.
+
 ---------------------
 *Wetboek Tedeapolis is opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Tedeapolis”, opgetekend door Bram Mosterdfiets, te Tedeapolis.*
