@@ -9,19 +9,3 @@
 7. Denk erbij na dat eventuele eigen auto's altijd op kenteken achterhaald kunnen worden en change na een overval je outfit omdat je anders herkend zult worden.
 8. Het is verboden om opnieuw te vluchten als een ambulancier je gereanimeerd heeft doe je dit wel, dan zal dit resulteren in een ban.
 9. Word je geraakt door een kogel als agent of overvaller dan dien je dit ook te roleplayen dus ren niet vrolijk verder zonder het te voelen.
-
-10. Je mag bij een overval de volgende wapens gebruiken met het volgende aantal personen. Alles naast een pistool of melee wapen geldt als een klasse 2 wapen. We duiden het met klasse 1 en klasse 2 aan, onder klasse 1 vallen dus pistolen en melee en de rest valt onder klasse 2.
-
-| Persoon(en) | Regel |
-|---|---|
-| 1 | Mag zowel klasse 1 als klasse 2 wapen|
-| 2 | max 2x klasse 2 wapen |
-| 3 | max 2x klasse 2 wapen |
-| 4 | max 2x klasse 2 wapen |
-| 5 | max 1x klasse 2 wapen |
-| 6 | max 1x klasse 2 wapen |
-| 7 | max 1x klasse 2 wapen |
-| 8 | max 0x klasse 2 wapen |
-| 9 | max 0x klasse 2 wapen |
-| 10 | max 0x klasse 2 wapen |
-| 11 | max 0x klasse 2 wapen |
