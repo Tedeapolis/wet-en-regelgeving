@@ -841,7 +841,7 @@
 
 ## Titel IX – Schadevergoeding
 
-## Artikel IX-1 (Im)materiële schadevergoeding voor onterechte inverzekeringstelling of voorlopige hechtenis (artikel 533 sv)
+### Artikel IX-1 (Im)materiële schadevergoeding voor onterechte inverzekeringstelling of voorlopige hechtenis (artikel 533 sv)
 
 1. Indien de zaak eindigt zonder oplegging van straf of maatregel of met zodanige oplegging, doch op grond van een feit waarvoor voorlopige hechtenis niet is toegelaten, wordt hem een vergoeding uit de overheid kas toegekend voor de schade welke hij ten gevolge van ondergane inverzekeringstelling of voorlopige hechtenis heeft geleden.
 2. Onder een vergoeding, als bedoeld in het eerste lid vallen o.a. kosten van een advocaat, vergoeding vanwege onterechte detentie/vrijheidsberoving en misgelopen inkomsten vanwege het niet kunnen uitvoeren van persoon zijn werk.
@@ -857,7 +857,7 @@
 | per 1 uur gevangenis | €5,000 |
 | Advocaat kosten | n.t.b. |
 
-## Artikel IX-2 (Im)materiële schadevergoeding voor buitensporig geweld door overheidsmedewerker
+### Artikel IX-2 (Im)materiële schadevergoeding voor buitensporig geweld door overheidsmedewerker
 
 1. De overheidsmedewerker die is aangesteld voor de uitvoering van de politietaak, is bevoegd in de rechtmatige uitoefening van zijn bediening geweld of vrijheidsbeperkende middelen te gebruiken, wanneer het daarmee beoogde doel dit, mede gelet op de aan het gebruik hiervan verbonden gevaren, rechtvaardigt en dat doel niet op een andere wijze kan worden bereikt. Aan het gebruik van geweld gaat zo mogelijk een waarschuwing vooraf.
 2. Bij bepaling of buitensporig geweld van toepassing is wordt uitgegaan van Artikel A9 lid 3 Subsidiariteit en Artikel A9 lid 4 Proportionaliteit.
@@ -877,7 +877,7 @@
 | Onterecht inzet surveillancehond als geweldsmiddel | €5,000 |
 | Onterecht gebruik vuurwapen (cat. 2) als geweldsmiddel | €7,000 |
 
-## Artikel IX-3 (Im)materiële schadevergoeding voor buitensporig geweld door burger jegens overheidsmedewerker
+### Artikel IX-3 (Im)materiële schadevergoeding voor buitensporig geweld door burger jegens overheidsmedewerker
 
 1. Een overheidsmedewerker zoals bedoeld in dit artikel is een ambtenaar in functie werkzaam voor: Politie/KMAR, Ambulance of Justitie.
 2. Bij bepaling of buitensporig geweld van toepassing is wordt uitgegaan van Artikel II-6 Eenvoudige mishandeling (300 SR), Artikel II-7 Zware mishandeling (302 SR), Artikel II-2 Gijzeling (282 SR) en Artikel II-3 Bedreiging (285 SR). Artikel II-4 Doodslag (287 SR) en Artikel II-5 Moord (289 SR) zijn alleen van toepassing indien het een "poging tot" betreft.
