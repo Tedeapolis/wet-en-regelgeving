@@ -488,7 +488,7 @@
 | Doorrijden bij een stopbord | €140  |
 | Illegaal inhalen | €380  |
 
-### Artikel III-14 Illegale voertuigen ##
+### Artikel III-14 Illegale voertuigen
 
 1. Schuldig is een persoon die weet of redelijkerwijs behoort te weten dat zijn of haar voertuig staat aangegeven als illegaal voertuig en zich bevind op een plek of plaats anders dan eigen- en/of privéterrein.
 2. Onder illegaal voertuig wordt verstaan, elk voertuig dat is aangeduid als 'illegaal' bij de cardealer en/of in onderstaande tabel is vermeld.
