@@ -15,7 +15,7 @@ Dit document is opgesteld om wat duidelijkheid te bieden wat betreft het streame
 
 ## Sancties
 
-* Bij het streamen van een drugs locatie op het vasteland van Tedeapolis zal er een ban van een week worden uitgedeeld bij een volgende overtreding zal er over worden gegaan naar een ban van een maand.
+* Bij het streamen van alle drugs gerelateerde locaties op het vasteland van Tedeapolis zal er bij de eerste overtreding een ban van een week worden uitgedeeld, bij een volgende overtreding zal er over worden gegaan naar een ban van een maand.
 
 ## Bepaling en rechten
 
