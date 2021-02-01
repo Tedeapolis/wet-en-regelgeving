@@ -394,11 +394,11 @@ Het overtreden van het feit beschreven in lid 1 zal worden gestraft met een stra
 ### Artikel 48 - Demonstreren
 
 1. Het is verboden om in grote groepen samen te komen en te demonstreren zonder dat hier:
-    * Schriftelijke toestemming voor is van de hogeraad.
+    * Schriftelijk toestemming voor is van de hogeraad.
     * Één persoon de leiding heeft bij deze groep.
     * Een aangewezen plek is voor de demonstratie.
-2. Bij overtreding van deze regel zullen alle betrokken personen een straf krijgen van de 2e categorie.
-3. Mocht de demonstratie uit de hand lopen als deze voldoet aan lid 1 zal de aangewezen persoon een straf krijgen van de 3e categorie.
+2. Bij overtreding van één van deze regel zullen alle betrokken personen een straf krijgen van de 2e categorie.
+3. Mocht de demonstratie uit de hand lopen indien deze wel voldoet aan lid 1 zal de leidinggevende persoon een straf krijgen van de 3e categorie.
 
 ## Tijdelijke bepalingen
 
