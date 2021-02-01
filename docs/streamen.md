@@ -13,9 +13,6 @@ Dit document is opgesteld om wat duidelijkheid te bieden wat betreft het streame
 * De naam Tedeapolis moet in de titel van de stream staan zodat het ook door ons gevonden kan worden.
 * Het is niet toegestaan om drugs locaties te streamen.
 
-## Sancties
-
-* Bij het streamen van een drugs locatie zal er een ban van een week uitgedeeld voor de eerste keer bij een volgende overtreding zal er overworden gegaan naar een ban van een maand.
 
 ## Bepaling en rechten
 
