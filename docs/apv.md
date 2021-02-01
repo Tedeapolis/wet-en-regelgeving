@@ -391,9 +391,18 @@ Het overtreden van het feit beschreven in lid 1 zal worden gestraft met een stra
 | Overheidsbaan | Criminele organisatie | een week |
 | Criminele organisatie | Overheidsbaan | een week |
 
+### Artikel 48 - Demonstreren
+
+1. Het is verboden om in grote groepen samen te komen en te demonstreren zonder dat hier:
+    * Schriftelijk toestemming voor is van de hogeraad.
+    * Één persoon de leiding heeft bij deze groep.
+    * Een aangewezen plek is voor de demonstratie.
+2. Bij overtreding van één van deze regel zullen alle betrokken personen een straf krijgen van de 2e categorie.
+3. Mocht de demonstratie uit de hand lopen indien deze wel voldoet aan lid 1 zal de leidinggevende persoon een straf krijgen van de 3e categorie.
+
 ## Tijdelijke bepalingen
 
-### Artikel 48 - Uitbreken uit de gevangenis
+### Artikel 49 - Uitbreken uit de gevangenis
 
 1. Het is verboden om tussen 01:00 en 08:00 uit de gevangenis te breken.
 2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 2e categorie uitgedeeld.
