@@ -98,6 +98,7 @@
    * onschuldpresumptie, waarbij een verdachte onschuldig is tot het tegendeel bewezen is;
    * détournement de pouvoir, waarbij de wet alleen mag toegepast worden waar deze voor bedoeld is;
    * ne bis in idem, waarbij iemand niet tweemaal veroordeeld mag worden voor hetzelfde feit;
+   * Het schutznorm-beginsel, waarbij er geen rechtsgevolg of sanctie wordt gekoppeld aan een vormfout als de verdachte niet zelf is getroffen in een (verdedigings)belang dat door het geschonden vormvoorschrift wordt beschermd. 
 
 ## Titel I - Vermogensdelicten
 
@@ -726,14 +727,17 @@
 
 ### Artikel VII-2 Vormfouten
 
-1. Uitgesloten van rechtsvervolging is een persoon wiens telastelegging versperd wordt door een of meerdere vormfouten, zijnde:
+1. De (hulp-)Officier van justitie en de rechter kan/kunnen, indien blijkt dat bij het voorbereidend onderzoek vormen zijn verzuimd die niet meer kunnen worden hersteld en de rechtsgevolgen hiervan niet uit de wet blijken, bepalen dat:
+2. de hoogte van de straf in verhouding tot de ernst van het verzuim, zal worden verlaagd, indien het door het verzuim veroorzaakte nadeel langs deze weg kan worden      gecompenseerd;
+3. de resultaten van het onderzoek die door het verzuim zijn verkregen, niet mogen bijdragen aan het bewijs van het telastegelegde feit;
+4. de verdachte uitgesloten is van rechtsvervolging;
+5. De in lid 4 toegepaste sanctie kan enkel worden gebruikt indien door het verzuim geen sprake kan zijn van een behandeling van de zaak die aan de beginselen van een behoorlijke procesorde voldoet.
+6. Bij de toepassing van de sancties in lid 2, 3 en 4 dient rekening gehouden te worden met het Schutznorm-beginsel 
+7. Met onherstelbaar vormverzuim wordt onder andere bedoeld:  
    * een vooringenomen, sturende, druk uitoefenende manier van verhoren;
    * wanneer ontlastende informatie wordt verzwegen, en/of bewijsmateriaal wordt vernietigd;
-   * het niet afgeven van de cautie (*"het voorlezen van de rechten"*) aan verdachte voorafgaand aan het verhoor;
-   * verhoren van een verdachte voordat hij of zij het recht tot consultatie heeft kunnen gebruiken;
-   * wanneer er een onvolledig, onzorgvuldig onderzoek is gepleegd;
    * het tappen van een met geheimhoudingsplicht bezwaarde professional, zoals arts, notaris, geestelijke, apotheker, advocaat;
-   * het voeren van een meinedig proces-verbaal zijnde tegenstrijdigheid met andere processen-verbaal, verklaringen onder ede, camerabeelden, geluidsopnamen;
+   * het voeren van een meinedig proces-verbaal zijnde tegenstrijdigheid met andere processen-verbaal, camerabeelden, geluidsopnamen;
 
 ### Artikel VII-3 Strafvermindering (44a.2 SR)
 
