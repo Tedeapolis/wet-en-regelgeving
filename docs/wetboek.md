@@ -66,6 +66,7 @@
    * Is er een vastgesteld maximum voor bovenstaande uitkoopbedragen van ten hoogste €200,000
    * Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eigenaar geen strafbaar feit ten laste is gelegd, of kan gelegd worden, welke in directe zin gekoppeld is aan de reden van inbeslagname.
    * Wanneer het voertuig bewijsbaar onderdeel was van het misdrijf en de eigenaar daarvan overleden is, dan zal het voertuig uitgekocht kunnen worden voor 20% van de cataloguswaarde.
+   * Uitzonderingsgrond voor teruggave van het voertuig is, indien het een voertuig betreft zoals omschreven in Artikel III-14 Illegale voertuigen. In dit geval zal het voertuig worden vernietigd.
 
 ### A7 - Openstaande boetes
 
@@ -486,6 +487,22 @@
 | Onnodig links rijden | €140  |
 | Doorrijden bij een stopbord | €140  |
 | Illegaal inhalen | €380  |
+
+### Artikel III-14 Illegale voertuigen
+
+1. Schuldig is een persoon die weet of redelijkerwijs behoort te weten dat zijn of haar voertuig staat aangegeven als illegaal voertuig en zich bevind op een plek of plaats anders dan eigen- en/of privéterrein.
+2. Onder illegaal voertuig wordt verstaan, elk voertuig dat is aangeduid als 'illegaal' bij de cardealer en/of in onderstaande tabel is vermeld.
+3. Indien persoon wordt aangetroffen op zijn of haar voertuig zoals bedoeld in lid 1, wordt het voertuig direct in beslag genomen en vernietigd.
+4. Indien persoon zoals bedoeld in lid 3 niet de eigenaar van het voertuig is, wordt het voertuig tevens direct in beslag genomen en vernietigd.
+5. De eigenaar van het voertuig blijft verantwoordelijk, ook al wordt het voertuig met een andere bestuurder aangetroffen.
+
+| Illegale voertuigen | Soort |
+|---|---|
+| Cliffhanger | Motor |
+| Dune Buggy | Buggy |
+| Manchez | Motor |
+| Sanchez | Motor |
+| Sanchez Sport | Motor |
 
 ## Titel IV - Opiumwet
 
