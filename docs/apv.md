@@ -144,7 +144,8 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 3. Enkele voorbeelden hiervoor zijn:
     * zodra iemand een pistool op je richt binnen 50 meter en er geen beschutting is, blijf je staan, werk je mee en val je deze persoon niet aan.
     * Zodra iemand een mes trekt binnen 10 meter van je werk je mee, doe je dit niet ben je niet zuinig met je leven aangezien je dat bewust het risico neemt neergestoken te worden.
-    * Elke andere vorm waarmee je bewust je eigen leven in een té groot gevaar brengt valt onder no value of life, dus gebruik je gezonde verstand om de situatie in te schatten.     * De beslissing van een stafflid betreft alle bovenstaande en overige situaties is altijd leidend. 
+    * Elke andere vorm waarmee je bewust je eigen leven in een té groot gevaar brengt valt onder no value of life, dus gebruik je gezonde verstand om de situatie in te schatten. 
+    * De beslissing van een stafflid betreft alle bovenstaande en overige situaties is altijd leidend. 
 
 ### Artikel 12 - New Life Rule
 
