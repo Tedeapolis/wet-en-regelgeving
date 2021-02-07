@@ -98,7 +98,7 @@
    * hoor en wederhoor, waarbij alle partijen recht hebben om hun zegje te doen;
    * onschuldpresumptie, waarbij een verdachte onschuldig is tot het tegendeel bewezen is;
    * détournement de pouvoir, waarbij de wet alleen mag toegepast worden waar deze voor bedoeld is;
-   * ne bis in idem, waarbij iemand niet tweemaal veroordeeld mag worden voor hetzelfde feit;
+   * ne bis in idem, waarbij iemand niet tweemaal vervolgd mag worden voor hetzelfde feit en dezelfde casus;
 
 ## Titel I - Vermogensdelicten
 
