@@ -142,9 +142,9 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 1. Hij/zij die geen waarde hecht aan het leven van zijn karakter zal gestraft worden zal gestraft worden met een straf volgens de 1e categorie.
 2. De overtreding zoals beschreven in lid 1 staat bekend als “no value of life”
 3. Enkele voorbeelden hiervoor zijn:
-    * zodra iemand een pistool op je richt binnen 50 meter en er geen beschutting is, blijf je staan en val je deze persoon niet aan. Binnen 10 meter kun je de persoon echter wel proberen aan te vallen. Aangezien anders de kans dat je neergeschoten wordt dusdanig groot is dat er vanuit kan worden gegaan dat je geen rekening houdt met je eigen leven.
+    * zodra iemand een pistool op je richt binnen 50 meter en er geen beschutting is, blijf je staan, werk je mee en val je deze persoon niet aan.
     * Zodra iemand een mes trekt binnen 10 meter van je werk je mee, doe je dit niet ben je niet zuinig met je leven aangezien je dat bewust het risico neemt neergestoken te worden.
-    * Elke andere vorm waarmee je bewust je eigen leven in een té groot gevaar brengt valt onder no value of life, echter zullen andere situaties minder hard gelden dan de bovengenoemde situaties. Dus gebruik je gezonde verstand om de situatie in te schatten.
+    * Elke andere vorm waarmee je bewust je eigen leven in een té groot gevaar brengt valt onder no value of life, dus gebruik je gezonde verstand om de situatie in te schatten.     * De beslissing van een stafflid betreft alle bovenstaande en overige situaties is altijd leidend. 
 
 ### Artikel 12 - New Life Rule
 
@@ -249,10 +249,10 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 ### Artikel 27 - Overvallen & Oplichten
 
-1. Het overvallen/oplichten van mensen is verboden, dit mag alleen wanneer een persoon bezig is met criminele activiteiten.
-2. Het is in geen enkele situatie toegestaan om geld van mensen hun bank te stelen of om te scammen met voertuigen.
+1. Het overvallen/oplichten/bestelen van mensen is verboden, dit mag alleen wanneer een persoon bezig is met criminele activiteiten.
+2. Het is in geen enkele situatie toegestaan om geld van mensen hun bank te stelen, om te scammen met voertuigen, om spelers te overvallen bij het gemeentehuis of om facturen en/of andere items te spelen van spelers die bezig zijn met een burgerjob.
 3. Met criminele activiteiten zoals vermeldt in lid 1 worden dingen met betrekking tot drugs, overvallen, witwassen etc bedoeld, en dus geen overtredingen.
-4. Bij een overtreding van de wet in lid 1 wordt de persoon gestraft volgens de 3e categorie en wordt het geld teruggegeven aan het slachtoffer. Wanneer de persoon het geld al heeft uitgegeven zal het resulteren in straf van de 8e categorie.
+4. Bij een overtreding van de wet in lid 1 wordt de persoon gestraft volgens de 4e categorie en wordt het geld teruggegeven aan het slachtoffer. Wanneer de persoon het geld al heeft uitgegeven zal het resulteren in straf van de 8e categorie.
 5. Contant geld volgens lid 1 is geld wat de persoon op dat moment op zak heeft.
 6. Hou hiermee wel rekening dat het bij het vergrijp zoals beschreven in lid 1 niet de bedoeling is hiermee misbruik te maken van onwetendheid van mensen, dus vermijd het oplichten van nieuwe spelers.
 7. Het is voor criminelen toegestaan om mensen gedurende langere tijd te ondervragen en/of te martelen. Echter mag dit maximaal circa 2 uur duren. Er dient ook goede roleplay aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
@@ -349,8 +349,10 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 
 ### Artikel 41 - Stemherkenning
 
-1. Het is niet toegestaan om een speler te herkennen aan zijn/haar stem als deze zich zodanig heeft gekleed dat hij/zij op uiterlijk onherkenbaar is.
-Het overtreden van het feit beschreven in lid 1 zal worden gestraft met een straf van de eerste categorie.
+1. Het is toegestaan om een speler te herkennen aan zijn/haar stem, tenzij je hem/haar totaal niet kent. 
+2. Indien de speler duidelijk moeite doet om zijn stem te vervormen, dan is het niet toegestaan om een speler aan zijn/haar stem te herkennen.
+3. Het is toegestaan om gebruik te maken van externe software om je stem te vervormen gedurende het uitvoeren van criminele activiteiten, echter dient dit normaal te blijven. Robotstemmen, babystemmen en dergelijke zijn niet toegestaan. Als algemene richtlijn dient er aangehouden te worden dat je enkel je stem zwaarder mag maken. 
+4. Het overtreden van de feiten beschreven in dit artikel zullen worden gestraft met een straf van de eerste categorie.
 
 ### Artikel 42 - Streamsniping
 
