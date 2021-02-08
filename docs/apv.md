@@ -251,13 +251,12 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 ### Artikel 27 - Overvallen & Oplichten
 
 1. Het overvallen/oplichten/bestelen van mensen is verboden, dit mag alleen wanneer een persoon bezig is met criminele activiteiten.
-2. Het is in geen enkele situatie toegestaan om geld van mensen hun bank te stelen, om te scammen met voertuigen, om spelers te overvallen bij het gemeentehuis of om facturen en/of andere items te spelen van spelers die bezig zijn met een burgerjob.
-3. Met criminele activiteiten zoals vermeldt in lid 1 worden dingen met betrekking tot drugs, overvallen, witwassen etc bedoeld, en dus geen overtredingen.
-4. Bij een overtreding van de wet in lid 1 wordt de persoon gestraft volgens de 4e categorie en wordt het geld teruggegeven aan het slachtoffer. Wanneer de persoon het geld al heeft uitgegeven zal het resulteren in straf van de 8e categorie.
-5. Contant geld volgens lid 1 is geld wat de persoon op dat moment op zak heeft.
-6. Hou hiermee wel rekening dat het bij het vergrijp zoals beschreven in lid 1 niet de bedoeling is hiermee misbruik te maken van onwetendheid van mensen, dus vermijd het oplichten van nieuwe spelers.
-7. Het is voor criminelen toegestaan om mensen gedurende langere tijd te ondervragen en/of te martelen. Echter mag dit maximaal circa 2 uur duren. Er dient ook goede roleplay aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
-8. Bij een overtreding van de regel in lid 7 wordt de persoon gestraft volgens de 1e categorie en zal het scenario onmiddellijk worden teruggedraaid.
+2. Het is in geen enkele situatie toegestaan om geld van mensen hun bank te stelen, om te scammen met voertuigen, om spelers te overvallen, te ontvoeren of negatief te bejegenen bij het gemeentehuis of om facturen en/of andere items te spelen van spelers die bezig zijn met een burgerjob.
+3. Met criminele activiteiten zoals vermeld in lid 1 worden dingen met betrekking tot drugs, overvallen, witwassen etc bedoeld, en dus geen overtredingen.
+4. Bij een overtreding van de wet in lid 1 en/of lid 2 wordt de persoon gestraft volgens de 4e categorie en wordt het geld teruggegeven aan het slachtoffer. Wanneer de persoon het geld al heeft uitgegeven zal het resulteren in straf van de 8e categorie.
+5. Hou hiermee wel rekening dat het bij het vergrijp zoals beschreven in lid 1 niet de bedoeling is hiermee misbruik te maken van onwetendheid van mensen, dus vermijd het oplichten van nieuwe spelers.
+6. Het is voor criminelen toegestaan om mensen gedurende langere tijd te ondervragen en/of te martelen. Echter mag dit maximaal circa 2 uur duren. Er dient ook goede roleplay aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
+7. Bij een overtreding van de regel in lid 6 wordt de persoon gestraft volgens de 1e categorie en zal het scenario onmiddellijk worden teruggedraaid.
 
 ### Artikel 28 - Criminaliteit & Ambtenaren
 
@@ -351,9 +350,10 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 ### Artikel 41 - Stemherkenning
 
 1. Het is toegestaan om een speler te herkennen aan zijn/haar stem, tenzij je hem/haar totaal niet kent. 
-2. Indien de speler duidelijk moeite doet om zijn stem te vervormen, dan is het niet toegestaan om een speler aan zijn/haar stem te herkennen.
-3. Het is toegestaan om gebruik te maken van externe software om je stem te vervormen gedurende het uitvoeren van criminele activiteiten, echter dient dit normaal te blijven. Robotstemmen, babystemmen en dergelijke zijn niet toegestaan. Als algemene richtlijn dient er aangehouden te worden dat je enkel je stem zwaarder mag maken. 
-4. Het overtreden van de feiten beschreven in dit artikel zullen worden gestraft met een straf van de eerste categorie.
+2. Bij de uitzondering in lid 1 dien je aan te kunnen tonen dat je de persoon daadwerkelijk kent. 
+3. Indien de speler duidelijk moeite doet om zijn stem te vervormen, dan is het niet toegestaan om een speler aan zijn/haar stem te herkennen.
+4. Het is toegestaan om gebruik te maken van externe software om je stem te vervormen gedurende het uitvoeren van criminele activiteiten, echter dient dit normaal te blijven. Robotstemmen, babystemmen en dergelijke zijn niet toegestaan. Als algemene richtlijn dient er aangehouden te worden dat je enkel je stem zwaarder mag maken. 
+5. Het overtreden van de feiten beschreven in dit artikel zullen worden gestraft met een straf van de eerste categorie.
 
 ### Artikel 42 - Streamsniping
 
