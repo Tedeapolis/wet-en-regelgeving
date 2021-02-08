@@ -844,7 +844,7 @@
 | Tweede Veroordeling  |   | 40 uur  | €2,000 |
 | Meerdere Veroordelingen  |   | 50 uur | €3,000 |
 
-### Artikel VIII-11 Bescherming van in het wild levende diersoorten
+### Artikel VIII-12 Bescherming van in het wild levende diersoorten
 1. Onder beschermd wordt verstaan: diersoorten die wettelijk beschermd zijn, bijvoorbeeld omdat zij bedreigd worden in hun voortbestaan of beschermd moeten worden tegen overmatige benutting.
 2. Een persoon is schuldig wanneer deze weet of behoort te weten dat het verboden is om jacht te maken op dieren die bij wet beschermd zijn en bij zich draagt.
 3. Een persoon is schuldig wanneer deze een beschermd dier bij zich draagt met het oogmerk het dier te verkopen.
