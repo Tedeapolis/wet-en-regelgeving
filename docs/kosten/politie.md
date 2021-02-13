@@ -79,7 +79,6 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Lokaalvredebreuk tweede veroordeling | €2000,- |
 | Lokaalvredebreuk derde veroordeling | €3000,- |
 
-
 ## Middelmatig misdrijf
 
 |Feit|Boete bedrag|
@@ -103,7 +102,6 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Huisvredebreuk eerste veroordeling | €2000,- |
 | Huisvredebreuk tweede veroordeling | €4000,- |
 | Huisvredebreuk derde veroordeling | €6000,- |
-
 
 ## Grootmisdrijf
 
