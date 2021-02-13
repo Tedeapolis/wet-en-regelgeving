@@ -79,6 +79,7 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Lokaalvredebreuk tweede veroordeling | €2000,- |
 | Lokaalvredebreuk derde veroordeling | €3000,- |
 
+
 ## Middelmatig misdrijf
 
 |Feit|Boete bedrag|
@@ -99,6 +100,10 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | In het bezit zijn van taser | €5000,- |
 | In het bezit zijn van een slag/steekwapen | €5000,- |
 | Deelname aan een criminele organisatie | €3000,- |
+| Huisvredebreuk eerste veroordeling | €2000,- |
+| Huisvredebreuk tweede veroordeling | €4000,- |
+| Huisvredebreuk derde veroordeling | €6000,- |
+
 
 ## Grootmisdrijf
 
@@ -118,6 +123,9 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Moord op een overheidsmedewerker | €26600,- |
 | Overval | €20000,- |
 | Witwassen | €15000,- |
+| Betreden van verboden militair domein eerste veroordeling | €10000,- |
+| Betreden van verboden militair domein tweede veroordeling | €15000,- |
+| Betreden van verboden militair domein derde veroordeling | €20000,- |
 | Zonder Vliegbrevet vliegen | €75000,- |
 
 !!! attention "LET OP"
