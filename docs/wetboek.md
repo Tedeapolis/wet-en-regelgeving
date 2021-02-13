@@ -804,7 +804,6 @@
 | **Tweede Veroordeling**  |   |   | €120  |
 | **Meerdere Veroordelingen**  |   | 5 uur  | €120  |
 
-
 ### Artikel VIII-6 Dragen van gezichtsbedekkende kledij (1 Wet gedeeltelijk verbod gezichtsbedekkende kleding)
 
 1. Schuldig is een persoon die kleding draagt, die het gezicht geheel bedekt of zodanig bedekt dat alleen de ogen onbedekt zijn, dan wel onherkenbaar maakt, op straffe van een boete van €200,- per geval.
