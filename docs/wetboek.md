@@ -66,6 +66,7 @@
    * Is er een vastgesteld maximum voor bovenstaande uitkoopbedragen van ten hoogste €200,000
    * Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eigenaar geen strafbaar feit ten laste is gelegd, of kan gelegd worden, welke in directe zin gekoppeld is aan de reden van inbeslagname.
    * Wanneer het voertuig bewijsbaar onderdeel was van het misdrijf en de eigenaar daarvan overleden is, dan zal het voertuig uitgekocht kunnen worden voor 20% van de cataloguswaarde.
+   * Uitzonderingsgrond voor teruggave van het voertuig is, indien het een voertuig betreft zoals omschreven in Artikel III-14 Illegale voertuigen. In dit geval zal het voertuig worden vernietigd.
 
 ### A7 - Openstaande boetes
 
@@ -98,8 +99,7 @@
    * onschuldpresumptie, waarbij een verdachte onschuldig is tot het tegendeel bewezen is;
    * détournement de pouvoir, waarbij de wet alleen mag toegepast worden waar deze voor bedoeld is;
    * ne bis in idem, waarbij iemand niet tweemaal veroordeeld mag worden voor hetzelfde feit;
-   * Het schutznorm-beginsel, waarbij er geen rechtsgevolg of sanctie wordt gekoppeld aan een vormfout als de verdachte niet zelf is getroffen in een (verdedigings)belang dat door het geschonden vormvoorschrift wordt beschermd. 
-
+   * Het schutznorm-beginsel, waarbij er geen rechtsgevolg of sanctie wordt gekoppeld aan een vormfout als de verdachte niet zelf is getroffen in een (verdedigings)belang dat door het geschonden vormvoorschrift wordt beschermd.
 ## Titel I - Vermogensdelicten
 
 ![Titel I](img/wetboek/Vermogen.png)
@@ -488,6 +488,22 @@
 | Doorrijden bij een stopbord | €140  |
 | Illegaal inhalen | €380  |
 
+### Artikel III-14 Illegale voertuigen
+
+1. Schuldig is een persoon die weet of redelijkerwijs behoort te weten dat zijn of haar voertuig staat aangegeven als illegaal voertuig en zich bevind op een plek of plaats anders dan eigen- en/of privéterrein.
+2. Onder illegaal voertuig wordt verstaan, elk voertuig dat is aangeduid als 'illegaal' bij de cardealer en/of in onderstaande tabel is vermeld.
+3. Indien persoon wordt aangetroffen op zijn of haar voertuig zoals bedoeld in lid 1, wordt het voertuig direct in beslag genomen en vernietigd.
+4. Indien persoon zoals bedoeld in lid 3 niet de eigenaar van het voertuig is, wordt het voertuig tevens direct in beslag genomen en vernietigd.
+5. De eigenaar van het voertuig blijft verantwoordelijk, ook al wordt het voertuig met een andere bestuurder aangetroffen.
+
+| Illegale voertuigen | Soort |
+|---|---|
+| Cliffhanger | Motor |
+| Dune Buggy | Buggy |
+| Manchez | Motor |
+| Sanchez | Motor |
+| Sanchez Sport | Motor |
+
 ## Titel IV - Opiumwet
 
 ![Titel IV](img/wetboek/opium.png)
@@ -791,17 +807,7 @@
 | **Tweede Veroordeling**  |   |   | €120  |
 | **Meerdere Veroordelingen**  |   | 5 uur  | €120  |
 
-### Artikel VIII-6 Onbevoegd begeven op privé terrein (461 SR)
-
-1. Schuldig is een persoon die zich zonder toestemming, wederrechtelijk, toegang verschaft tot een terrein of locatie.
-
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** |   |   | €180  |
-| **Tweede Veroordeling**  |   |   | €180  |
-| **Meerdere Veroordelingen**  |   | 5 uur  | €180  |
-
-### Artikel VIII-7 Dragen van gezichtsbedekkende kledij (1 Wet gedeeltelijk verbod gezichtsbedekkende kleding)
+### Artikel VIII-6 Dragen van gezichtsbedekkende kledij (1 Wet gedeeltelijk verbod gezichtsbedekkende kleding)
 
 1. Schuldig is een persoon die kleding draagt, die het gezicht geheel bedekt of zodanig bedekt dat alleen de ogen onbedekt zijn, dan wel onherkenbaar maakt, op straffe van een boete van €200,- per geval.
 2. Het eerste lid is niet van toepassing, voor zover kleding als bedoeld in dat lid:
@@ -810,7 +816,7 @@
    * noodzakelijk is in verband met eisen die aan de uitoefening van een beroep of sport worden gesteld,
    * passend is in verband met het deelnemen aan een feestelijke of een culturele activiteit.
 
-### Artikel VIII-8 Identiteitsfraude
+### Artikel VIII-7 Identiteitsfraude
 
 1. Schuldig is een persoon die zich uitgeeft als iemand anders, onder naam van iemand anders, in naam van iemand anders, of gelieerd aan iemand anders met als doel daaruit een gewin te behalen in brede zin.
 
@@ -820,7 +826,7 @@
 | **Tweede Veroordeling**  |   |   | €4,000  |
 | **Meerdere Veroordelingen**  |   | 20 uur  | €6,000  |
 
-### Artikel VIII-9 Deelname aan een criminele organisatie
+### Artikel VIII-8 Deelname aan een criminele organisatie
 
 1. Schuldig is een persoon die deelneemt aan, steun verleent aan, of gelieerd is aan een organisatie die tot doel heeft het plegen van misdrijven.
 2. Ten aanzien van de oprichters, leiders of bestuurders kunnen de gevangenisstraffen met een derde worden verhoogd.
@@ -832,7 +838,7 @@
 | **Tweede Veroordeling**  |   | 20 uur  | €6,000  |
 | **Meerdere Veroordelingen**  | 20 maanden  |  | €9,000  |
 
-### Artikel VIII-10 Lokaalvredebreuk (139 SR)
+### Artikel VIII-9 Lokaalvredebreuk (139 SR)
 
 1. Schuldig is een persoon die in een voor de openbare dienst bestemd lokaal, openbare ruimte of besloten erf dat bestemd is voor de openbare dienst, wederrechtelijk binnendringt, of, wederrechtelijk aldaar vertoevende, zich niet op de vordering van de bevoegde ambtenaar aanstonds verwijdert.
 2. Schuldig is een persoon die zich de toegang heeft verschaft door middel van braak of inklimming, van valse sleutels, van een valse order of een vals kostuum, of die zonder voorkennis van de bevoegde ambtenaar en anders dan ten gevolge van vergissing binnengekomen, aldaar wordt aangetroffen in de voor de nachtrust bestemde tijd, wordt geacht te zijn binnengedrongen.
@@ -842,6 +848,33 @@
 |  Eerste Veroordeling |   | 35 uur  | €1,500  |
 | Tweede Veroordeling  |   | 40 uur  | €2,000  |
 | Meerdere Veroordelingen  |   | 50 uur | €3,000  |
+
+### Artikel VIII-10 Huisvredebreuk (138 SR)
+
+1. Schuldig is een persoon die een woning of besloten lokaal of erf bij een ander in gebruik, wederrechtelijk binnendringt of, wederrechtelijk aldaar vertoevende, zich niet op de vordering van of vanwege de rechthebbende aanstonds verwijdert.
+2. Schuldig is een persoon die zich de toegang heeft verschaft door middel van braak of inklimming, van lockpicks, van een valse order of vals kostuum, of die, zonder voorkennis van de rechthebbende en anders dan ten gevolge van vergissing binnengekomen, aldaar wordt aangetroffen in de voor de nachtrust bestemde tijd, wordt geacht te zijn binnengedrongen.
+
+|  |Celstraf  | Taakstraf  | boete  |
+|---|---|---|---|
+|  Eerste Veroordeling |   | 20 uur | €2.000 |
+| Tweede Veroordeling  |   | 40 uur  | €4.000 |
+| Meerdere Veroordelingen  |   | 50 uur | €6.000|
+
+### Artikel VIII-11 Betreden van verboden militair domein
+
+1. Schuldig is een persoon die zonder daartoe gerechtigd is, over iemand anders zijn grond waarvan de toegang op een voor hem blijkbare wijze door den rechthebbende is verboden, loopt, rijdt of vee laat lopen.
+
+| Bij wet geclassificeerde militaire domeinen |
+|---|
+| Luchtmachtbasis |
+| Vliegdekschip |
+|  |
+
+|  |Celstraf  | Taakstraf  | boete  |
+|---|---|---|---|
+|  Eerste Veroordeling | 20 maanden |  | €10.000  |
+| Tweede Veroordeling  | 40 maanden | | €15.000  |
+| Meerdere Veroordelingen  | 60 maanden |  | €20.000  |
 
 ## Titel IX – Schadevergoeding
 

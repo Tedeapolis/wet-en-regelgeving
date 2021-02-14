@@ -142,9 +142,10 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 1. Hij/zij die geen waarde hecht aan het leven van zijn karakter zal gestraft worden zal gestraft worden met een straf volgens de 1e categorie.
 2. De overtreding zoals beschreven in lid 1 staat bekend als “no value of life”
 3. Enkele voorbeelden hiervoor zijn:
-    * zodra iemand een pistool op je richt binnen 50 meter en er geen beschutting is, blijf je staan en val je deze persoon niet aan. Binnen 10 meter kun je de persoon echter wel proberen aan te vallen. Aangezien anders de kans dat je neergeschoten wordt dusdanig groot is dat er vanuit kan worden gegaan dat je geen rekening houdt met je eigen leven.
+    * zodra iemand een pistool op je richt binnen 50 meter en er geen beschutting is, blijf je staan, werk je mee en val je deze persoon niet aan.
     * Zodra iemand een mes trekt binnen 10 meter van je werk je mee, doe je dit niet ben je niet zuinig met je leven aangezien je dat bewust het risico neemt neergestoken te worden.
-    * Elke andere vorm waarmee je bewust je eigen leven in een té groot gevaar brengt valt onder no value of life, echter zullen andere situaties minder hard gelden dan de bovengenoemde situaties. Dus gebruik je gezonde verstand om de situatie in te schatten.
+    * Elke andere vorm waarmee je bewust je eigen leven in een té groot gevaar brengt valt onder no value of life, dus gebruik je gezonde verstand om de situatie in te schatten. 
+    * De beslissing van een stafflid betreft alle bovenstaande en overige situaties is altijd leidend. 
 
 ### Artikel 12 - New Life Rule
 
@@ -249,20 +250,19 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 ### Artikel 27 - Overvallen & Oplichten
 
-1. Het overvallen/oplichten van mensen is verboden, dit mag alleen wanneer een persoon bezig is met criminele activiteiten.
-2. Het is in geen enkele situatie toegestaan om geld van mensen hun bank te stelen of om te scammen met voertuigen.
-3. Met criminele activiteiten zoals vermeldt in lid 1 worden dingen met betrekking tot drugs, overvallen, witwassen etc bedoeld, en dus geen overtredingen.
-4. Bij een overtreding van de wet in lid 1 wordt de persoon gestraft volgens de 3e categorie en wordt het geld teruggegeven aan het slachtoffer. Wanneer de persoon het geld al heeft uitgegeven zal het resulteren in straf van de 8e categorie.
-5. Contant geld volgens lid 1 is geld wat de persoon op dat moment op zak heeft.
-6. Hou hiermee wel rekening dat het bij het vergrijp zoals beschreven in lid 1 niet de bedoeling is hiermee misbruik te maken van onwetendheid van mensen, dus vermijd het oplichten van nieuwe spelers.
-7. Het is voor criminelen toegestaan om mensen gedurende langere tijd te ondervragen en/of te martelen. Echter mag dit maximaal circa 2 uur duren. Er dient ook goede roleplay aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
-8. Bij een overtreding van de regel in lid 7 wordt de persoon gestraft volgens de 1e categorie en zal het scenario onmiddellijk worden teruggedraaid.
+1. Het overvallen/oplichten/bestelen van mensen is verboden, dit mag alleen wanneer een persoon bezig is met criminele activiteiten.
+2. Het is in geen enkele situatie toegestaan om geld van mensen hun bank te stelen, om te scammen met voertuigen, om spelers te overvallen, te ontvoeren of negatief te bejegenen bij het gemeentehuis of om facturen en/of andere items te stelen van spelers die bezig zijn met een burgerjob.
+3. Met criminele activiteiten zoals vermeld in lid 1 worden dingen met betrekking tot drugs, overvallen, witwassen etc bedoeld, en dus geen overtredingen.
+4. Bij een overtreding van de wet in lid 1 en/of lid 2 wordt de persoon gestraft volgens de 4e categorie en wordt het geld teruggegeven aan het slachtoffer. Wanneer de persoon het geld al heeft uitgegeven zal het resulteren in straf van de 8e categorie.
+5. Hou hiermee wel rekening dat het bij het vergrijp zoals beschreven in lid 1 niet de bedoeling is hiermee misbruik te maken van onwetendheid van mensen, dus vermijd het oplichten van nieuwe spelers.
+6. Het is voor criminelen toegestaan om mensen gedurende langere tijd te ondervragen en/of te martelen. Echter mag dit maximaal circa 2 uur duren. Er dient ook goede roleplay aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
+7. Bij een overtreding van de regel in lid 6 wordt de persoon gestraft volgens de 1e categorie en zal het scenario onmiddellijk worden teruggedraaid.
 
 ### Artikel 28 - Criminaliteit & Ambtenaren
 
 1. Voor een ambtenaar is het niet toegestaan zich bezig te houden met illegale bezigheden.
 2. U bent als ambtenaar als je baan wordt weergegeven in het F10 menu.
-3. Indien een persoon de regel zoals beschreven in lid 1 overtreed wordt deze bestraft met een straf volgens categorie 1 en zal deze persoon ontslagen worden.
+3. Indien een persoon de regel zoals beschreven in lid 1 overtreed wordt deze bestraft met een straf volgens categorie 1 en zal deze persoon ontslagen worden en deze persoon dit beroep een week lang niet uitvoeren.
 4. Verder is het niet toegestaan om door de politie in beslag genomen objecten door te handelen naar spelers. Ditzelfde is ook van toepassing op alle andere overheids objecten.
 5. Bij een overtreding van de regel in lid 4 wordt de overtreder ontslagen en hiernaast bestraft volgens de 5e categorie.
 6. Onder overheids objecten vallen voorwerpen zoals: medkits, repair kits, politie geweren, enzovoort.
@@ -278,7 +278,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 1. Er wordt geacht van mensen geen gebruik te maken van baan voertuigen voor illegale bezigheden.
 2. Het is verplicht om voor het uitvoeren van je baan het voertuig te gebruiken dat is verstrekt door de baas.
-3. Hij/zij die de regel zoals beschreven in lid 1 en/of 2 overtreed zal bestraft worden met een straf volgens de 1e categorie, hiernaast zal de overtreder ontslagen worden.
+3. Hij/zij die de regel zoals beschreven in lid 1 en/of 2 overtreed zal bestraft worden met een straf volgens de 1e categorie, hiernaast zal de overtreder ontslagen worden en deze persoon dit beroep een week lang niet uitvoeren.
 
 ### Artikel 31 - Overval Regels
 
@@ -349,8 +349,11 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 
 ### Artikel 41 - Stemherkenning
 
-1. Het is niet toegestaan om een speler te herkennen aan zijn/haar stem als deze zich zodanig heeft gekleed dat hij/zij op uiterlijk onherkenbaar is.
-Het overtreden van het feit beschreven in lid 1 zal worden gestraft met een straf van de eerste categorie.
+1. Het is toegestaan om een speler te herkennen aan zijn/haar stem, tenzij je hem/haar totaal niet kent. 
+2. Bij de uitzondering in lid 1 dien je aan te kunnen tonen dat je de persoon daadwerkelijk kent. 
+3. Indien de speler duidelijk moeite doet om zijn stem te vervormen, dan is het niet toegestaan om een speler aan zijn/haar stem te herkennen.
+4. Het is toegestaan om gebruik te maken van externe software om je stem te vervormen gedurende het uitvoeren van criminele activiteiten, echter dient dit normaal te blijven. Robotstemmen, babystemmen en dergelijke zijn niet toegestaan. Als algemene richtlijn dient er aangehouden te worden dat je enkel je stem zwaarder mag maken. 
+5. Het overtreden van de feiten beschreven in dit artikel zullen worden gestraft met een straf van de eerste categorie.
 
 ### Artikel 42 - Streamsniping
 
@@ -380,7 +383,7 @@ Het overtreden van het feit beschreven in lid 1 zal worden gestraft met een stra
 
 1. (Ex-)leden van een criminele organisatie dienen minimaal een week te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een overheidsbaan of een andere criminele organisatie, tenzij anders is bepaald door een lid van de hoge raad.
 2. (Ex-)medewerkers van een overheidsbaan dienen minimaal een week te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een andere overheidsbaan of een criminele organisatie, tenzij anders is bepaald door een lid van de hoge raad.
-3. Bij overtreding van de feiten beschreven in lid 1 en/of lid 2 wordt een straf van de 1e categorie uitgedeeld en zal de desbetreffende persoon worden ontslagen.
+3. Bij overtreding van de feiten beschreven in lid 1 en/of lid 2 wordt een straf van de 1e categorie uitgedeeld en zal de desbetreffende persoon worden ontslagen en deze persoon dit beroep een week lang niet uitvoeren.
 4. Het is voor de leidinggevenden van overheidsbanen en criminele organisaties verplicht om een document bij te houden met informatie omtrent de in- en uitdiensttreding van hun medewerkers ten behoeve van de handhaving van dit artikel.
 5. Bij herhaalde overtredingen van lid 1 en/of lid 2 en/of lid 4 zal het management van van de desbetreffende organisatie die de werknemer heeft aangenomen een passende sanctie worden opgelegd door de hogeraad.
 
@@ -404,7 +407,7 @@ Het overtreden van het feit beschreven in lid 1 zal worden gestraft met een stra
 
 ### Artikel 49 - Uitbreken uit de gevangenis
 
-1. Het is verboden om tussen 01:00 en 08:00 uit de gevangenis te breken.
+1. Het is verboden om tussen 23:00 en 10:00 uit de gevangenis te breken.
 2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 2e categorie uitgedeeld.
 
 ## Slotbepaling: Regels in het kort
