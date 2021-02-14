@@ -262,7 +262,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 1. Voor een ambtenaar is het niet toegestaan zich bezig te houden met illegale bezigheden.
 2. U bent als ambtenaar als je baan wordt weergegeven in het F10 menu.
-3. Indien een persoon de regel zoals beschreven in lid 1 overtreed wordt deze bestraft met een straf volgens categorie 1 en zal deze persoon ontslagen worden.
+3. Indien een persoon de regel zoals beschreven in lid 1 overtreed wordt deze bestraft met een straf volgens categorie 1 en zal deze persoon ontslagen worden en deze persoon dit beroep een week lang niet uitvoeren.
 4. Verder is het niet toegestaan om door de politie in beslag genomen objecten door te handelen naar spelers. Ditzelfde is ook van toepassing op alle andere overheids objecten.
 5. Bij een overtreding van de regel in lid 4 wordt de overtreder ontslagen en hiernaast bestraft volgens de 5e categorie.
 6. Onder overheids objecten vallen voorwerpen zoals: medkits, repair kits, politie geweren, enzovoort.
@@ -278,7 +278,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 1. Er wordt geacht van mensen geen gebruik te maken van baan voertuigen voor illegale bezigheden.
 2. Het is verplicht om voor het uitvoeren van je baan het voertuig te gebruiken dat is verstrekt door de baas.
-3. Hij/zij die de regel zoals beschreven in lid 1 en/of 2 overtreed zal bestraft worden met een straf volgens de 1e categorie, hiernaast zal de overtreder ontslagen worden.
+3. Hij/zij die de regel zoals beschreven in lid 1 en/of 2 overtreed zal bestraft worden met een straf volgens de 1e categorie, hiernaast zal de overtreder ontslagen worden en deze persoon dit beroep een week lang niet uitvoeren.
 
 ### Artikel 31 - Overval Regels
 
@@ -383,7 +383,7 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 
 1. (Ex-)leden van een criminele organisatie dienen minimaal een week te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een overheidsbaan of een andere criminele organisatie, tenzij anders is bepaald door een lid van de hoge raad.
 2. (Ex-)medewerkers van een overheidsbaan dienen minimaal een week te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een andere overheidsbaan of een criminele organisatie, tenzij anders is bepaald door een lid van de hoge raad.
-3. Bij overtreding van de feiten beschreven in lid 1 en/of lid 2 wordt een straf van de 1e categorie uitgedeeld en zal de desbetreffende persoon worden ontslagen.
+3. Bij overtreding van de feiten beschreven in lid 1 en/of lid 2 wordt een straf van de 1e categorie uitgedeeld en zal de desbetreffende persoon worden ontslagen en deze persoon dit beroep een week lang niet uitvoeren.
 4. Het is voor de leidinggevenden van overheidsbanen en criminele organisaties verplicht om een document bij te houden met informatie omtrent de in- en uitdiensttreding van hun medewerkers ten behoeve van de handhaving van dit artikel.
 5. Bij herhaalde overtredingen van lid 1 en/of lid 2 en/of lid 4 zal het management van van de desbetreffende organisatie die de werknemer heeft aangenomen een passende sanctie worden opgelegd door de hogeraad.
 
