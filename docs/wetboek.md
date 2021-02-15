@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | Overheidsorganisatie      | Hoge Raad Tedeapolis |
-| Officiële naam            | Algemeen Wetboek Tedeapolis 2020 |
+| Officiële naam            | Algemeen Wetboek Tedeapolis 2021 |
 | Citeertitel               | Wetboek Tedeapolis|
 | Vastgesteld door          | De Hoge Raad|
 | Onderwerp                 | Openbare orde en veiligheid|
@@ -109,9 +109,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 20 uur  | €2,000  |
-| **Tweede Veroordeling**  |   | 30 uur  | €4,000  |
-| **Meerdere Veroordelingen**  |   | 60 uur  | €5,000  |
+|  **Eerste Veroordeling** |   | 20 uur  | €2.000  |
+| **Tweede Veroordeling**  |   | 30 uur  | €4.000  |
+| **Meerdere Veroordelingen**  |   | 60 uur  | €5.000  |
 
 ### Artikel I-2 Diefstal met geweld / Overval (312 SR)
 
@@ -120,9 +120,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 40 maanden  |  | €20,000  |
-| **Tweede Veroordeling**  | 80 maanden  |  | €25,000  |
-| **Meerdere Veroordelingen**  | 120 maanden  |  | €30,000  |
+|  **Eerste Veroordeling** | 40 maanden  |  | €20.000  |
+| **Tweede Veroordeling**  | 80 maanden  |  | €25.000  |
+| **Meerdere Veroordelingen**  | 120 maanden  |  | €30.000  |
 
 ### Artikel I-3 Afpersing (317 SR)
 
@@ -131,9 +131,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 50 maanden  |  | €7,500  |
-| **Tweede Veroordeling**  | 80 maanden  |  | €10,000  |
-| **Meerdere Veroordelingen**  | 120 maanden  |  | €15,000  |
+|  **Eerste Veroordeling** | 50 maanden  |  | €7.500  |
+| **Tweede Veroordeling**  | 80 maanden  |  | €10.000  |
+| **Meerdere Veroordelingen**  | 120 maanden  |  | €15.000  |
 
 ### Artikel I-4 Afdreiging / Chantage (318 SR)
 
@@ -142,9 +142,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 30 maanden  |   | €7,500  |
-| **Tweede Veroordeling**  | 45 maanden  |   | €10,000  |
-| **Meerdere Veroordelingen**  | 100 maanden  |   | €15,000  |
+|  **Eerste Veroordeling** | 30 maanden  |   | €7.500  |
+| **Tweede Veroordeling**  | 45 maanden  |   | €10.000  |
+| **Meerdere Veroordelingen**  | 100 maanden  |   | €15.000  |
 
 ### Artikel I-5 Verduistering (321 SR)
 
@@ -152,9 +152,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 20 uur  | €5,000  |
-| **Tweede Veroordeling**  |   | 30 uur  | €7,500  |
-| **Meerdere Veroordelingen**  |   | 60 uur  | €10,000  |
+|  **Eerste Veroordeling** |   | 20 uur  | €5.000  |
+| **Tweede Veroordeling**  |   | 30 uur  | €7.500  |
+| **Meerdere Veroordelingen**  |   | 60 uur  | €10.000  |
 
 ### Artikel I-6 Heling (416 SR)
 
@@ -164,9 +164,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 20 uur  | €2,000  |
-| **Tweede Veroordeling**  |   | 30 uur  | €4,000  |
-| **Meerdere Veroordelingen**  |   | 60 uur  | €5,000  |
+|  **Eerste Veroordeling** |   | 20 uur  | €2.000  |
+| **Tweede Veroordeling**  |   | 30 uur  | €4.000  |
+| **Meerdere Veroordelingen**  |   | 60 uur  | €5.000  |
 
 ### Artikel I-7 Witwassen (420bis SR)
 
@@ -174,13 +174,13 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 30 maanden  |  | €15,000  |
-| **Tweede Veroordeling**  | 60 maanden  |  | €20,000  |
-| **Meerdere Veroordelingen**  | 120 maanden  |  | €25,000  |
+|  **Eerste Veroordeling** | 30 maanden  |  | €15.000  |
+| **Tweede Veroordeling**  | 60 maanden  |  | €20.000  |
+| **Meerdere Veroordelingen**  | 120 maanden  |  | €25.000  |
 
 ### Artikel I-8 Geldige verklaring herkomst contanten (321 SR)
 
-1. Wanneer er tijdens aanhouding van een persoon door Politie of Koninklijke Marechaussee een geldbedrag, hoger dan €15.000,-- aan contanten, aangetroffen wordt bij die persoon, zal er om geldige verklaring van herkomst gevraagd worden.
+1. Wanneer er tijdens aanhouding van een persoon door Politie of Koninklijke Marechaussee een geldbedrag, hoger dan €15.000 aan contanten, aangetroffen wordt bij die persoon, zal er om geldige verklaring van herkomst gevraagd worden.
 2. Wanneer deze verklaring niet bewijsbaar of redelijkerwijs aannemelijk is, dan heeft de Politie of Koninklijke Marechaussee de bevoegdheid dit bedrag in beslag te nemen voor onderzoek.
 3. Wanneer uit onderzoek, volgend op de inbeslagname zoals bedoeld in lid 2, geen criminele herkomst kan aantonen, dan is Politie of Koninklijke Marechaussee gemaand tot restitutie.
 4. Wanneer uit onderzoek, volgend op de inbeslagname zoals bedoeld in lid 2, criminele herkomst aantoont, dan zal de in beslag genomen som vernietigd worden.
@@ -195,9 +195,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 10 uur  | €1,000  |
-| **Tweede Veroordeling**  |   | 15 uur  | €1,500  |
-| **Meerdere Veroordelingen**  |   | 20 uur  | €2,000  |
+|  **Eerste Veroordeling** |   | 10 uur  | €1.000  |
+| **Tweede Veroordeling**  |   | 15 uur  | €1.500  |
+| **Meerdere Veroordelingen**  |   | 20 uur  | €2.000  |
 
 ### Artikel II-2 Gijzeling (282 SR)
 
@@ -207,9 +207,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 60 maanden  |   | €10,000  |
-| **Tweede Veroordeling**  | 70 maanden  |   | €15,000  |
-| **Meerdere Veroordelingen**  | 80 maanden  |   | €20,000  |
+|  **Eerste Veroordeling** | 60 maanden  |   | €10.000  |
+| **Tweede Veroordeling**  | 70 maanden  |   | €15.000  |
+| **Meerdere Veroordelingen**  | 80 maanden  |   | €20.000  |
 
 ### Artikel II-3 Bedreiging (285 SR)
 
@@ -219,9 +219,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 15 uur  | €3,000  |
-| **Tweede Veroordeling**  |   | 20 uur  | €4,000  |
-| **Meerdere Veroordelingen**  |   | 25 uur  | €5,000  |
+|  **Eerste Veroordeling** |   | 15 uur  | €3.000  |
+| **Tweede Veroordeling**  |   | 20 uur  | €4.000  |
+| **Meerdere Veroordelingen**  |   | 25 uur  | €5.000  |
 
 ### Artikel II-4 Doodslag (287 SR)
 
@@ -231,9 +231,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 80 maanden  |  | €15,000  |
-| **Tweede Veroordeling**  | 90 maanden  |  | €20,000  |
-| **Meerdere Veroordelingen**  | 100 maanden  |  | €25,000  |
+|  **Eerste Veroordeling** | 80 maanden  |  | €15.000  |
+| **Tweede Veroordeling**  | 90 maanden  |  | €20.000  |
+| **Meerdere Veroordelingen**  | 100 maanden  |  | €25.000  |
 
 ### Artikel II-5 Moord (289 SR)
 
@@ -243,9 +243,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 100 maanden  |  | €20,000  |
-| **Tweede Veroordeling**  | 110 maanden  |  | €25,000  |
-| **Meerdere Veroordelingen**  | 120 maanden  |  | €30,000  |
+|  **Eerste Veroordeling** | 100 maanden  |  | €20.000  |
+| **Tweede Veroordeling**  | 110 maanden  |  | €25.000  |
+| **Meerdere Veroordelingen**  | 120 maanden  |  | €30.000  |
 
 ### Artikel II-6 Eenvoudige mishandeling (300 SR)
 
@@ -256,9 +256,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 50 uur  | €5,000  |
-| **Tweede Veroordeling**  |   | 60 uur  | €7,500  |
-| **Meerdere Veroordelingen**  |   | 70 uur  | €10,000  |
+|  **Eerste Veroordeling** |   | 50 uur  | €5.000  |
+| **Tweede Veroordeling**  |   | 60 uur  | €7.500  |
+| **Meerdere Veroordelingen**  |   | 70 uur  | €10.000  |
 
 ### Artikel II-7 Zware mishandeling (302 SR)
 
@@ -269,9 +269,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 10 maanden  |  | €10,000  |
-| **Tweede Veroordeling**  | 15 maanden  |  | €12,500  |
-| **Meerdere Veroordelingen**  | 20 maanden  |  | €15,000  |
+|  **Eerste Veroordeling** | 10 maanden  |  | €10.000  |
+| **Tweede Veroordeling**  | 15 maanden  |  | €12.500  |
+| **Meerdere Veroordelingen**  | 20 maanden  |  | €15.000  |
 
 ### Artikel II-8 Vernieling (350 SR)
 
@@ -282,9 +282,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 15 uur | €3,000  |
-| **Tweede Veroordeling**  |   | 25 uur | €4,500  |
-| **Meerdere Veroordelingen**  |  | 50 uur | €6,000  |
+|  **Eerste Veroordeling** |   | 15 uur | €3.000  |
+| **Tweede Veroordeling**  |   | 25 uur | €4.500  |
+| **Meerdere Veroordelingen**  |  | 50 uur | €6.000  |
 
 ## Titel III - Verkeersdelicten
 
