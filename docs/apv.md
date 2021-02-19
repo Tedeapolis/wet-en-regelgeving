@@ -46,7 +46,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 4. Bij een eerste overtreding kan er voor gekozen worden in plaats van een Schriftelijke waarschuwing (Categorie 1) een Mondelinge waarschuwing uit te delen. Hierbij wordt ook gecontroleerd of de persoon daadwerkelijk de regels heeft gelezen en deze begrijpt.
 5. Een mondelinge waarschuwing dient in een notitie bij deze persoon aangegeven te zijn, anders is deze niet geldig.
 6. Het omzeilen van een straf zal resulteren in een straf volgens categorie 7
-7. Bans worden uitgedeeld op basis van de GTA licentie en geldt als zodanig voor alle gebruikers van deze licentie.
+7. Bans worden uitgedeeld op basis van de GTA licentie en ip-adres en geldt als zodanig voor alle gebruikers van deze kenmerken.
 
 ### A4 - Aanvullende Wetten en regels
 
@@ -144,8 +144,8 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 3. Enkele voorbeelden hiervoor zijn:
     * zodra iemand een pistool op je richt binnen 50 meter en er geen beschutting is, blijf je staan, werk je mee en val je deze persoon niet aan.
     * Zodra iemand een mes trekt binnen 10 meter van je werk je mee, doe je dit niet ben je niet zuinig met je leven aangezien je dat bewust het risico neemt neergestoken te worden.
-    * Elke andere vorm waarmee je bewust je eigen leven in een té groot gevaar brengt valt onder no value of life, dus gebruik je gezonde verstand om de situatie in te schatten. 
-    * De beslissing van een stafflid betreft alle bovenstaande en overige situaties is altijd leidend. 
+    * Elke andere vorm waarmee je bewust je eigen leven in een té groot gevaar brengt valt onder no value of life, dus gebruik je gezonde verstand om de situatie in te schatten.
+    * De beslissing van een stafflid betreft alle bovenstaande en overige situaties is altijd leidend.
 
 ### Artikel 12 - New Life Rule
 
@@ -349,10 +349,10 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 
 ### Artikel 41 - Stemherkenning
 
-1. Het is toegestaan om een speler te herkennen aan zijn/haar stem, tenzij je hem/haar totaal niet kent. 
-2. Bij de uitzondering in lid 1 dien je aan te kunnen tonen dat je de persoon daadwerkelijk kent. 
+1. Het is toegestaan om een speler te herkennen aan zijn/haar stem, tenzij je hem/haar totaal niet kent.
+2. Bij de uitzondering in lid 1 dien je aan te kunnen tonen dat je de persoon daadwerkelijk kent.
 3. Indien de speler duidelijk moeite doet om zijn stem te vervormen, dan is het niet toegestaan om een speler aan zijn/haar stem te herkennen.
-4. Het is toegestaan om gebruik te maken van externe software om je stem te vervormen gedurende het uitvoeren van criminele activiteiten, echter dient dit normaal te blijven. Robotstemmen, babystemmen en dergelijke zijn niet toegestaan. Als algemene richtlijn dient er aangehouden te worden dat je enkel je stem zwaarder mag maken. 
+4. Het is toegestaan om gebruik te maken van externe software om je stem te vervormen gedurende het uitvoeren van criminele activiteiten, echter dient dit normaal te blijven. Robotstemmen, babystemmen en dergelijke zijn niet toegestaan. Als algemene richtlijn dient er aangehouden te worden dat je enkel je stem zwaarder mag maken.
 5. Het overtreden van de feiten beschreven in dit artikel zullen worden gestraft met een straf van de eerste categorie.
 
 ### Artikel 42 - Streamsniping
