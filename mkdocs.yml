@@ -18,8 +18,8 @@ google_analytics: ['UA-167800475-3', 'wetboek.tedeapolis.nl']
 # Congiguration
 theme:
   name: material
-  features:
-    - navigation.tabs
+#   features:
+#     - navigation.tabs
   palette:
     scheme: preference
   favicon: img/logoTedeapolis.png
