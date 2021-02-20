@@ -2,7 +2,13 @@
 
 Tedeapolis kent enkele risicogebieden. In een risicogebied mag preventief gefouilleerd worden. Dus dat wilt zeggen dat ook voertuigen gecontroleerd mogen worden. Hier onder zijn deze gebieden aangegeven.
 
-## Grootte Bank
+## Kaartweergave
+
+![Kaart met risicogebieden](img/risicoGebieden.png)
+
+## Postcodes
+
+### Grote Bank
 
 - 7016
 - 7017
@@ -11,14 +17,14 @@ Tedeapolis kent enkele risicogebieden. In een risicogebied mag preventief gefoui
 - 7012
 - 7010
 
-## Bank
+### Bank
 
 - 7032
 - 7031
 - 7035
 - 7033
 
-## Bank
+### Bank
 
 - 7021
 - 7003
@@ -26,33 +32,33 @@ Tedeapolis kent enkele risicogebieden. In een risicogebied mag preventief gefoui
 - 7020
 - 7059
 
-## Bank
+### Bank
 
 - 5146
 - 5147
 - 5148
 - 5158
 
-## Bank
+### Bank
 
 - 7066
 - 7064
 - 7063
 
-## Bank
+### Bank
 
 - 938
 - 909
 - 936
 - 939
 
-## Bank
+### Bank
 
 - 707
 - 706
 - 709
 
-## BP Bank / BP
+### BP Bank / BP
 
 - 3213
 - 3212
@@ -63,31 +69,28 @@ Tedeapolis kent enkele risicogebieden. In een risicogebied mag preventief gefoui
 - 3214
 - 3216
 
-## ANWB
+### ANWB
 
 - 6019
 
-## Car Dealer
+### Car Dealer
 
 - 3212
 
-## Gemeentehuis / ziekenhuis
+### Gemeentehuis / ziekenhuis
 
 - 7041
 - 7040
 - 5157
 - 7038
 
-## Pier
+### Pier
 
 - 5041
 
-## Maze bank Arena
+### Maze bank Arena
 
 - 2200
 - 2200-A
 - 2200-B
 
-## Kaartweergave
-
-![Kaart met risicogebieden](img/risicoGebieden.png)
