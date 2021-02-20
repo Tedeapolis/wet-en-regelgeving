@@ -2,7 +2,7 @@
 
 Tedeapolis kent enkele risicogebieden. In een risicogebied mag preventief gefouilleerd worden. Dus dat wilt zeggen dat ook voertuigen gecontroleerd mogen worden. Hier onder zijn deze gebieden aangegeven.
 
-## Grootte Bank
+## Grote Bank
 
 - 7016
 - 7017
