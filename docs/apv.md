@@ -417,9 +417,22 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 2. Bij overtreding van één van deze regel zullen alle betrokken personen een straf krijgen van de 2e categorie.
 3. Mocht de demonstratie uit de hand lopen indien deze wel voldoet aan lid 1 zal de leidinggevende persoon een straf krijgen van de 3e categorie.
 
+### Artikel 50 - Officiële gang regels
+
+1. Probeer ten alle tijden te voorkomen om te schieten bij een officieel gang huis.
+2. Het is verboden om nep meldingen te maken in de omgeving van een ganghuis met de intentie tot uitlokken van de criminelen of het in de problemen werken van de rivaliserende groep.
+3. Op het moment dat een voertuig in beslag genomen word en in een opslag gezet word is het niet toegestaan om deze nog uit je garage te halen.
+4. Wanneer er 2 weken lang geen roleplay aan de inbeslagname gebonden word is het toegestaan om het voertuig weer gratis uit de garage te halen.
+5. Een gangoorlog kan verklaard worden door een van de 2 groepen (door gangbazen) wanneer daar een goede reden voor is. een oorlog is afgelopen wanneer:
+   * Hij langer dan 72 uur geduurd heeft.
+   * Alle leden eenmaal zijn overleden.
+   * Wanneer één van de 2 groepen zich overgeeft.
+6. Het overtreden van lid 1,2,3 of 4. zal resulteren in een straf van de 1e categorie.
+7. Bij herhaalde overtredingen van lid 1,2,3 of 4 door een gang kan er worden overgegaan op gangstrikes.
+
 ## Tijdelijke bepalingen
 
-### Artikel 49 - Uitbreken uit de gevangenis
+### Artikel 51 - Uitbreken uit de gevangenis
 
 1. Het is verboden om tussen 23:00 en 10:00 uit de gevangenis te breken.
 2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 2e categorie uitgedeeld.
