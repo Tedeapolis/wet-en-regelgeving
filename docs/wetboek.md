@@ -100,6 +100,7 @@
    * détournement de pouvoir, waarbij de wet alleen mag toegepast worden waar deze voor bedoeld is;
    * ne bis in idem, waarbij iemand niet tweemaal veroordeeld mag worden voor hetzelfde feit;
    * Het schutznorm-beginsel, waarbij er geen rechtsgevolg of sanctie wordt gekoppeld aan een vormfout als de verdachte niet zelf is getroffen in een (verdedigings)belang dat door het geschonden vormvoorschrift wordt beschermd.
+
 ## Titel I - Vermogensdelicten
 
 ![Titel I](img/wetboek/Vermogen.png)
@@ -750,7 +751,7 @@
 3. de resultaten van het onderzoek die door het verzuim zijn verkregen, niet mogen bijdragen aan het bewijs van het telastegelegde feit;
 4. de verdachte uitgesloten is van rechtsvervolging;
 5. De in lid 4 toegepaste sanctie kan enkel worden gebruikt indien door het verzuim geen sprake kan zijn van een behandeling van de zaak die aan de beginselen van een behoorlijke procesorde voldoet.
-6. Bij de toepassing van de sancties in lid 2, 3 en 4 dient rekening gehouden te worden met het Schutznorm-beginsel 
+6. Bij de toepassing van de sancties in lid 2, 3 en 4 dient rekening gehouden te worden met het Schutznorm-beginsel
 7. Met onherstelbaar vormverzuim wordt onder andere bedoeld:  
    * een vooringenomen, sturende, druk uitoefenende manier van verhoren;
    * wanneer ontlastende informatie wordt verzwegen, en/of bewijsmateriaal wordt vernietigd;
