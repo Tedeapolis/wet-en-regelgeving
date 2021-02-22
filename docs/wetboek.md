@@ -1,14 +1,14 @@
-# Wetboek Tedeapolis 2020
+# Wetboek Tedeapolis
 
 ## Wetstechnische informatie
 
 | | |
 |---|---|
 | Overheidsorganisatie      | Hoge Raad Tedeapolis |
-| Officiële naam            | Algemeen Wetboek Tedeapolis 2020 |
-| Citeertitel               | Wetboek Tedeapolis|
+| Officiële naam            | Algemeen Wetboek Tedeapolis |
+| Citeertitel               | Wetboek Tedeapolis |
 | Vastgesteld door          | De Hoge Raad|
-| Onderwerp                 | Openbare orde en veiligheid|
+| Onderwerp                 | Openbare orde en veiligheid |
 
 ## Algemene Bepalingen
 
@@ -111,9 +111,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 20 uur  | €2,000  |
-| **Tweede Veroordeling**  |   | 30 uur  | €4,000  |
-| **Meerdere Veroordelingen**  |   | 60 uur  | €5,000  |
+|  **Eerste Veroordeling** |   | 20 uur  | € 2000,-  |
+| **Tweede Veroordeling**  |   | 30 uur  | € 4000,-  |
+| **Meerdere Veroordelingen**  |   | 60 uur  | € 5000,-  |
 
 ### Artikel I-2 Diefstal met geweld / Overval (312 SR)
 
@@ -122,9 +122,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 40 maanden  |  | €20,000  |
-| **Tweede Veroordeling**  | 80 maanden  |  | €25,000  |
-| **Meerdere Veroordelingen**  | 120 maanden  |  | €30,000  |
+|  **Eerste Veroordeling** | 40 maanden  |  | € 20000,-  |
+| **Tweede Veroordeling**  | 80 maanden  |  | € 25000,-  |
+| **Meerdere Veroordelingen**  | 120 maanden  |  | € 30000,-  |
 
 ### Artikel I-3 Afpersing (317 SR)
 
@@ -133,9 +133,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 50 maanden  |  | €7,500  |
-| **Tweede Veroordeling**  | 80 maanden  |  | €10,000  |
-| **Meerdere Veroordelingen**  | 120 maanden  |  | €15,000  |
+|  **Eerste Veroordeling** | 50 maanden  |  | € 7500,-  |
+| **Tweede Veroordeling**  | 80 maanden  |  | € 10000,-  |
+| **Meerdere Veroordelingen**  | 120 maanden  |  | € 15000,-  |
 
 ### Artikel I-4 Afdreiging / Chantage (318 SR)
 
@@ -144,9 +144,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 30 maanden  |   | €7,500  |
-| **Tweede Veroordeling**  | 45 maanden  |   | €10,000  |
-| **Meerdere Veroordelingen**  | 100 maanden  |   | €15,000  |
+|  **Eerste Veroordeling** | 30 maanden  |   | € 7500,-  |
+| **Tweede Veroordeling**  | 45 maanden  |   | € 10000,-  |
+| **Meerdere Veroordelingen**  | 100 maanden  |   | € 15000,-  |
 
 ### Artikel I-5 Verduistering (321 SR)
 
@@ -154,9 +154,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 20 uur  | €5,000  |
-| **Tweede Veroordeling**  |   | 30 uur  | €7,500  |
-| **Meerdere Veroordelingen**  |   | 60 uur  | €10,000  |
+|  **Eerste Veroordeling** |   | 20 uur  | € 5000,-  |
+| **Tweede Veroordeling**  |   | 30 uur  | € 7500,-  |
+| **Meerdere Veroordelingen**  |   | 60 uur  | € 10000,-  |
 
 ### Artikel I-6 Heling (416 SR)
 
@@ -166,9 +166,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 20 uur  | €2,000  |
-| **Tweede Veroordeling**  |   | 30 uur  | €4,000  |
-| **Meerdere Veroordelingen**  |   | 60 uur  | €5,000  |
+|  **Eerste Veroordeling** |   | 20 uur  | € 2000,-  |
+| **Tweede Veroordeling**  |   | 30 uur  | € 4000,-  |
+| **Meerdere Veroordelingen**  |   | 60 uur  | € 5000,-  |
 
 ### Artikel I-7 Witwassen (420bis SR)
 
@@ -176,9 +176,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 60 uur  | €15,000  |
-| **Tweede Veroordeling**  | 60 maanden  |  | €20,000  |
-| **Meerdere Veroordelingen**  | 120 maanden  |  | €25,000  |
+|  **Eerste Veroordeling** |   | 60 uur  | € 15000,-  |
+| **Tweede Veroordeling**  | 60 maanden  |  | € 20000,-  |
+| **Meerdere Veroordelingen**  | 120 maanden  |  | € 25000,-  |
 
 ### Artikel I-8 Geldige verklaring herkomst contanten (321 SR)
 
@@ -197,9 +197,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 10 uur  | €1,000  |
-| **Tweede Veroordeling**  |   | 15 uur  | €1,500  |
-| **Meerdere Veroordelingen**  |   | 20 uur  | €2,000  |
+|  **Eerste Veroordeling** |   | 10 uur  | € 1000,-  |
+| **Tweede Veroordeling**  |   | 15 uur  | € 1500,-  |
+| **Meerdere Veroordelingen**  |   | 20 uur  | € 2000,-  |
 
 ### Artikel II-2 Gijzeling (282 SR)
 
@@ -208,9 +208,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 60 maanden  |   | €10,000  |
-| **Tweede Veroordeling**  | 70 maanden  |   | €15,000  |
-| **Meerdere Veroordelingen**  | 80 maanden  |   | €20,000  |
+|  **Eerste Veroordeling** | 60 maanden  |   | € 10000,-  |
+| **Tweede Veroordeling**  | 70 maanden  |   | € 15000,-  |
+| **Meerdere Veroordelingen**  | 80 maanden  |   | €20000,-  |
 
 ### Artikel II-3 Bedreiging (285 SR)
 
@@ -219,9 +219,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 15 uur  | €3,000  |
-| **Tweede Veroordeling**  |   | 20 uur  | €4,000  |
-| **Meerdere Veroordelingen**  |   | 25 uur  | €5,000  |
+|  **Eerste Veroordeling** |   | 15 uur  | € 3000,-  |
+| **Tweede Veroordeling**  |   | 20 uur  | € 4000,-  |
+| **Meerdere Veroordelingen**  |   | 25 uur  | € 5000,-  |
 
 ### Artikel II-4 Doodslag (287 SR)
 
@@ -231,9 +231,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 80 maanden  |  | €15,000  |
-| **Tweede Veroordeling**  | 90 maanden  |  | €20,000  |
-| **Meerdere Veroordelingen**  | 100 maanden  |  | €25,000  |
+|  **Eerste Veroordeling** | 80 maanden  |  | € 15000,-  |
+| **Tweede Veroordeling**  | 90 maanden  |  | € 20000,-  |
+| **Meerdere Veroordelingen**  | 100 maanden  |  | € 25000,-  |
 
 ### Artikel II-5 Moord (289 SR)
 
@@ -243,9 +243,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 100 maanden  |  | €20,000  |
-| **Tweede Veroordeling**  | 110 maanden  |  | €25,000  |
-| **Meerdere Veroordelingen**  | 120 maanden  |  | €30,000  |
+|  **Eerste Veroordeling** | 100 maanden  |  | € 20000,-  |
+| **Tweede Veroordeling**  | 110 maanden  |  | € 25000,-  |
+| **Meerdere Veroordelingen**  | 120 maanden  |  | € 30000,-  |
 
 ### Artikel II-6 Eenvoudige mishandeling (300 SR)
 
@@ -255,9 +255,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 50 uur  | €5,000  |
-| **Tweede Veroordeling**  |   | 60 uur  | €7,500  |
-| **Meerdere Veroordelingen**  |   | 70 uur  | €10,000  |
+|  **Eerste Veroordeling** |   | 50 uur  | € 5000,-  |
+| **Tweede Veroordeling**  |   | 60 uur  | € 7500,-  |
+| **Meerdere Veroordelingen**  |   | 70 uur  | € 10000,-  |
 
 ### Artikel II-7 Zware mishandeling (302 SR)
 
@@ -267,9 +267,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 10 maanden  |  | €10,000  |
-| **Tweede Veroordeling**  | 15 maanden  |  | €12,500  |
-| **Meerdere Veroordelingen**  | 20 maanden  |  | €15,000  |
+|  **Eerste Veroordeling** | 10 maanden  |  | € 10000,-  |
+| **Tweede Veroordeling**  | 15 maanden  |  | € 12500,-  |
+| **Meerdere Veroordelingen**  | 20 maanden  |  | € 15000,-  |
 
 ### Artikel II-8 Vernieling (350 SR)
 
@@ -280,9 +280,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 15 uur | €3,000  |
-| **Tweede Veroordeling**  |   | 25 uur | €4,500  |
-| **Meerdere Veroordelingen**  | 10 maanden  |  | €6,000  |
+|  **Eerste Veroordeling** |   | 15 uur | € 3000,-  |
+| **Tweede Veroordeling**  |   | 25 uur | € 4500,-  |
+| **Meerdere Veroordelingen**  | 10 maanden  |  | € 6000,-  |
 
 ## Titel III - Verkeersdelicten
 
@@ -300,9 +300,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
 |---|---|---|---|---|
-|  **Eerste Veroordeling** |   |  | €1,000  | 0-24 uur |
-| **Tweede Veroordeling**  |   | 5 uur | €1,500  | 0-24 uur |
-| **Meerdere Veroordelingen**  |   | 10 uur | €2,000  | 0-24 uur |
+|  **Eerste Veroordeling** |   |  | € 1000,-  | 0-24 uur |
+| **Tweede Veroordeling**  |   | 5 uur | € 1500,-  | 0-24 uur |
+| **Meerdere Veroordelingen**  |   | 10 uur | € 2000,-  | 0-24 uur |
 
 ### Artikel III-3 Opzettelijk veroorzaken van ernstig gevaar of hinder (5a WvW)
 
@@ -329,9 +329,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
 |---|---|---|---|---|
-|  **Eerste Veroordeling** | | 45 uur | €3,000  | 24-48 uur |
-| **Tweede Veroordeling**  | 12 maanden  | | €7,500  | 48-72 uur |
-| **Meerdere Veroordelingen**  | 18 maanden  | | €10,500  | 48-72 uur |
+|  **Eerste Veroordeling** | | 45 uur | € 3000,-  | 24-48 uur |
+| **Tweede Veroordeling**  | 12 maanden  | | € 7500,- | 48-72 uur |
+| **Meerdere Veroordelingen**  | 18 maanden  | | € 10500,-  | 48-72 uur |
 
 ### Artikel III-3 Veroorzaken ongeval, met al dan niet licht lichamelijk letsel tot gevolg (6 WVW)
 
@@ -341,9 +341,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
 |---|---|---|---|---|
-|  **Eerste Veroordeling** |   | 10 uur  | €2,000  | 0-12 uur |
-| **Tweede Veroordeling**  |   | 15 uur | €3,000  | 0-24 uur |
-| **Meerdere Veroordelingen**  |   | 20 uur | €4,000  | 0-24 uur |
+|  **Eerste Veroordeling** |   | 10 uur  | € 2000,-  | 0-12 uur |
+| **Tweede Veroordeling**  |   | 15 uur | € 3000,-  | 0-24 uur |
+| **Meerdere Veroordelingen**  |   | 20 uur | € 4000,-  | 0-24 uur |
 
 ### Artikel III-4 Veroorzaken ongeval, met zwaar lichamelijk letsel tot gevolg (6 WVW)
 
@@ -353,9 +353,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
 |---|---|---|---|---|
-|  **Eerste Veroordeling** |   | 15 uur  | €5,000  | 0-24 uur |
-| **Tweede Veroordeling**  |   | 20 uur | €6,000  | 0-24 uur |
-| **Meerdere Veroordelingen**  |   | 25 uur | €7,000  | 0-24 uur |
+|  **Eerste Veroordeling** |   | 15 uur  | € 5000,-  | 0-24 uur |
+| **Tweede Veroordeling**  |   | 20 uur | € 6000,-  | 0-24 uur |
+| **Meerdere Veroordelingen**  |   | 25 uur | € 7000,-  | 0-24 uur |
 
 ### Artikel III-5 Veroorzaken ongeval, met de dood tot gevolg (6 WVW)
 
@@ -364,9 +364,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
 |---|---|---|---|---|
-|  **Eerste Veroordeling** |   | 50 uur  | €8,000  | 0-24 uur |
-| **Tweede Veroordeling**  | 10 maanden  |  | €9,000  | 0-24 uur |
-| **Meerdere Veroordelingen**  | 20 maanden  |  | €10,000  | 0-24 uur |
+|  **Eerste Veroordeling** |   | 50 uur  | € 8000,-  | 0-24 uur |
+| **Tweede Veroordeling**  | 10 maanden  |  | € 9000,-  | 0-24 uur |
+| **Meerdere Veroordelingen**  | 20 maanden  |  | € 10000,-  | 0-24 uur |
 
 ### Artikel III-6 Verlaten plaats van verkeersongeval (7 WVW)
 
@@ -376,9 +376,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
 |---|---|---|---|---|
-|  **Eerste Veroordeling** |   | 50 uur  | €5,000  |   |
-| **Tweede Veroordeling**  | 10 maanden  |  | €6,000  |   |
-| **Meerdere Veroordelingen**  | 25 maanden  |  | €7,000  |   |
+|  **Eerste Veroordeling** |   | 50 uur  | € 5000,-  |   |
+| **Tweede Veroordeling**  | 10 maanden  |  | € 6000,-  |   |
+| **Meerdere Veroordelingen**  | 25 maanden  |  | € 7000,-  |   |
 
 ### Artikel III-7 Rijden onder invloed (8 WVW)
 
@@ -387,9 +387,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
 |---|---|---|---|---|
-|  **Eerste Veroordeling** |   | 30 uur  | €3,000  | 0-24 uur |
-| **Tweede Veroordeling**  |   | 40 uur | €4,000  | 0-24 uur |
-| **Meerdere Veroordelingen**  |   | 50 uur | €5,000  | 0-24 uur |
+|  **Eerste Veroordeling** |   | 30 uur  | € 3000,-  | 0-24 uur |
+| **Tweede Veroordeling**  |   | 40 uur | € 4000,-  | 0-24 uur |
+| **Meerdere Veroordelingen**  |   | 50 uur | € 5000,-  | 0-24 uur |
 
 ### Artikel III-8 Rijden zonder bevoegdheid (9 WVW)
 
@@ -399,9 +399,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
 |---|---|---|---|---|
-|  **Eerste Veroordeling** |   | 10 uur  | €2,000  | 0-24 uur |
-| **Tweede Veroordeling**  |   | 20 uur | €4,000  | 0-24 uur |
-| **Meerdere Veroordelingen**  |   | 30 uur | €6,000  | 0-24 uur |
+|  **Eerste Veroordeling** |   | 10 uur  | €2000,-  | 0-24 uur |
+| **Tweede Veroordeling**  |   | 20 uur | €4000,-  | 0-24 uur |
+| **Meerdere Veroordelingen**  |   | 30 uur | €6000,-  | 0-24 uur |
 
 ### Artikel III-9 Negeren van de grenscontrole (1:1 - 1:31 Algemene Douanewet)
 
@@ -430,21 +430,21 @@
 
 | ***`Binnen de Bebouwde Kom`***  |   |
 |---|---|
-| Te hard rijden < 10KM/H | €80 |
-| Te hard rijden 10 - 20KM/H | €200 |
-| Te hard rijden 21 - 30KM/H | €340 |
-| Te hard rijden 31 - 40KM/H | €500 |
-| Te hard rijden 41 - 50KM/H | €900 |
-| Te hard rijden 51 - 60KM/H | €1,200 |
+| Te hard rijden < 10KM/H | € 80,- |
+| Te hard rijden 10 - 20KM/H | € 200,- |
+| Te hard rijden 21 - 30KM/H | € 340,- |
+| Te hard rijden 31 - 40KM/H | € 500,- |
+| Te hard rijden 41 - 50KM/H | € 900,- |
+| Te hard rijden 51 - 60KM/H | € 1200,- |
 
 | ***`Buiten de Bebouwde Kom`***  |   |
 |---|---|
-| Te hard rijden < 10KM/H | €75 |
-| Te hard rijden 10 - 20KM/H | €190 |
-| Te hard rijden 21 - 30KM/H | €330 |
-| Te hard rijden 31 - 40KM/H | €450 |
-| Te hard rijden 41 - 50KM/H | €600 |
-| Te hard rijden 51 - 60KM/H | €900 |
+| Te hard rijden < 10KM/H | € 75,- |
+| Te hard rijden 10 - 20KM/H | € 190,- |
+| Te hard rijden 21 - 30KM/H | € 330,- |
+| Te hard rijden 31 - 40KM/H | € 450,- |
+| Te hard rijden 41 - 50KM/H | € 600,- |
+| Te hard rijden 51 - 60KM/H | € 900,- |
 
 ### Artikel III-12 Voertuigeisen
 
@@ -460,14 +460,14 @@
 
 |  | *Taakstraf*  | *Sanctie*  | *boete*  |
 |---|---|---|---|
-| **Eerste Staandehouding**  |  | Inbeslagname Voertuig | €1,500 |
-| **Meerdere Staandehoudingen**  | 30 uur | Inbeslagname voertuig | €1,500 |
+| **Eerste Staandehouding**  |  | Inbeslagname Voertuig | € 1500,- |
+| **Meerdere Staandehoudingen**  | 30 uur | Inbeslagname voertuig | € 1500,- |
 
 | *Feit* | *boete* |
 |---|---|
-| Rijden zonder kentekenplaten | €140 |
-| Ramen dusdanig donker getint zodat de bestuurder en passagier voor in niet zichtbaar zijn | €230 |
-| Verlichting(NEON) onder het voertuig | €230 |
+| Rijden zonder kentekenplaten | € 140,- |
+| Ramen dusdanig donker getint zodat de bestuurder en passagier voor in niet zichtbaar zijn | € 230,- |
+| Verlichting(NEON) onder het voertuig | € 230,- |
 
 ### Artikel III-13 Overige verkeersboetes
 
@@ -477,19 +477,19 @@
 
 |   |   |
 |---|---|
-| Blokkeren van de weg | €240 |
-| Maken van een U-turn daar waar dat niet is toegestaan | €140 |
-| Rijden in een voertuig dat niet toegestaan is op de openbare weg | €1,100  |
-| Rijden in een voertuig met een WOK-status | €4,500 |
-| Maken van een zgn. Burnout  | €430 |
-| Onnodig Claxoneren | €95  |
-| Over een doorgestrokken streep rijden  | €240  |
-| Aan de verkeerde kant van de weg rijden | €620 |
-| Illegaal off road rijden | €140 |
-| Stilstaan daar waar dit niet is toegestaan | €140 |
-| Onnodig links rijden | €140  |
-| Doorrijden bij een stopbord | €140  |
-| Illegaal inhalen | €380  |
+| Blokkeren van de weg | € 240,- |
+| Maken van een U-turn daar waar dat niet is toegestaan | € 140,- |
+| Rijden in een voertuig dat niet toegestaan is op de openbare weg | € 1100,-  |
+| Rijden in een voertuig met een WOK-status | € 4500,- |
+| Maken van een zgn. Burnout  | € 430,- |
+| Onnodig Claxoneren | € 95,-  |
+| Over een doorgestrokken streep rijden  | € 240,-  |
+| Aan de verkeerde kant van de weg rijden | € 620,- |
+| Illegaal off road rijden | € 140,- |
+| Stilstaan daar waar dit niet is toegestaan | € 140,- |
+| Onnodig links rijden | € 140,-  |
+| Doorrijden bij een stopbord | € 140,-  |
+| Illegaal inhalen | € 380,-  |
 
 ### Artikel III-14 Illegale voertuigen
 
@@ -525,41 +525,41 @@
 
 |***`1-25 ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 20 uur  | €2,000  |
-| **Tweede Veroordeling**  |   | 40 uur  | €3,000  |
-| **Meerdere Veroordelingen**  | 15 maanden  |   | €4,000  |
+|  **Eerste Veroordeling** |   | 20 uur  | € 2000,-  |
+| **Tweede Veroordeling**  |   | 40 uur  | € 3000,-  |
+| **Meerdere Veroordelingen**  | 15 maanden  |   | € 4000,-  |
 
 |***`26-200 ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 20 maanden  |  | €5,000  |
-| **Tweede Veroordeling**  | 30 maanden  |   | €6,000  |
-| **Meerdere Veroordelingen**  | 60 maanden  |   | €7,000  |
+|  **Eerste Veroordeling** | 20 maanden  |  | € 5000,-  |
+| **Tweede Veroordeling**  | 30 maanden  |   | € 6000,-  |
+| **Meerdere Veroordelingen**  | 60 maanden  |   | € 7000,-  |
 
 |***`>200 ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 70 maanden  |  | €8,000  |
-| **Tweede Veroordeling**  | 80 maanden  |  | €9,000  |
-| **Meerdere Veroordelingen**  | 90 maanden  |   | €10,000  |
+|  **Eerste Veroordeling** | 70 maanden  |  | € 8000,-  |
+| **Tweede Veroordeling**  | 80 maanden  |  | € 9000,-  |
+| **Meerdere Veroordelingen**  | 90 maanden  |   | € 10000,-  |
 
 #### Rekentabel Harddrugs: eindproducten
 
 |***`1-5 eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 15 maanden  |   | €5,000  |
-| **Tweede Veroordeling**  | 20 maanden  |   | €6,000  |
-| **Meerdere Veroordelingen**  | 25 maanden  |   | €7,000  |
+|  **Eerste Veroordeling** | 15 maanden  |   | € 5000,-  |
+| **Tweede Veroordeling**  | 20 maanden  |   | € 6000,-  |
+| **Meerdere Veroordelingen**  | 25 maanden  |   | € 7000,-  |
 
 |***`6-40 eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 30 maanden  |  | €8,000  |
-| **Tweede Veroordeling**  | 40 maanden  |   | €9,000  |
-| **Meerdere Veroordelingen**  | 60 maanden  |   | €10,000  |
+|  **Eerste Veroordeling** | 30 maanden  |  | €8000,-  |
+| **Tweede Veroordeling**  | 40 maanden  |   | €9000,-  |
+| **Meerdere Veroordelingen**  | 60 maanden  |   | €10000,-  |
 
 |***`>40 eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 80 maanden  |  | €11,000  |
-| **Tweede Veroordeling**  | 100 maanden  |  | €12,000  |
-| **Meerdere Veroordelingen**  | 120 maanden  |   | €13,000  |
+|  **Eerste Veroordeling** | 80 maanden  |  | € 11000,-  |
+| **Tweede Veroordeling**  | 100 maanden  |  | € 12000,-  |
+| **Meerdere Veroordelingen**  | 120 maanden  |   | € 13000,-  |
 
 ### Artikel IV-2 Softdrugs (3 OW)
 
@@ -576,41 +576,41 @@
 
 |***`6-25 ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 10 uur  | €500  |
-| **Tweede Veroordeling**  |   | 20 uur  | €1,000  |
-| **Meerdere Veroordelingen**  |  | 30 uur  | €1,500  |
+|  **Eerste Veroordeling** |   | 10 uur  | € 500,-  |
+| **Tweede Veroordeling**  |   | 20 uur  | € 1000,-  |
+| **Meerdere Veroordelingen**  |  | 30 uur  | € 1500,-  |
 
 |***`26-200 ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 35 uur | €2,000  |
-| **Tweede Veroordeling**  |   | 50 uur  | €3,000  |
-| **Meerdere Veroordelingen**  | 15 maanden  |   | €4,000  |
+|  **Eerste Veroordeling** |   | 35 uur | € 2000,-  |
+| **Tweede Veroordeling**  |   | 50 uur  | € 3000,-  |
+| **Meerdere Veroordelingen**  | 15 maanden  |   | € 4000,-  |
 
 |***`>200 ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 30 maanden  |  | €5,000  |
-| **Tweede Veroordeling**  | 45 maanden  |  | €6,000  |
-| **Meerdere Veroordelingen**  | 60 maanden  |   | €7,000  |
+|  **Eerste Veroordeling** | 30 maanden  |  | € 5000,-  |
+| **Tweede Veroordeling**  | 45 maanden  |  | € 6000,-  |
+| **Meerdere Veroordelingen**  | 60 maanden  |   | €7000,-  |
 
 #### Rekentabel Softdrugs: eindproducten
 
 |***`2-5 eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 10 uur   | €2,000  |
-| **Tweede Veroordeling**  |   | 20 uur  | €3,000  |
-| **Meerdere Veroordelingen**  |   | 30 uur  | €4,000  |
+|  **Eerste Veroordeling** |   | 10 uur   | € 2000,-  |
+| **Tweede Veroordeling**  |   | 20 uur  | € 3000,-  |
+| **Meerdere Veroordelingen**  |   | 30 uur  | € 4000,-  |
 
 |***`6-40 eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 40 uur  | €5,000  |
-| **Tweede Veroordeling**  | 20 maanden  |   | €6,000  |
-| **Meerdere Veroordelingen**  | 50 maanden  |   | €7,000  |
+|  **Eerste Veroordeling** |   | 40 uur  | € 5000,-  |
+| **Tweede Veroordeling**  | 20 maanden  |   | € 6000,-  |
+| **Meerdere Veroordelingen**  | 50 maanden  |   | € 7000,-  |
 
 |***`>40 eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 55 maanden  |   | €8,000  |
-| **Tweede Veroordeling**  | 60 maanden  |  | €9,000  |
-| **Meerdere Veroordelingen**  | 70 maanden  |   | €10,000  |
+|  **Eerste Veroordeling** | 55 maanden  |   | € 8000,-  |
+| **Tweede Veroordeling**  | 60 maanden  |  | € 9000,-  |
+| **Meerdere Veroordelingen**  | 70 maanden  |   | € 10000,-  |
 
 ## Titel V - Wet Wapens en Munitie
 
@@ -622,9 +622,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 15 maanden  |  | €5,000  |
-| **Tweede Veroordeling**  | 30 maanden  |  | €7,500  |
-| **Meerdere Veroordelingen**  | 60 maanden  |  | €10,000  |
+|  **Eerste Veroordeling** | 15 maanden  |  | € 5000,-  |
+| **Tweede Veroordeling**  | 30 maanden  |  | € 7500,-  |
+| **Meerdere Veroordelingen**  | 60 maanden  |  | € 10000,- |
 
 ### Artikel V-2 Vuurwapens en Explosieven (26 WWM)
 
@@ -635,15 +635,15 @@
 
 | ***`Categorie 1`***  | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 30 maanden  |  | €10,000  |
-| **Tweede Veroordeling**  | 60 maanden  |  | €12,500  |
-| **Meerdere Veroordelingen**  | 90 maanden  |  | €15,000  |
+|  **Eerste Veroordeling** | 30 maanden  |  | € 10000,-  |
+| **Tweede Veroordeling**  | 60 maanden  |  | € 12500,-  |
+| **Meerdere Veroordelingen**  | 90 maanden  |  | € 15000,-  |
 
 | ***`Categorie 2`***  | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 90 maanden  |  | €20,000  |
-| **Tweede Veroordeling**  | 120 maanden  |  | €25,000  |
-| **Meerdere Veroordelingen**  | 160 maanden  |  | €27,500  |
+|  **Eerste Veroordeling** | 90 maanden  |  | € 20000,-  |
+| **Tweede Veroordeling**  | 120 maanden  |  | € 25000,-  |
+| **Meerdere Veroordelingen**  | 160 maanden  |  | € 27500,-  |
 
 ### Artikel V-3 Steek- en slagwapens (27 WWM)
 
@@ -652,9 +652,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   |  | €5,000  |
-| **Tweede Veroordeling**  |   | 40 uur  | €7,500  |
-| **Meerdere Veroordelingen**  | 15 maanden  |   | €10,000  |
+|  **Eerste Veroordeling** |   |  | € 5000,-  |
+| **Tweede Veroordeling**  |   | 40 uur  | € 7500,-  |
+| **Meerdere Veroordelingen**  | 15 maanden  |   | € 10000,-  |
 
 ### Artikel V-4 Nepwapens, holsters en replica's (26 WWM)
 
@@ -662,9 +662,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 9 maanden   |  | €5,000  |
-| **Tweede Veroordeling**  | 18 maanden   |   | €7,500  |
-| **Meerdere Veroordelingen**  | 27 maanden  |   | €10,000  |
+|  **Eerste Veroordeling** | 9 maanden   |  | € 5000,-  |
+| **Tweede Veroordeling**  | 18 maanden   |   | € 7500,-  |
+| **Meerdere Veroordelingen**  | 27 maanden  |   | € 10000,-  |
 
 ### Artikel V-5 Wapenhandel (14-20 WWM)
 
@@ -674,9 +674,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 20 maanden  |  | €25,000  |
-| **Tweede Veroordeling**  | 40 maanden  |  | €30,000  |
-| **Meerdere Veroordelingen**  | 60 maanden  |  | €45,000  |
+|  **Eerste Veroordeling** | 20 maanden  |  | € 25000,-  |
+| **Tweede Veroordeling**  | 40 maanden  |  | € 30000,-  |
+| **Meerdere Veroordelingen**  | 60 maanden  |  | € 45000,-  |
 
 ## Titel VI - Wet op de Kansspelen
 
@@ -689,9 +689,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   |   | €1,000  |
-| **Tweede Veroordeling**  |   |   | €2,500  |
-| **Meerdere Veroordelingen**  |   |  | €7,500  |
+|  **Eerste Veroordeling** |   |   | € 1000,-  |
+| **Tweede Veroordeling**  |   |   | € 2500,-  |
+| **Meerdere Veroordelingen**  |   |  | € 7500,-  |
 
 ### Artikel VI-2 Casinospelen (27g Wok)
 
@@ -701,9 +701,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 5 uur  | €1,000  |
-| **Tweede Veroordeling**  |   | 10 uur  | €2,500  |
-| **Meerdere Veroordelingen**  |   | 20 uur | €5,000  |
+|  **Eerste Veroordeling** |   | 5 uur  | € 1000,-  |
+| **Tweede Veroordeling**  |   | 10 uur  | € 2500,-  |
+| **Meerdere Veroordelingen**  |   | 20 uur | € 5000,-  |
 
 ### Artikel VI-3 Loterijen (27 Wok)
 
@@ -713,9 +713,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   |  | €2,500  |
-| **Tweede Veroordeling**  |   | 10 uur  | €5000  |
-| **Meerdere Veroordelingen**  |   | 20 uur | €7,500  |
+|  **Eerste Veroordeling** |   |  | € 2500,-  |
+| **Tweede Veroordeling**  |   | 10 uur  | € 5000,-  |
+| **Meerdere Veroordelingen**  |   | 20 uur | € 7500,-  |
 
 ### Artikel VI-4 Verdubbelaar en pyramidespel (1a Wok)
 
@@ -725,9 +725,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 5 uur  | €2,500  |
-| **Tweede Veroordeling**  |   | 10 uur  | €5,000  |
-| **Meerdere Veroordelingen**  |   | 20 uur | €10,000  |
+|  **Eerste Veroordeling** |   | 5 uur  | € 2500,-  |
+| **Tweede Veroordeling**  |   | 10 uur  | € 5000,-  |
+| **Meerdere Veroordelingen**  |   | 20 uur | € 10000,-  |
 
 ## Titel VII - Uitsluitings- en strafverminderingsgronden
 
@@ -783,9 +783,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 20 uur  | €320  |
-| **Tweede Veroordeling**  |   | 30 uur  | €320  |
-| **Meerdere Veroordelingen**  |   | 40 uur  | €320  |
+|  **Eerste Veroordeling** |   | 20 uur  | € 320,-  |
+| **Tweede Veroordeling**  |   | 30 uur  | € 320,-  |
+| **Meerdere Veroordelingen**  |   | 40 uur  | € 320,-  |
 
 ### Artikel VIII-2 Belediging (266 SR)
 
@@ -806,9 +806,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   |   | €120  |
-| **Tweede Veroordeling**  |   |   | €120  |
-| **Meerdere Veroordelingen**  |   | 5 uur  | €120  |
+|  **Eerste Veroordeling** |   |   | € 120,-  |
+| **Tweede Veroordeling**  |   |   | € 120,-  |
+| **Meerdere Veroordelingen**  |   | 5 uur  | € 120,-  |
 
 ### Artikel VIII-6 Dragen van gezichtsbedekkende kledij (1 Wet gedeeltelijk verbod gezichtsbedekkende kleding)
 
@@ -825,9 +825,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   |   | €2,000  |
-| **Tweede Veroordeling**  |   |   | €4,000  |
-| **Meerdere Veroordelingen**  |   | 20 uur  | €6,000  |
+|  **Eerste Veroordeling** |   |   | € 2000,-  |
+| **Tweede Veroordeling**  |   |   | € 4000,-  |
+| **Meerdere Veroordelingen**  |   | 20 uur  | € 6000,-  |
 
 ### Artikel VIII-8 Deelname aan een criminele organisatie
 
@@ -837,9 +837,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   |   | €3,000  |
-| **Tweede Veroordeling**  |   | 20 uur  | €6,000  |
-| **Meerdere Veroordelingen**  | 20 maanden  |  | €9,000  |
+|  **Eerste Veroordeling** |   |   | € 3000,-  |
+| **Tweede Veroordeling**  |   | 20 uur  | € 6000,-  |
+| **Meerdere Veroordelingen**  | 20 maanden  |  | € 9000,-  |
 
 ### Artikel VIII-9 Lokaalvredebreuk (139 SR)
 
@@ -848,9 +848,9 @@
 
 |  |Celstraf  | Taakstraf  | boete  |
 |---|---|---|---|
-|  Eerste Veroordeling |   | 35 uur  | €1,500  |
-| Tweede Veroordeling  |   | 40 uur  | €2,000  |
-| Meerdere Veroordelingen  |   | 50 uur | €3,000  |
+|  Eerste Veroordeling |   | 35 uur  | € 1500,-  |
+| Tweede Veroordeling  |   | 40 uur  | € 2000,-  |
+| Meerdere Veroordelingen  |   | 50 uur | € 3000,-  |
 
 ### Artikel VIII-10 Huisvredebreuk (138 SR)
 
@@ -859,9 +859,9 @@
 
 |  |Celstraf  | Taakstraf  | boete  |
 |---|---|---|---|
-|  Eerste Veroordeling |   | 20 uur | €2.000 |
-| Tweede Veroordeling  |   | 40 uur  | €4.000 |
-| Meerdere Veroordelingen  |   | 50 uur | €6.000|
+|  Eerste Veroordeling |   | 20 uur | € 2000,- |
+| Tweede Veroordeling  |   | 40 uur  | € 4000,- |
+| Meerdere Veroordelingen  |   | 50 uur | € 6000,- |
 
 ### Artikel VIII-11 Betreden van verboden militair domein
 
@@ -875,9 +875,9 @@
 
 |  |Celstraf  | Taakstraf  | boete  |
 |---|---|---|---|
-|  Eerste Veroordeling | 20 maanden |  | €10.000  |
-| Tweede Veroordeling  | 40 maanden | | €15.000  |
-| Meerdere Veroordelingen  | 60 maanden |  | €20.000  |
+|  Eerste Veroordeling | 20 maanden |  | € 10000,-  |
+| Tweede Veroordeling  | 40 maanden | | € 15000,-  |
+| Meerdere Veroordelingen  | 60 maanden |  | € 20000,-  |
 
 ## Titel IX – Schadevergoeding
 
@@ -893,8 +893,8 @@
 
 | Vergoedingen | schadevergoeding  |
 |---|---|
-| per 1 uur politiebureau | €3,000 |
-| per 1 uur gevangenis | €5,000 |
+| per 1 uur politiebureau | € 3000,- |
+| per 1 uur gevangenis | € 5000,- |
 | Advocaat kosten | n.t.b. |
 
 ### Artikel IX-2 (Im)materiële schadevergoeding voor buitensporig geweld door overheidsmedewerker
@@ -911,11 +911,11 @@
 
 | Vergoedingen | schadevergoeding |
 |---|---|
-| Onterecht gebruik wapenstok als geweldsmiddel | €1,000 |
-| Onterecht gebruik stroomstootwapen als geweldsmiddel | €2,500 |
-| Onterecht gebruik vuurwapen (cat. 1) als geweldsmiddel | €4,000 |
-| Onterecht inzet surveillancehond als geweldsmiddel | €5,000 |
-| Onterecht gebruik vuurwapen (cat. 2) als geweldsmiddel | €7,000 |
+| Onterecht gebruik wapenstok als geweldsmiddel | € 1000,- |
+| Onterecht gebruik stroomstootwapen als geweldsmiddel | € 2500,- |
+| Onterecht gebruik vuurwapen (cat. 1) als geweldsmiddel | € 4000,- |
+| Onterecht inzet surveillancehond als geweldsmiddel | € 5000,- |
+| Onterecht gebruik vuurwapen (cat. 2) als geweldsmiddel | € 7000,- |
 
 ### Artikel IX-3 (Im)materiële schadevergoeding voor buitensporig geweld door burger jegens overheidsmedewerker
 

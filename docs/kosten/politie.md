@@ -6,125 +6,125 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 
 |Feit|Boete bedrag|
 |:---|:----:|
-| Rijden met rijontzegging 1e keer | €4000,- |
-| Zonder rijbewijs rijden | €4000,- |
-| Zonder rijbewijs rijden 2e keer | 8000,- |
-| Binnen bebouwde kom < 10 KM/H te hard | €100,- |
-| Binnen bebouwde kom 10-20 KM/H te hard | €400,- |
-| Binnen bebouwde kom 20-30 KM/H te hard | €1.000,- |
-| Binnen bebouwde kom 30-40 KM/H te hard | €2.000,- |
-| Binnen bebouwde kom 40-50 KM/H te hard | €3.000,- |
-| Binnen bebouwde kom 50-60 KM/H te hard | €4.500,- |
-| Buiten bebouwde kom < 10 KM/H te hard | €100,- |
-| Buiten bebouwde kom 10-20 KM/H te hard | €300,- |
-| Buiten bebouwde kom 20-30 KM/H te hard | €700,- |
-| Buiten bebouwde kom 30-40 KM/H te hard | €1000,- |
-| Buiten bebouwde kom 40-50 KM/H te hard | €1500,- |
-| Buiten bebouwde kom 50-60 KM/H te hard | €2000,- |
-| Door rood licht rijden met een fiets | €150,- |
-| Door rood licht rijden met een bromfiets | €320,- |
-| Door rood licht rijden | €720,- |
-| Verkeerde voertuig informatie doorgeven | €270,- |
-| Onnodig claxoneren | €370,- |
-| Joyriding | €1700,- |
-| Rijden onder invloed | €4000,- |
-| Illegaal off road rijden | €420,- |
-| Door rijden bij een stop bord | €420,- |
-| Illegaal inhalen over een vluchtstrook | €1140,- |
-| U-turn | €420,- |
-| Over een doorgetrokken streep rijden | €480,- |
-| Onnodig linksrijden | €420,- |
-| Spookrijden | €1860,- |
-| Stil staan met je auto waar dat niet mag | €420,- |
-| Hinder zonder ongeval | €3000,- |
-| Verkeersongeval met licht lichamelijk letsel | €4000,- |
-| Verkeersongeval met zwaar lichamelijk letsel | €10.000,- |
-| Dodelijk verkeersongeval | €16.000,- |
-| Doorrijden na een ongeluk | €15.000,- |
-| Overtreding van WOK status | €1200,- |
-| Verboden voertuig openbare weg | €3300,- |
-| Negeren van stopteken | €3600,- |
-| Fout parkeren | €1750,- |
-| Roekeloos Rijgedrag | €3000,- |
-| Voertuig rijden met een wok status | €4500,- |
-| Weg blokkeren | €720,- |
-| Verkeersovertreding niet nader gespecificeerd | €430,- |
-| Rijden zonder kentekenplaten | €840,- |
-| Geblindeerde ramen | €690,- |
-| Verlichting(NEON) onder het voertuig | €690 |
-| Opzettelijk veroorzaken van ernstig gevaar of hinder - eerste veroordeling | €3000,- |
-| Opzettelijk veroorzaken van ernstig gevaar of hinder - tweede veroordeling | €7500,- |
-| Opzettelijk veroorzaken van ernstig gevaar of hinder - derde veroordeling | €10500,- |
+| Rijden met rijontzegging 1e keer | € 4000,- |
+| Zonder rijbewijs rijden | € 4000,- |
+| Zonder rijbewijs rijden 2e keer | € 8000,- |
+| Binnen bebouwde kom < 10 KM/H te hard | € 100,- |
+| Binnen bebouwde kom 10-20 KM/H te hard | € 400,- |
+| Binnen bebouwde kom 20-30 KM/H te hard | € 1000,- |
+| Binnen bebouwde kom 30-40 KM/H te hard | € 2000,- |
+| Binnen bebouwde kom 40-50 KM/H te hard | € 3000,- |
+| Binnen bebouwde kom 50-60 KM/H te hard | € 4500,- |
+| Buiten bebouwde kom < 10 KM/H te hard | € 100,- |
+| Buiten bebouwde kom 10-20 KM/H te hard | € 300,- |
+| Buiten bebouwde kom 20-30 KM/H te hard | € 700,- |
+| Buiten bebouwde kom 30-40 KM/H te hard | € 1000,- |
+| Buiten bebouwde kom 40-50 KM/H te hard | € 1500,- |
+| Buiten bebouwde kom 50-60 KM/H te hard | € 2000,- |
+| Door rood licht rijden met een fiets | € 150,- |
+| Door rood licht rijden met een bromfiets | € 320,- |
+| Door rood licht rijden | € 720,- |
+| Verkeerde voertuig informatie doorgeven | € 270,- |
+| Onnodig claxoneren | € 370,- |
+| Joyriding | € 1700,- |
+| Rijden onder invloed | € 4000,- |
+| Illegaal off road rijden | € 420,- |
+| Door rijden bij een stop bord | € 420,- |
+| Illegaal inhalen over een vluchtstrook | € 1140,- |
+| U-turn | € 420,- |
+| Over een doorgetrokken streep rijden | € 480,- |
+| Onnodig linksrijden | € 420,- |
+| Spookrijden | € 1860,- |
+| Stil staan met je auto waar dat niet mag | € 420,- |
+| Hinder zonder ongeval | € 3000,- |
+| Verkeersongeval met licht lichamelijk letsel | € 4000,- |
+| Verkeersongeval met zwaar lichamelijk letsel | € 10000,- |
+| Dodelijk verkeersongeval | € 16000,- |
+| Doorrijden na een ongeluk | € 15000,- |
+| Overtreding van WOK status | € 1200,- |
+| Verboden voertuig openbare weg | € 3300,- |
+| Negeren van stopteken | € 3600,- |
+| Fout parkeren | € 1750,- |
+| Roekeloos Rijgedrag | € 3000,- |
+| Voertuig rijden met een wok status | € 4500,- |
+| Weg blokkeren | € 720,- |
+| Verkeersovertreding niet nader gespecificeerd | € 430,- |
+| Rijden zonder kentekenplaten | € 840,- |
+| Geblindeerde ramen | € 690,- |
+| Verlichting(NEON) onder het voertuig | € 690 |
+| Opzettelijk veroorzaken van ernstig gevaar of hinder - eerste veroordeling | € 3000,- |
+| Opzettelijk veroorzaken van ernstig gevaar of hinder - tweede veroordeling | € 7500,- |
+| Opzettelijk veroorzaken van ernstig gevaar of hinder - derde veroordeling | € 10500,- |
 
 ## Klein misdrijf
 
 |Feit|Boete bedrag|
 |:---|:---:|
-| Openbare dronkenschap | €120,- |
-| Rechtsdoorgang beletten | €130,- |
-| Onbevoegd begeven op privé terrein | €180,- |
-| Dragen van gezichtsbedekkende kledij | €200,- |
-| Beledigen van een ambtenaar in functie | €600,- |
-| Verstoring Openbare orde | €220,- |
-| Valse informatie geven | €250,- |
-| Valse melding | €450,- |
-| In het bezit zijn van inbrekers gereedschap | €2500,- |
-| Poging tot diefstal | €1400,- |
-| Diefstal | €2000,- |
-| Poging tot omkopen | €1500,- |
-| Rijden met rijontzegging 2e keer | €4000,- |
-| Rijden met rijontzegging 3e keer | €6000,- |
-| Vernieling Eerste Veroordeling | €3000,- |
-| Lokaalvredebreuk eerste veroordeling | €1500,- |
-| Lokaalvredebreuk tweede veroordeling | €2000,- |
-| Lokaalvredebreuk derde veroordeling | €3000,- |
+| Openbare dronkenschap | € 120,- |
+| Rechtsdoorgang beletten | € 130,- |
+| Onbevoegd begeven op privé terrein | € 180,- |
+| Dragen van gezichtsbedekkende kledij | € 200,- |
+| Beledigen van een ambtenaar in functie | € 600,- |
+| Verstoring Openbare orde | € 220,- |
+| Valse informatie geven | € 250,- |
+| Valse melding | € 450,- |
+| In het bezit zijn van inbrekers gereedschap | € 2500,- |
+| Poging tot diefstal | € 1400,- |
+| Diefstal | € 2000,- |
+| Poging tot omkopen | € 1500,- |
+| Rijden met rijontzegging 2e keer | € 4000,- |
+| Rijden met rijontzegging 3e keer | € 6000,- |
+| Vernieling Eerste Veroordeling | € 3000,- |
+| Lokaalvredebreuk eerste veroordeling | € 1500,- |
+| Lokaalvredebreuk tweede veroordeling | € 2000,- |
+| Lokaalvredebreuk derde veroordeling | € 3000,- |
 
 ## Middelmatig misdrijf
 
 |Feit|Boete bedrag|
 |:---|:---:|
-| Bedreiging | €3000,- |
-| Bedreiging overheidsmedewerker | €4000,- |
-| Afpersing / Chantage | €7500,- |
-| Verduistering | €5000,- |
-| Fraude / Heling | €2000,- |
-| Buiten dienst wapen dragen | €10000,- |
-| Een auto stelen | €5600,- |
-| Identiteitsfraude | €2000,- |
-| Ontvoering/gijzeling van een burger | €10000,- |
-| Ontvoering van een overheidsmedewerker | €13000,- |
-| In het bezit zijn van een illegaal vuurwapen Cat. 1 | €10000,- |
-| In het bezit zijn van een illegaal vuurwapen Cat. 2 | €20000,- |
-| In het bezit zijn van een nepwapen of holster | €5000,- |
-| In het bezit zijn van taser | €5000,- |
-| In het bezit zijn van een slag/steekwapen | €5000,- |
-| Deelname aan een criminele organisatie | €3000,- |
-| Huisvredebreuk eerste veroordeling | €2000,- |
-| Huisvredebreuk tweede veroordeling | €4000,- |
-| Huisvredebreuk derde veroordeling | €6000,- |
+| Bedreiging | € 3000,- |
+| Bedreiging overheidsmedewerker | € 4000,- |
+| Afpersing / Chantage | € 7500,- |
+| Verduistering | € 5000,- |
+| Fraude / Heling | € 2000,- |
+| Buiten dienst wapen dragen | € 10000,- |
+| Een auto stelen | € 5600,- |
+| Identiteitsfraude | € 2000,- |
+| Ontvoering/gijzeling van een burger | € 10000,- |
+| Ontvoering van een overheidsmedewerker | € 13000,- |
+| In het bezit zijn van een illegaal vuurwapen Cat. 1 | € 10000,- |
+| In het bezit zijn van een illegaal vuurwapen Cat. 2 | € 20000,- |
+| In het bezit zijn van een nepwapen of holster | € 5000,- |
+| In het bezit zijn van taser | € 5000,- |
+| In het bezit zijn van een slag/steekwapen | € 5000,- |
+| Deelname aan een criminele organisatie | € 3000,- |
+| Huisvredebreuk eerste veroordeling | € 2000,- |
+| Huisvredebreuk tweede veroordeling | € 4000,- |
+| Huisvredebreuk derde veroordeling | € 6000,- |
 
 ## Grootmisdrijf
 
 |Feit|Boete bedrag|
 |:--|:---:|
-| Eenvoudige mishandeling | €5000,- |
-| Zware mishandeling | €10000,- |
-| Eenvoudige mishandeling overheidsmedewerker | €6600,- |
-| Zware mishandeling overheidsmedewerker | €13300,- |
-| Poging tot doodslag | €10000,- |
-| Poging tot doodslag overheidsmedewerker | €13300,- |
-| Doodslag | €15000,- |
-| Doodslag overheidsmedewerker | €20000,- |
-| Poging tot moord | €14400,- |
-| Poging tot moord op een overheidsmedewerker | €19150,- |
-| Moord | €20000,- |
-| Moord op een overheidsmedewerker | €26600,- |
-| Overval | €20000,- |
-| Witwassen | €15000,- |
-| Betreden van verboden militair domein eerste veroordeling | €10000,- |
-| Betreden van verboden militair domein tweede veroordeling | €15000,- |
-| Betreden van verboden militair domein derde veroordeling | €20000,- |
-| Zonder Vliegbrevet vliegen | €75000,- |
+| Eenvoudige mishandeling | € 5000,- |
+| Zware mishandeling | € 10000,- |
+| Eenvoudige mishandeling overheidsmedewerker | € 6600,- |
+| Zware mishandeling overheidsmedewerker | € 13300,- |
+| Poging tot doodslag | € 10000,- |
+| Poging tot doodslag overheidsmedewerker | € 13300,- |
+| Doodslag | € 15000,- |
+| Doodslag overheidsmedewerker | € 20000,- |
+| Poging tot moord | € 14400,- |
+| Poging tot moord op een overheidsmedewerker | € 19150,- |
+| Moord | € 20000,- |
+| Moord op een overheidsmedewerker | € 26600,- |
+| Overval | € 20000,- |
+| Witwassen | € 15000,- |
+| Betreden van verboden militair domein eerste veroordeling | € 10000,- |
+| Betreden van verboden militair domein tweede veroordeling | € 15000,- |
+| Betreden van verboden militair domein derde veroordeling | € 20000,- |
+| Zonder Vliegbrevet vliegen | € 75000,- |
 
 !!! attention "LET OP"
     De prijzen kunnen ten alle tijden worden worden gewijzigd

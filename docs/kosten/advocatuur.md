@@ -15,10 +15,10 @@ Een voorbeeld:
 
 | Zaak lengte | Totaalprijs |
 |---|---|
-|10 minuten| €2.500,-|
-|25 minuten |€2.500,-|
-|40 minuten | €5.000,- |
-|70 minuten | €7.500,- |
+|10 minuten| € 2500,-|
+|25 minuten | € 2500,-|
+|40 minuten | € 5000,- |
+|70 minuten | € 7500,- |
 
 !!! attention "LET OP"
     De prijzen kunnen ten alle tijden worden worden gewijzigd
