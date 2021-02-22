@@ -6,52 +6,52 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 
 |Feit|Boete bedrag|
 |:---|:----:|
-| Rijden met rijontzegging 1e keer | €2000,- |
-| Zonder rijbewijs rijden | €2000,- |
-| Zonder rijbewijs rijden 2e keer | 4000,- |
-| Binnen bebouwde kom < 10 KM/H te hard | €80,- |
-| Binnen bebouwde kom 10-20 KM/H te hard | €200,- |
-| Binnen bebouwde kom 20-30 KM/H te hard | €340,- |
-| Binnen bebouwde kom 30-40 KM/H te hard | €500,- |
-| Binnen bebouwde kom 40-50 KM/H te hard | €900,- |
-| Binnen bebouwde kom 50-60 KM/H te hard | €1200,- |
-| Buiten bebouwde kom < 10 KM/H te hard | €75,- |
-| Buiten bebouwde kom 10-20 KM/H te hard | €190,- |
-| Buiten bebouwde kom 20-30 KM/H te hard | €330,- |
-| Buiten bebouwde kom 30-40 KM/H te hard | €450,- |
-| Buiten bebouwde kom 40-50 KM/H te hard | €600,- |
-| Buiten bebouwde kom 50-60 KM/H te hard | €900,- |
-| Door rood licht rijden met een fiets | €95,- |
-| Door rood licht rijden met een bromfiets | €160,- |
-| Door rood licht rijden | €240,- |
-| Verkeerde voertuig informatie doorgeven | €90,- |
-| Onnodig claxoneren | €95,- |
-| Joyriding | €850,- |
-| Rijden onder invloed | €3000,- |
-| Illegaal off road rijden | €140,- |
-| Door rijden bij een stop bord | €140,- |
-| Illegaal inhalen over een vluchtstrook | €380,- |
-| U-turn | €140,- |
-| Over een doorgetrokken streep rijden | €240,- |
-| Onnodig linksrijden | €140,- |
-| Spookrijden | €620,- |
-| Stil staan met je auto waar dat niet mag | €140,- |
-| Hinder zonder ongeval | €1000,- |
-| Verkeersongeval met licht lichamelijk letsel | €2000,- |
-| Verkeersongeval met zwaar lichamelijk letsel | €5000,- |
-| Dodelijk verkeersongeval | €8000,- |
-| Doorrijden na een ongeluk | €5000,- |
-| Overtreding van WOK status | €400,- |
-| Verboden voertuig openbare weg | €1100,- |
-| Negeren van stopteken | €1200,- |
-| Fout parkeren | €1500,- |
-| Roekeloos Rijgedrag | €1500,- |
-| Voertuig rijden met een wok status | €1500,- |
-| Weg blokkeren | €240,- |
+| Rijden met rijontzegging 1e keer | €4000,- |
+| Zonder rijbewijs rijden | €4000,- |
+| Zonder rijbewijs rijden 2e keer | 8000,- |
+| Binnen bebouwde kom < 10 KM/H te hard | €100,- |
+| Binnen bebouwde kom 10-20 KM/H te hard | €400,- |
+| Binnen bebouwde kom 20-30 KM/H te hard | €1.000,- |
+| Binnen bebouwde kom 30-40 KM/H te hard | €2.000,- |
+| Binnen bebouwde kom 40-50 KM/H te hard | €3.000,- |
+| Binnen bebouwde kom 50-60 KM/H te hard | €4.500,- |
+| Buiten bebouwde kom < 10 KM/H te hard | €100,- |
+| Buiten bebouwde kom 10-20 KM/H te hard | €300,- |
+| Buiten bebouwde kom 20-30 KM/H te hard | €700,- |
+| Buiten bebouwde kom 30-40 KM/H te hard | €1000,- |
+| Buiten bebouwde kom 40-50 KM/H te hard | €1500,- |
+| Buiten bebouwde kom 50-60 KM/H te hard | €2000,- |
+| Door rood licht rijden met een fiets | €150,- |
+| Door rood licht rijden met een bromfiets | €320,- |
+| Door rood licht rijden | €720,- |
+| Verkeerde voertuig informatie doorgeven | €270,- |
+| Onnodig claxoneren | €370,- |
+| Joyriding | €1700,- |
+| Rijden onder invloed | €4000,- |
+| Illegaal off road rijden | €420,- |
+| Door rijden bij een stop bord | €420,- |
+| Illegaal inhalen over een vluchtstrook | €1140,- |
+| U-turn | €420,- |
+| Over een doorgetrokken streep rijden | €480,- |
+| Onnodig linksrijden | €420,- |
+| Spookrijden | €1860,- |
+| Stil staan met je auto waar dat niet mag | €420,- |
+| Hinder zonder ongeval | €3000,- |
+| Verkeersongeval met licht lichamelijk letsel | €4000,- |
+| Verkeersongeval met zwaar lichamelijk letsel | €10.000,- |
+| Dodelijk verkeersongeval | €16.000,- |
+| Doorrijden na een ongeluk | €15.000,- |
+| Overtreding van WOK status | €1200,- |
+| Verboden voertuig openbare weg | €3300,- |
+| Negeren van stopteken | €3600,- |
+| Fout parkeren | €1750,- |
+| Roekeloos Rijgedrag | €3000,- |
+| Voertuig rijden met een wok status | €4500,- |
+| Weg blokkeren | €720,- |
 | Verkeersovertreding niet nader gespecificeerd | €430,- |
-| Rijden zonder kentekenplaten | €140,- |
-| Geblindeerde ramen | €230,- |
-| Verlichting(NEON) onder het voertuig | €230 |
+| Rijden zonder kentekenplaten | €840,- |
+| Geblindeerde ramen | €690,- |
+| Verlichting(NEON) onder het voertuig | €690 |
 | Opzettelijk veroorzaken van ernstig gevaar of hinder - eerste veroordeling | €3000,- |
 | Opzettelijk veroorzaken van ernstig gevaar of hinder - tweede veroordeling | €7500,- |
 | Opzettelijk veroorzaken van ernstig gevaar of hinder - derde veroordeling | €10500,- |
