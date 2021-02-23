@@ -36,8 +36,9 @@
 2. Een opgelegde straf kan een combinatie zijn van de bovenstaande strafvormen.
 3. Een opgelegde straf is nooit hoger dan de vastgestelde waarden.
 4. Een straf kan wel verhoogd worden door het stapelen van overtredingen.
-5. Een straf kan ook verlaagd worden door verzachtende omstandigheden.
-6. Een straf kan geheel of gedeeltelijk kwijtgescholden of uitgesloten worden op basis van uitsluitingsgronden of bewijsbaar foutieve uitschrijving van de straf.
+5. Indien er sprake is van meerdere slachtoffers van een geweldsdelict, dan wordt er voor elk extra slachtoffer 25% van de oorspronkelijke straf bij de uiteindelijke straf toegevoegd. Bij 2 slachtoffers zal er dus sprake zijn van een strafverhoging van 25% van de normale strafmaat, en zo verder. 
+6. Een straf kan ook verlaagd worden door verzachtende omstandigheden.
+7. Een straf kan geheel of gedeeltelijk kwijtgescholden of uitgesloten worden op basis van uitsluitingsgronden of bewijsbaar foutieve uitschrijving van de straf.
 
 ### A4 - Strafblad
 
