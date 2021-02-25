@@ -23,8 +23,16 @@
 1. Bij veranderingen van een wetgeving na het tijdstip waarop het feit begaan is, worden de voor de verdachte meest gunstigste bepalingen toegepast.
 2. Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die over hunzelf, vrienden en/of familie gaat. Dit om te versterken dat een zaak op een eerlijke en rechtvaardige manier behandeld wordt.
 3. Minderjarigen worden binnen TeDeApolis op dezelfde manier behandeld als volwassenen. Alle bepalingen, straffen en dergelijke zijn ook van toepassing op hen. Minderjarigen hebben dezelfde rechten en plichten als volwassenen. Het jeugdstrafrecht is in TeDeApolis niet van toepassing.
+### A3 - Verjaring van het strafbaar feit
 
-### A3 - Strafbepaling
+1. Het recht tot strafvordering vervalt door verjaring:
+   * Voor misdrijven waar de totale strafeis minder of gelijk aan 50 maanden bedroeg, verjaren deze feiten na 10 dagen;
+   * Voor misdrijven waar de totale strafeis minder of gelijk aan 85 maanden bedroeg, verjaren deze feiten na 15 dagen;
+   * Voor misdrijven waar de totale strafeis minder of gelijk aan 100 maanden bedroeg, verjaren deze feiten na 30 dagen;
+   * Voor misdrijven waar de totale strafeis meer dan 100 maanden bedroeg, verjaren deze feiten na 45 dagen;
+
+
+### A4 - Strafbepaling
 
 1. Straffen zijn vastgesteld en opgenomen per artikel. Hieronder vallen:
    * Waarschuwingen;
@@ -40,13 +48,13 @@
 6. Een straf kan ook verlaagd worden door verzachtende omstandigheden.
 7. Een straf kan geheel of gedeeltelijk kwijtgescholden of uitgesloten worden op basis van uitsluitingsgronden of bewijsbaar foutieve uitschrijving van de straf.
 
-### A4 - Strafblad
+### A5 - Strafblad
 
 1. Alleen straffen die enige vorm van celstraf bevatten kunnen leiden tot een strafblad.
 2. Een strafblad blijft staan voor een periode van 2 (realtime) maanden voor alle geweldsdelicten met celstraf, en 1 maand voor alle overige delicten met celstraf, ingaand op de datum van de opgelegde celstraf.
 3. Wanneer een nieuwe overtreding of misdrijf wordt begaan, wordt de resterende tijd gereset naar de datum van de laatst opgelegde celstraf.
 
-### A5 - Verduidelijking en algemene aanvulling
+### A6 - Verduidelijking en algemene aanvulling
 
 1. Onder goederen kan worden verstaan alles wat tussen twee personen kan worden uitgewisseld, behalve geld of informatie.
    * Hieronder valt, onder andere, alles wat in de inventaris gevonden kan worden, alsmede voertuigen.
@@ -55,7 +63,7 @@
 3. Zij, die in dienst van de Overheid, genoodzaakt zijn een actie uit te voeren welke volgens de wet verboden is, kunnen vanwege het noodzakelijk aspect, binnen de contouren van hun functie, niet aangeklaagd worden als zijnde in overtreding van de wet.
    * Bovenstaande ontslaat ambtenaren in dienst van de Overheid niet van alle overige rechtsvervolging.
 
-### A6 - Inbeslagname
+### A7 - Inbeslagname
 
 1. Wanneer een strafbaar feit gepleegd is met een goed, of wanneer een goed uit misdrijf is verkregen, kan deze in beslag worden genomen.
    * De keuze voor inbeslagname is ter beoordeling van Politie, Justitie en/of de Koninklijke Marechaussee.
@@ -69,7 +77,7 @@
    * Wanneer het voertuig bewijsbaar onderdeel was van het misdrijf en de eigenaar daarvan overleden is, dan zal het voertuig uitgekocht kunnen worden voor 20% van de cataloguswaarde.
    * Uitzonderingsgrond voor teruggave van het voertuig is, indien het een voertuig betreft zoals omschreven in Artikel III-14 Illegale voertuigen. In dit geval zal het voertuig worden vernietigd.
 
-### A7 - Openstaande boetes
+### A8 - Openstaande boetes
 
 1. Wanneer tijdens een controle of aanhouding aangetoond wordt dat het totaalbedrag van openstaande boetes boven de €10,000 reikt, kan dit impact hebben op de situatie.
    * Wanneer dit aangetoond wordt bij het opvragen van een inbeslaggenomen goed of voertuig kan geëist worden eerst het boetebedrag te voldoen;
@@ -78,7 +86,7 @@
    * Deze boete of taakstraf wordt bijgevoegd bij de totale straf eis.
 2. Onder het voldoen van het boetebedrag wordt verstaan tenminste een zodanige betaling te voldoen dat het totale boetebedrag onder de €10,000 komt.
 
-### A8 - Consultatierecht
+### A9 - Consultatierecht
 
 1. Krachtens artikel 6 van het Europees Verdrag voor de Rechten van de Mens is het een verdachte, voorafgaand aan een politieverhoor, toegestaan consultatie te ontvangen van zijn of haar voorkeursadvocaat.
 2. Indien de voorkeursadvocaat genoemd in lid 1 niet beschikbaar is, is een vervangend advocaat afdoende om te voldoen aan dit recht.
@@ -86,7 +94,7 @@
 4. Indien de oproep zoals genoemd in lid 3 niet mogelijk blijkt, of de verdachte weigert een advocaat op te roepen, dan is de politie verplicht tot het doen oproepen van een advocaat voor de verdachte;
 5. Uitsluitingsgrond voor lid 4 is wanneer verdachte expliciet en ondubbelzinnig afziet van zijn of haar recht tot consultatie.
 
-### A9 - Algemene rechtsbeginselen
+### A10 - Algemene rechtsbeginselen
 
 1. De algemene rechtsbeginselen stellen eisen en scheppen kaders aan beleid of regelgeving. Beleid of regelgeving dat onvoldoende aansluit op algemene rechtsbeginselen kan onderhevig zijn aan uitsluiting of verwerping.
 2. Onder de algemene rechtsbeginselen wordt verstaan:
