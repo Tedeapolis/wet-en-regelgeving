@@ -466,7 +466,7 @@
 
 | *Feit* | *boete* |
 |---|---|
-| Rijden zonder kentekenplaten | € 140,- |
+| Rijden zonder kentekenplaten | € 840,- |
 | Ramen dusdanig donker getint zodat de bestuurder en passagier voor in niet zichtbaar zijn | € 230,- |
 | Verlichting(NEON) onder het voertuig | € 230,- |
 
