@@ -424,9 +424,14 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 6. Het overtreden van lid 1,2,3 of 4. zal resulteren in een straf van de 1e categorie.
 7. Bij herhaalde overtredingen van lid 1,2,3 of 4 door een gang kan er worden overgegaan op gangstrikes.
 
+### Artikel 50 - Landen van helikopters/vliegtuigen
+
+1. Het is verplicht om te landen op een helipad, een landingsbaan of in een straal van 50 meter van een helipad/landingsbaan in Narcopolis met een vliegtuig of een helikopter.
+2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 1e categorie uitgedeeld.
+
 ## Tijdelijke bepalingen
 
-### Artikel 50 - Uitbreken uit de gevangenis
+### Artikel 51 - Uitbreken uit de gevangenis
 
 1. Het is verboden om tussen 23:00 en 10:00 uit de gevangenis te breken.
 2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 2e categorie uitgedeeld.
