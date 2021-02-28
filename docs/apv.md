@@ -424,9 +424,25 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 6. Het overtreden van lid 1,2,3 of 4. zal resulteren in een straf van de 1e categorie.
 7. Bij herhaalde overtredingen van lid 1,2,3 of 4 door een gang kan er worden overgegaan op gangstrikes.
 
+## Narcopolis
+
+Onderstaande regels tellen alleen op Narcopolis
+
+### Artikel 50 - Schieten vanaf het vasteland en water
+
+1. Het is verboden om vanaf het vaste land op de patrouillerende schepen of heli's te schieten.
+2. Het is vanuit de koninklijke marechaussee verboden om op het vasteland te schieten.
+3. Bij overtreding van lid 1 of lid 2 zal een straf worden gegeven van de 1e categorie.
+4. Er mag op binnenkomende vluchten en schepen geschoten worden, die niet afkomstig zijn van de koninklijke marechaussee.
+
+### Artikel 51 - Landen van helikopers/vliegtuigen
+
+1. Het is verplicht om te landen op een helipad, een landingsbaan of in een straal van 50 meter van een helipad/landingsbaan.
+2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 1e categorie uitgedeeld
+
 ## Tijdelijke bepalingen
 
-### Artikel 50 - Uitbreken uit de gevangenis
+### Artikel 52 - Uitbreken uit de gevangenis
 
 1. Het is verboden om tussen 23:00 en 10:00 uit de gevangenis te breken.
 2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 2e categorie uitgedeeld.
