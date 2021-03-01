@@ -438,7 +438,7 @@ Onderstaande regels tellen alleen op Narcopolis
 ### Artikel 51 - Landen van helikopers/vliegtuigen
 
 1. Het is verplicht om te landen op een helipad, een landingsbaan of in een straal van 50 meter van een helipad/landingsbaan.
-2. De sea sperrow mag wel op openwater rondom het eiland geland worden.
+2. De sea sparrow en dodo mag wel op openwater rondom het eiland geland worden.
 3. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 1e categorie uitgedeeld.
 
 ## Tijdelijke bepalingen
