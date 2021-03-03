@@ -412,16 +412,7 @@
 | **Tweede Veroordeling**  |   | 20 uur | €4000,-  | 0-24 uur |
 | **Meerdere Veroordelingen**  |   | 30 uur | €6000,-  | 0-24 uur |
 
-### Artikel III-9 Negeren van de grenscontrole (1:1 - 1:31 Algemene Douanewet)
-
-1. Schuldig is een persoon die opzettelijk en wederrechtelijk een grenspost ontwijkt daar waar hij redelijkerwijs deze grenspost zou moeten passeren;
-2. Schuldig is tevens een persoon die zich onthoudt van aanhouding dan wel controle door de Koninklijke Marechaussee bij een grenspost;
-3. Niet schuldig is een persoon die een grenspost passeert dan wel ontwijkt of vermijdt terwijl deze op dat moment niet bemenst is met dienstdoend personeel;
-4. Niet schuldig is tevens een persoon die een grenspost passeert zonder controle wanneer deze persoon niet tijdig en duidelijk tot stilstand wordt gemaand door het dienstdoend personeel;
-5. Niet schuldig is tevens een persoon die, gelet op artikel 4, zijn of haar voertuig na passeren van de grens, met inachtneming van enige redelijkheid van afstand en tijd, tot stilstand brengt om alsnog te worden gecontroleerd;
-6. De straf gegeven voor de overtredingen als bedoeld in lid 1 en 2 wordt gegeven in de vorm van een boete van €10,000 voor de eerste maal, en €15,000 voor alle opvolgende malen.
-
-### Artikel III-10 Fout parkeren (25 RVV 1990)
+### Artikel III-9 Fout parkeren (25 RVV 1990)
 
 1. Schuldig is een persoon die zijn of haar voertuig parkeert op een wijze die niet sluit met de aangegeven parkeersituatie, zoals:
    * dubbelparkeren of het moedwillig doorkruisen van parkeervakken;
@@ -429,7 +420,7 @@
    * volledig parkeren op de stoep;
 2. De vastgestelde boete voor bovenstaande acties is €1500,-
 
-### Artikel III-11 Snelheidsovertredingen
+### Artikel III-10 Snelheidsovertredingen
 
 1. Schuldig is een persoon die de wettelijk bepaalde snelheden voor verkeer niet in acht neemt tijdens deelname aan het verkeer.
 2. De toegestane snelheden zijn 80KM/h binnen de bebouwde kom, 130KM/h buiten de bebouwde kom.
@@ -455,7 +446,7 @@
 | Te hard rijden 41 - 50KM/H | € 600,- |
 | Te hard rijden 51 - 60KM/H | € 900,- |
 
-### Artikel III-12 Voertuigeisen
+### Artikel III-11 Voertuigeisen
 
 1. Schuldig is een persoon van wie zijn of haar voertuig niet voldoet aan de volgende eisen.
 2. Het voertuig, uitgezonderd fietsen, heeft 1 of meer nummerplaten, als dit niet mogelijk is moet de bestuurder in het bezit zijn van een geldig bewijs in vorm van een document als ontheffing daarvoor.
@@ -478,7 +469,7 @@
 | Ramen dusdanig donker getint zodat de bestuurder en passagier voor in niet zichtbaar zijn | € 230,- |
 | Verlichting(NEON) onder het voertuig | € 230,- |
 
-### Artikel III-13 Overige verkeersboetes
+### Artikel III-12 Overige verkeersboetes
 
 1. Ter bevordering der transparantie is opgenomen dit artikel met daarin gespecificeerde boetes, teneinde transparantie te verlenen.
 2. Een volledig overzicht van alle boetes is tevens te vinden in het Kostendocument.
@@ -500,7 +491,7 @@
 | Doorrijden bij een stopbord | € 140,-  |
 | Illegaal inhalen | € 380,-  |
 
-### Artikel III-14 Illegale voertuigen
+### Artikel III-13 Illegale voertuigen
 
 1. Schuldig is een persoon die weet of redelijkerwijs behoort te weten dat zijn of haar voertuig staat aangegeven als illegaal voertuig en zich bevind op een plek of plaats anders dan eigen- en/of privéterrein.
 2. Onder illegaal voertuig wordt verstaan, elk voertuig dat is aangeduid als 'illegaal' bij de cardealer en/of in onderstaande tabel is vermeld.
@@ -937,6 +928,27 @@
 7. Een uitzondering op lid 6 is indien er een besluit is genomen door OvJ/HOvJ/hOvJ die betrokken wordt bij de zaak.
 8. Het schadevergoeding document kan alleen worden ondertekend door korpsleiding of een OvJ/HOvJ/hOvJ.
 9. Schadevergoeding wordt uitgekeerd vanuit de korpsleiding op vertoon van het schadevergoeding document.
+
+## Titel X – Algemene douanewet
+
+### Artikel X-1 Negeren van controle grensinspectiepost (1:1 - 1:31 Algemene Douanewet)
+
+1. Schuldig is een persoon die opzettelijk en wederrechtelijk een grensinspectiepost ontwijkt, daar waar hij redelijkerwijs deze grensinspectiepost zou moeten passeren.
+2. Schuldig is tevens een persoon die zich onthoudt van aanhouding dan wel controle door de Koninklijke Marechaussee bij een grensinspectiepost.
+3. Niet schuldig is een persoon die een grensinspectiepost passeert dan wel ontwijkt of vermijdt terwijl deze op dat moment niet bemenst is met dienstdoend personeel.
+4. Niet schuldig is tevens een persoon die een grensinspectiepost passeert zonder controle wanneer deze persoon niet tijdig en duidelijk tot stilstand wordt gemaand door het dienstdoend personeel.
+5. Niet schuldig is tevens een persoon die, gelet op artikel 4, zijn of haar voertuig na passeren van de grens, met inachtneming van enige redelijkheid van afstand en tijd, tot stilstand brengt om alsnog te worden gecontroleerd.
+6. De straf gegeven voor de overtredingen als bedoeld in lid 1 en 2 wordt gegeven in de vorm van een boete van €10000 voor de eerste maal en €15000 voor alle opvolgende malen.
+
+### Artikel X-2 Bevoegdheden douane om aan controle te onderwerpen (Artikel 1:28 Algemene Douanewet)
+
+1. De douane is bevoegd om personen en/of vervoermiddelen aan controle te onderwerpen bij locaties die bekend zijn als grensinspectiepost.
+2. De douane is bevoegd personen die aanwezig zijn in of op de bedoelde locaties van lid 1 aan fouillering te onderwerpen.
+3. Fouillering geschiedt op een besloten plaats door dienstdoend personeel die van hetzelfde geslacht zijn als de persoon die aan fouillering wordt onderworpen.
+4. Onder fouillering zoals beschreven wordt verstaan: het onderzoek aan de kleding; en/of het verwijderen van de kleding, teneinde deze aan een nauwkeurig onderzoek te onderwerpen. Verwijderen van onderkleding is niet toegestaan.
+5. De douane is bevoegd vervoermiddelen die aanwezig zijn in of op de bedoelde locaties van lid 1 te doorzoeken.
+6. Personen zijn op vordering van de douane gehouden stil te staan en deze te volgen naar een door hem aangewezen plaats.
+7. Op vordering van de douane zijn reizigers, die zich bevinden in een vervoermiddel op de bedoelde locaties van lid 1, gehouden hun identiteit- en/of rijbewijs te vertonen. Deze verplichting geldt eveneens voor reizigers die in het vervoermiddel aanwezig zijn of juist hebben verlaten, dan wel die op het punt staan daarin aan boord te gaan.
 
 ---------------------
 *Wetboek Tedeapolis is opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Tedeapolis”, opgetekend door Bram Mosterdfiets, te Tedeapolis.*
