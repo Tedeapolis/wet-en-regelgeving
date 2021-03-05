@@ -14,23 +14,23 @@
 
 ### A1 - Reikwijdte
 
-1. Het Wetboek Tedeapolis (verder aangeduid als WTDA) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad Tedeapolis.
-2. Het Wetboek is leidend voor alle beschreven gevallen. Daarbuiten is het Nederlands Recht van toepassing.
-3. Het Wetboek is nauw verweven met de Algemene Plaatselijke Verordening Tedeapolis (APV). De APV biedt echter slechts een indicerend kader voor eventuele bestraffing in-game (“in RP”) en is verder bedoeld voor het afhandelen van straffen buiten de RP om.
+1. Het Wetboek Tedeapolis (verder aangeduid als WTDA) is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is. 
+2. Het WTDA heeft betrekking op het vaste land, de gemeente, en de stad Tedeapolis.
+3. Het WTDA is nauw verweven met de Algemene Plaatselijke Verordening Tedeapolis (APV). De APV dient echter als een indicerend kader voor eventuele bestraffing in-game (“in RP”) en is verder bedoeld voor het afhandelen van straffen buiten de RP om.
 
 ### A2 - Geldigheid
 
-1. Bij veranderingen van een wetgeving na het tijdstip waarop het feit begaan is, worden de voor de verdachte meest gunstigste bepalingen toegepast.
+1. Bij verandering van een wetgeving na het tijdstip waarop het feit begaan is, wordt voor de verdachte de meest gunstigste bepalingen toegepast.
 2. Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die over hunzelf, vrienden en/of familie gaat. Dit om te versterken dat een zaak op een eerlijke en rechtvaardige manier behandeld wordt.
-3. Minderjarigen worden binnen TeDeApolis op dezelfde manier behandeld als volwassenen. Alle bepalingen, straffen en dergelijke zijn ook van toepassing op hen. Minderjarigen hebben dezelfde rechten en plichten als volwassenen. Het jeugdstrafrecht is in TeDeApolis niet van toepassing.
+3. Minderjarigen worden binnen Tedeapolis op dezelfde manier behandeld als volwassenen. Alle bepalingen, straffen en dergelijke zijn ook van toepassing op hen. Minderjarigen hebben dezelfde rechten en plichten als volwassenen. Het jeugdstrafrecht is in Tedeapolis niet van toepassing.
+
 ### A3 - Verjaring van het strafbaar feit
 
 1. Het recht tot strafvordering vervalt door verjaring:
-   * Voor misdrijven waar de totale strafeis minder of gelijk aan 50 maanden bedroeg, verjaren deze feiten na 10 dagen;
-   * Voor misdrijven waar de totale strafeis minder of gelijk aan 85 maanden bedroeg, verjaren deze feiten na 15 dagen;
-   * Voor misdrijven waar de totale strafeis minder of gelijk aan 100 maanden bedroeg, verjaren deze feiten na 30 dagen;
+   * Voor misdrijven waar de totale strafeis tussen de 1 en 50 maanden bedroeg, verjaren deze feiten na 10 dagen;
+   * Voor misdrijven waar de totale strafeis tussen de 51 en 85 maanden maanden bedroeg, verjaren deze feiten na 15 dagen;
+   * Voor misdrijven waar de totale strafeis tussen de 86 en 100 maanden bedroeg, verjaren deze feiten na 30 dagen;
    * Voor misdrijven waar de totale strafeis meer dan 100 maanden bedroeg, verjaren deze feiten na 45 dagen;
-
 
 ### A4 - Strafbepaling
 
@@ -46,17 +46,17 @@
 4. Een straf kan wel verhoogd worden door het stapelen van overtredingen.
 5. Indien er sprake is van meerdere slachtoffers van een geweldsdelict, dan wordt er voor elk extra slachtoffer 25% van de oorspronkelijke straf bij de uiteindelijke straf toegevoegd. Bij 2 slachtoffers zal er dus sprake zijn van een strafverhoging van 25% van de normale strafmaat, en zo verder.
 6. Een straf kan ook verlaagd worden door verzachtende omstandigheden.
-7. Een straf kan geheel of gedeeltelijk kwijtgescholden of uitgesloten worden op basis van uitsluitingsgronden of bewijsbaar foutieve uitschrijving van de straf.
+7. Een straf kan geheel of gedeeltelijk kwijtgescholden worden op basis van uitsluitingsgronden.
 
 ### A5 - Strafblad
 
-1. Alleen straffen die enige vorm van celstraf bevatten kunnen leiden tot een strafblad.
-2. Een strafblad blijft staan voor een periode van 2 (realtime) maanden voor alle geweldsdelicten met celstraf, en 1 maand voor alle overige delicten met celstraf, ingaand op de datum van de opgelegde celstraf.
-3. Wanneer een nieuwe overtreding of misdrijf wordt begaan, wordt de resterende tijd gereset naar de datum van de laatst opgelegde celstraf.
+1. Straffen die enige vorm van celstraf bevatten kunnen leiden tot een strafblad.
+2. Een strafblad blijft staan voor een periode van 2 (realtime) maanden voor alle geweldsdelicten met celstraf, en 1 maand voor alle overige delicten met celstraf, ingaand op de datum van de opgelegde straf.
+3. Wanneer een nieuwe overtreding of een misdrijf wordt begaan, wordt de resterende tijd gereset naar de datum van de laatst opgelegde celstraf.
 
 ### A6 - Verduidelijking en algemene aanvulling
 
-1. Onder goederen kan worden verstaan alles wat tussen twee personen kan worden uitgewisseld, behalve geld of informatie.
+1. Onder goederen kan worden verstaan alles wat tussen twee personen kan worden uitgewisseld.
    * Hieronder valt, onder andere, alles wat in de inventaris gevonden kan worden, alsmede voertuigen.
 2. Onderzoek, tenzij expliciet anders aangegeven, duurt in de regel maximaal twee (2) dagen.
    * Als na deze termijn geen conclusie is getrokken of getrokken kan worden, is de Overheid verplicht tot het retourneren van de onderzochte goederen.
@@ -66,32 +66,32 @@
 ### A7 - Inbeslagname
 
 1. Wanneer een strafbaar feit gepleegd is met een goed, of wanneer een goed uit misdrijf is verkregen, kan deze in beslag worden genomen.
-   * De keuze voor inbeslagname is ter beoordeling van Politie, Justitie en/of de Koninklijke Marechaussee.
+   * De keuze voor inbeslagname is ter beoordeling van Politie en/of de Koninklijke Marechaussee.
    * Verwerking van de in beslag genomen goederen (behalve voertuigen) geschiedt volgens richtlijn van Politie;
 2. Wanneer een voertuig in beslag wordt genomen vanwege een misdrijf:
    * Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek;
    * Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een misdrijf waarbij de eigenaar ook veroordeeld is, uitgekocht kunnen worden voor 20% van de cataloguswaarde;
    * Zal deze, wanneer, met inachtneming van de vorige regel, het voertuig tevens uit het water moest worden gehaald, uitgekocht kunnen worden voor 30% van de cataloguswaarde;
-   * Is er een vastgesteld maximum voor bovenstaande uitkoopbedragen van ten hoogste €200,000
+   * Is er een vastgesteld maximum voor bovenstaande uitkoopbedragen van ten hoogste € 200000,-
    * Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eigenaar geen strafbaar feit ten laste is gelegd, of kan gelegd worden, welke in directe zin gekoppeld is aan de reden van inbeslagname.
    * Wanneer het voertuig bewijsbaar onderdeel was van het misdrijf en de eigenaar daarvan overleden is, dan zal het voertuig uitgekocht kunnen worden voor 20% van de cataloguswaarde.
    * Uitzonderingsgrond voor teruggave van het voertuig is, indien het een voertuig betreft zoals omschreven in Artikel III-14 Illegale voertuigen. In dit geval zal het voertuig worden vernietigd.
 
 ### A8 - Openstaande boetes
 
-1. Wanneer tijdens een controle of aanhouding aangetoond wordt dat het totaalbedrag van openstaande boetes boven de €10,000 reikt, kan dit impact hebben op de situatie.
+1. Wanneer tijdens een controle of aanhouding aangetoond wordt dat het totaalbedrag van openstaande boetes boven de € 10000,- reikt, kan dit impact hebben op de strafeis.
    * Wanneer dit aangetoond wordt bij het opvragen van een inbeslaggenomen goed of voertuig kan geëist worden eerst het boetebedrag te voldoen;
    * Wanneer dit aangetoond wordt tijdens onderzoek volgende op een misdrijf of crimineel feit kan hiervoor een boete of taakstraf worden opgelegd;
-   * De hoogte van deze boete of taakstraf is ter beoordeling van de OvD (doch binnen het realistisch, juridisch kader);
+   * De hoogte van deze boete of taakstraf is ter beoordeling van de Officier van Dienst.
    * Deze boete of taakstraf wordt bijgevoegd bij de totale straf eis.
-2. Onder het voldoen van het boetebedrag wordt verstaan tenminste een zodanige betaling te voldoen dat het totale boetebedrag onder de €10,000 komt.
+2. Onder het voldoen van het boetebedrag wordt verstaan tenminste een zodanige betaling te voldoen dat het totale boetebedrag onder de € 10000,- komt.
 
 ### A9 - Consultatierecht
 
 1. Krachtens artikel 6 van het Europees Verdrag voor de Rechten van de Mens is het een verdachte, voorafgaand aan een politieverhoor, toegestaan consultatie te ontvangen van zijn of haar voorkeursadvocaat.
 2. Indien de voorkeursadvocaat genoemd in lid 1 niet beschikbaar is, is een vervangend advocaat afdoende om te voldoen aan dit recht.
 3. Indien de verdachte verkiest zelf een voorkeursadvocaat op te roepen zijn de kosten van consultatie en rechtsbijstand voor rekening van de verdachte;
-4. Indien de oproep zoals genoemd in lid 3 niet mogelijk blijkt, of de verdachte weigert een advocaat op te roepen, dan is de politie verplicht tot het doen oproepen van een advocaat voor de verdachte;
+4. Indien de oproep zoals genoemd in lid 3 niet mogelijk blijkt, of de verdachte weigert een advocaat op te roepen, dan is de politie verplicht tot het oproepen van een advocaat voor de verdachte;
 5. Uitsluitingsgrond voor lid 4 is wanneer verdachte expliciet en ondubbelzinnig afziet van zijn of haar recht tot consultatie.
 
 ### A10 - Algemene rechtsbeginselen
@@ -104,10 +104,10 @@
    * Legaliteit, waarbij het overheidsoptreden dat ingrijpt op de rechten en plichten (persoonlijke levenssfeer) van burgers moet berusten op een wettelijke grondslag;
    * Kenbaarheid van regelgeving, waarbij burgers in staat gesteld moeten zijn kennis te nemen van regelgeving;
    * Redelijkheid en billijkheid, waarbij als factor de redelijkheid en rechtmatigheid als ongeschreven regel dient te gelden bij overeenkomsten en situaties;
-   * hoor en wederhoor, waarbij alle partijen recht hebben om hun zegje te doen;
-   * onschuldpresumptie, waarbij een verdachte onschuldig is tot het tegendeel bewezen is;
-   * détournement de pouvoir, waarbij de wet alleen mag toegepast worden waar deze voor bedoeld is;
-   * ne bis in idem, waarbij iemand niet tweemaal veroordeeld mag worden voor hetzelfde feit;
+   * Hoor en wederhoor, waarbij alle partijen recht hebben om hun zegje te doen;
+   * Onschuldpresumptie, waarbij een verdachte onschuldig is tot het tegendeel bewezen is;
+   * Détournement de pouvoir, waarbij de wet alleen mag toegepast worden waar deze voor bedoeld is;
+   * Ne bis in idem, waarbij iemand niet tweemaal veroordeeld mag worden voor hetzelfde feit;
    * Het schutznorm-beginsel, waarbij er geen rechtsgevolg of sanctie wordt gekoppeld aan een vormfout als de verdachte niet zelf is getroffen in een (verdedigings)belang dat door het geschonden vormvoorschrift wordt beschermd.
 
 ## Titel I - Vermogensdelicten
@@ -116,7 +116,7 @@
 
 ### Artikel I-1 Diefstal (310 SR)
 
-1. Schuldig is een persoon die een goed, of voertuig, wegneemt zonder daarvoor toestemming of enig recht toe te hebben
+1. Schuldig is een persoon die een goed wegneemt zonder daarvoor toestemming of enig recht toe te hebben.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -185,16 +185,16 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 60 uur  | € 15000,-  |
+|  **Eerste Veroordeling** | 30 maanden  |   | € 15000,-  |
 | **Tweede Veroordeling**  | 60 maanden  |  | € 20000,-  |
 | **Meerdere Veroordelingen**  | 120 maanden  |  | € 25000,-  |
 
 ### Artikel I-8 Geldige verklaring herkomst contanten (321 SR)
 
-1. Wanneer er tijdens aanhouding van een persoon door Politie of Koninklijke Marechaussee een geldbedrag, hoger dan €15,000 aan contanten, aangetroffen wordt bij die persoon, zal er om geldige verklaring van herkomst gevraagd worden.
-2. Wanneer deze verklaring niet bewijsbaar of redelijkerwijs aannemelijk is, is het de Politie of Koninklijke Marechaussee toegestaan dit bedrag in beslag te nemen voor onderzoek.
-3. Wanneer onderzoek, volgend op de inbeslagname zoals bedoeld in lid 2, geen criminele herkomst kan aantonen, dan is Politie of Koninklijke Marechaussee gemaand tot restitutie.
-4. Wanneer onderzoek, volgend op de inbeslagname zoals bedoeld in lid 2, criminele herkomst aantoont, dan zal de in beslag genomen som vernietigd worden.
+1. Wanneer er tijdens aanhouding van een persoon door Politie of Koninklijke Marechaussee een geldbedrag, hoger dan € 15000,- aan contanten aangetroffen wordt bij die persoon, zal er om geldige verklaring van herkomst gevraagd worden.
+2. Wanneer deze verklaring niet bewijsbaar of redelijkerwijs aannemelijk is, dan heeft de Politie of Koninklijke Marechaussee de bevoegdheid dit bedrag in beslag te nemen voor onderzoek.
+3. Wanneer uit onderzoek blijkt, volgend op de inbeslagname zoals bedoeld in lid 2, geen criminele herkomst kan aantonen, dan is de Politie of Koninklijke Marechaussee gemaand tot restitutie.
+4. Wanneer uit onderzoek blijkt, volgend op de inbeslagname zoals bedoeld in lid 2, criminele herkomst aantoont, dan zal de in beslag genomen som vernietigd worden.
 
 ## Titel II - Geweldsdelicten
 
@@ -213,7 +213,8 @@
 ### Artikel II-2 Gijzeling (282 SR)
 
 1. Schuldig is een persoon die overgaat tot wederrechtelijke beroving van de vrijheid van een derde.
-2. Bij poging tot wederrechtelijke beroving van de vrijheid van een derde wordt de straf met 1/3 verminderd.
+2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 33% verhoogd.
+3. Bij poging tot wederrechtelijke beroving van de vrijheid van een derde wordt de straf met 33% verminderd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -224,7 +225,7 @@
 ### Artikel II-3 Bedreiging (285 SR)
 
 1. Schuldig is een persoon die dreiging uit met gewelddadige inhoud of misdadig karakter, jegens personen of goederen.
-2. Bij een poging tot bedreiging als genoemd in lid 1 wordt de straf met 1/3 verminderd.
+2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 33% verhoogd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -235,8 +236,8 @@
 ### Artikel II-4 Doodslag (287 SR)
 
 1. Schuldig is een persoon die opzettelijk een ander van het leven berooft.
-2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 1/3 verhoogd.
-3. Bij een poging tot doodslag wordt de straf met 1/3 verminderd.
+2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 33% verhoogd.
+3. Bij een poging tot doodslag wordt de straf met 33% verminderd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -247,8 +248,8 @@
 ### Artikel II-5 Moord (289 SR)
 
 1. Schuldig is een persoon die opzettelijk en met voorbedachte rade iemand van het leven berooft.
-2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 1/3 verhoogd.
-3. Bij een poging tot moord wordt de straf met 1/3 verminderd.
+2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 33% verhoogd.
+3. Bij een poging tot moord wordt de straf met 33% verminderd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -260,7 +261,8 @@
 
 1. Schuldig is een persoon die opzettelijk en wederrechtelijk een ander mishandeld met ten hoogste licht lichamelijk, dan wel geestelijk letsel tot gevolg.
 2. Met mishandeling wordt gelijkgesteld het opzettelijk benadelen van de gezondheid.
-3. Een poging tot eenvoudige mishandeling is niet strafbaar.
+3. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 33% verhoogd.
+4. Een poging tot eenvoudige mishandeling is niet strafbaar.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -272,7 +274,8 @@
 
 1. Schuldig is een persoon die opzettelijk en wederrechtelijk een ander mishandeld met zwaar lichamelijk, dan wel geestelijk letsel tot gevolg.
 2. Met mishandeling wordt gelijkgesteld het opzettelijk benadelen van de gezondheid.
-3. Bij een poging tot zware mishandeling wordt de straf met 1/3 verminderd.
+3. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 33% verhoogd.
+4. Bij een poging tot zware mishandeling wordt de straf met 33% verminderd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -284,8 +287,8 @@
 
 1. Schuldig is een persoon die opzettelijk en wederrechtelijk een goed dat geheel of ten dele aan een ander toebehoort, vernielt, beschadigt, onbruikbaar maakt of wegmaakt.
 2. Met vernieling wordt ook gelijkgesteld het opzettelijk en wederrechtelijk doden, beschadigen, onbruikbaar maken of wegmaken van een (huis)dier.
-3. Wanneer het goed of dier aangemerkt kan worden als eigendom van de overheid wordt de straf met 1/3 verhoogd.
-4. Bij een poging tot vernieling wordt de straf met 1/3 verminderd.
+3. Wanneer het goed of dier aangemerkt kan worden als eigendom van de overheid wordt de straf met 33% verhoogd.
+4. Bij een poging tot vernieling wordt de straf met 33% verminderd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
