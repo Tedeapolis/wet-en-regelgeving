@@ -445,7 +445,7 @@ Onderstaande regels tellen alleen op Narcopolis
 ### Artikel 52 - Landen van helikopers/vliegtuigen
 
 1. Het is verplicht om te landen op een helipad, een landingsbaan of in een straal van 50 meter van een helipad/landingsbaan.
-2. Het is niet toegestaan om laag bij de grond te vliegen om op deze manier alsnog goederen of personen te kunnen voervoeren. 
+2. Het is niet toegestaan om laag bij de grond te vliegen om op deze manier alsnog goederen of personen te kunnen voervoeren.
 3. De sea sparrow en dodo mag wel op openwater rondom het eiland geland worden.
 4. Bij overtreding van het feit beschreven in lid 1 of lid 2 wordt een straf van de 1e categorie uitgedeeld.
 
