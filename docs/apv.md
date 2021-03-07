@@ -145,6 +145,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 3. Enkele voorbeelden hiervoor zijn:
     * zodra iemand een pistool op je richt binnen 50 meter en er geen beschutting is, blijf je staan, werk je mee en val je deze persoon niet aan.
     * Zodra iemand een mes trekt binnen 10 meter van je werk je mee, doe je dit niet ben je niet zuinig met je leven aangezien je dat bewust het risico neemt neergestoken te worden.
+    * Met een helikopter vlak boven de grond zweven om goederen en/of personen te transporteren.
     * Elke andere vorm waarmee je bewust je eigen leven in een té groot gevaar brengt valt onder no value of life, dus gebruik je gezonde verstand om de situatie in te schatten.
     * De beslissing van een stafflid betreft alle bovenstaande en overige situaties is altijd leidend.
 
@@ -445,9 +446,8 @@ Onderstaande regels tellen alleen op Narcopolis
 ### Artikel 52 - Landen van helikopers/vliegtuigen
 
 1. Het is verplicht om te landen op een helipad, een landingsbaan of in een straal van 50 meter van een helipad/landingsbaan.
-2. Het is niet toegestaan om laag bij de grond te vliegen om op deze manier alsnog goederen of personen te kunnen voervoeren.
-3. De sea sparrow en dodo mag wel op openwater rondom het eiland geland worden.
-4. Bij overtreding van het feit beschreven in lid 1 of lid 2 wordt een straf van de 1e categorie uitgedeeld.
+2. De sea sparrow en dodo mag wel op openwater rondom het eiland geland worden.
+3. Bij overtreding van het feit beschreven in lid 1 of lid 2 wordt een straf van de 1e categorie uitgedeeld.
 
 ## Tijdelijke bepalingen
 
