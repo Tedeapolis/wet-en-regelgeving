@@ -303,7 +303,7 @@
 ### Artikel III-1 Verkeersovertredingen in algemene zin (5 WVW)
 
 1. Voor verkeersovertredingen in algemene zin, niet verder gespecificeerd als zijnde zwaardere delicten, geldt een boete van €430,- per geval.
-2. Afhankelijk van de aard van de overtreding kan de dienstdoende agent kiezen een waarschuwing te geven in plaats van een boete.
+2. Afhankelijk van de aard van de overtreding kan de dienstdoende agent er voor kiezen een waarschuwing te geven in plaats van een boete.
 
 ### Artikel III-2 Gevaar / hinder zonder ongeval (5 WVW)
 
@@ -312,9 +312,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
 |---|---|---|---|---|
-|  **Eerste Veroordeling** |   |  | € 1000,-  | 0-24 uur |
-| **Tweede Veroordeling**  |   | 5 uur | € 1500,-  | 0-24 uur |
-| **Meerdere Veroordelingen**  |   | 10 uur | € 2000,-  | 0-24 uur |
+|  **Eerste Veroordeling** |   |  | € 3000,-  | 0-24 uur |
+| **Tweede Veroordeling**  |   | 5 uur | € 4000,-  | 0-24 uur |
+| **Meerdere Veroordelingen**  |   | 10 uur | € 5000,-  | 0-24 uur |
 
 ### Artikel III-3 Opzettelijk veroorzaken van ernstig gevaar of hinder (5a WvW)
 
@@ -353,9 +353,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
 |---|---|---|---|---|
-|  **Eerste Veroordeling** |   | 10 uur  | € 2000,-  | 0-12 uur |
-| **Tweede Veroordeling**  |   | 15 uur | € 3000,-  | 0-24 uur |
-| **Meerdere Veroordelingen**  |   | 20 uur | € 4000,-  | 0-24 uur |
+|  **Eerste Veroordeling** |   | 10 uur  | € 4000,-  | 0-12 uur |
+| **Tweede Veroordeling**  |   | 15 uur | € 5000,-  | 0-24 uur |
+| **Meerdere Veroordelingen**  |   | 20 uur | € 6000,-  | 0-24 uur |
 
 ### Artikel III-4 Veroorzaken ongeval, met zwaar lichamelijk letsel tot gevolg (6 WVW)
 
@@ -365,9 +365,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
 |---|---|---|---|---|
-|  **Eerste Veroordeling** |   | 15 uur  | € 5000,-  | 0-24 uur |
-| **Tweede Veroordeling**  |   | 20 uur | € 6000,-  | 0-24 uur |
-| **Meerdere Veroordelingen**  |   | 25 uur | € 7000,-  | 0-24 uur |
+|  **Eerste Veroordeling** |   | 15 uur  | € 10000,-  | 0-24 uur |
+| **Tweede Veroordeling**  |   | 20 uur | € 11000,-  | 0-24 uur |
+| **Meerdere Veroordelingen**  |   | 25 uur | € 12000,-  | 0-24 uur |
 
 ### Artikel III-5 Veroorzaken ongeval, met de dood tot gevolg (6 WVW)
 
@@ -376,21 +376,21 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
 |---|---|---|---|---|
-|  **Eerste Veroordeling** |   | 50 uur  | € 8000,-  | 0-24 uur |
-| **Tweede Veroordeling**  | 10 maanden  |  | € 9000,-  | 0-24 uur |
-| **Meerdere Veroordelingen**  | 20 maanden  |  | € 10000,-  | 0-24 uur |
+|  **Eerste Veroordeling** | 10 maanden  |  | € 16000,-  | 0-24 uur |
+| **Tweede Veroordeling**  | 15 maanden  |  | € 17000,-  | 0-24 uur |
+| **Meerdere Veroordelingen**  | 20 maanden  |  | € 18000,-  | 0-24 uur |
 
 ### Artikel III-6 Verlaten plaats van verkeersongeval (7 WVW)
 
 1. Schuldig is een persoon die een plaats van verkeersongeval verlaat ongeacht of hij of zij schuldig was aan het veroorzaken daarvan.
-2. Wanneer daarbij een derde wordt achtergelaten in hulpeloze toestand wordt de straf verhoogd met 1/3.
+2. Wanneer daarbij een derde wordt achtergelaten in hulpeloze toestand wordt de straf verhoogd met 33%.
 3. Wanneer de persoon zich nadien, tijdig, alsnog meldt bij de politie zal worden afgezien van strafvervolging.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
 |---|---|---|---|---|
-|  **Eerste Veroordeling** |   | 50 uur  | € 5000,-  |   |
-| **Tweede Veroordeling**  | 10 maanden  |  | € 6000,-  |   |
-| **Meerdere Veroordelingen**  | 25 maanden  |  | € 7000,-  |   |
+|  **Eerste Veroordeling** | 10 maanden |  | € 15000,-  |   |
+| **Tweede Veroordeling**  | 15 maanden  |  | € 16000,-  |   |
+| **Meerdere Veroordelingen**  | 25 maanden  |  | € 18000,-  |   |
 
 ### Artikel III-7 Rijden onder invloed (8 WVW)
 
@@ -399,21 +399,20 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
 |---|---|---|---|---|
-|  **Eerste Veroordeling** |   | 30 uur  | € 3000,-  | 0-24 uur |
-| **Tweede Veroordeling**  |   | 40 uur | € 4000,-  | 0-24 uur |
-| **Meerdere Veroordelingen**  |   | 50 uur | € 5000,-  | 0-24 uur |
+|  **Eerste Veroordeling** |   | 30 uur  | € 4000,-  | 0-24 uur |
+| **Tweede Veroordeling**  |   | 40 uur | € 5000,-  | 0-24 uur |
+| **Meerdere Veroordelingen**  |   | 50 uur | € 6000,-  | 0-24 uur |
 
 ### Artikel III-8 Rijden zonder bevoegdheid (9 WVW)
 
 1. Schuldig is een persoon die weet of redelijkerwijs behoort te weten dat hem of haar de rijbevoegdheid is ontzegd en desondanks deelneemt aan het verkeer.
-2. Uitzonderingsgrond is het te voet deelnemen aan het verkeer.
-3. Wanneer de bevoegdheid is ontzegd middels een invordering van het rijbewijs, dan geldt dit voor alle categoriën van dat rijbewijs.
+2. Wanneer de bevoegdheid is ontzegd middels een invordering van het rijbewijs, dan geldt dit voor alle categoriën van dat rijbewijs.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
 |---|---|---|---|---|
-|  **Eerste Veroordeling** |   | 10 uur  | €2000,-  | 0-24 uur |
-| **Tweede Veroordeling**  |   | 20 uur | €4000,-  | 0-24 uur |
-| **Meerdere Veroordelingen**  |   | 30 uur | €6000,-  | 0-24 uur |
+|  **Eerste Veroordeling** |   | 10 uur  | € 4000,-  | 0-24 uur |
+| **Tweede Veroordeling**  |   | 20 uur | € 4000,-  | 0-24 uur |
+| **Meerdere Veroordelingen**  |   | 30 uur | € 6000,-  | 0-24 uur |
 
 ### Artikel III-9 Fout parkeren (25 RVV 1990)
 
@@ -421,85 +420,92 @@
    * dubbelparkeren of het moedwillig doorkruisen van parkeervakken;
    * het parkeren langs een rode trottoirrand;
    * volledig parkeren op de stoep;
-2. De vastgestelde boete voor bovenstaande acties is €1500,-
+2. De vastgestelde boete voor bovenstaande acties is € 1750,-
 
 ### Artikel III-10 Snelheidsovertredingen
 
 1. Schuldig is een persoon die de wettelijk bepaalde snelheden voor verkeer niet in acht neemt tijdens deelname aan het verkeer.
-2. De toegestane snelheden zijn 80KM/h binnen de bebouwde kom, 130KM/h buiten de bebouwde kom.
-3. De op diverse plaatsen flitscamera's zullen in geval van overtreding een boete doen uitsturen naar de overtredende partij.
-4. Indien een dienstdoende agent een overtredende partij staande houdt, is hij of zij gerechtigd tot het uitschrijven van de volgende boetes.
-5. Voor snelheidsovertredingen die de bovenstaande snelheden overschreiden kan de agent overgaan tot arrestatie en strafvervolging.
+2. De toegestane snelheden zijn 80KM/h en 130KM/h op de snelweg.
+4. Flitscamera's die op verschillende plaatsen staan zullen in geval van overtreding een boete uitsturen naar de overtredende partij.
+5. Indien een dienstdoende agent een overtredende partij staande houdt, is hij of zij gerechtigd tot het uitschrijven van onderstaande boetes.
+6. Voor snelheidsovertredingen die de bovenstaande snelheden overschreiden kan de agent overgaan tot arrestatie en strafvervolging.
+7. De meetcorrectie is 5 kilometer en de eerste 5 kilometer te hard rijden blijft onbestraft.
 
 | ***`Binnen de Bebouwde Kom`***  |   |
 |---|---|
-| Te hard rijden < 10KM/H | € 80,- |
-| Te hard rijden 10 - 20KM/H | € 200,- |
-| Te hard rijden 21 - 30KM/H | € 340,- |
-| Te hard rijden 31 - 40KM/H | € 500,- |
-| Te hard rijden 41 - 50KM/H | € 900,- |
-| Te hard rijden 51 - 60KM/H | € 1200,- |
+| Te hard rijden 6 - 10KM/H | € 100,- |
+| Te hard rijden 10 - 20KM/H | € 400,- |
+| Te hard rijden 21 - 30KM/H | € 1000,- |
+| Te hard rijden 31 - 40KM/H | € 2000,- |
+| Te hard rijden 41 - 50KM/H | € 3000,- |
+| Te hard rijden 51 - 60KM/H | € 4500,- |
 
 | ***`Buiten de Bebouwde Kom`***  |   |
 |---|---|
-| Te hard rijden < 10KM/H | € 75,- |
-| Te hard rijden 10 - 20KM/H | € 190,- |
-| Te hard rijden 21 - 30KM/H | € 330,- |
-| Te hard rijden 31 - 40KM/H | € 450,- |
-| Te hard rijden 41 - 50KM/H | € 600,- |
-| Te hard rijden 51 - 60KM/H | € 900,- |
+| Te hard rijden 6 - 10KM/H | € 100,- |
+| Te hard rijden 10 - 20KM/H | € 300,- |
+| Te hard rijden 21 - 30KM/H | € 700,- |
+| Te hard rijden 31 - 40KM/H | € 1000,- |
+| Te hard rijden 41 - 50KM/H | € 1500,- |
+| Te hard rijden 51 - 60KM/H | € 2000,- |
 
 ### Artikel III-11 Voertuigeisen
 
-1. Schuldig is een persoon van wie zijn of haar voertuig niet voldoet aan de volgende eisen.
-2. Het voertuig, uitgezonderd fietsen, heeft 1 of meer nummerplaten, als dit niet mogelijk is moet de bestuurder in het bezit zijn van een geldig bewijs in vorm van een document als ontheffing daarvoor.
-3. Het voertuig bezit ramen waarbij het gezicht van de bestuurder en passagier(s) zichtbaar is.
-4. Het voertuig bezit geen (NEON)verlichting dat geplaatst is onder het voertuig.
-5. De eerste keer dat dit opgemerkt wordt zal het voertuig een een W.O.K. (wachten op keuring) status krijgen. Dit betekend dat het voertuig niet meer mag rijden op de openbare weg. De bestuurder zal de ANWB in kennis moeten stellen om het voertuig af te laten slepen naar een modshop zodat de de gebreken kunnen worden hersteld en/of aangepast. Dit geheel op kosten van de bestuurder. Mocht hier geen gehoor aan worden gegeven dan kan de Politie of Koninklijke marechaussee direct overgaan tot punt 6 van Artikel III-12 Voertuigeisen.
-6. Voertuig waarbij deuren ontbreken, of enorm vervormd zijn en dus niet veilig bevonden wordt.
-7. Als een voertuig een Claxon heeft met meer dan één toon.
-8. Een W.O.K. status is een status dat vastgelegd is bij de Politie en Koninklijke marechaussee. Deze status kan na een reparatie of aanpassing van het voertuig door de Politie of Koninklijke marechaussee verwijderd worden na een visuele controle van het voertuig.
-9. Wordt een bestuurder na een eerdere W.O.K. status wederom staande gehouden zal dit worden gezien als een misdrijf. Dit kan bestraft worden met in eerste instantie een boete en inbeslagname. Wordt de bestuurder nogmaals staande gehouden zal de sanctie van een boete en inbeslagname vermeerderd worden met een taakstraf als zondanig:
+1. Het voertuig, uitgezonderd fietsen, heeft 1 of meer nummerplaten, als dit niet mogelijk is moet de bestuurder in het bezit zijn van een geldig bewijs in vorm van een document als ontheffing daarvoor.
+2. Indien een voertuig ramen bezit dient het gezicht van de bestuurder en passagier(s) duidelijk zichtbaar te zijn.
+3. Er mag geen verlichting gevoerd worden onder het voertuig bij deelname aan het verkeer.
+4. Voertuig dient vrij te zijn van uitstekende onderdelen of enorm vervormd zijn en dus niet veilig bevonden wordt.
+5. Bij het voertuig mogen geen deuren ontbreken indien deze aanwezig behoren te zijn.
+7. Het voertuig dient eentonige claxon te voeren.
+8. Het voertuig dient vrij te zijn van een W.O.K. status bij deelname aan het verkeer.
+
+#### Strafbepalingen Voertuigeisen
+1. Schuldig is een persoon van wie zijn of haar voertuig niet voldoet aan de bovenstaande eisen.
+2. Indien een bestuurder in een voertuig met een W.O.K. status deelneemt aan het verkeer en de dienstdoende agent houdt je staande, dan mag het voertuig per direct niet meer deelnemen aan het verkeer. De bestuurder zal de ANWB in kennis moeten stellen om het voertuig af te laten slepen naar een modshop zodat de gebreken kunnen worden hersteld en/of aangepast. Dit geheel op kosten van de bestuurder.
+4. Wordt een bestuurder na een eerdere W.O.K. status wederom staande gehouden zal dit worden gezien als een misdrijf. Dit kan bestraft worden met in eerste instantie een boete en inbeslagname. Wordt de bestuurder nogmaals staande gehouden zal de sanctie van een boete en inbeslagname vermeerderd worden met een taakstraf als zondanig:
+5. Een W.O.K. status is een status dat vastgelegd is bij de Politie en Koninklijke marechaussee. Deze status kan na een reparatie of aanpassing van het voertuig door de ANWB, Politie of Koninklijke marechaussee verwijderd worden na een visuele controle van het voertuig.
+
+#### Rijden met W.O.K status boetes
 
 |  | *Taakstraf*  | *Sanctie*  | *boete*  |
 |---|---|---|---|
-| **Eerste Staandehouding**  |  | Inbeslagname Voertuig | € 1500,- |
-| **Meerdere Staandehoudingen**  | 30 uur | Inbeslagname voertuig | € 1500,- |
+| **Eerste Staandehouding**  |  | Inbeslagname/afslepen voertuig | € 1500,- |
+| **Meerdere Staandehoudingen**  | 30 uur | Inbeslagname/afslepen voertuig | € 1500,- |
 
 | *Feit* | *boete* |
 |---|---|
 | Rijden zonder kentekenplaten | € 840,- |
-| Ramen dusdanig donker getint zodat de bestuurder en passagier voor in niet zichtbaar zijn | € 230,- |
-| Verlichting(NEON) onder het voertuig | € 230,- |
+| Ramen dusdanig donker getint zodat de bestuurder en passagier voor in niet zichtbaar zijn | € 690,- |
+| Verlichting(NEON) onder het voertuig | € 690,- |
+| Rijden in een voertuig met een WOK-status | € 1200,- |
 
 ### Artikel III-12 Overige verkeersboetes
 
-1. Ter bevordering der transparantie is opgenomen dit artikel met daarin gespecificeerde boetes, teneinde transparantie te verlenen.
-2. Een volledig overzicht van alle boetes is tevens te vinden in het Kostendocument.
+1. Ter bevordering van transparantie is dit artikel met gespecificeerde boetes opgenomen.
+2. Een volledig overzicht van alle boetes is tevens te vinden in het kostendocument.
 3. Onderstaande strafbare feiten kunnen bestraft worden met een boete, als zodanig:
 
 |   |   |
 |---|---|
-| Blokkeren van de weg | € 240,- |
-| Maken van een U-turn daar waar dat niet is toegestaan | € 140,- |
-| Rijden in een voertuig dat niet toegestaan is op de openbare weg | € 1100,-  |
-| Rijden in een voertuig met een WOK-status | € 4500,- |
-| Maken van een zgn. Burnout  | € 430,- |
-| Onnodig Claxoneren | € 95,-  |
-| Over een doorgestrokken streep rijden  | € 240,-  |
-| Aan de verkeerde kant van de weg rijden | € 620,- |
-| Illegaal off road rijden | € 140,- |
-| Stilstaan daar waar dit niet is toegestaan | € 140,- |
-| Onnodig links rijden | € 140,-  |
-| Doorrijden bij een stopbord | € 140,-  |
-| Illegaal inhalen | € 380,-  |
+| Blokkeren van de weg | € 720,- |
+| Maken van een U-turn daar waar dat niet is toegestaan | € 420,- |
+| Rijden in een voertuig dat niet toegestaan is op de openbare weg | € 3300,-  |
+| Rijden in een voertuig met een WOK-status | € 1200,- |
+| Maken van een Burnout  | € 430,- |
+| Onnodig Claxoneren | € 370,-  |
+| Over een doorgestrokken streep rijden  | € 480,-  |
+| Aan de verkeerde kant van de weg rijden (spookrijden) | € 1860,- |
+| Illegaal off road rijden | € 420,- |
+| Stilstaan waar dit niet is toegestaan | € 420,- |
+| Onnodig links rijden | € 420,-  |
+| Doorrijden bij een stopbord | € 420,- |
 
 ### Artikel III-13 Illegale voertuigen
 
 1. Schuldig is een persoon die weet of redelijkerwijs behoort te weten dat zijn of haar voertuig staat aangegeven als illegaal voertuig en zich bevind op een plek of plaats anders dan eigen- en/of privéterrein.
 2. Onder illegaal voertuig wordt verstaan, elk voertuig dat is aangeduid als 'illegaal' bij de cardealer en/of in onderstaande tabel is vermeld.
 3. Indien persoon wordt aangetroffen op zijn of haar voertuig zoals bedoeld in lid 1, wordt het voertuig direct in beslag genomen en vernietigd.
-4. Indien persoon zoals bedoeld in lid 3 niet de eigenaar van het voertuig is, wordt het voertuig tevens direct in beslag genomen en vernietigd.
+4. Indien persoon zoals bedoeld in lid 3 niet de eigenaar van het voertuig is, wordt het voertuig eveneens direct in beslag genomen en vernietigd.
 5. De eigenaar van het voertuig blijft verantwoordelijk, ook al wordt het voertuig met een andere bestuurder aangetroffen.
 
 | Illegale voertuigen | Soort |
