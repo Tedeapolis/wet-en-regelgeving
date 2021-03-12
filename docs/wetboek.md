@@ -454,22 +454,24 @@
 1. Het voertuig, uitgezonderd fietsen, heeft 1 of meer nummerplaten, als dit niet mogelijk is moet de bestuurder in het bezit zijn van een geldig bewijs in vorm van een document als ontheffing daarvoor.
 2. Indien een voertuig ramen bezit dient het gezicht van de bestuurder en passagier(s) duidelijk zichtbaar te zijn.
 3. Er mag geen verlichting gevoerd worden onder het voertuig bij deelname aan het verkeer.
-4. Voertuig dient vrij te zijn van uitstekende onderdelen of enorm vervormd zijn en dus niet veilig bevonden wordt.
-5. Bij het voertuig mogen geen deuren ontbreken indien deze aanwezig behoren te zijn.
-7. Het voertuig dient eentonige claxon te voeren.
+4. Het voertuig dient vrij te zijn van uitstekende onderdelen en/of grote schade, die de veiligheid in het gedrang brengt.
+5. Bij het voertuig mogen geen deuren ontbreken, indien deze wel aanwezig behoren te zijn.
+7. Het voertuig dient een eentonige claxon te voeren.
 8. Het voertuig dient vrij te zijn van een W.O.K. status bij deelname aan het verkeer.
 
 #### Strafbepalingen Voertuigeisen
 1. Schuldig is een persoon van wie zijn of haar voertuig niet voldoet aan de bovenstaande eisen.
-2. Indien een bestuurder in een voertuig met een W.O.K. status deelneemt aan het verkeer en de dienstdoende agent houdt je staande, dan mag het voertuig per direct niet meer deelnemen aan het verkeer. De bestuurder zal de ANWB in kennis moeten stellen om het voertuig af te laten slepen naar een modshop zodat de gebreken kunnen worden hersteld en/of aangepast. Dit geheel op kosten van de bestuurder.
-4. Wordt een bestuurder na een eerdere W.O.K. status wederom staande gehouden zal dit worden gezien als een misdrijf. Dit kan bestraft worden met in eerste instantie een boete en inbeslagname. Wordt de bestuurder nogmaals staande gehouden zal de sanctie van een boete en inbeslagname vermeerderd worden met een taakstraf als zondanig:
-5. Een W.O.K. status is een status dat vastgelegd is bij de Politie en Koninklijke marechaussee. Deze status kan na een reparatie of aanpassing van het voertuig door de ANWB, Politie of Koninklijke marechaussee verwijderd worden na een visuele controle van het voertuig.
+2. Indien een bestuurder in een voertuig met een W.O.K. status deelneemt aan het verkeer, en de Politie of Koninklijke Marechaussee de bestuurder voor de eerste keer staande houdt. Dan mag het voertuig per direct niet meer deelnemen aan het verkeer. De bestuurder zal de ANWB in kennis moeten stellen om het voertuig af te laten slepen naar een modshop zodat de gebreken kunnen worden hersteld en/of aangepast. Dit geheel op kosten van de bestuurder.
+4. Wordt een bestuurder in een voertuig met een W.O.K. status voor de tweede keer staande gehouden zal dit worden gezien als een misdrijf. Dit kan bestraft worden met in eerste instantie een boete en inbeslagname. 
+5. Wordt een bestuurder bij een derde keer of vaker staande gehouden zal de sanctie van een boete en inbeslagname vermeerderd worden met een taakstraf als hieronder vermeld.
+6. Een W.O.K. status is een status dat vastgelegd is bij de Politie en Koninklijke marechaussee. Deze status kan na een reparatie of aanpassing van het voertuig door de ANWB, Politie of Koninklijke marechaussee verwijderd worden na een visuele controle van het voertuig.
 
 #### Rijden met W.O.K status boetes
 
 |  | *Taakstraf*  | *Sanctie*  | *boete*  |
 |---|---|---|---|
-| **Eerste Staandehouding**  |  | Inbeslagname/afslepen voertuig | € 1500,- |
+| **Eerste Staandehouding**  |  | Boete | € 1200,- |
+| **Tweede Staandehouding**  |  | Inbeslagname/afslepen voertuig | € 1500,- |
 | **Meerdere Staandehoudingen**  | 30 uur | Inbeslagname/afslepen voertuig | € 1500,- |
 
 | *Feit* | *boete* |
