@@ -331,9 +331,10 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 2. Witwassen mag enkel in de voertuigen die je krijgt van het depot.
 3. Een persoon herkennen uit het criminele circuit valt onder powergaming en is geen reden om diegene te overvallen.
 4. Afleverpunten herkennen valt onder powergaming.
-5. Iemand die een in een whitelisted job voertuig rijd met de gepaste kleding mag niet zomaar aan de kant gezet worden, dit valt onder powergaming.
-6. Het is verboden om te hunten op witwassers, deze zal je tijdens de roleplay tegen moeten komen, ga je hier naar opzoek dan valt dit onder powergaming.
-7. Het overtreden van de bovenstaande regels zal worden bestraft worden met een straf van de 1e categorie.
+5. Een witwasser herkennen omdat hij rondom het startpunt rijdt valt onder powergaming.
+6. Iemand die een in een whitelisted job voertuig rijd met de gepaste kleding mag niet zomaar aan de kant gezet worden, dit valt onder powergaming.
+7. Het is verboden om te hunten op witwassers, deze zal je tijdens de roleplay tegen moeten komen, ga je hier naar opzoek dan valt dit onder powergaming.
+8. Het overtreden van de bovenstaande regels zal worden bestraft worden met een straf van de 1e categorie.
 
 ### Artikel 38 - Officiële gang regels
 
