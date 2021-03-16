@@ -353,9 +353,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
 |---|---|---|---|---|
-|  **Eerste Veroordeling** |   | 10 uur  | € 2000,-  | 0-12 uur |
-| **Tweede Veroordeling**  |   | 15 uur | € 3000,-  | 0-24 uur |
-| **Meerdere Veroordelingen**  |   | 20 uur | € 4000,-  | 0-24 uur |
+|  **Eerste Veroordeling** |   | 10 uur  | € 2000,-  | 24 uur |
+| **Tweede Veroordeling**  |   | 15 uur | € 3000,-  | 24 uur |
+| **Meerdere Veroordelingen**  |   | 20 uur | € 4000,-  | 24 uur |
 
 ### Artikel III-4 Veroorzaken ongeval, met zwaar lichamelijk letsel tot gevolg (6 WVW)
 
@@ -365,9 +365,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
 |---|---|---|---|---|
-|  **Eerste Veroordeling** |   | 15 uur  | € 5000,-  | 0-24 uur |
-| **Tweede Veroordeling**  |   | 20 uur | € 6000,-  | 0-24 uur |
-| **Meerdere Veroordelingen**  |   | 25 uur | € 7000,-  | 0-24 uur |
+|  **Eerste Veroordeling** |   | 15 uur  | € 5000,-  | 24 uur |
+| **Tweede Veroordeling**  |   | 20 uur | € 6000,-  | 24 uur |
+| **Meerdere Veroordelingen**  |   | 25 uur | € 7000,-  | 24 uur |
 
 ### Artikel III-5 Veroorzaken ongeval, met de dood tot gevolg (6 WVW)
 
@@ -376,9 +376,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
 |---|---|---|---|---|
-|  **Eerste Veroordeling** |   | 50 uur  | € 8000,-  | 0-24 uur |
-| **Tweede Veroordeling**  | 10 maanden  |  | € 9000,-  | 0-24 uur |
-| **Meerdere Veroordelingen**  | 20 maanden  |  | € 10000,-  | 0-24 uur |
+|  **Eerste Veroordeling** |   | 50 uur  | € 8000,-  | 24 uur |
+| **Tweede Veroordeling**  | 10 maanden  |  | € 9000,-  | 24 uur |
+| **Meerdere Veroordelingen**  | 20 maanden  |  | € 10000,-  | 24 uur |
 
 ### Artikel III-6 Verlaten plaats van verkeersongeval (7 WVW)
 
@@ -399,9 +399,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
 |---|---|---|---|---|
-|  **Eerste Veroordeling** |   | 30 uur  | € 3000,-  | 0-24 uur |
-| **Tweede Veroordeling**  |   | 40 uur | € 4000,-  | 0-24 uur |
-| **Meerdere Veroordelingen**  |   | 50 uur | € 5000,-  | 0-24 uur |
+|  **Eerste Veroordeling** |   | 30 uur  | € 3000,-  | 24 uur |
+| **Tweede Veroordeling**  |   | 40 uur | € 4000,-  | 24 uur |
+| **Meerdere Veroordelingen**  |   | 50 uur | € 5000,-  | 24 uur |
 
 ### Artikel III-8 Rijden zonder bevoegdheid (9 WVW)
 
@@ -411,9 +411,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
 |---|---|---|---|---|
-|  **Eerste Veroordeling** |   | 10 uur  | €2000,-  | 0-24 uur |
-| **Tweede Veroordeling**  |   | 20 uur | €4000,-  | 0-24 uur |
-| **Meerdere Veroordelingen**  |   | 30 uur | €6000,-  | 0-24 uur |
+|  **Eerste Veroordeling** |   | 10 uur  | €2000,-  | 24 uur |
+| **Tweede Veroordeling**  |   | 20 uur | €4000,-  | 24 uur |
+| **Meerdere Veroordelingen**  |   | 30 uur | €6000,-  | 24 uur |
 
 ### Artikel III-9 Fout parkeren (25 RVV 1990)
 
@@ -430,6 +430,7 @@
 3. De op diverse plaatsen flitscamera's zullen in geval van overtreding een boete doen uitsturen naar de overtredende partij.
 4. Indien een dienstdoende agent een overtredende partij staande houdt, is hij of zij gerechtigd tot het uitschrijven van de volgende boetes.
 5. Voor snelheidsovertredingen die de bovenstaande snelheden overschreiden kan de agent overgaan tot arrestatie en strafvervolging.
+6. Indien de maximumsnelheid met minimaal 50KM/h (na de wettelijke correctie) wordt overschreden, wordt het rijbewijs van het desbetreffende voertuigstype ingetrokkken voor een periode van 24U.
 
 | ***`Binnen de Bebouwde Kom`***  |   |
 |---|---|
