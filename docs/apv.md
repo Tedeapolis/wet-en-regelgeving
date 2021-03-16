@@ -397,10 +397,10 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 
 | Van | Naar | Wachttijd |
 | --- | --- | --- |
-| Overheidsbaan | Overheidsbaan | een week |
-| Criminele organisatie | Criminele organisatie | een week |
-| Overheidsbaan | Criminele organisatie | een week |
-| Criminele organisatie | Overheidsbaan | een week |
+| Overheidsbaan | Overheidsbaan | 7 kalenderdagen |
+| Criminele organisatie | Criminele organisatie | 7 kalenderdagen |
+| Overheidsbaan | Criminele organisatie | 7 kalenderdagen |
+| Criminele organisatie | Overheidsbaan | 7 kalenderdagen |
 
 ### Artikel 48 - Demonstreren
 
