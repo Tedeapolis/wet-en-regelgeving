@@ -147,6 +147,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
     * Zodra iemand een mes trekt binnen 10 meter van je werk je mee, doe je dit niet ben je niet zuinig met je leven aangezien je dat bewust het risico neemt neergestoken te worden.
     * Met een helikopter vlak boven de grond zweven om goederen en/of personen te transporteren.
     * Elke andere vorm waarmee je bewust je eigen leven in een té groot gevaar brengt valt onder no value of life, dus gebruik je gezonde verstand om de situatie in te schatten.
+    * Zodra een persoon een wapen in zijn hand heeft en jij gaat hem proberen te boeien of richting hem te rennen word dit gezien als no value of life.
     * De beslissing van een stafflid betreft alle bovenstaande en overige situaties is altijd leidend.
 
 ### Artikel 12 - New Life Rule
