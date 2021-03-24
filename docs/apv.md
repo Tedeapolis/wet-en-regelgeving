@@ -348,8 +348,8 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
    * Alle leden eenmaal zijn overleden.
    * Wanneer één van de 2 groepen zich overgeeft.
 6. Een criminele organisatie moet voor het witwassen van geld een minimum bedrag van 15% of hoger vragen over het totale witwas bedrag.
-7. Het overtreden van lid 1,2,3 of 4. zal resulteren in een straf van de 1e categorie.
-8. Bij herhaalde overtredingen van lid 1,2,3 of 4 door een gang kan er worden overgegaan op gangstrikes.
+7. Het overtreden van lid 1,2,3,4 of 6. zal resulteren in een straf van de 1e categorie.
+8. Bij herhaalde overtredingen van lid 1,2,3,4 of 6 door een gang kan er worden overgegaan op gangstrikes.
 
 ## Overige bepalingen
 
