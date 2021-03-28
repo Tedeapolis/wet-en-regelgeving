@@ -102,6 +102,16 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Huisvredebreuk eerste veroordeling | € 2000,- |
 | Huisvredebreuk tweede veroordeling | € 4000,- |
 | Huisvredebreuk derde veroordeling | € 6000,- |
+| Jacht op, verkoop of in kofferbak hebben van 1-5 bedreigde diersoorten - eerste veroordeling| € 5000,- |
+| Jacht op, verkoop of in kofferbak hebben van 1-5 bedreigde diersoorten - tweede veroordeling| € 8500,- |
+| Jacht op, verkoop of in kofferbak hebben van 1-5 bedreigde diersoorten - meerdere veroordelingen | € 10000,- |
+| Jacht op, verkoop of in kofferbak hebben van 6-40 bedreigde diersoorten - eerste veroordeling| € 7500,- |
+| Jacht op, verkoop of in kofferbak hebben van 6-40 bedreigde diersoorten - tweede veroordeling| € 12500,- |
+| Jacht op, verkoop of in kofferbak hebben van 6-40 bedreigde diersoorten - meerdere veroordelingen | € 15000,- |
+| Jacht op, verkoop of in kofferbak hebben van >40 bedreigde diersoorten - eerste veroordeling| € 10000,- |
+| Jacht op, verkoop of in kofferbak hebben van >40 bedreigde diersoorten - tweede veroordeling| € 15000,- |
+| Jacht op, verkoop of in kofferbak hebben van >40 bedreigde diersoorten - meerdere veroordelingen | € 20000,- |
+
 
 ## Grootmisdrijf
 
