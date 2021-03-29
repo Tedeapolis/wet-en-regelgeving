@@ -330,7 +330,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
     * Gezichtsbedekking op heeft tijdens het wassen.
     * Een overduidelijke escort heeft.
     * Een persoon die verdachte handelingen doet bij een afleverpunt die niet passen bij de baan die de persoon op dat moment rijd
-        * Zoals: alleen claxoneren bij een afleverpunt als je als ramen wasser rondrijd of dat je in een vuildis wagen het aval op een punt ophaalt door alleen te toeteren.
+        * Zoals: alleen claxoneren bij een afleverpunt als je als ramen wasser rondrijd of dat je in een vuilniswagen het afval op een punt ophaalt door alleen te toeteren.
 2. Witwassen mag enkel in de voertuigen die je krijgt van het depot.
 3. Een persoon herkennen uit het criminele circuit valt onder powergaming en is geen reden om diegene te overvallen.
 4. Een witwasser herkennen omdat hij rondom het startpunt rijdt valt onder powergaming.
