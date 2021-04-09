@@ -77,6 +77,14 @@
    * Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eigenaar geen strafbaar feit ten laste is gelegd, of kan gelegd worden, welke in directe zin gekoppeld is aan de reden van inbeslagname.
    * Wanneer het voertuig bewijsbaar onderdeel was van het strafbare feit en de eigenaar daarvan overleden is, dan zal het voertuig uitgekocht kunnen worden voor 20% van de cataloguswaarde.
    * Uitzonderingsgrond voor teruggave van het voertuig is, indien het een voertuig betreft zoals omschreven in Artikel III-14 Illegale voertuigen of indien een voertuig al drie keer in beslag is genomen. In dit geval zal het voertuig worden vernietigd of verkocht.
+3. Geldige redenen voor inbeslagname zijn:
+  * Plegen van een strafbaar feit uit het wetboek van TeDeApolis waarbij het goed direct of indirect betrokken is, behalve fout parkeren en een snelheidsovertreding;
+  * Plegen van een misdrijf uit de Nederlandse wetgeving waarbij het goed direct of indirect betrokken is;
+  * Niet stoppen voor stopteken gegeven door middel van een politietransparant of rode lamp;
+  * Niet voldoen aan (verkeers)aanwijzing van bevoegde en als zodanig kenbare opsporingsambtenaar;
+  * Snelheidsovertreding van meer dan 100% van de maximumsnelheid. 
+  * Op de openbare weg rijden met een voertuig met daarop een WOK-status. 
+
 
 ### A8 - Openstaande boetes
 
