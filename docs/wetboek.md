@@ -82,8 +82,8 @@
   * Plegen van een misdrijf uit de Nederlandse wetgeving waarbij het goed direct of indirect betrokken is;
   * Niet stoppen voor stopteken gegeven door middel van een politietransparant of rode lamp;
   * Niet voldoen aan (verkeers)aanwijzing van bevoegde en als zodanig kenbare opsporingsambtenaar;
-  * Snelheidsovertreding van meer dan 100% van de maximumsnelheid. 
-  * Op de openbare weg rijden met een voertuig met daarop een WOK-status. 
+  * Snelheidsovertreding van meer dan 100% van de maximumsnelheid;
+  * Op de openbare weg rijden met een voertuig met daarop een WOK-status.
 
 
 ### A8 - Openstaande boetes
