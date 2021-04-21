@@ -352,9 +352,19 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 6. Het overtreden van lid 1,2,3 of 4. zal resulteren in een straf van de 1e categorie.
 7. Bij herhaalde overtredingen van lid 1,2,3 of 4 door een gang kan er worden overgegaan op gangstrikes.
 
+### Artikel 39 - Samenwerking
+
+1. Spelers die geen lid zijn van een gang mogen niet gebruikt worden om middelen ten behoeve van een gang te verzamelen
+of te verkopen zoals geld, drugs of wapens.
+2. Een gang mag maximaal vijf spelers met de rang loopjongen in hun gang hebben. Onder loopjongens worden officiële leden van de gang verstaan die zichzelf nog moeten bewijzen
+door middel van het verzamelen of verkopen van middelen ten behoeve van de gang.
+3. Een speler van een gang mag met bevriende spelers een roleplay doen zolang dit niet ten behoeve van zijn gang is.
+4. Het overtreden van lid 1,2 of 3. Zal resulteren in een straf van de 1e categorie.
+5. Bij herhaling na een straf van de 1e categorie wordt er een gang strike uitgedeeld.
+
 ## Overige bepalingen
 
-### Artikel 39 - Bodycams
+### Artikel 40 - Bodycams
 
 1. Bodycam beelden zijn op de volgende manier toegestaan
     * Overheidsdiensten zijn uitgerust met bodycams.
@@ -364,16 +374,16 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
     * overige voertuigen zijn uitgerust met een dashcam gericht naar voren.
 2. De voorbeelden benoemd in lid zijn bedoeld in de context van Roleplay. Voor bewijsvoering in een ticket of report is alle beeldmateriaal toegestaan.
 
-### Artikel 40 - Journalistiek
+### Artikel 41 - Journalistiek
 
 1. Wanneer een journalist bezig is met een opname of live is, is het niet toegestaan deze te storen. Wanneer deze regel overtreden wordt zal dit resulteren in een ban tot de opname voorbij is en een straf volgens de 1e categorie.
 
-### Artikel 41 - Gezichtsbedekking
+### Artikel 42 - Gezichtsbedekking
 
 1. Het is verboden om gezichtsbedekkende kleding te dragen in het openbaar.
 Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 
-### Artikel 42 - Stemherkenning
+### Artikel 43 - Stemherkenning
 
 1. Het is toegestaan om een speler te herkennen aan zijn/haar stem, tenzij je hem/haar totaal niet kent.
 2. Bij de uitzondering in lid 1 dien je aan te kunnen tonen dat je de persoon daadwerkelijk kent.
@@ -381,31 +391,31 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 4. Het is toegestaan om gebruik te maken van externe software om je stem te vervormen gedurende het uitvoeren van criminele activiteiten, echter dient dit normaal te blijven. Robotstemmen, babystemmen en dergelijke zijn niet toegestaan. Als algemene richtlijn dient er aangehouden te worden dat je enkel je stem zwaarder mag maken.
 5. Het overtreden van de feiten beschreven in dit artikel zullen worden gestraft met een straf van de eerste categorie.
 
-### Artikel 43 - Streamsniping
+### Artikel 44 - Streamsniping
 
 1. Streamsnipen is ten strengste verboden. Ga jij spelers in game opzoeken aan de hand van iemand zijn/haar stream, of informatie gebruiken die jij uit zijn/haar stream haalt, zal dit bestraft worden volgens de 5e categorie.
 
-### Artikel 44 - Discord
+### Artikel 45 - Discord
 
 1. Het is niet toegestaan om externe discords te gebruiken voor roleplay gerelateerde zaken.
 2. Wanneer je met meerdere mensen die op TedeaPolis spelen in een voice call zit is streamen niet toegestaan en moet je gedeafened en gemute zijn.
 3. Het overtreden van het feit genoemd in lid 1 of 2 zal resulteren in een straf van de 1e categorie.
 4. Het overtreden van het feit genoemd in lid 1 als eigenaar, moderator en/of stafflid van deze server zal resulteren in een straf van de 7e categorie.
 
-### Artikel 45 - Zelfdoding
+### Artikel 46 - Zelfdoding
 
 1. Bij een zelfmoord scenario moet de persoon in kwestie een account wipe krijgen en verplicht voor zijn nieuwe karakter een biografie schrijven. Mocht de persoon dit puur voor aandacht doen en niet uiteindelijk zijn/haar leven beëindigen, zal deze voor 200 uur naar de gevangenis gestuurd worden in isolatie.
 
-### Artikel 46 - Voertuigverlies in water (bij achtervolging)
+### Artikel 47 - Voertuigverlies in water (bij achtervolging)
 
 1. Wanneer men een voertuig dumpt tijdens een achtervolging, waar bij deze in het water terecht komt, zal deze 7 dagen in beslag genenomen worden, waarna er 30% van de nieuwprijs voor moet worden betaald om het voertuig weer op te halen.
 
-### Artikel 47 - Schieten van uit een voertuig
+### Artikel 48 - Schieten van uit een voertuig
 
 1. Het is verboden voor de bestuurder om van uit een voertuig een vuurwapen af te vuren.
 2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 1e categorie uitgedeeld.
 
-### Artikel 48 - Jobhoppen
+### Artikel 49 - Jobhoppen
 
 1. (Ex-)leden van een criminele organisatie dienen minimaal 7 kalenderdagen te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een overheidsbaan of een andere criminele organisatie, tenzij anders is bepaald door een lid van de hoge raad.
 2. (Ex-)medewerkers van een overheidsbaan dienen minimaal 7 kalenderdagen te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een andere overheidsbaan of een criminele organisatie, tenzij anders is bepaald door een lid van de hoge raad.
@@ -420,7 +430,7 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 | Overheidsbaan | Criminele organisatie | 7 kalenderdagen |
 | Criminele organisatie | Overheidsbaan | 7 kalenderdagen |
 
-### Artikel 49 - Demonstreren
+### Artikel 50 - Demonstreren
 
 1. Het is verboden om in grote groepen samen te komen en te demonstreren zonder dat hier:
     * Schriftelijk toestemming voor is van de hogeraad.
@@ -429,7 +439,7 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 2. Bij overtreding van één van deze regel zullen alle betrokken personen een straf krijgen van de 2e categorie.
 3. Mocht de demonstratie uit de hand lopen indien deze wel voldoet aan lid 1 zal de leidinggevende persoon een straf krijgen van de 3e categorie.
 
-### Artikel 50 - Borgtocht
+### Artikel 51 - Borgtocht
 
 1. Op het moment dat een persoon op borgtocht wordt gestuurd door de politie, dan ligt het scenario tussen de politie en de desbetreffende persoon stil.
 2. Er dient aan alle voorwaarden van de borgtocht gehouden te worden.
@@ -440,14 +450,14 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 
 Onderstaande regels tellen alleen op Narcopolis
 
-### Artikel 51 - Schieten vanaf het vasteland en water
+### Artikel 52 - Schieten vanaf het vasteland en water
 
 1. Het is verboden om vanaf het vaste land op de patrouillerende schepen of heli's te schieten.
 2. Het is vanuit de koninklijke marechaussee verboden om op het vasteland te schieten.
 3. Bij overtreding van lid 1 of lid 2 zal een straf worden gegeven van de 1e categorie.
 4. Er mag op binnenkomende vluchten en schepen geschoten worden, die niet afkomstig zijn van de koninklijke marechaussee.
 
-### Artikel 52 - Landen van helikopers/vliegtuigen
+### Artikel 53 - Landen van helikopers/vliegtuigen
 
 1. Het is verplicht om te landen op een helipad, een landingsbaan of in een straal van 50 meter van een helipad/landingsbaan.
 2. De sea sparrow en dodo mag wel op openwater rondom het eiland geland worden.
@@ -455,7 +465,7 @@ Onderstaande regels tellen alleen op Narcopolis
 
 ## Tijdelijke bepalingen
 
-### Artikel 53 - Uitbreken uit de gevangenis
+### Artikel 54 - Uitbreken uit de gevangenis
 
 1. Het is verboden om tussen 23:00 en 10:00 uit de gevangenis te breken.
 2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 2e categorie uitgedeeld.
