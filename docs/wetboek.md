@@ -661,8 +661,8 @@
 
 | ***`Categorie 1`***  | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 30 maanden  |  | € 10000,-  |
-| **Tweede Veroordeling**  | 60 maanden  |  | € 12500,-  |
+|  **Eerste Veroordeling** | 50 maanden  |  | € 10000,-  |
+| **Tweede Veroordeling**  | 70 maanden  |  | € 12500,-  |
 | **Meerdere Veroordelingen**  | 90 maanden  |  | € 15000,-  |
 
 | ***`Categorie 2`***  | *Celstraf*  | *Taakstraf*  | *boete*  |
