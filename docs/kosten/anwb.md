@@ -9,11 +9,11 @@ Bij de anwb worden verschillende categorieën gehanteerd hier onder zijn deze te
 |Categorie| omschrijving |
 |:-------:|------------|
 | Categorie 1 |Lakschade, Wagen kan niet meer getuned worden, orange motorlampje |
-| Categorie 2 |koplam(en) en of achterlamp(en) stuk, kleine deuken, Eén of twee ramen kapot, Eén lekke band.|
-| Categorie 3 | Grote deuken, Meer dan twee ramen kapot, meerdere banenden lek, twee deuren weg, motorkap/kofferklep weg|
+| Categorie 2 |koplamp(en) en of achterlamp(en) stuk, kleine deuken, Eén of twee ramen kapot, Eén lekke band.|
+| Categorie 3 | Grote deuken, Meer dan twee ramen kapot, meerdere banden lek, twee deuren weg, motorkap/kofferklep weg|
 | Categorie 4 | Meer dan twee deuren weg, vervorming van het frame, Rood motorlampje |
 | Categorie 5 | De auto rijd maar rookt hevig, zwaar beschadigd (alle deuren en motorkap en kofferklep zijn van voertuig) |
-| Categorie 6 | De auto is totallos (shift + e om de wagen te duwen)|
+| Categorie 6 | De auto is total loss (shift + e om de wagen te duwen)|
 
 ## Motor
 

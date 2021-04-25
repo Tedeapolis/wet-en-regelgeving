@@ -18,10 +18,17 @@ google_analytics: ['UA-167800475-3', 'wetboek.tedeapolis.nl']
 # Congiguration
 theme:
   name: material
-  features:
-    - navigation.tabs
+#   features:
+#     - navigation.tabs
   palette:
-    scheme: preference
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
   favicon: img/logoTedeapolis.png
   logo: img/logoTedeapolis.png
   custom_dir: docs/overrides
@@ -45,6 +52,8 @@ nav:
   - Algemene Plaatselijke Verordening: apv.md
   - Overval regels: overvallen.md
   - Wetboek: wetboek.md
+  - Risicogebieden: risico-gebieden.md
+  - NOTAM: notam.md
   - Belastingen: belastingen.md
   - Regelement voor de rechtspraak: rechtspraak.md
   - Streamen op Tedeapolis: streamen.md
