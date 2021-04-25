@@ -125,13 +125,17 @@
 
 ### Artikel I-1 Diefstal (310 SR)
 
-1. Schuldig is een persoon die een goed wegneemt zonder daarvoor toestemming of enig recht toe te hebben.
+1. Schuldig is een persoon die een goed, of voertuig, wegneemt zonder daarvoor toestemming of enig recht toe te hebben
+2. Bij feiten hieronder vemeld worden verzwarende omstandigheden in rekening gebracht met de daarbij horende strafmaat. in dit geval zal de straf die geëist wordt vermeerderd worden met 1/3:
+3. Wanneer een diefstal gedurende voor de nachtrust bestemde tijd, in een woning of op een besloten erf waarop een woning staat, door iemand die aldaar buiten weten of tegen de wil van de rechthebbende bevindt. en/of;
+4. Wanneer diefstal die door twee of meerdere verenigde personen. en/of;
+5. Wanneer diefstal waarbij de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft of het weg te nemen goed onder zijn bereik heeft gebracht door middel van braak, verbreking of inklimming, van valse sleutels, van een valse order of een vals kostuum.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 20 uur  | € 2000,-  |
-| **Tweede Veroordeling**  |   | 30 uur  | € 4000,-  |
-| **Meerdere Veroordelingen**  |   | 60 uur  | € 5000,-  |
+|  **Eerste Veroordeling** |   | 20 uur  | €2,000  |
+| **Tweede Veroordeling**  | 20 maanden  |  | €4,000  |
+| **Meerdere Veroordelingen**  | 40 maanden  |   | €6,000  |
 
 ### Artikel I-2 Diefstal met geweld / Overval (312 SR)
 
@@ -343,7 +347,8 @@
 3. Hierbij gelden de volgende aandachtspunten:
    * Het moet gaan om een opzettelijke gedraging, waardoor de verkeersregels ernstig worden geschonden. Dus gaat het om een onverantwoordelijk en roekeloos rijgedrag, ook wanneer daardoor (nét) geen ongeval ontstaat;
    * Door dat asociale en roekeloze gedrag moet duidelijk blijken dat daardoor levensgevaar dan wel gevaar voor zwaar lichamelijk letsel voor een ander kan ontstaan;
-   * Door één enkele van de genoemde overtredingen, al dan niet bewust gepleegd, wordt niet meteen dit artikel overtreden, het moet gaan om een combinatie van meerdere feiten die leiden tot roekeloos weggedrag en onaanvaardbaar risico. Die worden bepaald door de aard en het samenstel van alle gedragingen en de omstandigheden waaronder deze werden verricht en alle overige feitelijke omstandigheden van het geval. Er wordt ook gekeken naar veroordelingen voor artikel III-2/III-3 (5/5a WvW) in het verleden;
+   * Door één enkele van de genoemde overtredingen, al dan niet bewust gepleegd, wordt niet meteen dit artikel overtreden, het moet gaan om een combinatie van meerdere feiten die leiden tot roekeloos weggedrag en onaanvaardbaar risico. Die worden bepaald door de aard en het samenstel van alle gedragingen en de omstandigheden waaronder deze werden verricht en alle 
+   e feitelijke omstandigheden van het geval. Er wordt ook gekeken naar veroordelingen voor artikel III-2/III-3 (5/5a WvW) in het verleden;
    * Voor wat betreft de handhaving is staandehouding het uitgangspunt.
 4. Veroordeling voor dit artikel kan enkel geschieden met toestemming van een (h)OvJ of een rechter.
 5. Op basis van inschatting van de feiten en omstandigheden kan eveneens overgegaan worden tot invordering van het rijbewijs en/of inbeslagname van het voertuig.
@@ -869,9 +874,9 @@
 
 |  |Celstraf  | Taakstraf  | boete  |
 |---|---|---|---|
-|  Eerste Veroordeling |   | 35 uur  | € 1500,-  |
-| Tweede Veroordeling  |   | 40 uur  | € 2000,-  |
-| Meerdere Veroordelingen  |   | 50 uur | € 3000,-  |
+|  Eerste Veroordeling |   | 35 uur  | €1,500 |
+| Tweede Veroordeling  |   | 40 uur  | €2,000 |
+| Meerdere Veroordelingen  |   | 50 uur | €3,000 |
 
 ### Artikel VIII-10 Huisvredebreuk (138 SR)
 
@@ -899,6 +904,37 @@
 |  Eerste Veroordeling | 20 maanden |  | € 10000,-  |
 | Tweede Veroordeling  | 40 maanden | | € 15000,-  |
 | Meerdere Veroordelingen  | 60 maanden |  | € 20000,-  |
+
+### Artikel VIII-12 Bescherming van in het wild levende diersoorten
+1. Onder beschermd wordt verstaan: diersoorten die wettelijk beschermd zijn, bijvoorbeeld omdat zij bedreigd worden in hun voortbestaan of beschermd moeten worden tegen overmatige benutting.
+2. Een persoon is schuldig wanneer deze weet of behoort te weten dat het verboden is om jacht te maken op dieren die bij wet beschermd zijn en bij zich draagt.
+3. Een persoon is schuldig wanneer deze een beschermd dier bij zich draagt met het oogmerk het dier te verkopen.
+4. Een persoon is schuldig wanneer deze een beschermd dier vervoert in een voertuig.
+
+| Bij wet geclassificeerde beschermde dieren |
+|---|
+| Haaien |
+| Schildpadden |
+
+|***`1-5 dieren`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 15 maanden |   | €5.000 |
+| **Tweede Veroordeling**  | 30 maanden |  | €8.500 |
+| **Meerdere Veroordelingen**  | 50 maanden |   | €10.000 |
+
+|***`6-40 dieren`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 20 maanden |   | €7.500 |
+| **Tweede Veroordeling**  | 40 maanden |  | €12.500 |
+| **Meerdere Veroordelingen**  | 60 maanden |   | €15.000 |
+
+|***`>40 dieren`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 30 maanden |   | €10.000 |
+| **Tweede Veroordeling**  | 60 maanden |  | €15.000 |
+| **Meerdere Veroordelingen**  | 90 maanden |   | €20.000 |
+
+
 
 ## Titel IX – Schadevergoeding
 
