@@ -778,6 +778,7 @@
    * wanneer ontlastende informatie wordt verzwegen, en/of bewijsmateriaal wordt vernietigd;
    * het tappen van een met geheimhoudingsplicht bezwaarde professional, zoals arts, notaris, geestelijke, apotheker, advocaat;
    * het voeren van een meinedig proces-verbaal zijnde tegenstrijdigheid met andere processen-verbaal, camerabeelden, geluidsopnamen;
+   * inbreuk op het recht van een verdachte op aanwezigheid van een advocaat tijdens een huiszoeking (en andere rechten van een verdachte), ook wel een verdedigingsrecht genoemd, bestaat er voor de (hulp-)Officier van justitie en de rechter een mogelijkheid om de inbreuk te herstellen.
 
 ### Artikel VII-3 Strafvermindering (44a.2 SR)
 
@@ -899,6 +900,10 @@
 |  Eerste Veroordeling | 20 maanden |  | € 10000,-  |
 | Tweede Veroordeling  | 40 maanden | | € 15000,-  |
 | Meerdere Veroordelingen  | 60 maanden |  | € 20000,-  |
+
+### Artikel VIII-12 Recht op bijstand Advocaat tijdens huiszoeking (artikel 99a sv)
+
+1. De verdachte is bevoegd zich tijdens het doorzoeken van plaatsen door zijn advocaat te doen bijstaan, zonder dat de doorzoeking daardoor mag worden opgehouden.
 
 ## Titel IX – Schadevergoeding
 
