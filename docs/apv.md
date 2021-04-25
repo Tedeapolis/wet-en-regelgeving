@@ -96,7 +96,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 4. Voor communicatie over lengte in game kun je een telefoon en/of portofoon gebruiken welke je in de telefoon winkel kunt kopen.
 5. Bij het gebruik van een portofoon-systeem in welke vorm dan ook dient de persoon die praat ook ingame te horen te zijn.
 6. Het niet naleven van het feit beschreven in lid 5 staat eveneens bekend als "meta-gaming" en zal worden bestraft worden met een straf van de 1e categorie
-7. Het is verboden om in (externe) discord calls te zitten met iemand die ook in de stad aanwezig is.
+7. Wanneer je met meerdere mensen die op tedeapolis spelen in een voice call zit is streamen niet toegestaan en moet je gedeafened en gemute zijn.
 8. Het overtreden van lid 7 zal resulteren in een straf van minimaal de 1e categorie.
 9. Ten behoeve van het handhaven van dit artikel is een stafflid bevoegd om beelden op te vragen van de persoon die verdacht wordt van het overtreden van lid 7. Indien de speler dit niet kan, dan volgt er een straf volgens lid 3.
 
@@ -112,10 +112,11 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
     * ANWB
     * Gemeenteraad
 
-### Artikel 7 - Cop-baiting
+### Artikel 7 - Baiting
 
 1. Hij/zij die moedwillig ambtenaren uitlokt met de intentie deze te irriteren en/of bezig te houden zal bestraft worden met een straf volgens de 1e categorie.
-2. De overtreding zoals beschreven in lid 1 staat bekend als “cop-baiting”
+2. Hij/zij die moedwillig officieel onnodig uitlokt zonder verdere intentie tot roleplay en/of bezig te houden zal bestraft worden met een straf volgens de 1e categorie.
+3. De overtreding zoals beschreven in lid 1 en lid 2 staat bekend als “baiting”
 
 ### Artikel 8 - Spam
 
@@ -229,7 +230,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 ### Artikel 23 - VDM
 
 1. Hij/zij die op iemand inrijdt met de intentie deze persoon te vermoorden of zijn voertuig bewust als wapen gebruikt, zal gestraft worden volgens de 1e categorie.
-2. Hij/zij die op een ander voertuig inrijdt met de intentie te "pitten" met een snelheid hoger dan 80 km/u zal dit worden gezien als onrealistisch en dus gestraft worden volgens de 1e categorie.
+2. Hij/zij die op een ander voertuig inrijdt met de intentie te "pitten" met een snelheid hoger dan 100 km/u of op onverantwoorde wijze zal worden gezien als onrealistisch en dus gestraft worden volgens de 1e categorie.
 3. De overtreding vermeld in het 1e lid en het 2e lid staat bekend als “VDM”
 4. Hij/zij die lid 2 uitvoert met een voertuig dat veel "lichter" of kleiner is als het andere voertuig dat "gepit" word, bijvoorbeeld Sedan vs SUV, zal ook gestraft worden volgens de 1e categorie.
 5. Als een slachtoffer moedwillig aangereden wordt door een dader die boven de 30 km/u rijdt, zal er vanuit gegaan worden dat de dader de intentie heeft om het slachtoffer te vermoorden. Dit betekent echter niet dat alles onder de 30 km/u niet met de intentie om te vermoorden is en dit kan alsnog bestraft worden indien dit overduidelijk is met de intentie om iemand te vermoorden.
