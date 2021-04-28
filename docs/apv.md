@@ -446,18 +446,25 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 3. Het is niet toegestaan om spullen (zoals wapens, drugs en dergelijke) die vóór de aanhouding in het appartement/voertuig zaten hieruit te halen of over te dragen naar andere personen op het moment dat een persoon op borgtocht is gestuurd.
 4. Bij overtreding van lid 1, 2 of 3 zal een straf worden gegeven van de 1e categorie en zal het roleplayscenario worden teruggedraaid.
 
+### Artikel 52 - Refunds
+
+1. Items worden niet gerefund wanneer zij verloren zijn gegaan door een aangekondigde server restart.
+2. Onder een aangekondigde server restart valt een restart die minimaal 15 minuten van te voren is aangekondigd.
+3. Stacks aan items zoals drugs worden alleen gerefund bij het onverwachts wegvallen van de server door bijvoorbeeld een crash.
+4. Refunds die vallen onder lid 3 worden alleen gegeven wanneer er voldoende bewijs wordt geleverd dat het daadwerkelijk door het onverwachts wegvallen van de server verloren is gegaan.
+
 ## Narcopolis
 
 Onderstaande regels tellen alleen op Narcopolis
 
-### Artikel 52 - Schieten vanaf het vasteland en water
+### Artikel 53 - Schieten vanaf het vasteland en water
 
 1. Het is verboden om vanaf het vaste land op de patrouillerende schepen of heli's te schieten.
 2. Het is vanuit de koninklijke marechaussee verboden om op het vasteland te schieten.
 3. Bij overtreding van lid 1 of lid 2 zal een straf worden gegeven van de 1e categorie.
 4. Er mag op binnenkomende vluchten en schepen geschoten worden, die niet afkomstig zijn van de koninklijke marechaussee.
 
-### Artikel 53 - Landen van helikopers/vliegtuigen
+### Artikel 54 - Landen van helikopers/vliegtuigen
 
 1. Het is verplicht om te landen op een helipad, een landingsbaan of in een straal van 50 meter van een helipad/landingsbaan.
 2. De sea sparrow en dodo mag wel op openwater rondom het eiland geland worden.
@@ -465,17 +472,11 @@ Onderstaande regels tellen alleen op Narcopolis
 
 ## Tijdelijke bepalingen
 
-### Artikel 54 - Uitbreken uit de gevangenis
+### Artikel 55 - Uitbreken uit de gevangenis
 
 1. Het is verboden om tussen 23:00 en 10:00 uit de gevangenis te breken.
 2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 2e categorie uitgedeeld.
 
-### Artikel 55 - Refunds
-
-1. Items worden niet gerefund wanneer zij verloren zijn gegaan door een aangekondigde server restart.
-2. Onder een aangekondigde server restart valt een restart die minimaal 15 minuten van te voren is aangekondigd.
-3. Stacks aan items zoals drugs worden alleen gerefund bij het onverwachts wegvallen van de server door bijvoorbeeld een crash.
-4. Refunds die vallen onder lid 3 worden alleen gegeven wanneer er voldoende bewijs wordt geleverd dat het daadwerkelijk door het onverwachts wegvallen van de server verloren is gegaan.
 
 ## Slotbepaling: Regels in het kort
 
