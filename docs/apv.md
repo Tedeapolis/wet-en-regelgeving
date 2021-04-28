@@ -470,6 +470,13 @@ Onderstaande regels tellen alleen op Narcopolis
 1. Het is verboden om tussen 23:00 en 10:00 uit de gevangenis te breken.
 2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 2e categorie uitgedeeld.
 
+### Artikel 55 - Refunds
+
+1. Items worden niet gerefund wanneer zij verloren zijn gegaan door een aangekondigde server restart.
+2. Onder een aangekondigde server restart valt een restart die minimaal 15 minuten van te voren is aangekondigd.
+3. Stacks aan items zoals drugs worden alleen gerefund bij het onverwachts wegvallen van de server door bijvoorbeeld een crash.
+4. Refunds die vallen onder lid 3 worden alleen gegeven wanneer er voldoende bewijs wordt geleverd dat het daadwerkelijk door het onverwachts wegvallen van de server verloren is gegaan.
+
 ## Slotbepaling: Regels in het kort
 
 * Geen FailRP (Roleplay van zeer slechte kwaliteit, niet realistisch)
