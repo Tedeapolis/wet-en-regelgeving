@@ -805,8 +805,9 @@
 
 ### Artikel VIII-1 Niet voldoen aan een bevel of vordering (184 SR)
 
-1. Schuldig is een persoon die opzettelijk niet voldoet aan een bevel of vordering dat krachtens wettelijk voorschrift wordt gegeven door een ambtenaar in functie.
+1. Schuldig is een persoon die opzettelijk twee maal niet voldoet aan een bevel of vordering dat krachtens wettelijk voorschrift wordt gegeven door een ambtenaar in functie.
 2. Schuldig is een persoon die opzettelijk een ambtenaar in functie belemmert in de uitvoering daarvan.
+Uitzonderingen bij noodsituaties waar de situatie dusdanig ernstig is kan er een eenmalige vordering plaatsvinden, dit gaat in samenhang met belemmering van een ambtenaar in functie.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
