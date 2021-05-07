@@ -341,6 +341,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
     * Hij/zij beschermende kleding zoals een body armor draagt.
     * Gezichtsbedekking op heeft tijdens het wassen.
     * Een overduidelijke escort heeft.
+        * Zoals: Een voertuig die er overduidelijk achteraan rijd, meerdere personen die in het voertuig zitten zonder de goeie handelingen uit te voeren of niet de correcte kleding aan hebben. 
     * Een persoon die verdachte handelingen doet bij een afleverpunt die niet passen bij de baan die de persoon op dat moment rijd
         * Zoals: alleen claxoneren bij een afleverpunt als je als ramen wasser rondrijd of dat je in een vuilniswagen het afval op een punt ophaalt door alleen te toeteren.
 2. Witwassen mag enkel in de voertuigen die je krijgt van het depot.
