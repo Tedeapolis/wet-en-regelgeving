@@ -108,9 +108,18 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Diefstal met geweld eerste veroordeling | € 2000,- |
 | Diefstal met geweld tweede verroordeling | € 4000,- |
 | Diefstal met geweld derde veroordeling | € 6000,- |
-
-
-
+| Jacht op, verkoop of in kofferbak hebben van 1-5 bedreigde diersoorten - eerste veroordeling| € 5000,- |
+| Jacht op, verkoop of in kofferbak hebben van 1-5 bedreigde diersoorten - tweede veroordeling| € 8500,- |
+| Jacht op, verkoop of in kofferbak hebben van 1-5 bedreigde diersoorten - meerdere veroordelingen | € 10000,- |
+| Jacht op, verkoop of in kofferbak hebben van 6-40 bedreigde diersoorten - eerste veroordeling| € 7500,- |
+| Jacht op, verkoop of in kofferbak hebben van 6-40 bedreigde diersoorten - tweede veroordeling| € 12500,- |
+| Jacht op, verkoop of in kofferbak hebben van 6-40 bedreigde diersoorten - meerdere veroordelingen | € 15000,- |
+| Jacht op, verkoop of in kofferbak hebben van >40 bedreigde diersoorten - eerste veroordeling| € 10000,- |
+| Jacht op, verkoop of in kofferbak hebben van >40 bedreigde diersoorten - tweede veroordeling| € 15000,- |
+| Jacht op, verkoop of in kofferbak hebben van >40 bedreigde diersoorten - meerdere veroordelingen | € 20000,- |
+| vergunningloos voertuig handelen eerste veroordeling | € 50000,- |
+| vergunningloos voertuig handelen tweede veroordeling | € 75000,- |
+| vergunningloos voertuig derde veroordeling | € 100000,- |
 
 ## Grootmisdrijf
 
