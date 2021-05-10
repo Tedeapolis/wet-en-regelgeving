@@ -111,6 +111,9 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Jacht op, verkoop of in kofferbak hebben van >40 bedreigde diersoorten - eerste veroordeling| € 10000,- |
 | Jacht op, verkoop of in kofferbak hebben van >40 bedreigde diersoorten - tweede veroordeling| € 15000,- |
 | Jacht op, verkoop of in kofferbak hebben van >40 bedreigde diersoorten - meerdere veroordelingen | € 20000,- |
+| vergunningloos voertuig handelen eerste veroordeling | € 50000,- |
+| vergunningloos voertuig handelen tweede veroordeling | € 75000,- |
+| vergunningloos voertuig derde veroordeling | € 100000,- |
 
 
 ## Grootmisdrijf

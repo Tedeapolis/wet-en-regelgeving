@@ -940,6 +940,17 @@
 
 1. De verdachte is bevoegd zich tijdens het doorzoeken van plaatsen door zijn advocaat te doen bijstaan, zonder dat de doorzoeking daardoor mag worden opgehouden.
 
+
+### Artikel VIII-14 Vergunningloze voertuig handelaar
+1. Schuldig is een persoon die meerdere voertuigen verhandeld op een locatie, zonder over de daarvoor vereiste vergunning te beschikken.
+2. Indien een opsporingsambtenaar merkt dat de schuldige nergens van afwist, dan kan deze zijn discretionaire bevoegdheid gebruiken om het af te doen met een waarschuwing in de vorm van een notitie.
+
+|  |Celstraf  | Taakstraf  | boete  |
+|---|---|---|---|
+|  Eerste Veroordeling |  |  | € 50000,-  |
+| Tweede Veroordeling  |  | 25 uur | € 75000,-  |
+| Meerdere Veroordelingen  |  | 50 uur | € 100000,-  |
+
 ## Titel IX – Schadevergoeding
 
 ### Artikel IX-1 (Im)materiële schadevergoeding voor onterechte inverzekeringstelling of voorlopige hechtenis (artikel 533 sv)
