@@ -259,7 +259,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 ### Artikel 27 - Overvallen & Oplichten
 
 1. Het overvallen/oplichten/bestelen van mensen is verboden, dit mag alleen wanneer een persoon bezig is met criminele activiteiten.
-2. Het is in geen enkele situatie toegestaan om geld van mensen hun bank te stelen, om te scammen met voertuigen, om spelers te overvallen, te ontvoeren of negatief te bejegenen bij het gemeentehuis of om facturen en/of andere items te stelen van spelers die bezig zijn met een burgerjob.
+2. Het is in geen enkele situatie toegestaan om geld van mensen hun bank te stelen, om spelers te overvallen, te ontvoeren of negatief te bejegenen bij het gemeentehuis of om facturen en/of andere items te stelen van spelers die bezig zijn met een burgerjob.
 3. Met criminele activiteiten zoals vermeld in lid 1 worden dingen met betrekking tot drugs, overvallen, witwassen etc bedoeld, en dus geen overtredingen.
 4. Bij een overtreding van de wet in lid 1 en/of lid 2 wordt de persoon gestraft volgens de 4e categorie en wordt het geld teruggegeven aan het slachtoffer. Wanneer de persoon het geld al heeft uitgegeven zal het resulteren in straf van de 8e categorie.
 5. Hou hiermee wel rekening dat het bij het vergrijp zoals beschreven in lid 1 niet de bedoeling is hiermee misbruik te maken van onwetendheid van mensen, dus vermijd het oplichten van nieuwe spelers.
