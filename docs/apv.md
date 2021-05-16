@@ -460,7 +460,7 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 
 1. Het communiceren in het water met gebruik van een porto, telefoon of een ander communicatiemiddel is niet toegestaan.
       * Dit geld dus ook voor Politie, Marechaussee, Ambulance & Anwb.
-3. Bij overtreding van lid 1 zal een straf worden gegeven van de 1e categorie.
+2. Bij overtreding van lid 1 zal een straf worden gegeven van de 1e categorie.
 
 ## Narcopolis
 
