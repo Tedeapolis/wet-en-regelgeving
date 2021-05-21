@@ -65,6 +65,19 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 2. De overtreding vermeld in het eerste lid staat bekend als “FailRP”
 3. Hij/zij die opzettelijk de roleplay zodanig vormt dat er een oneerlijke of onrealistische draai aan het verhaal geeft, of de roleplay van de andere partij zelf invult door een onrealistische dwang, wordt gestraft volgens de 1e categorie.
 4. De overtreding vermeld in het derde lid staat bekend als "powergaming"
+5. Enkele voorbeelden van lid 1 en lid 3 zijn:
+    * Niet meewerken aan een roleplayscenario of een /me-command, bijvoorbeeld opzettelijk een onjuiste portofrequentie doorgeven nadat er een roleplayactie is uitgevoerd om dit te achterhalen;
+    * Tijdens een achtervolging je voertuig in de garage zetten om te voorkomen dat je je voertuig kwijtraakt;
+    * Geen roleplay aangaan na of je niets aantrekken van een (ernstige) verwonding of (verkeers)ongeval;
+    * HeadID's misbruiken om spelers te vinden/identificeren tijdens een roleplayscenario;
+    * Onjuist of onrealistisch gebruik maken van het F6-menu;
+    * Overtredingen van de overval regels kunnen volgens dit artikel worden bestraft;
+    * In het water zwemmen voor een onrealistisch lange tijd;
+    * Stelen van een voertuig van een burger zonder enige geldige reden;
+    * Proberen "loopholes" te vinden in de regels en/of de regels te misbruiken voor je eigen voordeel;
+    * Emotes spammen of ongepaste emotes gebruiken tijdens een serieus roleplayscenario;
+    * Als overheidsmedewerker je voertuig in de garage plaatsen en er weer terug uithalen om te voorkomen dat je naar de ANWB moet om je voertuig te laten repareren (bijvoorbeeld om weer deel te nemen aan een achtervolging);
+    * Een agent ontvoeren om een voertuig uit de opslag te halen, om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS). 
 
 ### Artikel 2 - Cheats
 
