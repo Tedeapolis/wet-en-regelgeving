@@ -45,8 +45,10 @@
 3. Een opgelegde straf is nooit hoger dan de vastgestelde waarden.
 4. Een straf kan wel verhoogd worden door het stapelen van overtredingen.
 5. Indien er sprake is van meerdere slachtoffers van een geweldsdelict, dan wordt er voor elk extra slachtoffer 25% van de oorspronkelijke straf bij de uiteindelijke straf toegevoegd. Bij 2 slachtoffers zal er dus sprake zijn van een strafverhoging van 25% van de normale strafmaat, en zo verder.
-6. Een straf kan ook verlaagd worden door verzachtende omstandigheden.
-7. Een straf kan geheel of gedeeltelijk kwijtgescholden worden op basis van uitsluitingsgronden.
+6.  Indien er sprake is van meermaals gepleegde exact dezelfde strafbare feiten waarbij er sprake is van andere omstandigheden, dan wordt er voor elk extra delict 50% van de oorspronkelijke straf van het delict toegevoegd bij de totaalstraf. 
+7.  Er geldt een maximumcelstraf van 400 maanden. Als er volgens het wetboek meer dan 400 maanden aan de verdachte opgelegd (mogen) worden, dan wordt de boete verhoogd. De boete wordt verhoogd met 500 euro per extra maand boven de 400 maanden. 
+8. Een straf kan ook verlaagd worden door verzachtende omstandigheden.
+9. Een straf kan geheel of gedeeltelijk kwijtgescholden worden op basis van uitsluitingsgronden.
 
 ### A5 - Strafblad
 
