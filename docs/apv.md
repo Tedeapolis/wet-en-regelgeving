@@ -77,7 +77,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
     * Proberen "loopholes" te vinden in de regels en/of de regels te misbruiken voor je eigen voordeel;
     * Emotes spammen of ongepaste emotes gebruiken tijdens een serieus roleplayscenario;
     * Als overheidsmedewerker je voertuig in de garage plaatsen en er weer terug uithalen om te voorkomen dat je naar de ANWB moet om je voertuig te laten repareren (bijvoorbeeld om weer deel te nemen aan een achtervolging);
-    * Een agent ontvoeren om een voertuig uit de opslag te halen, om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS). 
+    * Een agent ontvoeren om een voertuig uit de opslag te halen, om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS).
 
 ### Artikel 2 - Cheats
 
