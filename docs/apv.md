@@ -143,15 +143,15 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 ### Artikel 11 - Value of Life
 
 1. Hij/zij die geen waarde hecht aan het leven van zijn karakter zal gestraft worden zal gestraft worden met een straf volgens de 1e categorie.
-2. De overtreding zoals beschreven in lid 1 staat bekend als “no value of life”
+2. De overtreding zoals beschreven in lid 1 staat bekend als “no value of life”.
 3. Enkele voorbeelden hiervoor zijn:
     * zodra iemand een pistool op je richt binnen 50 meter en er geen beschutting is, blijf je staan, werk je mee en val je deze persoon niet aan.
     * Zodra iemand een steekwapen binnen armlengte afstand van je trekt dan werk je mee, doe je dit niet ben je niet zuinig met je leven aangezien je dat bewust het risico neemt neergestokente worden.
     * Met een helikopter vlak boven de grond zweven om goederen en/of personen te transporteren.
     * Elke andere vorm waarmee je bewust je eigen leven in een té groot gevaar brengt valt onder no value of life, dus gebruik je gezonde verstand om de situatie in te schatten.
     * Zodra een persoon een wapen in zijn hand heeft en jij gaat hem proberen te boeien of richting hem te rennen word dit gezien als no value of life.
-    * Het is geen no value of life indien een persoon in een voertuig met deuren zit niet meewerkt, als je deze van de buitenkant bedreigt met een steekwapen. 
-    * Ook valt het niet onder no value of life om een vuurwapen te trekken als je bedreigd wordt met een steekwapen. 
+    * Het is geen no value of life indien een persoon in een voertuig met deuren zit niet meewerkt, als je deze van de buitenkant bedreigt met een steekwapen.
+    * Ook valt het niet onder no value of life om een vuurwapen te trekken als je bedreigd wordt met een steekwapen.
     * De beslissing van een stafflid betreft alle bovenstaande en overige situaties is altijd leidend.
 
 ### Artikel 12 - New Life Rule
