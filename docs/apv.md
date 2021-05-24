@@ -73,6 +73,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
     * Onjuist of onrealistisch gebruik maken van het F6-menu;
     * Overtredingen van de overval regels kunnen volgens dit artikel worden bestraft;
     * In het water zwemmen voor een onrealistisch lange tijd;
+    * In een portofoon praten terwijl je aan het zwemmen bent of onderwater bent;
     * Stelen van een voertuig van een burger zonder enige geldige reden;
     * Proberen "loopholes" te vinden in de regels en/of de regels te misbruiken voor je eigen voordeel;
     * Emotes spammen of ongepaste emotes gebruiken tijdens een serieus roleplayscenario;
