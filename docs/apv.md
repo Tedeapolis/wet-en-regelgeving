@@ -469,7 +469,7 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 
 1. Items worden niet gerefund wanneer zij verloren zijn gegaan door een aangekondigde server restart. 
 2. Stacks aan items zoals drugs worden alleen gerefund bij het onverwachts wegvallen van de server door bijvoorbeeld een crash.
-3. Refunds die vallen onder lid 3 worden alleen gegeven wanneer er voldoende bewijs wordt geleverd dat het daadwerkelijk door het onverwachts wegvallen van de server verloren is gegaan.
+3. Refunds die vallen onder lid 2 worden alleen gegeven wanneer er voldoende bewijs wordt geleverd dat het daadwerkelijk door het onverwachts wegvallen van de server verloren is gegaan.
 
 ## Narcopolis
 
