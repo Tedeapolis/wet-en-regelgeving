@@ -244,7 +244,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 ### Artikel 23 - Cardealers
 
 1. Een cardealer mag enkel uitgevoerd worden wanneer hiervoor goedkeuring is vanuit justitie.
-2. Een cardealer mag maximaal 10 voertuigen in hun “showroom” zetten. 
+2. Een cardealer mag maximaal 10 voertuigen in hun “showroom” zetten.
 3. Een cardealer mag zich enkel vestigen op een, door justitie, aangewezen locatie.
 4. Een cardealer dient officiële vergunningen te hebben, ondertekend door een lid van justitie, waarin de locatie vermeld staat.
 5. Bij overtreding van lid 1, 2, 3 en/of 4 zullen gestraft worden middels een straf volgens de 2e categorie.
@@ -358,7 +358,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
     * Hij/zij beschermende kleding zoals een body armor draagt.
     * Gezichtsbedekking op heeft tijdens het wassen.
     * Een overduidelijke escort heeft.
-        * Zoals: Een voertuig die er overduidelijk achteraan rijd, meerdere personen die in het voertuig zitten zonder de goeie handelingen uit te voeren of niet de correcte kleding aan hebben. 
+        * Zoals: Een voertuig die er overduidelijk achteraan rijd, meerdere personen die in het voertuig zitten zonder de goeie handelingen uit te voeren of niet de correcte kleding aan hebben.
     * Een persoon die verdachte handelingen doet bij een afleverpunt die niet passen bij de baan die de persoon op dat moment rijd
         * Zoals: alleen claxoneren bij een afleverpunt als je als ramen wasser rondrijd of dat je in een vuilniswagen het afval op een punt ophaalt door alleen te toeteren.
 2. Witwassen mag enkel in de voertuigen die je krijgt van het depot.
@@ -467,7 +467,7 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 
 ### Artikel 52 - Refunds
 
-1. Items worden niet gerefund wanneer zij verloren zijn gegaan door een aangekondigde server restart. 
+1. Items worden niet gerefund wanneer zij verloren zijn gegaan door een aangekondigde server restart.
 2. Stacks aan items zoals drugs worden alleen gerefund bij het onverwachts wegvallen van de server door bijvoorbeeld een crash.
 3. Refunds die vallen onder lid 2 worden alleen gegeven wanneer er voldoende bewijs wordt geleverd dat het daadwerkelijk door het onverwachts wegvallen van de server verloren is gegaan.
 

@@ -85,7 +85,6 @@
     * Snelheidsovertreding van meer dan 100% van de maximumsnelheid;
     * Op de openbare weg rijden met een voertuig met daarop een WOK-status.
 
-
 ### A8 - Openstaande boetes
 
 1. Wanneer tijdens een controle of aanhouding aangetoond wordt dat het totaalbedrag van openstaande boetes boven de € 10000,- reikt, kan dit impact hebben op de strafeis.
@@ -347,8 +346,7 @@
 3. Hierbij gelden de volgende aandachtspunten:
    * Het moet gaan om een opzettelijke gedraging, waardoor de verkeersregels ernstig worden geschonden. Dus gaat het om een onverantwoordelijk en roekeloos rijgedrag, ook wanneer daardoor (nét) geen ongeval ontstaat;
    * Door dat asociale en roekeloze gedrag moet duidelijk blijken dat daardoor levensgevaar dan wel gevaar voor zwaar lichamelijk letsel voor een ander kan ontstaan;
-   * Door één enkele van de genoemde overtredingen, al dan niet bewust gepleegd, wordt niet meteen dit artikel overtreden, het moet gaan om een combinatie van meerdere feiten die leiden tot roekeloos weggedrag en onaanvaardbaar risico. Die worden bepaald door de aard en het samenstel van alle gedragingen en de omstandigheden waaronder deze werden verricht en alle 
-   e feitelijke omstandigheden van het geval. Er wordt ook gekeken naar veroordelingen voor artikel III-2/III-3 (5/5a WvW) in het verleden;
+   * Door één enkele van de genoemde overtredingen, al dan niet bewust gepleegd, wordt niet meteen dit artikel overtreden, het moet gaan om een combinatie van meerdere feiten die leiden tot roekeloos weggedrag en onaanvaardbaar risico. Die worden bepaald door de aard en het samenstel van alle gedragingen en de omstandigheden waaronder deze werden verricht en alle feitelijke omstandigheden van het geval. Er wordt ook gekeken naar veroordelingen voor artikel III-2/III-3 (5/5a WvW) in het verleden;
    * Voor wat betreft de handhaving is staandehouding het uitgangspunt.
 4. Veroordeling voor dit artikel kan enkel geschieden met toestemming van een (h)OvJ of een rechter.
 5. Op basis van inschatting van de feiten en omstandigheden kan eveneens overgegaan worden tot invordering van het rijbewijs en/of inbeslagname van het voertuig.
@@ -907,6 +905,7 @@
 | Meerdere Veroordelingen  | 60 maanden |  | € 20000,-  |
 
 ### Artikel VIII-12 Bescherming van in het wild levende diersoorten
+
 1. Onder beschermd wordt verstaan: diersoorten die wettelijk beschermd zijn, bijvoorbeeld omdat zij bedreigd worden in hun voortbestaan of beschermd moeten worden tegen overmatige benutting.
 2. Een persoon is schuldig wanneer deze weet of behoort te weten dat het verboden is om jacht te maken op dieren die bij wet beschermd zijn en bij zich draagt.
 3. Een persoon is schuldig wanneer deze een beschermd dier bij zich draagt met het oogmerk het dier te verkopen.
@@ -935,13 +934,12 @@
 | **Tweede Veroordeling**  | 60 maanden |  | €15.000 |
 | **Meerdere Veroordelingen**  | 90 maanden |   | €20.000 |
 
-
 ### Artikel VIII-13 Recht op bijstand Advocaat tijdens huiszoeking (artikel 99a sv)
 
 1. De verdachte is bevoegd zich tijdens het doorzoeken van plaatsen door zijn advocaat te doen bijstaan, zonder dat de doorzoeking daardoor mag worden opgehouden.
 
-
 ### Artikel VIII-14 Vergunningloze voertuig handelaar
+
 1. Schuldig is een persoon die meerdere voertuigen verhandeld op een locatie, zonder over de daarvoor vereiste vergunning te beschikken.
 2. Indien een opsporingsambtenaar merkt dat de schuldige nergens van afwist, dan kan deze zijn discretionaire bevoegdheid gebruiken om het af te doen met een waarschuwing in de vorm van een notitie.
 
