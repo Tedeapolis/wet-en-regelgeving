@@ -356,10 +356,9 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 1. Spelers die geen lid zijn van een gang mogen niet gebruikt worden om middelen ten behoeve van een gang te verzamelen
 of te verkopen zoals geld, drugs of wapens.
-2. Een gang mag maximaal vijf spelers met de rang loopjongen in hun gang hebben. Onder loopjongens worden officiële leden van de gang verstaan die zichzelf nog moeten bewijzen
-door middel van het verzamelen of verkopen van middelen ten behoeve van de gang.
+2. Een gang mag maximaal vijf spelers met de rang loopjongen in hun gang hebben. Onder loopjongens worden officiële leden van de gang verstaan die zichzelf nog moeten bewijzen en dus niet bezitten over het f6 menu.
 3. Een speler van een gang mag met bevriende spelers een roleplay doen zolang dit niet ten behoeve van zijn gang is.
-      * Een voorbeeld van de roleplay genoemd in bovenstaande lid 3 is dat je als speler prima met een vriend of kennis mag wit wassen voor jezelf. Echter zodra hier geld van je         gang bij zit mag dit weer niet.
+   * Een voorbeeld van de roleplay genoemd in bovenstaande lid 3 is dat je als speler prima met een vriend of kennis mag wit wassen voor jezelf. Echter zodra hier geld van je gang bij zit mag dit weer niet.
 5. Het overtreden van lid 1,2 of 3. Zal resulteren in een straf van de 1e categorie.
 6. Bij herhaling na een straf van de 1e categorie wordt er een gang strike uitgedeeld.
 
@@ -477,7 +476,6 @@ Onderstaande regels tellen alleen op Narcopolis
 
 1. Het is verboden om tussen 23:00 en 10:00 uit de gevangenis te breken.
 2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 2e categorie uitgedeeld.
-
 
 ## Slotbepaling: Regels in het kort
 
