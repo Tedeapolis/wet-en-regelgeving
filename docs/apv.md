@@ -275,13 +275,12 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 ### Artikel 27 - Overvallen & Oplichten
 
 1. Het overvallen/oplichten/bestelen van mensen is verboden, dit mag alleen wanneer een persoon bezig is met criminele activiteiten.
-2. Het is in geen enkele situatie toegestaan om geld van mensen hun bank te stelen of om voertuigen te scammen, om spelers te overvallen, te ontvoeren of negatief te bejegenen bij het gemeentehuis of om facturen en/of andere items te stelen van spelers die bezig zijn met een burgerjob.
-3. Wanneer voertuigen gebruikt worden als betaal middel voor illegale dingen, denk aan loodsen, drugs, wapens, etc. vervalt de bescherming zoals beschreven in lid 2.
-4. Met criminele activiteiten zoals vermeld in lid 1 worden dingen met betrekking tot drugs, overvallen, witwassen etc bedoeld, en dus geen overtredingen.
-5. Bij een overtreding van de wet in lid 1 en/of lid 2 wordt de persoon gestraft volgens de 4e categorie en wordt het geld teruggegeven aan het slachtoffer. Wanneer de persoon het geld al heeft uitgegeven zal het resulteren in straf van de 8e categorie.
-6. Hou hiermee wel rekening dat het bij het vergrijp zoals beschreven in lid 1 niet de bedoeling is hiermee misbruik te maken van onwetendheid van mensen, dus vermijd het oplichten van nieuwe spelers.
-7. Het is voor criminelen toegestaan om mensen gedurende langere tijd te ondervragen en/of te martelen. Echter mag dit maximaal circa 2 uur duren. Er dient ook goede roleplay aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
-8. Bij een overtreding van de regel in lid 6 wordt de persoon gestraft volgens de 1e categorie en zal het scenario onmiddellijk worden teruggedraaid.
+2. Het is in geen enkele situatie toegestaan om geld van mensen hun bank te stelen, om te scammen met voertuigen, om te scammen met loodsen, om spelers te overvallen, te ontvoeren of negatief te bejegenen bij het gemeentehuis of om facturen en/of andere items te stelen van spelers die bezig zijn met een burgerjob.
+3. Met criminele activiteiten zoals vermeld in lid 1 worden dingen met betrekking tot drugs, overvallen, witwassen etc bedoeld, en dus geen overtredingen.
+4. Bij een overtreding van de wet in lid 1 en/of lid 2 wordt de persoon gestraft volgens de 4e categorie en wordt het geld teruggegeven aan het slachtoffer. Wanneer de persoon het geld al heeft uitgegeven zal het resulteren in straf van de 8e categorie.
+5. Hou hiermee wel rekening dat het bij het vergrijp zoals beschreven in lid 1 niet de bedoeling is hiermee misbruik te maken van onwetendheid van mensen, dus vermijd het oplichten van nieuwe spelers.
+6. Het is voor criminelen toegestaan om mensen gedurende langere tijd te ondervragen en/of te martelen. Echter mag dit maximaal circa 2 uur duren. Er dient ook goede roleplay aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
+7. Bij een overtreding van de regel in lid 6 wordt de persoon gestraft volgens de 1e categorie en zal het scenario onmiddellijk worden teruggedraaid.
 
 ### Artikel 28 - Criminaliteit & Ambtenaren
 
@@ -381,6 +380,16 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 6. Het overtreden van lid 1,2,3 of 4. zal resulteren in een straf van de 1e categorie.
 7. Bij herhaalde overtredingen van lid 1,2,3 of 4 door een gang kan er worden overgegaan op gangstrikes.
 
+### Artikel 39 - Samenwerking
+
+1. Spelers die geen lid zijn van een gang mogen niet gebruikt worden om middelen ten behoeve van een gang te verzamelen
+of te verkopen zoals geld, drugs of wapens.
+2. Een gang mag maximaal vijf spelers met de rang loopjongen in hun gang hebben. Onder loopjongens worden officiële leden van de gang verstaan die zichzelf nog moeten bewijzen en dus niet bezitten over het f6 menu.
+3. Een speler van een gang mag met bevriende spelers een roleplay doen zolang dit niet ten behoeve van zijn gang is.
+   * Een voorbeeld van de roleplay genoemd in bovenstaande lid 3 is dat je als speler prima met een vriend of kennis mag wit wassen voor jezelf. Echter zodra hier geld van je gang bij zit mag dit weer niet.
+5. Het overtreden van lid 1,2 of 3. Zal resulteren in een straf van de 1e categorie.
+6. Bij herhaling na een straf van de 1e categorie wordt er een gang strike uitgedeeld.
+
 ## Overige bepalingen
 
 ### Artikel 40 - Bodycams
@@ -468,8 +477,10 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 ### Artikel 52 - Refunds
 
 1. Items worden niet gerefund wanneer zij verloren zijn gegaan door een aangekondigde server restart.
-2. Stacks aan items zoals drugs worden alleen gerefund bij het onverwachts wegvallen van de server door bijvoorbeeld een crash.
-3. Refunds die vallen onder lid 2 worden alleen gegeven wanneer er voldoende bewijs wordt geleverd dat het daadwerkelijk door het onverwachts wegvallen van de server verloren is gegaan.
+2. Onder een aangekondigde server restart valt een restart die minimaal 15 minuten van te voren is aangekondigd.
+3. Stacks aan items zoals drugs worden alleen gerefund bij het onverwachts wegvallen van de server door bijvoorbeeld een crash.
+4. Refunds die vallen onder lid 3 worden alleen gegeven wanneer er voldoende bewijs wordt geleverd dat het daadwerkelijk door het onverwachts wegvallen van de server verloren is gegaan.
+
 
 ## Narcopolis
 
