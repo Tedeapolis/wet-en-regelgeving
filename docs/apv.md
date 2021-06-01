@@ -326,8 +326,8 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 ### Artikel 34 - Roleplay & Ledenaantal Criminele Organisaties
 
-1. Criminele organisaties mogen een maximaal ledenaantal hebben van 15 personen.
-2. Een roleplayscenario van/met een criminele organisatie mag maximaal bestaan uit 15 personen, inclusief de leden van de criminele organisatie zelf. Dit houdt dus in dat iedereen die op dat moment enige medewerking verleent aan de criminele organisatie, ook indien zij officieel niet tot de criminele organisatie behoren, tot dit aantal wordt gerekend.
+1. Criminele organisaties mogen een maximaal ledenaantal hebben van 20 personen, waarvan 5 plaatsen gereserveerd voor de 'loopjongens' rang(onder loopjongens word gezien officiële leden die zich nog moeten bewijzen en geen toegang hebben tot het F6 men).
+2. Een roleplayscenario van/met een criminele organisatie mag maximaal bestaan uit 20 personen, inclusief de leden van de criminele organisatie zelf. Dit houdt dus in dat iedereen die op dat moment enige medewerking verleent aan de criminele organisatie, ook indien zij officieel niet tot de criminele organisatie behoren, tot dit aantal wordt gerekend.
 3. Overtreding van het ledenaantal genoemd in lid 1 & 2 zal een straf worden uitgedeeld volgens de 1e categorie aan de eigena(a)r(en) & deelnemers van de organisatie.
 4. Bij herhaalde overtreding zal er een straf van de 2e categorie volgen.
 
@@ -471,18 +471,24 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 2. Stacks aan items zoals drugs worden alleen gerefund bij het onverwachts wegvallen van de server door bijvoorbeeld een crash.
 3. Refunds die vallen onder lid 2 worden alleen gegeven wanneer er voldoende bewijs wordt geleverd dat het daadwerkelijk door het onverwachts wegvallen van de server verloren is gegaan.
 
+### Artikel 53 - Samenwerking Officiële criminele organisaties
+
+1. Criminele organisaties mogen met een maximum aantal van 20 personen een roleplayscenario houden, dit mag met hun volledige organisatie of met leden van andere Officiële gangs ,mits dit een geldige en logische reden heeft in de roleplay.
+2. Criminele organisaties mogen onderling met elkaar samenwerken, op voorwaarde dat er geen volledige samenwerking tussen alle organisaties ontstaat, dit is ter beoordeling van de Hoge Raad van Tedeapolis.
+3. Bij overtreding van lid 1. Zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het Roleplayscenario. Bij herhaling na de straf van de 5e categorie wordt er een gang strike uitgedeeld.
+
 ## Narcopolis
 
 Onderstaande regels tellen alleen op Narcopolis
 
-### Artikel 53 - Schieten vanaf het vasteland en water
+### Artikel 54 - Schieten vanaf het vasteland en water
 
 1. Het is verboden om vanaf het vaste land op de patrouillerende schepen of heli's te schieten.
 2. Het is vanuit de koninklijke marechaussee verboden om op het vasteland te schieten.
 3. Bij overtreding van lid 1 of lid 2 zal een straf worden gegeven van de 1e categorie.
 4. Er mag op binnenkomende vluchten en schepen geschoten worden, die niet afkomstig zijn van de koninklijke marechaussee.
 
-### Artikel 54 - Landen van helikopers/vliegtuigen
+### Artikel 55 - Landen van helikopers/vliegtuigen
 
 1. Het is verplicht om te landen op een helipad, een landingsbaan of in een straal van 50 meter van een helipad/landingsbaan.
 2. De sea sparrow en dodo mag wel op openwater rondom het eiland geland worden.
@@ -490,7 +496,7 @@ Onderstaande regels tellen alleen op Narcopolis
 
 ## Tijdelijke bepalingen
 
-### Artikel 55 - Uitbreken uit de gevangenis
+### Artikel 56 - Uitbreken uit de gevangenis
 
 1. Het is verboden om tussen 23:00 en 10:00 uit de gevangenis te breken.
 2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 2e categorie uitgedeeld.
