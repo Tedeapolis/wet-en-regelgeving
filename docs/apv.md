@@ -79,7 +79,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
     * Emotes spammen of ongepaste emotes gebruiken tijdens een serieus roleplayscenario;
     * Als overheidsmedewerker je voertuig in de garage plaatsen en er weer terug uithalen om te voorkomen dat je naar de ANWB moet om je voertuig te laten repareren (bijvoorbeeld om weer deel te nemen aan een achtervolging);
     * Een agent ontvoeren om een voertuig uit de opslag te halen, om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS).
-    * Medewerkers van de politie of koninklijke marechaussee dwingen om een (bewusteloos) persoon te fouilleren, items (zoals wapens) af te nemen en af te geven aan jou of iemand anders. 
+    * Medewerkers van de politie of koninklijke marechaussee dwingen om een (bewusteloos) persoon te fouilleren, items (zoals wapens) af te nemen en af te geven aan jou of iemand anders.
 
 ### Artikel 2 - Cheats
 
