@@ -64,7 +64,7 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Rechtsdoorgang beletten | € 130,- |
 | Onbevoegd begeven op privé terrein | € 180,- |
 | Dragen van gezichtsbedekkende kledij | € 200,- |
-| Beledigen van een ambtenaar in functie | € 600,- |
+| Beledigen van een ambtenaar in functie | € 1600,- |
 | Verstoring Openbare orde | € 220,- |
 | Valse informatie geven | € 250,- |
 | Valse melding | € 450,- |
