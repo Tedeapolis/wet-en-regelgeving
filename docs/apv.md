@@ -112,7 +112,8 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 6. Het niet naleven van het feit beschreven in lid 5 staat eveneens bekend als "meta-gaming" en zal worden bestraft worden met een straf van de 1e categorie
 7. Wanneer je met meerdere mensen die op tedeapolis spelen in een voice call zit is streamen niet toegestaan en moet je gedeafened en gemute zijn.
 8. Het overtreden van lid 7 zal resulteren in een straf van minimaal de 1e categorie.
-9. Ten behoeve van het handhaven van dit artikel is een stafflid bevoegd om beelden op te vragen van de persoon die verdacht wordt van het overtreden van lid 7. Indien de speler dit niet kan, dan volgt er een straf volgens lid 3.
+9. Om een overvalscenario uit te voeren is het toegestaan om via Discord aanvullende documenten en bijlagen te sturen. Dit dient echter altijd ondersteund te worden door middel van een in-game document.
+10. Ten behoeve van het handhaven van dit artikel is een stafflid bevoegd om beelden op te vragen van de persoon die verdacht wordt van het overtreden van lid 7. Indien de speler dit niet kan, dan volgt er een straf volgens lid 3.
 
 ### Artikel 6 - Beroepskleding
 
