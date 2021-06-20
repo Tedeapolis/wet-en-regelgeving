@@ -80,6 +80,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
     * Als overheidsmedewerker je voertuig in de garage plaatsen en er weer terug uithalen om te voorkomen dat je naar de ANWB moet om je voertuig te laten repareren (bijvoorbeeld om weer deel te nemen aan een achtervolging);
     * Een agent ontvoeren om een voertuig uit de opslag te halen, om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS).
     * Medewerkers van de politie of koninklijke marechaussee dwingen om een (bewusteloos) persoon te fouilleren, items (zoals wapens) af te nemen en af te geven aan jou of iemand anders.
+    * Het spelen op een zodanige resolutie dat er redelijkerwijs van uit kan worden gegaan dat hier voordeel uit wordt gehaald.
 
 ### Artikel 2 - Cheats
 
@@ -477,7 +478,8 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 
 1. Criminele organisaties mogen met een maximum aantal van 20 personen een roleplayscenario houden, dit mag met hun volledige organisatie of met leden van andere Officiële gangs, mits dit een geldige en logische reden heeft in de roleplay.
 2. Criminele organisaties mogen onderling met elkaar samenwerken, op voorwaarde dat er geen volledige samenwerking tussen alle organisaties ontstaat, dit is ter beoordeling van de Hoge Raad van Tedeapolis.
-3. Bij overtreding van lid 1. Zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het Roleplayscenario. Bij herhaling na de straf van de 5e categorie wordt er een gang strike uitgedeeld.
+3. Een uitzondering op lid 2 is narcopolis hier op mogen gangs niet samenwerken.
+4. Bij overtreding van lid 1 en 3. Zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het Roleplayscenario. Bij herhaling na de straf van de 5e categorie wordt er een gang strike uitgedeeld.
 
 ## Narcopolis
 
@@ -496,9 +498,14 @@ Onderstaande regels tellen alleen op Narcopolis
 2. De sea sparrow en dodo mag wel op openwater rondom het eiland geland worden.
 3. Bij overtreding van het feit beschreven in lid 1 of lid 2 wordt een straf van de 1e categorie uitgedeeld.
 
+### Artikel 56 - Claimen van het eiland
+
+1. Het eiland kan niet worden geclaimed door een persoon en of criminele organisatie.
+2. Overtreding van deze regel zal resulteren in een straf van de 2e categorie.
+
 ## Tijdelijke bepalingen
 
-### Artikel 56 - Uitbreken uit de gevangenis
+### Artikel 57 - Uitbreken uit de gevangenis
 
 1. Het is verboden om tussen 23:00 en 10:00 uit de gevangenis te breken.
 2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 2e categorie uitgedeeld.
