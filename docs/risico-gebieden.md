@@ -94,6 +94,6 @@ Tedeapolis kent enkele risicogebieden. In een risicogebied mag preventief gefoui
 - 2200-A
 - 2200-B
 
-### Parkeerplaats Longbank
+### Parkeerplaats Lombank
 
 - 5152
