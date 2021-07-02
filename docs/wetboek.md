@@ -403,7 +403,7 @@
 |   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
 |---|---|---|---|---|
 |  **Eerste Veroordeling** | 9 maanden |  | € 15000,-  |   |
-| **Tweede Veroordeling**  | 113 maanden  |  | € 16000,-  |   |
+| **Tweede Veroordeling**  | 13 maanden  |  | € 16000,-  |   |
 | **Meerdere Veroordelingen**  | 22 maanden  |  | € 18000,-  |   |
 
 ### Artikel III-7 Rijden onder invloed (8 WVW)
