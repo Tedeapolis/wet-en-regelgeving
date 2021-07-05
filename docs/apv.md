@@ -382,11 +382,11 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
    * Hij langer dan 72 uur geduurd heeft.
    * Alle leden eenmaal zijn overleden.
    * Wanneer één van de 2 groepen zich overgeeft.
-6. Het overtreden van lid 1,2,3 of 4. zal resulteren in een straf van de 1e categorie.
-7. Het confisceren van items, wapenens en geld van een speler is alleen toegestaat als hier een roleplay aan is verbonden en bij een speler die niet dood is.
-8. Het confisceren van overheids items is niet toegestaan.
-9. Bij overtreding van lid 7 en lid 8 zal een straf van de 5e categorie worden uitgeldeeld en zal de functionaliteit voor deze groep worden uitgeschakeld voor een periode die vast wordt gesteld door de hogeraad.
-10. Bij herhaalde overtredingen van lid 1,2,3,4 of 7 door een gang kan er worden overgegaan op gangstrikes.
+6. Het overtreden van lid 1, 2, 3 of 4 zal resulteren in een straf van de 1e categorie.
+7. Het confisceren van items, wapens en geld van een speler is alleen toegestaan als hier een roleplay aan is verbonden en bij een speler die levend is.
+8. Het confisceren van overheidsitems is niet toegestaan.
+9. Bij overtreding van lid 7 en/of lid 8 zal een straf van de 5e categorie worden uitgedeeld en zal de functionaliteit voor deze groep worden uitgeschakeld voor een periode die vast wordt gesteld door de hoge raad.
+10. Bij herhaalde overtredingen van lid 1, 2, 3, 4 of 7 door een gang kan er worden overgegaan op gangstrikes.
 
 ## Overige bepalingen
 
