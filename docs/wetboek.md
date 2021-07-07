@@ -359,7 +359,7 @@
 | **Tweede Veroordeling**  | 12 maanden  | | € 7500,- | 48-72 uur |
 | **Meerdere Veroordelingen**  | 18 maanden  | | € 10500,-  | 48-72 uur |
 
-### Artikel III-3 Veroorzaken ongeval, met al dan niet licht lichamelijk letsel tot gevolg (6 WVW)
+### Artikel III-4 Veroorzaken ongeval, met al dan niet licht lichamelijk letsel tot gevolg (6 WVW)
 
 1. Schuldig is een persoon die een ongeval veroorzaakt, met al dan niet licht lichamelijk letsel aan een derde tot gevolg, door een gevaarlijke dan wel hinderlijke deelname aan het verkeer.
 2. Licht lichamelijk letsel is in dezen alle letsel die ter plaatse, zonder ziekenhuisopname, te behandelen is.
@@ -371,7 +371,7 @@
 | **Tweede Veroordeling**  |   | 15 uur | € 5000,-  | 0-24 uur |
 | **Meerdere Veroordelingen**  |   | 20 uur | € 6000,-  | 0-24 uur |
 
-### Artikel III-4 Veroorzaken ongeval, met zwaar lichamelijk letsel tot gevolg (6 WVW)
+### Artikel III-5 Veroorzaken ongeval, met zwaar lichamelijk letsel tot gevolg (6 WVW)
 
 1. Schuldig is een persoon die een ongeval veroorzaakt, met zwaar lichamelijk letsel aan een derde tot gevolg, door een gevaarlijke dan wel hinderlijke deelname aan het verkeer.
 2. Zwaar lichamelijk letsel is in dezen alle letsel die niet ter plaatse te behandelen is.
@@ -383,7 +383,7 @@
 | **Tweede Veroordeling**  |   | 20 uur | € 11000,-  | 0-24 uur |
 | **Meerdere Veroordelingen**  |   | 25 uur | € 12000,-  | 0-24 uur |
 
-### Artikel III-5 Veroorzaken ongeval, met de dood tot gevolg (6 WVW)
+### Artikel III-6 Veroorzaken ongeval, met de dood tot gevolg (6 WVW)
 
 1. Schuldig is een persoon die een ongeval veroorzaakt, met de dood van een derde tot gevolg, door een gevaarlijke dan wel hinderlijke deelname aan het verkeer.
 2. Op basis van inschatting van de dienstdoende agent kan eveneens overgegaan worden tot invordering van het rijbewijs.
@@ -394,7 +394,7 @@
 | **Tweede Veroordeling**  | 13 maanden  |  | € 17000,-  | 0-24 uur |
 | **Meerdere Veroordelingen**  | 18 maanden  |  | € 18000,-  | 0-24 uur |
 
-### Artikel III-6 Verlaten plaats van verkeersongeval (7 WVW)
+### Artikel III-7 Verlaten plaats van verkeersongeval (7 WVW)
 
 1. Schuldig is een persoon die een plaats van verkeersongeval verlaat ongeacht of hij of zij schuldig was aan het veroorzaken daarvan.
 2. Wanneer daarbij een derde wordt achtergelaten in hulpeloze toestand wordt de straf verhoogd met 33%.
@@ -406,7 +406,7 @@
 | **Tweede Veroordeling**  | 13 maanden  |  | € 16000,-  |   |
 | **Meerdere Veroordelingen**  | 22 maanden  |  | € 18000,-  |   |
 
-### Artikel III-7 Rijden onder invloed (8 WVW)
+### Artikel III-8 Rijden onder invloed (8 WVW)
 
 1. Schuldig is een persoon die deelneemt aan het verkeer onder invloed van alcohol, verdovende middelen of medicijnen die de rijvaardigheid beïnvloeden.
 2. Uitzonderingsgrond is het te voet deelnemen aan het verkeer.
@@ -417,7 +417,7 @@
 | **Tweede Veroordeling**  |   | 40 uur | € 5000,-  | 0-24 uur |
 | **Meerdere Veroordelingen**  |   | 50 uur | € 6000,-  | 0-24 uur |
 
-### Artikel III-8 Rijden zonder bevoegdheid (9 WVW)
+### Artikel III-9 Rijden zonder bevoegdheid (9 WVW)
 
 1. Schuldig is een persoon die weet of redelijkerwijs behoort te weten dat hem of haar de rijbevoegdheid is ontzegd en desondanks deelneemt aan het verkeer.
 2. Wanneer de bevoegdheid is ontzegd middels een invordering van het rijbewijs, dan geldt dit voor alle categoriën van dat rijbewijs.
@@ -428,7 +428,7 @@
 | **Tweede Veroordeling**  |   | 20 uur | € 4000,-  | 0-24 uur |
 | **Meerdere Veroordelingen**  |   | 30 uur | € 6000,-  | 0-24 uur |
 
-### Artikel III-9 Fout parkeren (25 RVV 1990)
+### Artikel III-10 Fout parkeren (25 RVV 1990)
 
 1. Schuldig is een persoon die zijn of haar voertuig parkeert op een wijze die niet sluit met de aangegeven parkeersituatie, zoals:
    * dubbelparkeren of het moedwillig doorkruisen van parkeervakken;
@@ -436,7 +436,7 @@
    * volledig parkeren op de stoep;
 2. De vastgestelde boete voor bovenstaande acties is € 1750,-
 
-### Artikel III-10 Snelheidsovertredingen
+### Artikel III-11 Snelheidsovertredingen
 
 1. Schuldig is een persoon die de wettelijk bepaalde snelheden voor verkeer niet in acht neemt tijdens deelname aan het verkeer.
 2. De toegestane snelheden zijn 80KM/h en 130KM/h op de snelweg.
@@ -463,7 +463,7 @@
 | Te hard rijden 41 - 50KM/H | € 1500,- |
 | Te hard rijden 51 - 60KM/H | € 2000,- |
 
-### Artikel III-11 Voertuigeisen
+### Artikel III-12 Voertuigeisen
 
 1. Het voertuig, uitgezonderd fietsen, heeft 1 of meer nummerplaten, als dit niet mogelijk is moet de bestuurder in het bezit zijn van een geldig bewijs in vorm van een document als ontheffing daarvoor.
 2. Indien een voertuig ramen bezit dient het gezicht van de bestuurder en passagier(s) duidelijk zichtbaar te zijn.
