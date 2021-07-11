@@ -509,7 +509,7 @@ Onderstaande regels tellen alleen op Narcopolis
 
 ### Artikel 57 - Campen van een niet actieve pluk
 
-1. Het campen van een niet actieve pluk op Narcopolis is niet toegestaan. Onder campen wordt verstaan het langer dan 15 minuten aanwezig zijn van een persoon of voertuig op een "pluk" locatie.
+1. Het campen van een niet actieve pluk op Narcopolis is niet toegestaan. Onder campen wordt verstaan het langer dan 15 minuten aanwezig zijn van een persoon of voertuig op een drugs locatie.
 2. Het overtreden van deze regel zal resulteren in een straf uit de 2e categorie.
 
 ## Tijdelijke bepalingen
