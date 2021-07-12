@@ -507,9 +507,9 @@ Onderstaande regels tellen alleen op Narcopolis
 1. Het eiland kan niet worden geclaimed door een persoon en of criminele organisatie.
 2. Overtreding van deze regel zal resulteren in een straf van de 2e categorie.
 
-### Artikel 57 - Campen van een niet actieve pluk
+### Artikel 57 - Campen van een niet actieve drugslocatie
 
-1. Het campen van een niet actieve pluk op Narcopolis is niet toegestaan. Onder campen wordt verstaan het langer dan 15 minuten aanwezig zijn van een persoon of voertuig op een drugs locatie.
+1. Het campen van een niet actieve pluk drugslocatie Narcopolis is niet toegestaan. Onder campen wordt verstaan het langer dan 15 minuten aanwezig zijn van een persoon of voertuig op een drugs locatie.
 2. Het overtreden van deze regel zal resulteren in een straf uit de 2e categorie.
 
 ## Tijdelijke bepalingen
