@@ -507,9 +507,14 @@ Onderstaande regels tellen alleen op Narcopolis
 1. Het eiland kan niet worden geclaimed door een persoon en of criminele organisatie.
 2. Overtreding van deze regel zal resulteren in een straf van de 2e categorie.
 
+### Artikel 57 - Campen van een niet actieve drugslocatie
+
+1. Het campen van een niet actieve drugslocatie Narcopolis is niet toegestaan. Onder campen wordt verstaan het langer dan 15 minuten aanwezig zijn van een persoon of voertuig op een drugs locatie.
+2. Het overtreden van deze regel zal resulteren in een straf uit de 2e categorie.
+
 ## Tijdelijke bepalingen
 
-### Artikel 57 - Uitbreken uit de gevangenis
+### Artikel 58 - Uitbreken uit de gevangenis
 
 1. Het is verboden om tussen 23:00 en 10:00 uit de gevangenis te breken.
 2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 2e categorie uitgedeeld.
