@@ -323,7 +323,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 ### Artikel 33 - Gedrag tegen overheidsmedewerkers
 
 1. Het is ten strengste verboden om een ambulancemedewerker te ontvoeren, te gijzelen, te beledigen of niet mee te werken met de roleplay van een ambulancier.
-2. Meldingen naar een overheidsinstantie dienen te allen tijde realistisch en uitgebreid te zijn. Simpelweg een melding maken met "KOM ASAP!", of iets van gelijke strekking, is niet toegestaan. Je dient minimaal wat je ziet, wat er is gebeurd en wat je doet te vermelden. 
+2. Meldingen naar een overheidsinstantie dienen te allen tijde realistisch en uitgebreid te zijn. Simpelweg een melding maken met "KOM ASAP!", of iets van gelijke strekking, is niet toegestaan. Je dient minimaal wat je ziet, wat er is gebeurd en wat je doet te vermelden.
 3. Roleplay met de ambulance moet uitgebreid en realistisch zijn. Er wordt verwacht dat je eerlijk bent over je verwondingen en deze logisch inschat. Ook dien je mee te werken met de roleplay, en mag je ambulanciers niet forceren om spelers te reviven. Ambulancemedewerker hebben te allen tijde het recht om je dood te verklaren als je door verwondingen/situaties dood zou moeten zijn.
 4. Het is niet toegestaan om een melding te maken naar een overheidsinstantie met de intentie om degene die hierop reageert te vermoorden en/of te ontvoeren.
 5. Er moeten ten allen tijden vijf overheidsmedewerkers binnen een baan beschikbaar blijven nadat er één ontvoert is, dus als er 6 agenten aanwezig zijn mag er 1 ontvoert worden, als er 5 aanwezig zijn mag er geen ontvoert worden.
