@@ -320,13 +320,15 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 1. Het is nadat iemand van het leven beroofd is door een rivaliserende groep, gedurende 24 uur niet toegestaan mee te doen aan eventuele wraakacties tegen deze groep.
 2. Indien de regel zoals beschreven in lid 1 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.
 
-### Artikel 33 - Crimineel gedrag jegens ambulancemedewerkers en andere overheidsmedewerkers
+### Artikel 33 - Gedrag tegen overheidsmedewerkers
 
 1. Het is ten strengste verboden om een ambulancemedewerker te ontvoeren, te gijzelen, te beledigen of niet mee te werken met de roleplay van een ambulancier.
-2. Het is niet toegestaan een melding te maken naar een overheids instantie met de intentie om degene die hierop reageert te vermoorden en/of te ontvoeren.
-3. Er moeten ten allen tijden vijf overheidsmedewerkers binnen een baan beschikbaar blijven nadat er één ontvoert is, dus als er 6 agenten aanwezig zijn mag er 1 ontvoert worden, als er 5 aanwezig zijn mag er geen ontvoert worden.
-4. Indien de regel beschreven in lid 1 overtreden wordt zal dit bestraft worden met een straf volgens de 5e categorie. Bij herhaalde overtreding volgt er ten hoogste een straf volgens de 6e categorie.
-5. Indien de regel beschreven in lid 2 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.
+2. Meldingen naar een overheidsinstantie dienen te allen tijde realistisch en uitgebreid te zijn. Simpelweg een melding maken met "KOM ASAP!", of iets van gelijke strekking, is niet toegestaan. Je dient minimaal wat je ziet, wat er is gebeurd en wat je doet te vermelden. 
+3. Roleplay met de ambulance moet uitgebreid en realistisch zijn. Er wordt verwacht dat je eerlijk bent over je verwondingen en deze logisch inschat. Ook dien je mee te werken met de roleplay, en mag je ambulanciers niet forceren om spelers te reviven. Ambulancemedewerker hebben te allen tijde het recht om je dood te verklaren als je door verwondingen/situaties dood zou moeten zijn.
+4. Het is niet toegestaan om een melding te maken naar een overheidsinstantie met de intentie om degene die hierop reageert te vermoorden en/of te ontvoeren.
+5. Er moeten ten allen tijden vijf overheidsmedewerkers binnen een baan beschikbaar blijven nadat er één ontvoert is, dus als er 6 agenten aanwezig zijn mag er 1 ontvoert worden, als er 5 aanwezig zijn mag er geen ontvoert worden.
+6. Indien de regel beschreven in lid 1 en/of lid 3 overtreden wordt zal dit bestraft worden met een straf volgens de 5e categorie. Bij herhaalde overtreding volgt er ten hoogste een straf volgens de 6e categorie.
+7. Indien de regel beschreven in lid 2, 4 en/of 5 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.
 
 ### Artikel 34 - Roleplay & Ledenaantal Criminele Organisaties
 
