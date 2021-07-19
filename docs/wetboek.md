@@ -532,6 +532,12 @@
 | Manchez | Motor |
 | Sanchez | Motor |
 | Sanchez Sport | Motor |
+| 911 GT3-R | Circuit auto |
+| Chevrolet C7-R | Circuit auto |
+| Lamborghini Huracan GT3 | Circuit auto |
+| Audi R8 LMS | Circuit auto |
+| Ferrari 488 GT3 | Circuit auto |
+| McLaren MP4-12C GT3 | Circuit auto |
 
 ## Titel IV - Opiumwet
 
