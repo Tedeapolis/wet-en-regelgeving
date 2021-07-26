@@ -482,8 +482,9 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 
 1. Criminele organisaties mogen met een maximum aantal van 20 personen een roleplayscenario houden, dit mag met hun volledige organisatie of met leden van andere Officiële gangs, mits dit een geldige en logische reden heeft in de roleplay.
 2. Criminele organisaties mogen onderling met elkaar samenwerken met een maximum van 2 organisaties in een tijdsduur van 2 uur, op voorwaarde dat er geen volledige samenwerking tussen alle organisaties ontstaat, dit is ter beoordeling van de Hoge Raad van Tedeapolis.
-3. Een uitzondering op lid 2 is narcopolis hier op mogen gangs niet samenwerken.
-4. Bij overtreding van lid 1 en 3. Zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het Roleplayscenario. Bij herhaling na de straf van de 5e categorie wordt er een gang strike uitgedeeld.
+3. Op Narcopolis is het voor een onofficiele groep niet toegestaan om samen te werken met een andere officiele of onofficiele groep.
+4. Een uitzondering op lid 2 is narcopolis hier op mogen gangs niet samenwerken.
+5. Bij overtreding van lid 1 en 3. Zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het Roleplayscenario. Bij herhaling na de straf van de 5e categorie wordt er een gang strike uitgedeeld.
 
 ## Narcopolis
 
