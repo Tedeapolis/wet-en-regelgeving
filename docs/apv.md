@@ -162,7 +162,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 ### Artikel 11 - Value of Life
 
-1. Hij/zij die geen waarde hecht aan het leven van zijn karakter zal gestraft worden zal gestraft worden met een straf volgens de 1e categorie.
+1. Hij/zij die geen waarde hecht aan het leven van zijn karakter zal gestraft worden met een straf volgens de 1e categorie.
 2. De overtreding zoals beschreven in lid 1 staat bekend als “no value of life”.
 3. Enkele voorbeelden hiervoor zijn:
     * zodra iemand een pistool op je richt binnen 50 meter en er geen beschutting is, blijf je staan, werk je mee en val je deze persoon niet aan.
