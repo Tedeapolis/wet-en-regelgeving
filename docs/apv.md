@@ -494,32 +494,32 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 
 Onderstaande regels tellen alleen op Narcopolis
 
-### Artikel 54 - Schieten vanaf het vasteland en water
+### Artikel N-1 - Schieten vanaf het vasteland en water
 
 1. Het is verboden om vanaf het vaste land op de patrouillerende schepen of heli's te schieten.
 2. Het is vanuit de koninklijke marechaussee verboden om op het vasteland te schieten.
 3. Bij overtreding van lid 1 of lid 2 zal een straf worden gegeven van de 1e categorie.
 4. Er mag op binnenkomende vluchten en schepen geschoten worden, die niet afkomstig zijn van de koninklijke marechaussee.
 
-### Artikel 55 - Landen van helikopers/vliegtuigen
+### Artikel N-2 - Landen van helikopers/vliegtuigen
 
 1. Het is verplicht om te landen op een helipad, een landingsbaan of in een straal van 50 meter van een helipad/landingsbaan.
 2. De sea sparrow en dodo mag wel op openwater rondom het eiland geland worden.
 3. Bij overtreding van het feit beschreven in lid 1 of lid 2 wordt een straf van de 1e categorie uitgedeeld.
 
-### Artikel 56 - Claimen van het eiland
+### Artikel N-3 - Claimen van het eiland
 
 1. Het eiland kan niet worden geclaimed door een persoon en of criminele organisatie.
 2. Overtreding van deze regel zal resulteren in een straf van de 2e categorie.
 
-### Artikel 57 - Campen van een niet actieve drugslocatie
+### Artikel N-4 - Campen van een niet actieve drugslocatie
 
 1. Het campen van een niet actieve drugslocatie Narcopolis is niet toegestaan.
 2. Het overtreden van deze regel zal resulteren in een straf uit de 2e categorie.
 
 ## Tijdelijke bepalingen
 
-### Artikel 58 - Uitbreken uit de gevangenis
+### Artikel T-1 - Uitbreken uit de gevangenis
 
 1. Het is verboden om tussen 23:00 en 10:00 uit de gevangenis te breken.
 2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 2e categorie uitgedeeld.
