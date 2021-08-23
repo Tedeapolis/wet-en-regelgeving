@@ -401,7 +401,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
     * Overheidsdiensten zijn uitgerust met bodycams.
     * Medewerkers van de Politie en de Koninklijke Marechaussee zijn verplicht om de bodycams visueel te dragen als zij de bodycambeelden als bewijs willen gebruiken.
     * Burgers kunnen alleen met hun telefoon filmen.
-    * Alle voertuigen inclusief overheidsvoertuigen kunnen enkel met een dashcam voor- of achteruit filmen.
+    * Alle voertuigen inclusief overheidsvoertuigen kunnen enkel met een dashcam voor- of achteruit filmen. Zie [bijlage 1](/#Bijlage_1)
 2. De voorbeelden benoemd in lid zijn bedoeld in de context van Roleplay. Voor bewijsvoering in een ticket of report is alle beeldmateriaal toegestaan.
 
 ### Artikel 41 - Journalistiek
@@ -558,6 +558,12 @@ Onderstaande regels tellen alleen op Narcopolis
 * wanneer je wordt vermoord door een rivaliserende gang mag je 24 uur niet deelnemen aan eventuele wraakacties of roleplay richting een andere gang.
 * Het is verboden een ambulancier of anwb'er te vermoorden of te ontvoeren bij een oproep of gebruik van hun.
 * Het is verboden om drugslocaties of wapens te verkopen via twitter, ook als je het hebt over "theeblaadjeslocaties", "broodmessen", "waterpistolen" en dergelijke.
+
+## Bijlages
+
+### Bijlage 1
+
+![bijlage-1](https://tedeapolis.nl/wp-content/uploads/2021/08/Schermafbeelding_2021-08-23_om_10.png)
 
 ---------------------
 APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Tedeapolis”, opgetekend door Bram Mosterdfiets, te Tedeapolis.
