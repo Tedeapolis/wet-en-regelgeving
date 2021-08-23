@@ -399,8 +399,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
     * Overheidsdiensten zijn uitgerust met bodycams.
     * Medewerkers van de Politie en de Koninklijke Marechaussee zijn verplicht om de bodycams visueel te dragen als zij de bodycambeelden als bewijs willen gebruiken.
     * Burgers kunnen alleen met hun telefoon filmen.
-    * De voertuigen van de overheidsdiensten zijn uitgerust met een 360 graden camera.
-    * overige voertuigen zijn uitgerust met een dashcam gericht naar voren.
+    * Alle voertuigen inclusief overheidsvoertuigen kunnen enkel met een dashcam voor- of achteruit filmen.
 2. De voorbeelden benoemd in lid zijn bedoeld in de context van Roleplay. Voor bewijsvoering in een ticket of report is alle beeldmateriaal toegestaan.
 
 ### Artikel 41 - Journalistiek
