@@ -399,7 +399,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 1. Bodycam beelden zijn op de volgende manier toegestaan
     * Overheidsdiensten zijn uitgerust met bodycams.
-    * Medewerkers van de Politie en de Koninklijke Marechaussee zijn verplicht om de bodycams visueel te dragen als zij de bodycambeelden als bewijs willen gebruiken.
+    * Medewerkers van alle overheidsdiensten zijn verplicht om de bodycams visueel te dragen als zij de bodycambeelden als bewijs willen gebruiken.
     * Burgers kunnen alleen met hun telefoon filmen.
     * Alle voertuigen inclusief overheidsvoertuigen kunnen enkel met een dashcam voor- of achteruit filmen. Zie [bijlage 1](/apv/#bijlage-1)
 2. De voorbeelden benoemd in lid zijn bedoeld in de context van Roleplay. Voor bewijsvoering in een ticket of report is alle beeldmateriaal toegestaan.
