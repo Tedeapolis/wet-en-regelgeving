@@ -289,6 +289,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 6. Hou hiermee wel rekening dat het bij het vergrijp zoals beschreven in lid 1 niet de bedoeling is hiermee misbruik te maken van onwetendheid van mensen, dus vermijd het oplichten van nieuwe spelers.
 7. Het is voor criminelen toegestaan om mensen gedurende langere tijd te ondervragen en/of te martelen. Echter mag dit maximaal circa 2 uur duren. Er dient ook goede roleplay aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
 8. Bij een overtreding van de regel in lid 6 wordt de persoon gestraft volgens de 1e categorie en zal het scenario onmiddellijk worden teruggedraaid.
+9. Indien er sprake is van oplichting, dan dient de oplichter hiervan de volledige beelden op te nemen en deze te overhandingen aan de staffleden indien hierom gevraagd wordt. Mocht dit niet gedaan worden, dan zal de oplichting teruggedraaid worden en volgt er voor de oplichter een straf van minimaal de 5e categorie.
 
 ### Artikel 28 - Criminaliteit & Ambtenaren
 
@@ -327,11 +328,12 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 1. Het is ten strengste verboden om een ambulancemedewerker te vermoorden, beledigen of niet mee te werken met de roleplay van een ambulancier.
 2. Meldingen naar een overheidsinstantie dienen te allen tijde realistisch en uitgebreid te zijn. Simpelweg een melding maken met "KOM ASAP!", of iets van gelijke strekking, is niet toegestaan. Je dient minimaal wat je ziet, wat er is gebeurd en wat je doet te vermelden.
-3. Roleplay met de ambulance moet uitgebreid en realistisch zijn. Er wordt verwacht dat je eerlijk bent over je verwondingen en deze logisch inschat. Ook dien je mee te werken met de roleplay, en mag je ambulanciers niet forceren om spelers te reviven. Ambulancemedewerker hebben te allen tijde het recht om je dood te verklaren als je door verwondingen/situaties dood zou moeten zijn.
-4. Het is niet toegestaan om een melding te maken naar een overheidsinstantie met de intentie om degene die hierop reageert te vermoorden en/of te ontvoeren.
-5. Er moeten ten allen tijden vijf overheidsmedewerkers binnen een baan beschikbaar blijven nadat er één ontvoert is, dus als er 6 agenten aanwezig zijn mag er 1 ontvoert worden, als er 5 aanwezig zijn mag er geen ontvoert worden.
-6. Een uitzondering op lid 5 geldt voor de ambulance. Hierbij moeten er te allen tijde 7 medewerkers beschikbaar blijven. Kortom, als er 8 ambulancemedewerkers aanwezig zijn, dan mag er 1 à 2 ontvoerd worden.
-7. Indien de regel(s) beschreven in dit artikel overtreden wordt/worden zal dit bestraft worden met een straf volgens de 1e categorie.
+3. Roleplay met de ambulance moet uitgebreid en realistisch zijn. Er wordt verwacht dat je eerlijk bent over je verwondingen en deze logisch inschat. Ook dien je mee te werken met de roleplay en mag je ambulanciers niet forceren om spelers te reviven. Ambulancemedewerker hebben te allen tijde het recht om je dood te verklaren als je door verwondingen/situaties dood zou moeten zijn.
+4. Roleplay met de ANWB moet uitgebreid en realistisch zijn. Er wordt verwacht dat je eerlijk bent over hoe de schade is ontstaan. Ook dien je mee te werken met de roleplay en mag je de anwb medewerker niet forceren om voertuigen te repareren. Anwb medewerkers zijn ten allen tijde leidend in hun roleplay.
+5. Het is niet toegestaan om een melding te maken naar een overheidsinstantie met de intentie om degene die hierop reageert te vermoorden en/of te ontvoeren.
+6. Er moeten ten allen tijden vijf overheidsmedewerkers binnen een baan beschikbaar blijven nadat er één ontvoert is, dus als er 6 agenten aanwezig zijn mag er 1 ontvoert worden, als er 5 aanwezig zijn mag er geen ontvoert worden.
+7. Een uitzondering op lid 5 geldt voor de ambulance. Hierbij moeten er te allen tijde 7 medewerkers beschikbaar blijven. Kortom, als er 8 ambulancemedewerkers aanwezig zijn, dan mag er 1 à 2 ontvoerd worden.
+8. Indien de regel(s) beschreven in dit artikel overtreden wordt/worden zal dit bestraft worden met een straf volgens de 1e categorie.
 
 ### Artikel 34 - Roleplay & Ledenaantal Criminele Organisaties
 
