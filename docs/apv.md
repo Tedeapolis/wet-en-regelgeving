@@ -283,13 +283,12 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 1. Het overvallen/oplichten/bestelen van mensen is verboden, dit mag alleen wanneer een persoon bezig is met criminele activiteiten.
 2. Het is in geen enkele situatie toegestaan om geld van mensen hun bank te stelen, om voertuigen te scammen, op te lichten met loodsen, om spelers te overvallen, te ontvoeren of negatief te bejegenen bij het gemeentehuis of om facturen en/of andere items te stelen van spelers die bezig zijn met een burgerjob.
-3. Wanneer voertuigen gebruikt worden als betaal middel voor illegale dingen, drugs, wapens, etc. vervalt de bescherming zoals beschreven in lid 2.
+3. Voertuigen kunnen ook niet meer gebruikt worden bij illegale deals en kunnen enkel met legaal geld gekocht worden.
 4. Met criminele activiteiten zoals vermeld in lid 1 worden dingen met betrekking tot drugs, overvallen, witwassen, het dragen van een masker, kogelwerend vest, holster etc bedoeld, en dus geen overtredingen.
 5. Bij een overtreding van de wet in lid 1 en/of lid 2 wordt de persoon gestraft volgens de 4e categorie en wordt het geld teruggegeven aan het slachtoffer. Wanneer de persoon het geld al heeft uitgegeven zal het resulteren in straf van de 8e categorie.
 6. Hou hiermee wel rekening dat het bij het vergrijp zoals beschreven in lid 1 niet de bedoeling is hiermee misbruik te maken van onwetendheid van mensen, dus vermijd het oplichten van nieuwe spelers.
 7. Het is voor criminelen toegestaan om mensen gedurende langere tijd te ondervragen en/of te martelen. Echter mag dit maximaal circa 2 uur duren. Er dient ook goede roleplay aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
 8. Bij een overtreding van de regel in lid 6 wordt de persoon gestraft volgens de 1e categorie en zal het scenario onmiddellijk worden teruggedraaid.
-9. Indien er sprake is van oplichting, dan dient de oplichter hiervan de volledige beelden op te nemen en deze te overhandingen aan de staffleden indien hierom gevraagd wordt. Mocht dit niet gedaan worden, dan zal de oplichting teruggedraaid worden en volgt er voor de oplichter een straf van minimaal de 5e categorie.
 
 ### Artikel 28 - Criminaliteit & Ambtenaren
 
