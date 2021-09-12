@@ -1,7 +1,7 @@
 # Offroad Voertuigen lijst
 
 De Lijst hieronder geeft aan welke voertuigen vanuit de gemeente zijn toegestaan om te gebruiken buiten de geasfalteerde wegen, we klassifiseren dit onder:
-| | | |
+| Classificering | Uitleg | Omschrijving |
 |-|---|---|
 |V| Verharde Baan    | een verhard weg waarbij het wegdek uit asfalt of beton bestaat |
 |O| Onverharde Baan  | een onverhard pad waarbij het wegdek uit zand bestaat |
@@ -11,14 +11,14 @@ De Lijst hieronder geeft aan welke voertuigen vanuit de gemeente zijn toegestaan
 
 Bij het rijden met een voertuig op een pad of weg waarvoor deze niet bedoeld is valt dit onder "Artikel 10 - Deelname aan het verkeer" 
 
-| | |
+| Voertuig | Classificering |
 |---|---|
 | Mercedes G65 6x6 AMG | A |
 | Mercedes X Klasse | A |
 | Mercedes GLE 450  | O |
 | Mercedes GLE 53 Coupe  | O |
 | Mercedes G65 AMG  | A |
-| Mercedes Brabus G800  | O |
+| Mercedes Brabus G800  | A |
 | Audi SQ7 | O |
 | BMW X5M | A |
 | Bmw x6 | O |
@@ -56,3 +56,7 @@ Bij het rijden met een voertuig op een pad of weg waarvoor deze niet bedoeld is 
 | Burrito | O |
 | Gresley | O |
 | Guardian | A |
+| Lamborghini Urus | O |
+| Maserati Levante Novitec | O |
+
+Ps. Missen er nog voertuigen of is het onduidelijk graag even een ticket ervoor aanmaken
