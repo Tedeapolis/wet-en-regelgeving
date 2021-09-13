@@ -1,15 +1,15 @@
 # Offroad Voertuigen lijst
 
-De Lijst hieronder geeft aan welke voertuigen vanuit de gemeente zijn toegestaan om te gebruiken buiten de geasfalteerde wegen, we klassifiseren dit onder:
+De lijst hieronder geeft aan welke voertuigen vanuit de gemeente zijn toegestaan om te gebruiken buiten de geasfalteerde wegen, we classificeren dit onder:
 | Classificering | Uitleg | Omschrijving |
 |-|---|---|
-|V| Verharde Baan    | een verhard weg waarbij het wegdek uit asfalt of beton bestaat |
-|O| Onverharde Baan  | een onverhard pad waarbij het wegdek uit zand bestaat |
-|A| Off-Road         | een pad waarbij er geen wegdek is en de ondergrond uit gras, zand of modder bestaat |
+|V| Verharde weg | een verharde weg waarbij het wegdek uit asfalt of beton bestaat |
+|O| Onverharde weg | een onverhard pad of weg waarbij de ondergrond uit zand bestaat |
+|A| Off-Road | De ondergrond waarop wordt gereden bestaat uit gras, zand of modder en er is geen zichtbaar pad of weg aanwezig |
 
 ## Overtreding
 
-Bij het rijden met een voertuig op een pad of weg waarvoor deze niet bedoeld is valt dit onder "Artikel 10 - Deelname aan het verkeer"
+Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is valt dit onder "Artikel 10 - Deelname aan het verkeer" van de APV
 
 | Voertuig | Classificering |
 |---|---|
