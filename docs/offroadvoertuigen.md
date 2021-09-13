@@ -9,7 +9,7 @@ De Lijst hieronder geeft aan welke voertuigen vanuit de gemeente zijn toegestaan
 
 ## Overtreding
 
-Bij het rijden met een voertuig op een pad of weg waarvoor deze niet bedoeld is valt dit onder "Artikel 10 - Deelname aan het verkeer" 
+Bij het rijden met een voertuig op een pad of weg waarvoor deze niet bedoeld is valt dit onder "Artikel 10 - Deelname aan het verkeer"
 
 | Voertuig | Classificering |
 |---|---|
