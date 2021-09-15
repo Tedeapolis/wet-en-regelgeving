@@ -1,6 +1,7 @@
 # Offroad Voertuigen lijst
 
 De lijst hieronder geeft aan welke voertuigen vanuit de gemeente zijn toegestaan om te gebruiken buiten de geasfalteerde wegen, we classificeren dit onder:
+
 | Classificering | Uitleg | Omschrijving |
 |-|---|---|
 |V| Verharde weg | een verharde weg waarbij het wegdek uit asfalt of beton bestaat |
@@ -9,7 +10,7 @@ De lijst hieronder geeft aan welke voertuigen vanuit de gemeente zijn toegestaan
 
 ## Overtreding
 
-Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is valt dit onder "Artikel 10 - Deelname aan het verkeer" van de APV
+Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is valt dit onder [Artikel 10 - Deelname aan het verkeer](https://wetboek.tedeapolis.nl/apv/#artikel-10-deelname-aan-het-verkeer) van de APV
 
 | Voertuig | Classificering |
 |---|---|
