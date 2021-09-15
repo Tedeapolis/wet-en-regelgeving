@@ -3,7 +3,7 @@
 De lijst hieronder geeft aan welke voertuigen vanuit de gemeente zijn toegestaan om te gebruiken buiten de geasfalteerde wegen, we classificeren dit onder:
 
 | Classificering | Uitleg | Omschrijving |
-|-|---|---|
+|:---:|---|---|
 |V| Verharde weg | een verharde weg waarbij het wegdek uit asfalt of beton bestaat |
 |O| Onverharde weg | een onverhard pad of weg waarbij de ondergrond uit zand bestaat |
 |A| Off-Road | De ondergrond waarop wordt gereden bestaat uit gras, zand of modder en er is geen zichtbaar pad of weg aanwezig |
@@ -13,7 +13,7 @@ De lijst hieronder geeft aan welke voertuigen vanuit de gemeente zijn toegestaan
 Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is valt dit onder [Artikel 10 - Deelname aan het verkeer](https://wetboek.tedeapolis.nl/apv/#artikel-10-deelname-aan-het-verkeer) van de APV
 
 | Voertuig | Classificering |
-|---|---|
+|---|:---:|
 | Mercedes G65 6x6 AMG | A |
 | Mercedes X Klasse | A |
 | Mercedes GLE 450  | O |
