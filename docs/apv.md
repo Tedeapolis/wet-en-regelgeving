@@ -157,7 +157,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 1. Er wordt van personen geacht realistisch rijgedrag aan te houden. Dus niet met circuit auto’s door de woestijn heen rijden met 100 km/u.
 2. Overtredingen van lid 1 worden bestraft met een straf van de 1e categorie.
-3. Buiten de weg rijden mag, mits dit met matige snelheid gedaan wordt en met een geschikt voertuig, pas hierbij dus ook de snelheid aan voor het type voertuig.
+3. Buiten de weg rijden mag, mits dit met matige snelheid gedaan wordt en met een geschikt voertuig, pas hierbij dus ook de snelheid aan voor het type voertuig. Een lijst met voertuigen is [hier](https://wetboek.tedeapolis.nl/offroadvoertuigen/) te vinden.
 4. De overtreding zoals beschreven in lid 1 staat bekend als “GTA driving”
 
 ### Artikel 11 - Value of Life
