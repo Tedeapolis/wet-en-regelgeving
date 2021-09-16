@@ -5,12 +5,12 @@ De lijst hieronder geeft aan welke voertuigen vanuit de gemeente zijn toegestaan
 | Classificering | Uitleg | Omschrijving |
 |:---:|---|---|
 |V| Verharde weg | een verharde weg waarbij het wegdek uit asfalt of beton bestaat |
-|O| Onverharde weg | een onverhard pad of weg waarbij de ondergrond uit zand bestaat |
+|O| Onverharde weg | een vlak onverhard stuk zoals een grasveld, zandpad of strand |
 |A| Off-Road | De ondergrond waarop wordt gereden bestaat uit gras, zand of modder en er is geen zichtbaar pad of weg aanwezig |
 
 ## Overtreding
 
-Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is valt dit onder [Artikel 10 - Deelname aan het verkeer](https://wetboek.tedeapolis.nl/apv/#artikel-10-deelname-aan-het-verkeer) van de APV
+Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is valt dit onder [Artikel 10 - Deelname aan het verkeer](https://wetboek.tedeapolis.nl/apv/#artikel-10-deelname-aan-het-verkeer) van de APV, dit word gedaan ter beoordeling van een stafflid
 
 | Voertuig | Classificering |
 |---|:---:|
@@ -59,5 +59,6 @@ Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is
 | Guardian | A |
 | Lamborghini Urus | O |
 | Maserati Levante Novitec | O |
+| Kamacho | O |
 
 Ps. Missen er nog voertuigen of is het onduidelijk graag even een ticket ervoor aanmaken
