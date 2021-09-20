@@ -435,7 +435,7 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 
 ### Artikel 46 - Zelfdoding
 
-1. Bij een zelfmoord scenario moet de persoon in kwestie een account wipe krijgen en verplicht voor zijn nieuwe karakter een biografie schrijven. Mocht de persoon dit puur voor aandacht doen en niet uiteindelijk zijn/haar leven beëindigen, zal deze voor 200 uur naar de gevangenis gestuurd worden in isolatie.
+1. Hij/zij die zelfmoord scenario uitvoert met voorbedachte rade, wordt gestraft met een straf van maximaal de 7e categorie en minimale ban van 2 weken.
 
 ### Artikel 47 - Voertuigverlies in water (bij achtervolging)
 
