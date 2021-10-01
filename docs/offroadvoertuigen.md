@@ -19,7 +19,7 @@ Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is
 | Mercedes GLE 450  | O |
 | Mercedes GLE 53 Coupe  | O |
 | Mercedes G65 AMG  | A |
-| Mercedes Brabus G800  | A |
+| Mercedes Brabus G800  | O |
 | Audi SQ7 | O |
 | BMW X5M | A |
 | Bmw x6 | O |
