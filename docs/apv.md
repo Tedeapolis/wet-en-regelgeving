@@ -283,13 +283,13 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 1. Het overvallen/oplichten/bestelen van mensen is verboden, dit mag alleen wanneer een persoon bezig is met criminele activiteiten.
 2. Met betrekking tot de volgende dingen/situaties is overvallen niet toegestaan:
-* Het stelen/overvallen van bankgeld
-* Voertuigen
-* Loodsen
-* Spelers te overvallen, te ontvoeren of negatief te bejegenen bij het gemeentehuis
-* Facturen en/of andere items welke gerelateerd aan een baan zijn
-* Overheids voorwerpen
-* Onder dwang iemand zijn huis betreden en dan leegroven
+    * Het stelen/overvallen van bankgeld
+    * Voertuigen
+    * Loodsen
+    * Spelers te overvallen, te ontvoeren of negatief te bejegenen bij het gemeentehuis
+    * Facturen en/of andere items welke gerelateerd aan een baan zijn
+    * Overheids voorwerpen
+    * Onder dwang iemand zijn huis betreden en dan leegroven
 3. Voertuigen kunnen ook niet meer gebruikt worden bij illegale deals en kunnen enkel met legaal geld gekocht worden.
 4. Met criminele activiteiten zoals vermeld in lid 1 worden dingen met betrekking tot drugs, overvallen, witwassen, het dragen van een masker, kogelwerend vest, holster etc bedoeld, en dus geen overtredingen.
 5. Bij een overtreding van de wet in lid 1 en/of lid 2 wordt de persoon gestraft volgens de 4e categorie en wordt het geld teruggegeven aan het slachtoffer. Wanneer de persoon het geld al heeft uitgegeven zal het resulteren in straf van de 8e categorie.
