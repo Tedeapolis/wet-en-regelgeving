@@ -59,5 +59,11 @@ Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is
 | Guardian | A |
 | Lamborghini Urus | O |
 | Maserati Levante Novitec | O |
+| Blazer | A |
+| Blazer Sport | A |
+| Kamacho | A |
+| Rebel | A |
+| Sandking | A |
+| Lada 2107 | O |
 
 Ps. Missen er nog voertuigen of is het onduidelijk graag even een ticket ervoor aanmaken
