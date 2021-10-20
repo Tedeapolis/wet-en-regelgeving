@@ -5,7 +5,7 @@ De lijst hieronder geeft aan welke voertuigen vanuit de gemeente zijn toegestaan
 | Classificering | Uitleg | Omschrijving |
 |:---:|---|---|
 |V| Verharde weg | een verharde weg waarbij het wegdek uit asfalt of beton bestaat |
-|O| Onverharde weg | een vlak onverhard stuk zoals een grasveld, zandpad of strand |
+|O| Onverharde weg | een onverhard pad of weg waarbij de ondergrond uit zand bestaat |
 |A| Off-Road | De ondergrond waarop wordt gereden bestaat uit gras, zand of modder en er is geen zichtbaar pad of weg aanwezig |
 
 ## Overtreding
