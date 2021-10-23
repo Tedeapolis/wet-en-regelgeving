@@ -12,53 +12,60 @@ De lijst hieronder geeft aan welke voertuigen vanuit de gemeente zijn toegestaan
 
 Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is valt dit onder [Artikel 10 - Deelname aan het verkeer](https://wetboek.tedeapolis.nl/apv/#artikel-10-deelname-aan-het-verkeer) van de APV
 
-| Voertuig | Classificering |
-|---|:---:|
-| Mercedes G65 6x6 AMG | A |
-| Mercedes X Klasse | A |
-| Mercedes GLE 450  | O |
-| Mercedes GLE 53 Coupe  | O |
-| Mercedes G65 AMG  | A |
-| Mercedes Brabus G800  | O |
-| Audi SQ7 | O |
-| BMW X5M | A |
-| Bmw x6 | O |
-| Ford Raptor | A |
-| Nissan Titan | A |
-| Dodge Ram 2500 Hemi | A |
-| Jeep Wrangler | A |
-| Trophy Truck | A |
-| Sanchez | A |
-| Manchez | A |
-| Quad(Met offroad banden eronder)  | A |
-| Dune Buggy  | A |
-| Porsche Macan  | O |
-| Porsche Cayenne  | O |
-| Africat  | A |
-| Akuma | V |
-| Baller | O |
-| Baller Sport | O |
-| Bentley bentayga  | O |
-| BF Benito | A |
-| Bf Injection | A |
-| Bifta | A |
-| Bison | A |
-| Bobcat XL | A |
-| Brawler | A |
-| Riata | A |
-| Camper | O |
-| Cliffhanger | O |
-| Contender | A |
-| Jeep DemonHawk | O |
-| Range Rover Evoque | O |
-| Ford F-150 1978 | O |
-| Gargoyle | O |
-| Gang Burrito | O |
-| Burrito | O |
-| Gresley | O |
-| Guardian | A |
-| Lamborghini Urus | O |
-| Maserati Levante Novitec | O |
-| Kamacho | A |
+
+## Verharde weg
+
+* Akuma
+
+## Onverharde weg
+
+* Mercedes GLE 450 
+* Mercedes GLE 53 Coupe 
+* Mercedes Brabus G800 
+* Audi SQ7
+* Bmw x6
+* Porsche Macan 
+* Porsche Cayenne 
+* Baller
+* Baller Sport
+* Bentley bentayga 
+* Camper
+* Cliffhanger
+* Jeep DemonHawk
+* Range Rover Evoque
+* Ford F-150 1978
+* Gargoyle
+* Gang Burrito
+* Burrito
+* Gresley
+* Lamborghini Urus
+* Maserati Levante Novitec
+
+## Off-Road
+
+* Mercedes G65 6x6 AMG
+* Mercedes X Klasse
+* Mercedes G65 AMG 
+* BMW X5M
+* Ford Raptor
+* Nissan Titan
+* Dodge Ram 2500 Hemi
+* Jeep Wrangler
+* Trophy Truck
+* Manchez
+* Quad(Met offroad banden eronder) 
+* Africat 
+* BF Benito
+* Bf Injection
+* Bifta
+* Bison
+* Bobcat XL
+* Brawler
+* Riata
+* Guardian
+* Kamacho
+* Sanchez
+* Dune Buggy 
+* Contender
 
 Ps. Missen er nog voertuigen of is het onduidelijk graag even een ticket ervoor aanmaken
