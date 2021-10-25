@@ -44,6 +44,8 @@ Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is
 * Lamborghini Urus
 * Maserati Levante Novitec
 * Range Rover SVR Mansory
+* Blazer Sport
+* Lada 2107
 
 ## Off-Road
 
@@ -71,5 +73,9 @@ Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is
 * Sanchez
 * Dune Buggy 
 * Contender
+* Blazer
+* Kamacho
+* Rebel
+* Sandking
 
 Ps. Missen er nog voertuigen of is het onduidelijk graag even een ticket ervoor aanmaken
