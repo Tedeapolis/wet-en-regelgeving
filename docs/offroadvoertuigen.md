@@ -16,6 +16,9 @@ Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is
 ## Verharde weg
 
 * Akuma
+* KTM Super Duke R 1290
+* Suzuki Hayabusa
+* Yamaha R6
 
 ## Onverharde weg
 
@@ -40,6 +43,7 @@ Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is
 * Gresley
 * Lamborghini Urus
 * Maserati Levante Novitec
+* Range Rover SVR Mansory
 
 ## Off-Road
 
