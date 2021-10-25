@@ -85,6 +85,8 @@
     * Niet voldoen aan (verkeers)aanwijzing van bevoegde en als zodanig kenbare opsporingsambtenaar;
     * Snelheidsovertreding van meer dan 100% van de maximumsnelheid;
     * Op de openbare weg rijden met een voertuig met daarop een WOK-status.
+ 4. Alle bovenstaande leden gelden ook voor heli's en vliegtuigen.
+ 5. Meerdere notities voor het vliegen zonder vliegbrevet zal resulteren in een inbeslag name van het voertuig.
 
 ### A8 - Openstaande boetes
 
