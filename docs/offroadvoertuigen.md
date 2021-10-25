@@ -74,7 +74,6 @@ Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is
 * Dune Buggy 
 * Contender
 * Blazer
-* Kamacho
 * Rebel
 * Sandking
 
