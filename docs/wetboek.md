@@ -27,20 +27,20 @@
 ### A3 - Verjaring van het strafbaar feit
 
 1. Het recht tot strafvordering vervalt door verjaring:
-   * Voor misdrijven waar de totale strafeis tussen de 1 en 50 maanden bedroeg, verjaren deze feiten na 10 dagen;
-   * Voor misdrijven waar de totale strafeis tussen de 51 en 85 maanden maanden bedroeg, verjaren deze feiten na 15 dagen;
-   * Voor misdrijven waar de totale strafeis tussen de 86 en 100 maanden bedroeg, verjaren deze feiten na 30 dagen;
-   * Voor misdrijven waar de totale strafeis meer dan 100 maanden bedroeg, verjaren deze feiten na 45 dagen;
+    * Voor misdrijven waar de totale strafeis tussen de 1 en 50 maanden bedroeg, verjaren deze feiten na 10 dagen;
+    * Voor misdrijven waar de totale strafeis tussen de 51 en 85 maanden maanden bedroeg, verjaren deze feiten na 15 dagen;
+    * Voor misdrijven waar de totale strafeis tussen de 86 en 100 maanden bedroeg, verjaren deze feiten na 30 dagen;
+    * Voor misdrijven waar de totale strafeis meer dan 100 maanden bedroeg, verjaren deze feiten na 45 dagen;
 
 ### A4 - Strafbepaling
 
 1. Straffen zijn vastgesteld en opgenomen per artikel. Hieronder vallen:
-   * Waarschuwingen;
-   * Taakstraffen;
-   * Celstraffen;
-   * rijontzeggingen;
-   * inbeslagnames of invorderingen;
-   * Boetes.
+    * Waarschuwingen
+    * Taakstraffen
+    * Celstraffen
+    * rijontzeggingen
+    * inbeslagnames of invorderingen
+    * Boetes
 2. Een opgelegde straf kan een combinatie zijn van de bovenstaande strafvormen.
 3. Een opgelegde straf is nooit hoger dan de vastgestelde waarden.
 4. Een straf kan wel verhoogd worden door het stapelen van overtredingen.
@@ -58,41 +58,41 @@
 
 ### A6 - Verduidelijking en algemene aanvulling
 
-1. Onder goederen kan worden verstaan alles wat tussen twee personen kan worden uitgewisseld.
-   * Hieronder valt, onder andere, alles wat in de inventaris gevonden kan worden, alsmede voertuigen.
+1. Onder goederen kan worden verstaan alles wat tussen twee personen kan worden uitgewisseld
+    1. Hieronder valt, onder andere, alles wat in de inventaris gevonden kan worden, alsmede voertuigen
 2. Onderzoek, tenzij expliciet anders aangegeven, duurt in de regel maximaal twee (2) dagen.
-   * Als na deze termijn geen conclusie is getrokken of getrokken kan worden, is de Overheid verplicht tot het retourneren van de onderzochte goederen.
+    2. Als na deze termijn geen conclusie is getrokken of getrokken kan worden, is de Overheid verplicht tot het retourneren van de onderzochte goederen.
 3. Zij, die in dienst van de Overheid, genoodzaakt zijn een actie uit te voeren welke volgens de wet verboden is, kunnen vanwege het noodzakelijk aspect, binnen de contouren van hun functie, niet aangeklaagd worden als zijnde in overtreding van de wet.
-   * Bovenstaande ontslaat ambtenaren in dienst van de Overheid niet van alle overige rechtsvervolging.
+    3. Bovenstaande ontslaat ambtenaren in dienst van de Overheid niet van alle overige rechtsvervolging.
 4. Strafbare feiten zijn overtredingen en misdrijven. Hieronder vallen ook misdrijven en overtredingen uit het Wetboek van Strafrecht van Nederland.
-
+    
 ### A7 - Inbeslagname
 
 1. Wanneer een strafbaar feit gepleegd is met een goed, of wanneer een goed uit een strafbaar feit is verkregen, kan deze in beslag worden genomen.
-   * De keuze voor inbeslagname is ter beoordeling van Politie en/of de Koninklijke Marechaussee.
-   * Verwerking van de in beslag genomen goederen (behalve voertuigen) geschiedt volgens richtlijn van Politie;
+    1. De keuze voor inbeslagname is ter beoordeling van Politie en/of de Koninklijke Marechaussee.
+    2. Verwerking van de in beslag genomen goederen (behalve voertuigen) geschiedt volgens richtlijn van Politie;
 2. Wanneer een voertuig in beslag wordt genomen vanwege een strafbaar feit:
-   * Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek;
-   * Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een strafbaar feit waarbij de eigenaar ook veroordeeld is, uitgekocht kunnen worden voor 20% van de cataloguswaarde;
-   * Zal deze, wanneer, met inachtneming van de vorige regel, het voertuig tevens uit het water moest worden gehaald, uitgekocht kunnen worden voor 30% van de cataloguswaarde;
-   * Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eigenaar geen strafbaar feit ten laste is gelegd, of kan gelegd worden, welke in directe zin gekoppeld is aan de reden van inbeslagname.
-   * Wanneer het voertuig bewijsbaar onderdeel was van het strafbare feit en de eigenaar daarvan overleden is, dan zal het voertuig uitgekocht kunnen worden voor 20% van de cataloguswaarde.
-   * Uitzonderingsgrond voor teruggave van het voertuig is, indien het een voertuig betreft zoals omschreven in Artikel III-14 Illegale voertuigen of indien een voertuig al drie keer in beslag is genomen. In dit geval zal het voertuig worden vernietigd of verkocht. Ook voertuigen die langer dan veertien (14) dagen in de opslag staan, zullen worden vernietigd of verkocht. Dit laatste geldt niet indien er bezwaar is aangetekend via het klachtenformulier van de politie of koninklijke marechaussee.
+    1. Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek;
+    2. Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een strafbaar feit waarbij de eigenaar ook veroordeeld is, uitgekocht kunnen worden voor 20% van de cataloguswaarde;
+    3. Zal deze, wanneer, met inachtneming van de vorige regel, het voertuig tevens uit het water moest worden gehaald, uitgekocht kunnen worden voor 30% van de cataloguswaarde;
+    4. Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eigenaar geen strafbaar feit ten laste is gelegd, of kan gelegd worden, welke in directe zin gekoppeld is aan de reden van inbeslagname.
+    5. Wanneer het voertuig bewijsbaar onderdeel was van het strafbare feit en de eigenaar daarvan overleden is, dan zal het voertuig uitgekocht kunnen worden voor 20% van de cataloguswaarde.
+    6. Uitzonderingsgrond voor teruggave van het voertuig is, indien het een voertuig betreft zoals omschreven in Artikel III-14 Illegale voertuigen of indien een voertuig al drie keer in beslag is genomen. In dit geval zal het voertuig worden vernietigd of verkocht. Ook voertuigen die langer dan veertien (14) dagen in de opslag staan, zullen worden vernietigd of verkocht. Dit laatste geldt niet indien er bezwaar is aangetekend via het klachtenformulier van de politie of koninklijke marechaussee.
 3. Geldige redenen voor inbeslagname zijn:
-    * Plegen van een strafbaar feit uit het wetboek van Tedeapolis waarbij het goed direct of indirect betrokken is, behalve fout parkeren en een snelheidsovertreding;
-    * Plegen van een misdrijf uit de Nederlandse wetgeving waarbij het goed direct of indirect betrokken is;
-    * Niet stoppen voor stopteken gegeven door middel van een politietransparant of rode lamp;
-    * Niet voldoen aan (verkeers)aanwijzing van bevoegde en als zodanig kenbare opsporingsambtenaar;
-    * Snelheidsovertreding van meer dan 100% van de maximumsnelheid;
-    * Op de openbare weg rijden met een voertuig met daarop een WOK-status.
+    1. Plegen van een strafbaar feit uit het wetboek van Tedeapolis waarbij het goed direct of indirect betrokken is, behalve fout parkeren en een snelheidsovertreding;
+    2. Plegen van een misdrijf uit de Nederlandse wetgeving waarbij het goed direct of indirect betrokken is;
+    3. Niet stoppen voor stopteken gegeven door middel van een politietransparant of rode lamp;
+    4. Niet voldoen aan (verkeers)aanwijzing van bevoegde en als zodanig kenbare opsporingsambtenaar;
+    5. Snelheidsovertreding van meer dan 100% van de maximumsnelheid;
+    6. Op de openbare weg rijden met een voertuig met daarop een WOK-status.
 
 ### A8 - Openstaande boetes
 
 1. Wanneer tijdens een controle of aanhouding aangetoond wordt dat het totaalbedrag van openstaande boetes boven de € 10000,- reikt, kan dit impact hebben op de strafeis.
-   * Wanneer dit aangetoond wordt bij het opvragen van een inbeslaggenomen goed of voertuig kan geëist worden eerst het boetebedrag te voldoen;
-   * Wanneer dit aangetoond wordt tijdens onderzoek volgende op een misdrijf of crimineel feit kan hiervoor een boete of taakstraf worden opgelegd;
-   * De hoogte van deze boete of taakstraf is ter beoordeling van de Officier van Dienst.
-   * Deze boete of taakstraf wordt bijgevoegd bij de totale straf eis.
+    1. Wanneer dit aangetoond wordt bij het opvragen van een inbeslaggenomen goed of voertuig kan geëist worden eerst het boetebedrag te voldoen;
+    2. Wanneer dit aangetoond wordt tijdens onderzoek volgende op een misdrijf of crimineel feit kan hiervoor een boete of taakstraf worden opgelegd;
+    3. De hoogte van deze boete of taakstraf is ter beoordeling van de Officier van Dienst.
+    4. Deze boete of taakstraf wordt bijgevoegd bij de totale straf eis.
 2. Onder het voldoen van het boetebedrag wordt verstaan tenminste een zodanige betaling te voldoen dat het totale boetebedrag onder de € 10000,- komt.
 
 ### A9 - Consultatierecht
@@ -107,17 +107,17 @@
 
 1. De algemene rechtsbeginselen stellen eisen en scheppen kaders aan beleid of regelgeving. Beleid of regelgeving dat onvoldoende aansluit op algemene rechtsbeginselen kan onderhevig zijn aan uitsluiting of verwerping.
 2. Onder de algemene rechtsbeginselen wordt verstaan:
-   * Subsidiariteit, het toepassen van maatregelen en acties die het minst bezwarend zijn;
-   * Proportionaliteit, het in verhouding hebben en houden van acties, sancties en beslissingen ten opzichte van het (mogelijk) gepleegde feit;
-   * Behoorlijk Bestuur, gebaseerd op de beginselen van vertrouwen, rechtszekerheid, gelijkheid en onpartijdigheid;
-   * Legaliteit, waarbij het overheidsoptreden dat ingrijpt op de rechten en plichten (persoonlijke levenssfeer) van burgers moet berusten op een wettelijke grondslag;
-   * Kenbaarheid van regelgeving, waarbij burgers in staat gesteld moeten zijn kennis te nemen van regelgeving;
-   * Redelijkheid en billijkheid, waarbij als factor de redelijkheid en rechtmatigheid als ongeschreven regel dient te gelden bij overeenkomsten en situaties;
-   * Hoor en wederhoor, waarbij alle partijen recht hebben om hun zegje te doen;
-   * Onschuldpresumptie, waarbij een verdachte onschuldig is tot het tegendeel bewezen is;
-   * Détournement de pouvoir, waarbij de wet alleen mag toegepast worden waar deze voor bedoeld is;
-   * Ne bis in idem, waarbij iemand niet tweemaal veroordeeld mag worden voor hetzelfde feit;
-   * Het schutznorm-beginsel, waarbij er geen rechtsgevolg of sanctie wordt gekoppeld aan een vormfout als de verdachte niet zelf is getroffen in een (verdedigings)belang dat door het geschonden vormvoorschrift wordt beschermd.
+    1. Subsidiariteit, het toepassen van maatregelen en acties die het minst bezwarend zijn;
+    2. Proportionaliteit, het in verhouding hebben en houden van acties, sancties en beslissingen ten opzichte van het (mogelijk) gepleegde feit;
+    3. Behoorlijk Bestuur, gebaseerd op de beginselen van vertrouwen, rechtszekerheid, gelijkheid en onpartijdigheid;
+    4. Legaliteit, waarbij het overheidsoptreden dat ingrijpt op de rechten en plichten (persoonlijke levenssfeer) van burgers moet berusten op een wettelijke grondslag;
+    5. Kenbaarheid van regelgeving, waarbij burgers in staat gesteld moeten zijn kennis te nemen van regelgeving;
+    6. Redelijkheid en billijkheid, waarbij als factor de redelijkheid en rechtmatigheid als ongeschreven regel dient te gelden bij overeenkomsten en situaties;
+    7. Hoor en wederhoor, waarbij alle partijen recht hebben om hun zegje te doen;
+    8. Onschuldpresumptie, waarbij een verdachte onschuldig is tot het tegendeel bewezen is;
+    9. Détournement de pouvoir, waarbij de wet alleen mag toegepast worden waar deze voor bedoeld is;
+    10. Ne bis in idem, waarbij iemand niet tweemaal veroordeeld mag worden voor hetzelfde feit;
+    11. Het schutznorm-beginsel, waarbij er geen rechtsgevolg of sanctie wordt gekoppeld aan een vormfout als de verdachte niet zelf is getroffen in een (verdedigings)belang dat door het geschonden vormvoorschrift wordt beschermd.
 
 ## Titel I - Vermogensdelicten
 
@@ -333,22 +333,22 @@
 
 1. Het is eenieder verboden opzettelijk zich zodanig in het verkeer te gedragen dat de verkeersregels in ernstige mate worden geschonden, indien daarvan levensgevaar of gevaar voor zwaar lichamelijk letsel voor een ander te duchten is.
 2. Als zodanige verkeersgedragingen kunnen de volgende gedragingen worden aangemerkt:
-   * Onvoldoende rechts houden op onoverzichtelijke plaatsen;
-   * Gevaarlijk inhalen;
-   * Over een vluchtstrook rijden waar dit niet is toegestaan;
-   * Niet verlenen van voorrang;
-   * Overschrijden van de krachtens deze wet vastgestelde maximumsnelheid;
-   * Zeer dicht achter een ander voertuig rijden;
-   * Door rood licht rijden;
-   * Tegen de verkeersrichting inrijden;
-   * Tijdens het rijden een mobiel elektronisch apparaat vasthouden;
-   * Niet opvolgen van verkeersaanwijzingen van daartoe op grond van deze wet bevoegde personen;
-   * Overtreden van andere verkeersregels van soortgelijk belang als die onder lid 2 genoemd.
+    1. Onvoldoende rechts houden op onoverzichtelijke plaatsen;
+    2. Gevaarlijk inhalen;
+    3. Over een vluchtstrook rijden waar dit niet is toegestaan;
+    4. Niet verlenen van voorrang;
+    5. Overschrijden van de krachtens deze wet vastgestelde maximumsnelheid;
+    6. Zeer dicht achter een ander voertuig rijden;
+    7. Door rood licht rijden;
+    8. Tegen de verkeersrichting inrijden;
+    9. Tijdens het rijden een mobiel elektronisch apparaat vasthouden;
+    10. Niet opvolgen van verkeersaanwijzingen van daartoe op grond van deze wet bevoegde personen;
+    11. Overtreden van andere verkeersregels van soortgelijk belang als die onder lid 2 genoemd.
 3. Hierbij gelden de volgende aandachtspunten:
-   * Het moet gaan om een opzettelijke gedraging, waardoor de verkeersregels ernstig worden geschonden. Dus gaat het om een onverantwoordelijk en roekeloos rijgedrag, ook wanneer daardoor (nét) geen ongeval ontstaat;
-   * Door dat asociale en roekeloze gedrag moet duidelijk blijken dat daardoor levensgevaar dan wel gevaar voor zwaar lichamelijk letsel voor een ander kan ontstaan;
-   * Door één enkele van de genoemde overtredingen, al dan niet bewust gepleegd, wordt niet meteen dit artikel overtreden, het moet gaan om een combinatie van meerdere feiten die leiden tot roekeloos weggedrag en onaanvaardbaar risico. Die worden bepaald door de aard en het samenstel van alle gedragingen en de omstandigheden waaronder deze werden verricht en alle feitelijke omstandigheden van het geval. Er wordt ook gekeken naar veroordelingen voor artikel III-2/III-3 (5/5a WvW) in het verleden;
-   * Voor wat betreft de handhaving is staandehouding het uitgangspunt.
+    1. Het moet gaan om een opzettelijke gedraging, waardoor de verkeersregels ernstig worden geschonden. Dus gaat het om een onverantwoordelijk en roekeloos rijgedrag, ook wanneer daardoor (nét) geen ongeval ontstaat;
+    2. Door dat asociale en roekeloze gedrag moet duidelijk blijken dat daardoor levensgevaar dan wel gevaar voor zwaar lichamelijk letsel voor een ander kan ontstaan;
+    3. Door één enkele van de genoemde overtredingen, al dan niet bewust gepleegd, wordt niet meteen dit artikel overtreden, het moet gaan om een combinatie van meerdere feiten die leiden tot roekeloos weggedrag en onaanvaardbaar risico. Die worden bepaald door de aard en het samenstel van alle gedragingen en de omstandigheden waaronder deze werden verricht en alle feitelijke omstandigheden van het geval. Er wordt ook gekeken naar veroordelingen voor artikel III-2/III-3 (5/5a WvW) in het verleden;
+    4. Voor wat betreft de handhaving is staandehouding het uitgangspunt.
 4. Veroordeling voor dit artikel kan enkel geschieden met toestemming van een (h)OvJ of een rechter.
 5. Op basis van inschatting van de feiten en omstandigheden kan eveneens overgegaan worden tot invordering van het rijbewijs en/of inbeslagname van het voertuig.
 
@@ -430,9 +430,9 @@
 ### Artikel III-10 Fout parkeren (25 RVV 1990)
 
 1. Schuldig is een persoon die zijn of haar voertuig parkeert op een wijze die niet sluit met de aangegeven parkeersituatie, zoals:
-   * dubbelparkeren of het moedwillig doorkruisen van parkeervakken;
-   * het parkeren langs een rode trottoirrand;
-   * volledig parkeren op de stoep;
+    1. dubbelparkeren of het moedwillig doorkruisen van parkeervakken;
+    2. het parkeren langs een rode trottoirrand;
+    3. volledig parkeren op de stoep;
 2. De vastgestelde boete voor bovenstaande acties is € 1750,-
 
 ### Artikel III-11 Snelheidsovertredingen
@@ -766,13 +766,13 @@
 ### Artikel VII-1 Algemene Uitsluitingen (39-43 SR)
 
 1. Niet schuldig is een persoon die:
-   * wegens de gebrekkige ontwikkeling of ziekelijke stoornis van zijn of haar geestvermogens een strafbaar feit begaat;
-   * door overmacht is gedwongen een strafbaar feit te begaan;
-   * vanwege een noodzakelijke verdediging van eigen of andermans lijf, eerbaarheid of goed tegen ogenblikkelijke, wederrechtelijke aanranding een strafbaar feit begaat;
-   * de grenzen van bovenstaande noodweer overtreedt gevolgens een hevige gemoedsbeweging, veroorzaakt door de aanranding;
-   * een strafbaar feit begaat ter uitvoering van een wettelijk voorschrift;
-   * een strafbaar feit begaat ter uitvoering van een ambtelijk bevel, gegeven door het daartoe bevoegde gezag;
-      * Een onbevoegd gegeven ambtelijk bevel heft de strafbaarheid niet op, tenzij het door de ondergeschikte te goeder trouw als bevoegd gegeven werd beschouwd en de nakoming daarvan binnen de kring van zijn ondergeschiktheid was gelegen.
+    1. wegens de gebrekkige ontwikkeling of ziekelijke stoornis van zijn of haar geestvermogens een strafbaar feit begaat;
+    2. door overmacht is gedwongen een strafbaar feit te begaan;
+    3. vanwege een noodzakelijke verdediging van eigen of andermans lijf, eerbaarheid of goed tegen ogenblikkelijke, wederrechtelijke aanranding een strafbaar feit begaat;
+    4. de grenzen van bovenstaande noodweer overtreedt gevolgens een hevige gemoedsbeweging, veroorzaakt door de aanranding;
+    5. een strafbaar feit begaat ter uitvoering van een wettelijk voorschrift;
+    6. een strafbaar feit begaat ter uitvoering van een ambtelijk bevel, gegeven door het daartoe bevoegde gezag;
+        1. Een onbevoegd gegeven ambtelijk bevel heft de strafbaarheid niet op, tenzij het door de ondergeschikte te goeder trouw als bevoegd gegeven werd beschouwd en de nakoming daarvan binnen de kring van zijn ondergeschiktheid was gelegen.
 
 ### Artikel VII-2 Vormfouten
 
@@ -783,25 +783,25 @@
 5. De in lid 4 toegepaste sanctie kan enkel worden gebruikt indien door het verzuim geen sprake kan zijn van een behandeling van de zaak die aan de beginselen van een behoorlijke procesorde voldoet.
 6. Bij de toepassing van de sancties in lid 2, 3 en 4 dient rekening gehouden te worden met het Schutznorm-beginsel
 7. Met onherstelbaar vormverzuim wordt onder andere bedoeld:  
-   * een vooringenomen, sturende, druk uitoefenende manier van verhoren;
-   * wanneer ontlastende informatie wordt verzwegen, en/of bewijsmateriaal wordt vernietigd;
-   * het tappen van een met geheimhoudingsplicht bezwaarde professional, zoals arts, notaris, geestelijke, apotheker, advocaat;
-   * het voeren van een meinedig proces-verbaal zijnde tegenstrijdigheid met andere processen-verbaal, camerabeelden, geluidsopnamen;
-   * inbreuk op het recht van een verdachte op aanwezigheid van een advocaat tijdens een huiszoeking (en andere rechten van een verdachte), ook wel een verdedigingsrecht genoemd, bestaat er voor de (hulp-)Officier van justitie en de rechter een mogelijkheid om de inbreuk te herstellen.
+    1. een vooringenomen, sturende, druk uitoefenende manier van verhoren;
+    2. wanneer ontlastende informatie wordt verzwegen, en/of bewijsmateriaal wordt vernietigd;
+    3. het tappen van een met geheimhoudingsplicht bezwaarde professional, zoals arts, notaris, geestelijke, apotheker, advocaat;
+    4. het voeren van een meinedig proces-verbaal zijnde tegenstrijdigheid met andere processen-verbaal, camerabeelden, geluidsopnamen;
+    5. inbreuk op het recht van een verdachte op aanwezigheid van een advocaat tijdens een huiszoeking (en andere rechten van een verdachte), ook wel een verdedigingsrecht genoemd, bestaat er voor de (hulp-)Officier van justitie en de rechter een mogelijkheid om de inbreuk te herstellen.
 
 ### Artikel VII-3 Strafvermindering (44a.2 SR)
 
 1. Wanneer besloten wordt tot een strafvermindering kan als leidraad gebruikt worden:
-   * vermindering van maximaal de helft bij een onvoorwaardelijke tijdelijke vrijheidsstraf, taakstraf of geldboete, of
-   * de omzetting van maximaal de helft van het onvoorwaardelijke gedeelte van een vrijheidsstraf, taakstraf of van een geldboete in een voorwaardelijk gedeelte, of
-   * de vervanging van maximaal een derde gedeelte van een vrijheidsstraf door taakstraf of een onvoorwaardelijke geldboete.
+    1. vermindering van maximaal de helft bij een onvoorwaardelijke tijdelijke vrijheidsstraf, taakstraf of geldboete, of
+    2. de omzetting van maximaal de helft van het onvoorwaardelijke gedeelte van een vrijheidsstraf, taakstraf of van een geldboete in een voorwaardelijk gedeelte, of
+    3. de vervanging van maximaal een derde gedeelte van een vrijheidsstraf door taakstraf of een onvoorwaardelijke geldboete.
 2. Strafverminderingsgronden worden bepaald in overleg tussen overheid en verdachte met bijstand van advocaat. Hierin meegenomen worden:
-   * eventuele eerdere vergrijpen (en/of het gebrek daar aan);
-   * goed gedrag en meewerking van de verdachte tijdens en na zijn of haar aanhouding;
-   * verzachtende omstandigheden;
-   * overmacht als gevolg van Stadsproblemen ("storm");
-   * proportionaliteit;
-   * aandeel van de verdachte in het geheel, indien er sprake is van een grootschalige overtreding met meerdere partijen.
+    1. eventuele eerdere vergrijpen (en/of het gebrek daar aan);
+    2. goed gedrag en meewerking van de verdachte tijdens en na zijn of haar aanhouding;
+    3. verzachtende omstandigheden;
+    4. overmacht als gevolg van Stadsproblemen ("storm");
+    5. proportionaliteit;
+    6. aandeel van de verdachte in het geheel, indien er sprake is van een grootschalige overtreding met meerdere partijen.
 
 ## Titel VIII - Overige
 
@@ -845,10 +845,10 @@
 
 1. Schuldig is een persoon die kleding draagt, die het gezicht geheel bedekt of zodanig bedekt dat alleen de ogen onbedekt zijn, dan wel onherkenbaar maakt, op straffe van een boete van €200,- per geval.
 2. Het eerste lid is niet van toepassing, voor zover kleding als bedoeld in dat lid:
-   * wordt gedragen door cliënten, patiënten of hun bezoekers in residentiële delen van zorginstellingen,
-   * noodzakelijk is ter bescherming van het lichaam in verband met de gezondheid of de veiligheid,
-   * noodzakelijk is in verband met eisen die aan de uitoefening van een beroep of sport worden gesteld,
-   * passend is in verband met het deelnemen aan een feestelijke of een culturele activiteit.
+    1. wordt gedragen door cliënten, patiënten of hun bezoekers in residentiële delen van zorginstellingen,
+    2. noodzakelijk is ter bescherming van het lichaam in verband met de gezondheid of de veiligheid,
+    3. noodzakelijk is in verband met eisen die aan de uitoefening van een beroep of sport worden gesteld,
+    4. passend is in verband met het deelnemen aan een feestelijke of een culturele activiteit.
 
 ### Artikel VIII-7 Identiteitsfraude
 

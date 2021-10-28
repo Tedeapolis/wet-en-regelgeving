@@ -10,3 +10,5 @@ Om Mkdocs lokaal te runnen kan je binnen WSL2 er voor kiezen om een venv te make
 ./create-venv-unix.sh
 source .venv/bin/activate
 ```
+
+`git fetch origin pull/$ID/head:$BRANCHNAME`
