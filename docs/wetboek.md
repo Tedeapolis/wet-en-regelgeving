@@ -130,6 +130,7 @@
 3. Wanneer een diefstal gedurende voor de nachtrust bestemde tijd, in een woning of op een besloten erf waarop een woning staat, door iemand die aldaar buiten weten of tegen de wil van de rechthebbende bevindt. en/of;
 4. Wanneer diefstal die door twee of meerdere verenigde personen. en/of;
 5. Wanneer diefstal waarbij de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft of het weg te nemen goed onder zijn bereik heeft gebracht door middel van braak, verbreking of inklimming, van valse sleutels, van een valse order of een vals kostuum.
+6. Bij een poging tot diefstal is de maximaal op te leggen straf 2/3 van de volledige strafeis
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -141,6 +142,7 @@
 
 1. Schuldig is een persoon die een goed wegneemt zonder daarvoor toestemming of enig recht toe te hebben, daarbij gebruik makende van geweld in enige vorm.
 2. Genoemd geweld is gebruikt bij de voorbereiding, diefstal of overval, of vlucht.
+3. Bij een poging tot diefstal met geweld / overval is de maximaal op te leggen straf 2/3 van de volledige strafeis
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
