@@ -12,6 +12,7 @@ Dit document is opgesteld om wat duidelijkheid te bieden wat betreft het streame
 * FailRP, RDM, VDM en dat soort zaken On-Stream (ook off-stream natuurlijk) wordt direct bestraft.
 * De naam Tedeapolis moet in de titel van de stream staan zodat het ook door ons gevonden kan worden.
 * Het is niet toegestaan om drugs locaties op het vasteland van Tedeapolis te streamen.
+* Het is niet toegestaan voor streamers vanuit overheidsdiensten om discord porto te laten horen op stream.
 
 ## Sancties
 
