@@ -49,6 +49,7 @@
 7. Er geldt een maximumcelstraf van 400 maanden. Als er volgens het wetboek meer dan 400 maanden aan de verdachte opgelegd (mogen) worden, dan wordt de boete verhoogd. De boete wordt verhoogd met 500 euro per extra maand boven de 400 maanden.
 8. Een straf kan ook verlaagd worden door verzachtende omstandigheden.
 9. Een straf kan geheel of gedeeltelijk kwijtgescholden worden op basis van uitsluitingsgronden.
+10. Op moment dat er bewezen of verklaard word door dienstdoende agent dat persoon medeplichtig is, is de maximale straf 2/3 van de totale strafeis
 
 ### A5 - Strafblad
 
