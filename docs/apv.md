@@ -282,7 +282,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 ### Artikel 27 - Overvallen & Oplichten
 
 1. Het overvallen/oplichten/bestelen van mensen is verboden, dit mag alleen wanneer een persoon bezig is met criminele activiteiten.
-2. Met betrekking tot de volgende dingen/situaties is overvallen niet toegestaan:
+2. Met betrekking tot de volgende dingen/situaties is overvallen/oplichten niet toegestaan:
     * Het stelen/overvallen van bankgeld
     * Voertuigen
     * Loodsen
