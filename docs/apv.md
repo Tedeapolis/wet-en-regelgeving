@@ -374,7 +374,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 1. Witwassers overvallen is toegestaan wanneer minimaal één van ondergenoemde punten van toepassing is.
     * Hij/zij beschermende kleding zoals een body armor draagt.
     * Gezichtsbedekking op heeft tijdens het wassen.
-    * Het kenteken van een voertuig dat overeenkomt met het kenteken dat is verstuurd in het deepweb kanaal dat hier voor bestemt is en niet ouder is dan 1 uur.
+    * Het kenteken van een voertuig dat overeenkomt met het kenteken dat is verstuurd in het deepweb kanaal dat hier voor bestemd is en niet ouder is dan 1 uur.
     * Een overduidelijke escort heeft.
         * Zoals: Een voertuig die er overduidelijk achteraan rijd, meerdere personen die in het voertuig zitten zonder de goeie handelingen uit te voeren of niet de correcte kleding aan hebben.
     * Een persoon die verdachte handelingen doet bij een afleverpunt die niet passen bij de baan die de persoon op dat moment rijd
