@@ -714,7 +714,6 @@
 1. Strafbaar is een persoon die munitie voorhanden heeft.
 2. Voor elke clip word de straf met 0.5% verhoogd
 
-
 | ***`Categorie 1 Munitie`***  | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
 |  **Eerste Veroordeling** | 15 maanden  |  | € 3400,-  |
