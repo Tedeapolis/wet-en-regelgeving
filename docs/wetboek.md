@@ -678,6 +678,7 @@
 | **Tweede Veroordeling**  | 108 maanden  |  | € 25000,-  |
 | **Meerdere Veroordelingen**  | 144 maanden  |  | € 27500,-  |
 
+
 ### Artikel V-3 Steek- en slagwapens (27 WWM)
 
 1. Strafbaar is een persoon die een steek- of slagwapen voorhanden heeft, bij zich draagt, of opgeslagen heeft in huis of in de laadruimte van zijn of haar vervoersmiddel, waarvan redelijkerwijs kan worden aangenomen dat deze bestemd is om letsel toe te brengen.
@@ -709,6 +710,23 @@
 |  **Eerste Veroordeling** | 18 maanden  |  | € 25000,-  |
 | **Tweede Veroordeling**  | 36 maanden  |  | € 30000,-  |
 | **Meerdere Veroordelingen**  | 54 maanden  |  | € 45000,-  |
+
+### Artikel V-6 Munitiebezit 
+
+1. Strafbaar is een persoon die munitie voorhanden heeft.
+2. Voor elke clip word de straf met 0.5% verhoogd
+
+| ***`Categorie 1 Munitie`***  | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 15 maanden  |  | € 3400,-  |
+| **Tweede Veroordeling**  | 21 maanden  |  | € 4750,-  |
+| **Meerdere Veroordelingen**  | 28 maanden  |  | € 5100,-  |
+
+| ***`Categorie 2 Munitie`***  | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 21 maanden  |  | € 6800,-  |
+| **Tweede Veroordeling**  | 37 maanden  |  | € 8500,-  |
+| **Meerdere Veroordelingen**  | 49 maanden  |  | € 9350,-  |
 
 ## Titel VI - Wet op de Kansspelen
 
