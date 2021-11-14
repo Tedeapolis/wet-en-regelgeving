@@ -99,3 +99,10 @@ De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Tedeapolis
 ### Parkeerplaats Lombank
 
 - 5152
+
+### Gevangenis
+
+- 702
+- 704
+- 706
+- 707
