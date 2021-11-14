@@ -344,7 +344,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 ### Artikel 34 - Roleplay & Ledenaantal Criminele Organisaties
 
-1. Criminele organisaties mogen een maximaal ledenaantal hebben van 20 personen, hierin is een vrije keuze voor het aantal leden met de 'loopjongens' rang (onder loopjongens word gezien officiële leden die zich nog moeten bewijzen en geen toegang hebben tot het F6 men).
+1. Criminele organisaties mogen een maximaal ledenaantal hebben van 25 personen, hierin is een vrije keuze voor het aantal leden met de 'loopjongens' rang (onder loopjongens word gezien officiële leden die zich nog moeten bewijzen en geen toegang hebben tot het F6 menu).
 2. Een roleplayscenario van/met een criminele organisatie mag maximaal bestaan uit 20 personen, inclusief de leden van de criminele organisatie zelf. Dit houdt dus in dat iedereen die op dat moment enige medewerking verleent aan de criminele organisatie, ook indien zij officieel niet tot de criminele organisatie behoren, tot dit aantal wordt gerekend.
 3. Overtreding van het ledenaantal genoemd in lid 1 & 2 zal een straf worden uitgedeeld volgens de 1e categorie aan de eigena(a)r(en) & deelnemers van de organisatie.
 4. Bij herhaalde overtreding zal er een straf van de 2e categorie volgen.
@@ -438,9 +438,10 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 ### Artikel 45 - Discord
 
 1. Het is niet toegestaan om externe discords te gebruiken voor roleplay gerelateerde zaken.
-2. Wanneer je met meerdere mensen die op TedeaPolis spelen in een voice call zit is streamen niet toegestaan en moet je gedeafened en gemute zijn.
-3. Het overtreden van het feit genoemd in lid 1 of 2 zal resulteren in een straf van de 1e categorie.
-4. Het overtreden van het feit genoemd in lid 1 als eigenaar, moderator en/of stafflid van deze server zal resulteren in een straf van de 7e categorie.
+2. Wanneer je met meerdere mensen die op TedeaPolis spelen in een voicecall zit, is streamen niet toegestaan en moet je gedeafened en gemute zijn. Als één persoon in-game is en de rest niet en je besluit om alsnog in een call te zitten zonder dat je gedeafened/gemute bent, ben je dus ook in overtreding van deze regel.
+3. Het streamen van de main server in een discord server is nooit toegestaan, tenzij je expliciet toestemming hebt van een stafflid.
+4. Het overtreden van het feit genoemd in lid 1, 2 of 3 zal resulteren in een straf van de 1e categorie.
+5. Het overtreden van het feit genoemd in lid 1, 2 of 3 als eigenaar, moderator en/of stafflid van deze server zal resulteren in een straf van de 7e categorie.
 
 ### Artikel 46 - Zelfdoding
 
