@@ -511,7 +511,7 @@
 | Verlichting(NEON) onder het voertuig | € 690,- |
 | Rijden in een voertuig met een WOK-status | € 1200,- |
 
-### Artikel III-12 Overige verkeersboetes
+### Artikel III-13 Overige verkeersboetes
 
 1. Ter bevordering van transparantie is dit artikel met gespecificeerde boetes opgenomen.
 2. Een volledig overzicht van alle boetes is tevens te vinden in het kostendocument.
@@ -532,7 +532,7 @@
 | Onnodig links rijden | € 420,-  |
 | Doorrijden bij een stopbord | € 420,- |
 
-### Artikel III-13 Illegale voertuigen
+### Artikel III-14 Illegale voertuigen
 
 1. Schuldig is een persoon die weet of redelijkerwijs behoort te weten dat zijn of haar voertuig staat aangegeven als illegaal voertuig en zich bevind op een plek of plaats anders dan eigen- en/of privéterrein.
 2. Onder illegaal voertuig wordt verstaan, elk voertuig dat is aangeduid als 'illegaal' bij de cardealer en/of in onderstaande tabel is vermeld.
