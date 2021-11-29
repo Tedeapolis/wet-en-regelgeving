@@ -477,7 +477,7 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 1. Een werkgever van een overheidsberoep (Beschreven in [Artikel 28 lid 2](/#artikel-28-criminaliteit-ambtenaren)) is verplicht om een geldig VOG te kunnen overhandigen van zijn werknemers.
 2. Een werknemer moet in het bezit zijn van een geldig VOG als deze een overheidsberoep (Beschreven in [Artikel 28 lid 2](/#artikel-28-criminaliteit-ambtenaren)) uitvoert.
 3. Overtreding van lid 2 zal resulteren in een straf van de 2e categorie en ontslag bij dit beroep een verbod op uitoefenen hier van 1 maand.
-4. Ale een Werkgever herhaaldelijk lid 1 overtreed zal de Hogeraad zich buigen over een gepaste straf
+4. Als een Werkgever herhaaldelijk lid 1 overtreed zal de Hogeraad zich buigen over een gepaste straf
 
 ### Artikel 51 - Demonstreren
 
