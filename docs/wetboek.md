@@ -127,7 +127,7 @@
     1. zij die opzettelijk behulpzaam zijn bij het plegen van het misdrijf;
     2. zij die opzettelijk gelegenheid, middelen of inlichtingen verschaffen tot het plegen van het misdrijf.
 2. Er is sprake van medeplichtigheid als de verdachte behulpzaam is geweest bij het plegen van het strafbare feit van een ander persoon. Bij medeplichtigheid is de rol van de medeplichtige duidelijk kleiner dan de rol van de hoofdverdachte.
-3. Bij medeplichtigheid aan een strafbaar feit wordt de straf met 1/3 verminderd.
+3. Bij medeplichtigheid aan een strafbaar feit wordt de straf met 33% verminderd.
 4. Als daders van een strafbaar feit worden gestraft:
    1. zij die het feit plegen, doen plegen of medeplegen;
    2. zij die door giften, beloften, misbruik van gezag, geweld, bedreiging, of misleiding of door het verschaffen van gelegenheid, middelen of inlichtingen het feit opzettelijk uitlokken.
@@ -142,7 +142,7 @@
 ### Artikel I-1 Diefstal (310 SR)
 
 1. Schuldig is een persoon die een goed, of voertuig, wegneemt zonder daarvoor toestemming of enig recht toe te hebben
-2. Bij feiten hieronder vemeld worden verzwarende omstandigheden in rekening gebracht met de daarbij horende strafmaat. in dit geval zal de straf die geëist wordt vermeerderd worden met 1/3:
+2. Bij feiten hieronder vemeld worden verzwarende omstandigheden in rekening gebracht met de daarbij horende strafmaat. in dit geval zal de straf die geëist wordt vermeerderd worden met 33%:
 3. Wanneer een diefstal gedurende voor de nachtrust bestemde tijd, in een woning of op een besloten erf waarop een woning staat, door iemand die aldaar buiten weten of tegen de wil van de rechthebbende bevindt. en/of;
 4. Wanneer diefstal die door twee of meerdere verenigde personen. en/of;
 5. Wanneer diefstal waarbij de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft of het weg te nemen goed onder zijn bereik heeft gebracht door middel van braak, verbreking of inklimming, van valse sleutels, van een valse order of een vals kostuum.
@@ -511,7 +511,7 @@
 | Verlichting(NEON) onder het voertuig | € 690,- |
 | Rijden in een voertuig met een WOK-status | € 1200,- |
 
-### Artikel III-12 Overige verkeersboetes
+### Artikel III-13 Overige verkeersboetes
 
 1. Ter bevordering van transparantie is dit artikel met gespecificeerde boetes opgenomen.
 2. Een volledig overzicht van alle boetes is tevens te vinden in het kostendocument.
@@ -532,7 +532,7 @@
 | Onnodig links rijden | € 420,-  |
 | Doorrijden bij een stopbord | € 420,- |
 
-### Artikel III-13 Illegale voertuigen
+### Artikel III-14 Illegale voertuigen
 
 1. Schuldig is een persoon die weet of redelijkerwijs behoort te weten dat zijn of haar voertuig staat aangegeven als illegaal voertuig en zich bevind op een plek of plaats anders dan eigen- en/of privéterrein.
 2. Onder illegaal voertuig wordt verstaan, elk voertuig dat is aangeduid als 'illegaal' bij de cardealer en/of in onderstaande tabel is vermeld.
@@ -854,7 +854,7 @@
 ### Artikel VIII-2 Belediging (266 SR)
 
 1. Schuldig is een persoon die opzettelijk een ander belegdigt op straffe van een boete van €1200,- per geval.
-2. Wanneer de belediging opzettelijk is geuit richting een ambtenaar in functie wordt de boete met 1/3 verhoogd.
+2. Wanneer de belediging opzettelijk is geuit richting een ambtenaar in functie wordt de boete met 33% verhoogd.
 
 ### Artikel VIII-3 Opgeven valse gegevens (435 SR)
 
@@ -1031,7 +1031,7 @@
 1. Een overheidsmedewerker zoals bedoeld in dit artikel is een ambtenaar in functie werkzaam voor: Politie/KMAR, Ambulance of Justitie.
 2. Bij bepaling of buitensporig geweld van toepassing is wordt uitgegaan van Artikel II-6 Eenvoudige mishandeling (300 SR), Artikel II-7 Zware mishandeling (302 SR), Artikel II-2 Gijzeling (282 SR) en Artikel II-3 Bedreiging (285 SR). Artikel II-4 Doodslag (287 SR) en Artikel II-5 Moord (289 SR) zijn alleen van toepassing indien het een "poging tot" betreft.
 3. Buitensporig geweld dient jegens een overheidsmedewerker te zijn toegepast.
-4. Indien verdachte conform lid 2 wordt veroordeeld wordt de boete die ontstaat uit de artikelen benoemt in lid 2 met 1/3 verhoogd en komt dit 1/3 deel als vergoeding ten gunste van de getroffen overheidsmedewerker.
+4. Indien verdachte conform lid 2 wordt veroordeeld wordt de boete die ontstaat uit de artikelen benoemt in lid 2 met 33% verhoogd en komt dit 33% deel als vergoeding ten gunste van de getroffen overheidsmedewerker.
 5. Indien meerdere overheidsmedewerkers slachtoffer zijn van het buitensporig geweld, dan wordt de vergoeding zoals beschreven in lid 4 evenredig verdeeld over de overheidsmedewerkers.
 6. Een vergoeding die ten gunste komt van de getroffen overheidsmedewerker is alleen mogelijk indien een advocaat is betrokken bij de zaak.
 7. Een uitzondering op lid 6 is indien er een besluit is genomen door OvJ/HOvJ/hOvJ die betrokken wordt bij de zaak.

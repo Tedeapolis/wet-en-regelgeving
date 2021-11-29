@@ -206,6 +206,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 2. Het is tevens verboden om te benoemen dat een persoon een artikel van de algemene plaatselijke verordering heeft overtreden. Indien een persoon een artikel van de APV heeft overtreden, neem dan de correcte stappen zoals het aanmaken van een report of een ticket.
 3. Het verbod zoals beschreven in lid 1 & 2 geldt niet voor medewerkers van de gemeenteraad (staffleden) indien zij een gesprek voeren ten behoeve van de uitvoering van hun werkzaamheden als gemeentelid. Dit geldt ook voor de personen waarmee zij in gesprek zijn.
 4. Indien de regel zoals genoemd in lid 1 & 2 overtreden wordt, wordt dit bestraft met een straf volgens categorie 1.
+5. Het foutief gebruiken van /looc dus om bijvoorbeeld te chatten, wordt bestratft met een minimale straf van de 1e categorie.
 
 ### Artikel 17 - Alt Characters
 
@@ -471,7 +472,14 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 | Overheidsbaan | Criminele organisatie | 7 kalenderdagen |
 | Criminele organisatie | Overheidsbaan | 7 kalenderdagen |
 
-### Artikel 50 - Demonstreren
+### Artikel 50 - Deelname aan overheidsberoep
+
+1. Een werkgever van een overheidsberoep (Beschreven in [Artikel 28 lid 2](/#artikel-28-criminaliteit-ambtenaren)) is verplicht om een geldig VOG te kunnen overhandigen van zijn werknemers.
+2. Een werknemer moet in het bezit zijn van een geldig VOG als deze een overheidsberoep (Beschreven in [Artikel 28 lid 2](/#artikel-28-criminaliteit-ambtenaren)) uitvoert.
+3. Overtreding van lid 2 zal resulteren in een straf van de 2e categorie en ontslag bij dit beroep een verbod op uitoefenen hier van 1 maand.
+4. Ale een Werkgever herhaaldelijk lid 1 overtreed zal de Hogeraad zich buigen over een gepaste straf
+
+### Artikel 51 - Demonstreren
 
 1. Het is verboden om in grote groepen samen te komen en te demonstreren zonder dat hier:
     * Schriftelijk toestemming voor is van de hogeraad.
@@ -480,20 +488,20 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 2. Bij overtreding van één van deze regel zullen alle betrokken personen een straf krijgen van de 2e categorie.
 3. Mocht de demonstratie uit de hand lopen indien deze wel voldoet aan lid 1 zal de leidinggevende persoon een straf krijgen van de 3e categorie.
 
-### Artikel 51 - Borgtocht
+### Artikel 52 - Borgtocht
 
 1. Op het moment dat een persoon op borgtocht wordt gestuurd door de politie, dan ligt het scenario tussen de politie en de desbetreffende persoon stil.
 2. Er dient aan alle voorwaarden van de borgtocht gehouden te worden.
 3. Het is niet toegestaan om spullen (zoals wapens, drugs en dergelijke) die vóór de aanhouding in het appartement/voertuig zaten hieruit te halen of over te dragen naar andere personen op het moment dat een persoon op borgtocht is gestuurd.
 4. Bij overtreding van lid 1, 2 of 3 zal een straf worden gegeven van de 1e categorie en zal het roleplayscenario worden teruggedraaid.
 
-### Artikel 52 - Refunds
+### Artikel 53 - Refunds
 
 1. Items worden niet gerefund wanneer zij verloren zijn gegaan door een aangekondigde server restart.
 2. Stacks aan items zoals drugs worden alleen gerefund bij het onverwachts wegvallen van de server door bijvoorbeeld een crash.
 3. Refunds die vallen onder lid 2 worden alleen gegeven wanneer er voldoende bewijs wordt geleverd dat het daadwerkelijk door het onverwachts wegvallen van de server verloren is gegaan.
 
-### Artikel 53 - Samenwerking Officiële criminele organisaties
+### Artikel 54 - Samenwerking Officiële criminele organisaties
 
 1. Criminele organisaties mogen met een maximum aantal van 20 personen een roleplayscenario houden, dit mag met hun volledige organisatie of met leden van andere Officiële gangs, mits dit een geldige en logische reden heeft in de roleplay.
 2. Criminele organisaties mogen onderling met elkaar samenwerken met een maximum van 2 organisaties in een tijdsduur van 2 uur, op voorwaarde dat er geen volledige samenwerking tussen alle organisaties ontstaat, dit is ter beoordeling van de Hoge Raad van Tedeapolis.
