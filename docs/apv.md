@@ -563,7 +563,7 @@ Onderstaande regels tellen alleen op Narcopolis
 * Het is verboden om OOC te praten/je karakter te breken.
 * Het is VERPLICHT een microfoon te hebben om te kunnen communiceren en Roleplayen.
 * Nederlands kunnen spreken is verplicht.
-* Je kunt alleen contant geld stelen bank geld kan niet gestolen worden.(edited)
+* Je kunt alleen contant geld stelen bank geld kan niet gestolen worden.
 * Werk je bij de overheidsdiensten dan geldt er een zero tolerance beleid met bate tot drugs of criminele activiteiten. Wordt je ingame gepakt door een agent of ziet een stafflid dit, dan betekent dit einde baan. Het is daarnaast verboden om overheidsvoorwerpen te verkopen of weg te geven en dit is ban-waardig. Denk hierbij aan wapens, medkits, of in beslag genomen voertuigen en drugs, ook is het verboden om je beroep in je voordeel te gebruiken bij criminele activiteiten.
 * Gebruikt /report om mensen te rapporteren die niet naar de regels luisteren. (Maakt de RP veel beter).
 * Niet ADVERTEREN met je eigen server/discord in de server zowel als op de discord.
