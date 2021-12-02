@@ -47,6 +47,7 @@ Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is
 * Blazer Sport
 * Lada 2107
 * Range Rover Velar 
+* Volkswagen Touareg R50
 
 ## Off-Road
 
