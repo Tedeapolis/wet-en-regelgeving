@@ -249,7 +249,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 4. Het feit genoemd in lid 1 en lid 2 wordt gezien als "FailRP".
 5. Dit zal gestraft worden met een straf van de eerste categorie.
 
-### Artikel 23 - Cardealers
+### Artikel 23 - Cardealers/Carmeetings
 
 1. Een cardealer mag enkel uitgevoerd worden wanneer hiervoor goedkeuring is vanuit justitie.
 2. Een cardealer mag maximaal 10 voertuigen in hun “showroom” zetten.
@@ -257,6 +257,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 4. Een cardealer dient officiële vergunningen te hebben, ondertekend door een lid van justitie, waarin de locatie vermeld staat.
 5. Bij overtreding van lid 1, 2, 3 en/of 4 zullen gestraft worden middels een straf volgens de 2e categorie.
 6. Tevens zullen alle voertuigen weggehaald worden middels /dvf.
+7. Bij Carmeetings mogen maximaal 20 voertuigen aanwezig zijn. Wordt er geconstateerd door een stafflid, dat er teveel voertuigen aanwezig zijn en de server daar problemen door ondervindt, dan zal er aan de organisator een straf worden uitgedeeld van minimaal de 2e categorie. 
 
 ## Overtredingen - Schade des persoons
 
