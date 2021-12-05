@@ -324,7 +324,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 ### Artikel 31 - Overval Regels
 
 1. Indien er een overval gestart is voordat een persoon het laadscherm geopend heeft is het voor deze politieagent niet toegestaan deel te nemen aan deze overval.
-2. Een uitzondering hierop geldt voor de DSI. Zij mogen koppelen aan een overval zodra zij de eerste melding over het scenario ingame hebben meegekregen.
+2. Een uitzondering hierop geldt voor de DSI. Zij mogen koppelen aan een overval zodra zij de eerste DSI melding over het scenario ingame hebben meegekregen.
 3. Wanneer de regel zoals in lid 1 of 2 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.
 4. De regel van lid 1 en 2 is niet van toepassing indien een persoon minder dan 5 minuten geleden de server verlaten is. Dus bij bijvoorbeeld een crash.
 
