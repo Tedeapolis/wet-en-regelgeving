@@ -46,6 +46,8 @@ Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is
 * Range Rover SVR Mansory
 * Blazer Sport
 * Lada 2107
+* Range Rover Velar 
+* Volkswagen Touareg R50
 
 ## Off-Road
 
@@ -76,5 +78,9 @@ Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is
 * Blazer
 * Rebel
 * Sandking
+* Jeep Gladiator
+* Volkswagen Amarok
+* Rebel Raid
+* BMW X7 
 
 Ps. Missen er nog voertuigen of is het onduidelijk graag even een ticket ervoor aanmaken

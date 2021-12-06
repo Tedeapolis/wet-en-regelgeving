@@ -249,7 +249,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 4. Het feit genoemd in lid 1 en lid 2 wordt gezien als "FailRP".
 5. Dit zal gestraft worden met een straf van de eerste categorie.
 
-### Artikel 23 - Cardealers
+### Artikel 23 - Cardealers/Carmeetings
 
 1. Een cardealer mag enkel uitgevoerd worden wanneer hiervoor goedkeuring is vanuit justitie.
 2. Een cardealer mag maximaal 10 voertuigen in hun “showroom” zetten.
@@ -257,6 +257,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 4. Een cardealer dient officiële vergunningen te hebben, ondertekend door een lid van justitie, waarin de locatie vermeld staat.
 5. Bij overtreding van lid 1, 2, 3 en/of 4 zullen gestraft worden middels een straf volgens de 2e categorie.
 6. Tevens zullen alle voertuigen weggehaald worden middels /dvf.
+7. Bij Carmeetings mogen maximaal 20 voertuigen aanwezig zijn. Wordt er geconstateerd door een stafflid, dat er teveel voertuigen aanwezig zijn en de server daar problemen door ondervindt, dan zal er aan de organisator een straf worden uitgedeeld van minimaal de 2e categorie. 
 
 ## Overtredingen - Schade des persoons
 
@@ -477,7 +478,7 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 1. Een werkgever van een overheidsberoep (Beschreven in [Artikel 28 lid 2](/#artikel-28-criminaliteit-ambtenaren)) is verplicht om een geldig VOG te kunnen overhandigen van zijn werknemers.
 2. Een werknemer moet in het bezit zijn van een geldig VOG als deze een overheidsberoep (Beschreven in [Artikel 28 lid 2](/#artikel-28-criminaliteit-ambtenaren)) uitvoert.
 3. Overtreding van lid 2 zal resulteren in een straf van de 2e categorie en ontslag bij dit beroep een verbod op uitoefenen hier van 1 maand.
-4. Ale een Werkgever herhaaldelijk lid 1 overtreed zal de Hogeraad zich buigen over een gepaste straf
+4. Als een werkgever herhaaldelijk lid 1 overtreed zal de Hogeraad zich buigen over een gepaste straf
 
 ### Artikel 51 - Demonstreren
 
@@ -563,7 +564,7 @@ Onderstaande regels tellen alleen op Narcopolis
 * Het is verboden om OOC te praten/je karakter te breken.
 * Het is VERPLICHT een microfoon te hebben om te kunnen communiceren en Roleplayen.
 * Nederlands kunnen spreken is verplicht.
-* Je kunt alleen contant geld stelen bank geld kan niet gestolen worden.(edited)
+* Je kunt alleen contant geld stelen bank geld kan niet gestolen worden.
 * Werk je bij de overheidsdiensten dan geldt er een zero tolerance beleid met bate tot drugs of criminele activiteiten. Wordt je ingame gepakt door een agent of ziet een stafflid dit, dan betekent dit einde baan. Het is daarnaast verboden om overheidsvoorwerpen te verkopen of weg te geven en dit is ban-waardig. Denk hierbij aan wapens, medkits, of in beslag genomen voertuigen en drugs, ook is het verboden om je beroep in je voordeel te gebruiken bij criminele activiteiten.
 * Gebruikt /report om mensen te rapporteren die niet naar de regels luisteren. (Maakt de RP veel beter).
 * Niet ADVERTEREN met je eigen server/discord in de server zowel als op de discord.
