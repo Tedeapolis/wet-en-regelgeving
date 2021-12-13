@@ -513,8 +513,8 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 
 ### Artikel 55 - Appartementen
 
-1. Het uitvoeren van criminele activiteiten is verboden en valt onder het misbruiken maken van je appartement.
-2. Verduidelijking "Criminele activiteiten" in lid 1: 
+1. Het uitvoeren van activiteiten in je appartement is verboden en valt onder het misbruiken maken van je appartement.
+2. Zogenoemde "activiteiten" in lid 1: 
     * Personen oplichten.
     * Wapens verkopen.
     * Drugs verkopen of opkopen.
