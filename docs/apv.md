@@ -162,9 +162,9 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 ### Artikel 11 - Value of Life
 
-1. Hij/zij die geen waarde hecht aan het leven van zijn karakter zal gestraft worden met een straf volgens de 1e categorie.
-2. De overtreding zoals beschreven in lid 1 staat bekend als “no value of life”.
-3. Enkele voorbeelden hiervoor zijn:
+1. Hij/zij die geen waarde hecht aan het leven van zijn karakter zal gestraft worden met een straf volgens de 2e categorie.
+3. De overtreding zoals beschreven in lid 1 staat bekend als “no value of life”.
+4. Enkele voorbeelden hiervoor zijn:
     * zodra iemand een pistool op je richt binnen 50 meter en er geen beschutting is, blijf je staan, werk je mee en val je deze persoon niet aan.
     * Zodra iemand een steek- of slagwapen binnen armlengte afstand van je trekt dan werk je mee, doe je dit niet ben je niet zuinig met je leven aangezien je dat bewust het risico neemt neergestoken of neergeslagen te worden.
     * Met een helikopter vlak boven de grond zweven om goederen en/of personen te transporteren.
@@ -271,9 +271,10 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 ### Artikel 25 - RDM
 
-1. Hij/zij die zonder een geldige reden een persoon moedwillig van het leven beroofd zal gestraft worden volgens de 1e categorie.
-2. Deze straf kan meerdere malen gegeven worden indien er meer dan één persoon van het leven beroofd is.
-3. De overtreding vermeld in het eerste lid staat bekend als “RDM”
+1. Hij/zij die zonder een geldige reden een persoon moedwillig van het leven beroofd zal gestraft worden volgens de 2e categorie.
+2. Mocht dit artikel meerdere keren zijn overtreden zal het gebruikte wapen ook verwijderd worden.
+3. Deze straf kan meerdere malen gegeven worden indien er meer dan één persoon van het leven beroofd is.
+4. De overtreding vermeld in het eerste lid staat bekend als “RDM”
 
 ### Artikel 26 - Belediging
 
