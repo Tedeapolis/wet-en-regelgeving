@@ -1,22 +1,29 @@
-# Streamen op Tedeapolis
+# Content creëren op Tedeapolis
 
 ## Introductie
 
-Dit document is opgesteld om wat duidelijkheid te bieden wat betreft het streamen op Tedeapolis. Het is uiteraard toegestaan om te streamen op Tedeapolis, echter zijn hier wel regels aan verbonden.
+Dit document is opgesteld om wat duidelijkheid te bieden wat betreft het creëren van content op Tedeapolis. Het is uiteraard toegestaan om contrent te creëren op Tedeapolis, echter zijn hier wel regels aan verbonden. Deze regels gelden voor elke speler die content wilt creëren en niet enkel voor de content creators zoals aangewezen in de Tedeapolis discord.
 
-* Het is aan te raden dat als je live bent, en de Discord chat is te horen op stream, dat je een rood balletje voor jouw naam zet: `:red_circle:`
-* Zorg er voor dat de mensen met wie je in Discord zit, dat deze van jouw streaming af weten
-* Je bent als streamer een visite kaartje voor Tedeapolis. Mochten er dingen gebeuren, laat het ons weten.
+## Regels
+
+* Het is verplicht dat als je live bent, en je deelneemt aan een Discord chat als overheidsdienst, dat je een rood balletje voor jouw naam zet: `:red_circle:`
+* Zorg ervoor dat de mensen met wie je in Discord zit afweten van het feit dat je content creërt.
+* Je bent als content creator een visite kaartje voor Tedeapolis. Mochten er dingen gebeuren, laat het ons weten.
 * Doordat je jezelf vrij makkelijk in de picture zet, kunnen wij wat strenger zijn tegen streamers aangezien we live beelden van ze hebben.
-* Mocht je iets zien bij een andere streamer wat je niet bevalt. Spreek dan een stafflid aan.
+* Mocht je iets zien bij een andere content creator wat je niet bevalt. Spreek dan een stafflid aan.
 * FailRP, RDM, VDM en dat soort zaken On-Stream (ook off-stream natuurlijk) wordt direct bestraft.
-* De naam Tedeapolis moet in de titel van de stream staan zodat het ook door ons gevonden kan worden.
-* Het is niet toegestaan om drugs locaties op het vasteland van Tedeapolis te streamen.
-* Het is niet toegestaan voor streamers vanuit overheidsdiensten om discord porto te laten horen op stream.
+* De naam Tedeapolis moet in de titel van de video's of livestreams staan zodat het ook door ons gevonden kan worden.
+* Het is niet toegestaan om drugs locaties op het vasteland van Tedeapolis te tonen in video's of livestreams.
+* Het is niet toegestaan voor content creators vanuit overheidsdiensten om discord porto te laten horen op video's of livestreams.
+* Het is niet toegestaan om deepwebkanalen, telefoonnummers of andere inhoudelijke informatie van telefoons te tonen in video's of livestreams.
+* Terugkomend op bovenstaande regel is het verplicht om tijdens het creëren van content gebruik te maken van de streamer mode van FiveM. 
+
 
 ## Sancties
 
-* Bij het streamen van alle drugs gerelateerde locaties op het vasteland van Tedeapolis zal er bij de eerste overtreding een ban van een week worden uitgedeeld, bij een volgende overtreding zal er over worden gegaan naar een ban van een maand.
+* Bij het tonen van alle drugs gerelateerde locaties op het vasteland van Tedeapolis zal er bij de eerste overtreding een ban van een week worden uitgedeeld, bij een volgende overtreding zal er over worden gegaan naar een ban van een maand.
+* Bij het tonen van inhoudelijke informatie op de telefoon (nummers, deepwebkanalen, e.d.) zal er bij de eerste overtreding een straf van de 1e categorie uitgeschreven worden. Bij herhaaldelijke overtreding zal ter beoordeling van een stafflid de straf verhoogd kunnen worden.
+* Wanneer een deepwebkanaal die aangemaakt is door Tedeapolis zelf (vb. witwas kanaal) getoond wordt zal een straf volgens de 3e categorie volgens. Bij herhaaldelijke overtreding zal ter beoordeling van een stafflid de straf verhoogd kunnen worden.
 
 ## Bepaling en rechten
 
