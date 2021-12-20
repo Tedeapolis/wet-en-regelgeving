@@ -292,6 +292,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
     * Facturen en/of andere items welke gerelateerd aan een baan zijn
     * Overheids voorwerpen
     * Onder dwang iemand zijn huis betreden en dan leegroven
+    * Het dragen van een vuurwapen, steek- of slagwapen
 3. Voertuigen kunnen ook niet meer gebruikt worden bij illegale deals en kunnen enkel met legaal geld gekocht worden.
 4. Het is de verantwoordelijkheid van de kopende partij om te controleren of de aangeboden aanpassingen op het voertuig aanwezig zijn ten tijde van overdracht van het voertuig.
 5. Met criminele activiteiten zoals vermeld in lid 1 worden dingen met betrekking tot drugs, overvallen, witwassen, het dragen van een masker, kogelwerend vest, holster etc bedoeld, en dus geen overtredingen.
