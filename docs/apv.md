@@ -348,9 +348,12 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 ### Artikel 34 - Roleplay & Ledenaantal Criminele Organisaties
 
 1. Criminele organisaties mogen een maximaal ledenaantal hebben van 25 personen, hierin is een vrije keuze voor het aantal leden met de 'loopjongens' rang (onder loopjongens word gezien officiële leden die zich nog moeten bewijzen en geen toegang hebben tot het F6 menu).
-2. Een roleplayscenario van/met een criminele organisatie mag maximaal bestaan uit 20 personen, inclusief de leden van de criminele organisatie zelf. Dit houdt dus in dat iedereen die op dat moment enige medewerking verleent aan de criminele organisatie, ook indien zij officieel niet tot de criminele organisatie behoren, tot dit aantal wordt gerekend.
-3. Overtreding van het ledenaantal genoemd in lid 1 & 2 zal een straf worden uitgedeeld volgens de 1e categorie aan de eigena(a)r(en) & deelnemers van de organisatie.
-4. Bij herhaalde overtreding zal er een straf van de 2e categorie volgen.
+2. Bij een overtreding van het ledenaantal genoemd in lid 1 zal een straf worden uitgedeeld volgens de 1e categorie aan de eigena(a)r(en) & deelnemers van de organisatie.
+3. Bij herhaalde overtreding zal er een straf van de 2e categorie volgen.
+4. Criminele organisaties mogen met een maximum aantal van 20 personen een roleplayscenario houden, dit mag met hun volledige organisatie of met leden van andere Officiële of onofficiële gangs of personen, mits dit een geldige en logische reden heeft in de roleplay.
+5. Criminele organisaties mogen onderling met elkaar samenwerken met een maximum van 2 organisaties in een tijdsduur van 2 uur, op voorwaarde dat er geen volledige samenwerking tussen alle organisaties ontstaat, dit is ter beoordeling van de Hoge Raad van Tedeapolis.
+6. Bij overtreding van lid 4 & 5 zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het Roleplayscenario.
+7. Bij herhaling na de straf van de 5e categorie wordt er een gang strike uitgedeeld.
 
 ### Artikel 35 - Gedrag Criminele Organisaties
 
@@ -503,14 +506,6 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 2. Stacks aan items zoals drugs worden alleen gerefund bij het onverwachts wegvallen van de server door bijvoorbeeld een crash.
 3. Refunds die vallen onder lid 2 worden alleen gegeven wanneer er voldoende bewijs wordt geleverd dat het daadwerkelijk door het onverwachts wegvallen van de server verloren is gegaan.
 
-### Artikel 54 - Samenwerking Officiële criminele organisaties
-
-1. Criminele organisaties mogen met een maximum aantal van 20 personen een roleplayscenario houden, dit mag met hun volledige organisatie of met leden van andere Officiële gangs, mits dit een geldige en logische reden heeft in de roleplay.
-2. Criminele organisaties mogen onderling met elkaar samenwerken met een maximum van 2 organisaties in een tijdsduur van 2 uur, op voorwaarde dat er geen volledige samenwerking tussen alle organisaties ontstaat, dit is ter beoordeling van de Hoge Raad van Tedeapolis.
-3. Op Narcopolis is het voor een onofficiele groep niet toegestaan om samen te werken met een andere officiele of onofficiele groep.
-4. Een uitzondering op lid 2 is narcopolis hier op mogen gangs niet samenwerken.
-5. Bij overtreding van lid 1 en 3. Zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het Roleplayscenario. Bij herhaling na de straf van de 5e categorie wordt er een gang strike uitgedeeld.
-
 ## Narcopolis
 
 Onderstaande regels tellen alleen op Narcopolis
@@ -537,6 +532,12 @@ Onderstaande regels tellen alleen op Narcopolis
 
 1. Het campen van een niet actieve drugslocatie Narcopolis is niet toegestaan.
 2. Het overtreden van deze regel zal resulteren in een straf uit de 2e categorie.
+
+### Artikel N-5 - Samenwerking criminele organisaties
+
+1. Op Narcopolis is het voor een officiële en onofficiele groep niet toegestaan om samen te werken met een andere officiele of onofficiele groep.
+2. Bij overtreding van lid 1 zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het Roleplayscenario.
+3. Bij herhaling na de straf van de 5e categorie wordt er een gang strike uitgedeeld.
 
 ## Tijdelijke bepalingen
 
