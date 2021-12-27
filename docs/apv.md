@@ -547,9 +547,9 @@ Onderstaande regels tellen alleen op Narcopolis
 
 ### Artikel N-5 - Samenwerking criminele organisaties
 
-1. Op Narcopolis is het voor een officiële en onofficiele groep niet toegestaan om samen te werken met een andere officiele of onofficiele groep.
-2. Bij overtreding van lid 1 zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het Roleplayscenario.
-3. Bij herhaling na de straf van de 5e categorie wordt er een gang strike uitgedeeld.
+1. Op Narcopolis is het voor een officiële en onofficiele groep niet toegestaan om samen te werken met een officiele of onofficiele groep of persoon.
+3. Bij overtreding van lid 1 zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het Roleplayscenario.
+4. Bij herhaling na de straf van de 5e categorie wordt er een gang strike uitgedeeld.
 
 ## Tijdelijke bepalingen
 
