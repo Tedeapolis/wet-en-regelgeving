@@ -16,8 +16,7 @@ Dit document is opgesteld om wat duidelijkheid te bieden wat betreft het creëre
 * Het is niet toegestaan om drugs locaties op het vasteland van Tedeapolis te tonen in video's of livestreams.
 * Het is niet toegestaan voor content creators vanuit overheidsdiensten om discord porto te laten horen op video's of livestreams.
 * Het is niet toegestaan om deepwebkanalen, telefoonnummers of andere inhoudelijke informatie van telefoons te tonen in video's of livestreams.
-* Terugkomend op bovenstaande regel is het verplicht om tijdens het creëren van content gebruik te maken van de streamer mode van FiveM. 
-
+* Tijdens een livestream is het verplicht om gebruik te maken van streamermodus. 
 
 ## Sancties
 
