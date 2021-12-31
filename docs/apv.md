@@ -536,7 +536,7 @@ Onderstaande regels tellen alleen op Narcopolis
 ### Artikel N-5 - Samenwerking criminele organisaties
 
 1. Op Narcopolis is het voor een officiële en onofficiele groep niet toegestaan om samen te werken met een officiele of onofficiele groep of persoon.
-2. Uitzondering op lid 1 is er voor het kopen en verkopen van drugs. Dit mag wel gedaan worden op het eiland tussen verschillende groepen.
+2. Uitzondering op lid 1 is er voor het kopen en verkopen van drugs. Dit mag wel gedaan worden op het eiland tussen verschillende groepen en personen.
 3. Bij overtreding van lid 1 zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het Roleplayscenario.
 4. Bij herhaling na de straf van de 5e categorie wordt er een gang strike uitgedeeld.
 
