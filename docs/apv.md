@@ -397,9 +397,9 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 3. Op het moment dat een voertuig in beslag genomen word en in een opslag gezet word is het niet toegestaan om deze nog uit je garage te halen.
 4. Wanneer er 2 weken lang geen roleplay aan de inbeslagname gebonden word is het toegestaan om het voertuig weer gratis uit de garage te halen.
 5. Een gangoorlog kan verklaard worden door een van de 2 groepen (door gangbazen) wanneer daar een goede reden voor is. een oorlog is afgelopen wanneer:
-   * Hij langer dan 72 uur geduurd heeft.
-   * Alle leden eenmaal zijn overleden.
-   * Wanneer één van de 2 groepen zich overgeeft.
+    * Hij langer dan 72 uur geduurd heeft.
+    * Alle leden eenmaal zijn overleden.
+    * Wanneer één van de 2 groepen zich overgeeft.
 6. Het overtreden van lid 1, 2, 3 of 4 zal resulteren in een straf van de 1e categorie.
 7. Het confisceren van items, wapens en geld van een speler is alleen toegestaan als hier een roleplay aan is verbonden en bij een speler die levend is.
 8. Het confisceren van overheidsitems is niet toegestaan.
