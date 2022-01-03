@@ -511,6 +511,11 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 4. Een uitzondering op lid 2 is narcopolis hier op mogen gangs niet samenwerken.
 5. Bij overtreding van lid 1 en 3. Zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het Roleplayscenario. Bij herhaling na de straf van de 5e categorie wordt er een gang strike uitgedeeld.
 
+### Artikel 55 - Appartementen
+
+1. Het oplichten van een persoon, verkopen van wapens, verkopen en opkopen van drugs, vermoorden of ontvoeren van een persoon en het gebruiken van een wapen zijn in een appartement verboden.
+2. Bij overtreding van lid 1. Zal dit resulteren in een straf volgens de 4e categorie voor alle betrokken partijen.
+
 ## Narcopolis
 
 Onderstaande regels tellen alleen op Narcopolis

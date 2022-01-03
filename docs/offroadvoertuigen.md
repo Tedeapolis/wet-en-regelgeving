@@ -49,6 +49,7 @@ Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is
 * Range Rover Velar 
 * Volkswagen Touareg R50
 * Alfa Romeo Stelvio
+* Jeep Grand Cherokee SRT8
 
 ## Off-Road
 
@@ -83,5 +84,7 @@ Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is
 * Volkswagen Amarok
 * Rebel Raid
 * BMW X7 
+* Ford Bronco Wildtrak
+* Range Rover Startech
 
 Ps. Missen er nog voertuigen of is het onduidelijk graag even een ticket ervoor aanmaken
