@@ -272,7 +272,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 ### Artikel 25 - RDM
 
 1. Hij/zij die zonder een geldige reden een persoon moedwillig van het leven beroofd zal gestraft worden volgens de 2e categorie.
-2. Mocht dit artikel 2 maal of vaker overtreden zijn dan zal het gebruikte wapen bij de overtreding ook verwijderd worden, dit is ter beoordeling van het desbetdreffende stafflid.
+2. Mocht dit artikel 2 maal of vaker overtreden zijn dan zal het gebruikte wapen bij de overtreding ook verwijderd worden, dit is ter beoordeling van het desbetreffende stafflid.
 3. De overtreding vermeld in het eerste lid staat bekend als “RDM”
 
 ### Artikel 26 - Belediging
