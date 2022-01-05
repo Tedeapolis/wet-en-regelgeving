@@ -50,6 +50,7 @@ Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is
 * Volkswagen Touareg R50
 * Alfa Romeo Stelvio
 * Jeep Grand Cherokee SRT8
+* Toyota Rav-4
 
 ## Off-Road
 
