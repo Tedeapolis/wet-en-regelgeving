@@ -969,14 +969,15 @@
 | Tweede Veroordeling  |   | 40 uur  | € 4000,- |
 | Meerdere Veroordelingen  |   | 50 uur | € 6000,- |
 
-### Artikel VIII-11 Betreden van verboden militair domein
+### Artikel VIII-11 Betreden van verboden domein
 
 1. Schuldig is een persoon die zonder daartoe gerechtigd is, over iemand anders zijn grond waarvan de toegang op een voor hem blijkbare wijze door den rechthebbende is verboden, loopt, rijdt of vee laat lopen.
 
-| Bij wet geclassificeerde militaire domeinen |
+| Bij wet geclassificeerde verboden domeinen |
 |---|
 | Luchtmachtbasis |
 | Vliegdekschip |
+| Gevangenis |
 |  |
 
 |  |Celstraf  | Taakstraf  | boete  |
