@@ -518,6 +518,11 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
     * Enkel dansen als stripper in de stripclub.
 3. Het overtreden van het feit genoemd in lid 1 zal resulteren in een straf van de 7e categorie.
 
+### Artikel 56 - Steam naam
+
+1. Er wordt van een speler dat deze geen ongepaste steamnaam heeft.
+2. Overtreding van lid 1 zal resulteren in een straf van de 1e categorie.
+
 ## Narcopolis
 
 Onderstaande regels tellen alleen op Narcopolis
