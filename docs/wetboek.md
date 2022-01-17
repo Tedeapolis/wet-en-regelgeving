@@ -584,11 +584,21 @@
 | **Tweede Veroordeling**  | 27 maanden  |   | € 6000,-  |
 | **Meerdere Veroordelingen**  | 54 maanden  |   | € 7000,-  |
 
-|***`>200 ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|***`250> ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
 |  **Eerste Veroordeling** | 63 maanden  |  | € 8000,-  |
 | **Tweede Veroordeling**  | 72 maanden  |  | € 9000,-  |
 | **Meerdere Veroordelingen**  | 81 maanden  |   | € 10000,-  |
+
+|***`ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **250-500** | 95 maanden  |  | € 10000,-  |
+| **500-750**  | 100 maanden  |  | € 11000,-  |
+| **750-1000**  | 110 maanden  |   | € 12000,-  |
+| **1000-1500**  | 125 maanden  |   | € 15000,-  |
+| **1500-2500**  | 140 maanden  |   | € 20000,-  |
+| **2500-5000**  | 165 maanden  |   | € 27500,-  |
+| **5000<**  | 200 maanden  |   | € 35000,-  |
 
 #### Rekentabel Harddrugs: eindproducten
 
@@ -604,11 +614,21 @@
 | **Tweede Veroordeling**  | 36 maanden  |   | €9000,-  |
 | **Meerdere Veroordelingen**  | 54 maanden  |   | €10000,-  |
 
-|***`>40 eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|***`50> eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 72 maanden  |  | € 11000,-  |
-| **Tweede Veroordeling**  | 90 maanden  |  | € 12000,-  |
-| **Meerdere Veroordelingen**  | 108 maanden  |   | € 13000,-  |
+|  **Eerste Veroordeling** | 62 maanden  |  | € 11000,-  |
+| **Tweede Veroordeling**  | 80 maanden  |  | € 12000,-  |
+| **Meerdere Veroordelingen**  | 98 maanden  |   | € 13000,-  |
+
+|***`eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **50-100** | 125 maanden  |  | € 13000,-  |
+| **100-150**  | 135 maanden  |  | € 14000,-  |
+| **150-250**  | 145 maanden  |   | € 15500,-  |
+| **250-500**  | 160 maanden  |   | € 17000,-  |
+| **500-1000**  | 190 maanden  |   | € 20000,-  |
+| **1000-2500**  | 220 maanden  |   | € 30000,-  |
+| **2500<**  | 275 maanden  |   | € 45000,-  |
 
 ### Artikel IV-2 Softdrugs (3 OW)
 
@@ -635,11 +655,21 @@
 | **Tweede Veroordeling**  |   | 50 uur  | € 3000,-  |
 | **Meerdere Veroordelingen**  | 12 maanden  |   | € 4000,-  |
 
-|***`>200 ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|***`250> ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
 |  **Eerste Veroordeling** | 27 maanden  |  | € 5000,-  |
 | **Tweede Veroordeling**  | 40 maanden  |  | € 6000,-  |
 | **Meerdere Veroordelingen**  | 54 maanden  |   | €7000,-  |
+
+|***`ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **250-500** | 45 maanden  |  | € 6750,-  |
+| **500-750**  | 60 maanden  |  | € 7500,-  |
+| **750-1000**  | 75 maanden  |   | € 9000,-  |
+| **1000-1500**  | 95 maanden  |   | € 11500,-  |
+| **1500-2500**  | 120 maanden  |   | € 13500,-  |
+| **2500-5000**  | 150 maanden  |   | € 17500,-  |
+| **5000<**  | 175 maanden  |   | € 20000,-  |
 
 #### Rekentabel Softdrugs: eindproducten
 
@@ -655,11 +685,21 @@
 | **Tweede Veroordeling**  | 18 maanden  |   | € 6000,-  |
 | **Meerdere Veroordelingen**  | 45 maanden  |   | € 7000,-  |
 
-|***`>40 eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|***`50> eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
 |  **Eerste Veroordeling** | 50 maanden  |   | € 8000,-  |
 | **Tweede Veroordeling**  | 54 maanden  |  | € 9000,-  |
 | **Meerdere Veroordelingen**  | 63 maanden  |   | € 10000,-  |
+
+|***`eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **50-100** | 60 maanden  |  | € 9500,-  |
+| **100-150**  | 70 maanden  |  | € 10500,-  |
+| **150-250**  | 80 maanden  |   | € 11500,-  |
+| **250-500**  | 100 maanden  |   | € 15000,-  |
+| **500-1000**  | 125 maanden  |   | € 19500,-  |
+| **1000-2500**  | 160 maanden  |   | € 25000,-  |
+| **2500<**  | 190 maanden  |   | € 30000,-  |
 
 ## Titel V - Wet Wapens en Munitie
 
@@ -929,14 +969,15 @@
 | Tweede Veroordeling  |   | 40 uur  | € 4000,- |
 | Meerdere Veroordelingen  |   | 50 uur | € 6000,- |
 
-### Artikel VIII-11 Betreden van verboden militair domein
+### Artikel VIII-11 Betreden van verboden domein
 
 1. Schuldig is een persoon die zonder daartoe gerechtigd is, over iemand anders zijn grond waarvan de toegang op een voor hem blijkbare wijze door den rechthebbende is verboden, loopt, rijdt of vee laat lopen.
 
-| Bij wet geclassificeerde militaire domeinen |
+| Bij wet geclassificeerde verboden domeinen |
 |---|
 | Luchtmachtbasis |
 | Vliegdekschip |
+| Gevangenis |
 |  |
 
 |  |Celstraf  | Taakstraf  | boete  |
