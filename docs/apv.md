@@ -520,7 +520,7 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 
 ### Artikel 56 - Steam naam
 
-1. Er wordt van een speler dat deze geen ongepaste steamnaam heeft.
+1. Er wordt van een speler verwacht dat deze geen ongepaste steamnaam heeft.
 2. Overtreding van lid 1 zal resulteren in een straf van de 1e categorie.
 
 ## Narcopolis
