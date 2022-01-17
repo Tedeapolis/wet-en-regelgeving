@@ -162,14 +162,14 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 ### Artikel 11 - Value of Life
 
-1. Hij/zij die geen waarde hecht aan het leven van zijn karakter zal gestraft worden met een straf volgens de 1e categorie.
+1. Hij/zij die geen waarde hecht aan het leven van zijn karakter zal gestraft worden met een straf volgens de 2e categorie.
 2. De overtreding zoals beschreven in lid 1 staat bekend als “no value of life”.
-3. Enkele voorbeelden hiervoor zijn:
+3. Enkele voorbeelden van “no value of life”:
     * zodra iemand een pistool op je richt binnen 50 meter en er geen beschutting is, blijf je staan, werk je mee en val je deze persoon niet aan.
     * Zodra iemand een steek- of slagwapen binnen armlengte afstand van je trekt dan werk je mee, doe je dit niet ben je niet zuinig met je leven aangezien je dat bewust het risico neemt neergestoken of neergeslagen te worden.
     * Met een helikopter vlak boven de grond zweven om goederen en/of personen te transporteren.
     * Elke andere vorm waarmee je bewust je eigen leven in een té groot gevaar brengt valt onder no value of life, dus gebruik je gezonde verstand om de situatie in te schatten.
-    * Zodra een persoon een wapen in zijn hand heeft en jij gaat hem proberen te boeien of richting hem te rennen word dit gezien als no value of life.
+    * Zodra een persoon een wapen in zijn hand heeft en jij gaat hem proberen te boeien of richting hem te rennen word dit gezien als no value of life. Wanneer jij van dat persoon weet dat hij/zij een vuur-, steek- of slagwapen op zak heeft, zal je ervoor moeten zorgen hem/haar te overmeesteren door enige vorm van bedreigende middelen toe te passen. 
     * Het valt onder no value of life om de noodknop in te drukken terwijl iemand een vuurwapen, steekwapen of slagwapen op je richt.
     * Het is geen no value of life indien een persoon in een voertuig met deuren zit niet meewerkt, als je deze van de buitenkant bedreigt met een steek- of slagwapen.
     * Ook valt het niet onder no value of life om een vuurwapen te trekken als je bedreigd wordt met een steek- of slagwapen.
@@ -271,8 +271,8 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 ### Artikel 25 - RDM
 
-1. Hij/zij die zonder een geldige reden een persoon moedwillig van het leven beroofd zal gestraft worden volgens de 1e categorie.
-2. Deze straf kan meerdere malen gegeven worden indien er meer dan één persoon van het leven beroofd is.
+1. Hij/zij die zonder een geldige reden een persoon moedwillig van het leven beroofd zal gestraft worden volgens de 2e categorie.
+2. Mocht dit artikel 2 maal of vaker overtreden zijn dan zal het gebruikte wapen bij de overtreding ook verwijderd worden, dit is ter beoordeling van het desbetreffende stafflid.
 3. De overtreding vermeld in het eerste lid staat bekend als “RDM”
 
 ### Artikel 26 - Belediging
@@ -400,9 +400,9 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 3. Op het moment dat een voertuig in beslag genomen word en in een opslag gezet word is het niet toegestaan om deze nog uit je garage te halen.
 4. Wanneer er 2 weken lang geen roleplay aan de inbeslagname gebonden word is het toegestaan om het voertuig weer gratis uit de garage te halen.
 5. Een gangoorlog kan verklaard worden door een van de 2 groepen (door gangbazen) wanneer daar een goede reden voor is. een oorlog is afgelopen wanneer:
-   * Hij langer dan 72 uur geduurd heeft.
-   * Alle leden eenmaal zijn overleden.
-   * Wanneer één van de 2 groepen zich overgeeft.
+    * Hij langer dan 72 uur geduurd heeft.
+    * Alle leden eenmaal zijn overleden.
+    * Wanneer één van de 2 groepen zich overgeeft.
 6. Het overtreden van lid 1, 2, 3 of 4 zal resulteren in een straf van de 1e categorie.
 7. Het confisceren van items, wapens en geld van een speler is alleen toegestaan als hier een roleplay aan is verbonden en bij een speler die levend is.
 8. Het confisceren van overheidsitems is niet toegestaan.
@@ -505,6 +505,18 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 1. Items worden niet gerefund wanneer zij verloren zijn gegaan door een aangekondigde server restart.
 2. Stacks aan items zoals drugs worden alleen gerefund bij het onverwachts wegvallen van de server door bijvoorbeeld een crash.
 3. Refunds die vallen onder lid 2 worden alleen gegeven wanneer er voldoende bewijs wordt geleverd dat het daadwerkelijk door het onverwachts wegvallen van de server verloren is gegaan.
+
+### Artikel 54 - Appartementen
+
+1. Het oplichten van een persoon, verkopen van wapens, verkopen en opkopen van drugs, vermoorden of ontvoeren van een persoon en het gebruiken van een wapen zijn in een appartement verboden.
+2. Bij overtreding van lid 1. Zal dit resulteren in een straf volgens de 4e categorie voor alle betrokken partijen.
+
+### Artikel 55 - Erotische Roleplay(ERP)
+
+1. Het is verboden om een Erotische roleplay uit te voeren of aan te gaan.
+2. Uitzondering van het feit genoemd in lid 1 zal binnen de Hoge Raad besproken moeten worden. Enkel voorbeeld hiervan:
+    * Enkel dansen als stripper in de stripclub.
+3. Het overtreden van het feit genoemd in lid 1 zal resulteren in een straf van de 7e categorie.
 
 ## Narcopolis
 
