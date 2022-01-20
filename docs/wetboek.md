@@ -1031,6 +1031,30 @@
 | Tweede Veroordeling  |  | 25 uur | € 75000,-  |
 | Meerdere Veroordelingen  |  | 50 uur | € 100000,-  |
 
+### Artikel VIII-14 Werkzaam bedrijf zonder KvK-Inschrijving
+
+1. Schuldig is een persoon die een omzet creëert doormiddel van zijn of haar bedrijf. en niet KvK ingeschreven staat.
+2. Een persoon die werkzaam bij een bedrijf wat niet kvk ingeschreven staat niet schuldig.
+3. Indien een opsporingsambtenaar merkt dat de schuldige nergens van afwist, dan kan deze zijn discretionaire bevoegdheid gebruiken om het af te doen met een waarschuwing in de    vorm van een notitie.
+
+|  |Celstraf  | Taakstraf  | boete  |
+|---|---|---|---|
+|  Eerste Veroordeling |  | 70 uur | € 12000,-  |
+| Tweede Veroordeling  | 25 maanden |  | € 15000,-  |
+| Meerdere Veroordelingen  | 50 maanden |  | € 100000,-  |
+
+### Artikel VIII-15 Niet in bezit hebben van juiste vergunningen
+
+1. Schuldig is een persoon die een dienst levert waarvoor een onderscheidende vergunning vereist is, maar dit zonder doet.
+2. Indien een opsporingsambtenaar merkt dat de schuldige nergens van afwist, dan kan deze zijn discretionaire bevoegdheid gebruiken om het af te doen met een waarschuwing in de    vorm van een notitie.
+3. Indien een opsporingsambtenaar merkt dat de schuldige nergens van afwist, dan kan deze zijn discretionaire bevoegdheid gebruiken om het af te doen met een waarschuwing in de    vorm van een notitie.
+
+|  |Celstraf  | Taakstraf  | boete  |
+|---|---|---|---|
+|  Eerste Veroordeling |  | 50 uur | € 10000,-  |
+| Tweede Veroordeling  | 15 maanden |  | € 15000,-  |
+| Meerdere Veroordelingen  | 25 maanden |  | € 20000,-  |
+
 ## Titel IX – Schadevergoeding
 
 ### Artikel IX-1 (Im)materiële schadevergoeding voor onterechte inverzekeringstelling of voorlopige hechtenis (artikel 533 sv)
