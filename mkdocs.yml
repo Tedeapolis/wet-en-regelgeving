@@ -50,7 +50,6 @@ extra_javascript:
 nav:
   - Home: index.md
   - Algemene Plaatselijke Verordening: apv.md
-  - Overval regels: overvallen.md
   - Wetboek: wetboek.md
   - Risicogebieden: risico-gebieden.md
   - NOTAM: notam.md
