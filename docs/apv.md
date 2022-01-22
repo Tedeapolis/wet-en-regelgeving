@@ -137,6 +137,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 1. Hij/zij die moedwillig ambtenaren uitlokt met de intentie deze te irriteren en/of bezig te houden zal bestraft worden met een straf volgens de 1e categorie.
 2. Hij/zij die moedwillig officieel onnodig uitlokt zonder verdere intentie tot roleplay en/of bezig te houden zal bestraft worden met een straf volgens de 1e categorie.
 3. De overtreding zoals beschreven in lid 1 en lid 2 staat bekend als “baiting”
+4. Wanneer de overtreding in lid 1 en 2 dusdanig verstorend is voor de roleplay of het baiten niet ophoudt, kan ervoor gekozen worden om de straf zwaarder te maken. Dit is ter beoordeling van het desbetreffende stafflid.
 
 ### Artikel 8 - Spam
 
