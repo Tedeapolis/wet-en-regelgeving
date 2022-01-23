@@ -598,7 +598,7 @@
 | **1000-1500**  | 125 maanden  |   | € 15000,-  |
 | **1500-2500**  | 140 maanden  |   | € 20000,-  |
 | **2500-5000**  | 165 maanden  |   | € 27500,-  |
-| **5000<**  | 200 maanden  |   | € 35000,-  |
+| **5000>**  | 200 maanden  |   | € 35000,-  |
 
 #### Rekentabel Harddrugs: eindproducten
 
@@ -628,7 +628,7 @@
 | **250-500**  | 160 maanden  |   | € 17000,-  |
 | **500-1000**  | 190 maanden  |   | € 20000,-  |
 | **1000-2500**  | 220 maanden  |   | € 30000,-  |
-| **2500<**  | 275 maanden  |   | € 45000,-  |
+| **2500>**  | 275 maanden  |   | € 45000,-  |
 
 ### Artikel IV-2 Softdrugs (3 OW)
 
@@ -949,7 +949,7 @@
 
 ### Artikel VIII-9 Lokaalvredebreuk (139 SR)
 
-1. Schuldig is een persoon die in een voor de openbare dienst bestemd lokaal, openbare ruimte of besloten erf dat bestemd is voor de openbare dienst, wederrechtelijk binnendringt, of, wederrechtelijk aldaar vertoevende, zich niet op de vordering van de bevoegde ambtenaar aanstonds verwijdert.
+1. Schuldig is een persoon die in een voor de openbare dienst bestemd lokaal, besloten erf of openbare ruimte, wederrechtelijk binnendringt, of, wederrechtelijk aldaar vertoevende, zich niet op de vordering van de bevoegde ambtenaar aanstonds verwijdert.
 2. Schuldig is een persoon die zich de toegang heeft verschaft door middel van braak of inklimming, van valse sleutels, van een valse order of een vals kostuum, of die zonder voorkennis van de bevoegde ambtenaar en anders dan ten gevolge van vergissing binnengekomen, aldaar wordt aangetroffen in de voor de nachtrust bestemde tijd, wordt geacht te zijn binnengedrongen.
 
 |  |Celstraf  | Taakstraf  | boete  |
