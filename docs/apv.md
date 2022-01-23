@@ -278,6 +278,10 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 ### Artikel 26 - Belediging
 
 1. Hij/zij die scheld met hedendaags relevante ziektes (kanker en dergelijke) of met racistische opmerkingen, of andere ongepaste opmerkingen, wordt gestraft met een straf van maximaal de 7e categorie en minimale ban van 2 weken.
+2. Lid 1 is ook vankracht op de volgende punten:
+    * Steamnaam
+    * Discordnaam
+    * Character naam
 
 ## Overtredingen - Criminele activiteiten
 
