@@ -71,7 +71,6 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
     * Geen roleplay aangaan na of je niets aantrekken van een (ernstige) verwonding of (verkeers)ongeval;
     * HeadID's misbruiken om spelers te vinden/identificeren tijdens een roleplayscenario;
     * Onjuist of onrealistisch gebruik maken van het F6-menu;
-    * Overtredingen van de overval regels kunnen volgens dit artikel worden bestraft;
     * In het water zwemmen voor een onrealistisch lange tijd;
     * In een portofoon praten terwijl je aan het zwemmen bent of onderwater bent;
     * Stelen van een voertuig van een burger zonder enige geldige reden;
@@ -326,12 +325,16 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 2. Het is verplicht om voor het uitvoeren van je baan het voertuig te gebruiken dat is verstrekt door de baas.
 3. Hij/zij die de regel zoals beschreven in lid 1 en/of 2 overtreed zal bestraft worden met een straf volgens de 1e categorie, hiernaast zal de overtreder ontslagen worden en deze persoon dit beroep een week lang niet uitvoeren.
 
-### Artikel 31 - Overval Regels
+### Artikel 31 - Bank- en winkelovervalregels
 
-1. Indien er een overval gestart is voordat een persoon het laadscherm geopend heeft is het voor deze politieagent niet toegestaan deel te nemen aan deze overval.
-2. Een uitzondering hierop geldt voor de leden van de dsi. Een lid mag koppelen aan een overval zodra hij/zij de eerste dsi melding over het scenario ingame heeft meegekregen.
-3. Wanneer de regel zoals in lid 1 of 2 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.
-4. De regel van lid 1 en 2 is niet van toepassing indien een persoon minder dan 5 minuten geleden de server verlaten is. Dus bij bijvoorbeeld een crash.
+1. Indien er een bank- of winkeloverval gestart is voordat een persoon het laadscherm geopend heeft is het voor deze politieagent niet toegestaan deel te nemen aan deze overval.
+2. Een uitzondering hierop geldt voor de leden van de dsi. Een lid mag koppelen aan een overval zodra hij/zij de eerste DSI-melding over het scenario ingame heeft meegekregen.
+4. De regel van lid 1 en 2 is niet van toepassing indien een persoon minder dan 5 minuten geleden de server verlaten is, dus bij bijvoorbeeld een crash.
+5. Een gijzelaar tijdens een bank- of winkeloverval mag geen kennis of vriend van je zijn, maar moet een onbekend persoon zijn.
+6. Het is niet de bedoeling dat elke overval een wild-west-situatie wordt, dus probeer op alle mogelijke manieren eerst een vuurgevecht te vermijden en onderhandel met de politie.
+7. Het is niet toegestaan om een bank- of winkeloverval te starten na 01:30.
+8. Overtreding van lid 1, 2, 6 en/of 6 zal resulteren in een minimale straf van de 1e categorie.
+9. Overtreding van lid 5 zal resulteren in een straf van de 4e categorie.
 
 ### Artikel 32 - Wraak
 
@@ -412,13 +415,6 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 8. Het confisceren van overheidsitems is niet toegestaan.
 9. Bij overtreding van lid 7 en/of lid 8 zal een straf van de 5e categorie worden uitgedeeld en zal de functionaliteit voor deze groep worden uitgeschakeld voor een periode die vast wordt gesteld door de hoge raad.
 10. Bij herhaalde overtredingen van lid 1, 2, 3, 4 of 7 door een gang kan er worden overgegaan op gangstrikes.
-
-### Artikel 40 - Winkel en bank overvallen
-
-1. Een gijzelaar mag geen kennis of vriend van je zijn, maar moet een onbekend persoon zijn.
-2. Het is niet de bedoeling dat elke overval een wild-west-situatie wordt, dus probeer op alle mogelijke manieren eerst een vuurgevecht te vermijden en onderhandel met de politie.
-3. Overtreding van lid 1 zal resulteren in een straf van de 4e categorie.
-4. Overtreding van lid 2 zal resulteren in een minimale straf van de 1e categorie
 
 ## Overige bepalingen
 
