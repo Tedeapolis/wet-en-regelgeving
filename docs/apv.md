@@ -333,7 +333,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 5. Een gijzelaar tijdens een bank- of winkeloverval mag geen kennis of vriend van je zijn, maar moet een onbekend persoon zijn.
 6. Het is niet de bedoeling dat elke overval een wild-west-situatie wordt, dus probeer op alle mogelijke manieren eerst een vuurgevecht te vermijden en onderhandel met de politie.
 7. Het is niet toegestaan om een bank- of winkeloverval te starten na 01:30.
-8. Overtreding van lid 1, 2, 6 en/of 6 zal resulteren in een minimale straf van de 1e categorie.
+8. Overtreding van lid 1, 2, 6 en/of 7 zal resulteren in een minimale straf van de 1e categorie.
 9. Overtreding van lid 5 zal resulteren in een straf van de 4e categorie.
 
 ### Artikel 32 - Wraak
