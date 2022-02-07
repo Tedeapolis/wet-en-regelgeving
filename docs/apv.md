@@ -187,9 +187,9 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 ### Artikel 14 - Nederlandse Taal
 
-1. Er wordt van spelers verwacht de Nederlandse taal te beheersen. Indien iemand de Nederlandse taal niet beheerst is deze persoon niet welkom op de server.
+1. Er wordt van spelers verwacht de Nederlandse of Engelse taal te beheersen. Indien iemand de Nederlandse of Engelse taal niet beheerst is deze persoon niet welkom op de server.
 2. Andere talen dan het Nederlands en het Engels mogen niet gebruikt worden op een provocerende of beledigende manier gedurende de roleplay.
-3. Tijdens een staffgesprek en tijdens een gesprek met een medewerker van een overheidsdienst (Politie, KMar, ambulance of ANWB) dient de persoon te allen tijde Nederlands te spreken indien de medewerker dit wenst.
+3. Tijdens een staffgesprek en tijdens een gesprek met een medewerker van een overheidsdienst (Politie, KMar, ambulance of ANWB) dient de persoon te allen tijde Nederlands te spreken indien de medewerker dit wenst, mocht persoon de nederlandse taal niet beheersen dient er iemand aanwezig te zijn die namens hem in het nederlands kan spreken.
 4. Bij een overtreding van de regel in lid 2 en 3 wordt de overtreder bestraft met een bestraffing van de 1e categorie.
 5. Bij herhaalde overtreding zal er een straf van de 2e categorie volgen.
 
