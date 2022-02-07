@@ -36,7 +36,6 @@ Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is
 * Cliffhanger
 * Jeep DemonHawk
 * Range Rover Evoque
-* Ford F-150 1978
 * Gargoyle
 * Gang Burrito
 * Burrito
@@ -87,5 +86,8 @@ Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is
 * BMW X7 
 * Ford Bronco Wildtrak
 * Range Rover Startech
+* Hummer H1 Alpha
+* Land Rover Defender 110 2021
+* Ford F-150 1978
 
 Ps. Missen er nog voertuigen of is het onduidelijk graag even een ticket ervoor aanmaken
