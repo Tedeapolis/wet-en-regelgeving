@@ -84,6 +84,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
     * Het spelen op een zodanige resolutie dat er redelijkerwijs van uit kan worden gegaan dat hier voordeel uit wordt gehaald.
     * Het counteren van een overval wanneer er al roleplay gestart is tussen de politie en de overvallers die al ter plaatse zijn.
     * Het hebben van keybinds voor /me of /do acties
+    * Het gebruik maken van je "Veters" in de cel om iemand af te boeien en daardoor vrij te kunnen breken
 
 ### Artikel 2 - Cheats
 
@@ -124,7 +125,9 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 
 1. Er wordt geacht dat de kleding wordt gedragen die is verstrekt door de baas voor het uitvoeren van het beroep. Wordt dit niet gedaan, zal er gestraft worden met een straf volgens de 2e categorie.
 2. Hij/zij die als niet ambtenaar kleding draagt van één van de overheids banen zal gestraft worden met een straf volgens de 2e categorie.
-3. Onder ambtenaar vallen de mensen in dienst bij één van de volgende instanties:
+3. Officiële kleding verstrekt vanuit Tedeapolis bedoeld voor specifieke groeperingen mogen niet door andere gebruikt worden tenzij hier sterke roleplay aan verbonden is. 
+4. Overtreding van lid 3 zal worden bestraft met een straf uit van de 1e categorie.
+5. Onder ambtenaar vallen de mensen in dienst bij één van de volgende instanties:
     * Politie
     * Koninklijke marechaussee
     * Justitie
@@ -187,9 +190,9 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 ### Artikel 14 - Nederlandse Taal
 
-1. Er wordt van spelers verwacht de Nederlandse taal te beheersen. Indien iemand de Nederlandse taal niet beheerst is deze persoon niet welkom op de server.
+1. Er wordt van spelers verwacht de Nederlandse of Engelse taal te beheersen. Indien iemand de Nederlandse of Engelse taal niet beheerst is deze persoon niet welkom op de server.
 2. Andere talen dan het Nederlands en het Engels mogen niet gebruikt worden op een provocerende of beledigende manier gedurende de roleplay.
-3. Tijdens een staffgesprek en tijdens een gesprek met een medewerker van een overheidsdienst (Politie, KMar, ambulance of ANWB) dient de persoon te allen tijde Nederlands te spreken indien de medewerker dit wenst.
+3. Tijdens een staffgesprek en tijdens een gesprek met een medewerker van een overheidsdienst (Politie, KMar, ambulance of ANWB) dient de persoon te allen tijde Nederlands te spreken indien de medewerker dit wenst, mocht persoon de nederlandse taal niet beheersen dient er iemand aanwezig te zijn die namens hem in het nederlands kan spreken.
 4. Bij een overtreding van de regel in lid 2 en 3 wordt de overtreder bestraft met een bestraffing van de 1e categorie.
 5. Bij herhaalde overtreding zal er een straf van de 2e categorie volgen.
 
@@ -290,14 +293,14 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 1. Het overvallen/oplichten/bestelen van mensen is verboden, dit mag alleen wanneer een persoon bezig is met criminele activiteiten.
 2. Met betrekking tot de volgende dingen/situaties is overvallen/oplichten niet toegestaan:
     * Het stelen/overvallen van bankgeld
-    * Voertuigen
+    * Voertuigen (muv. tunes)
     * Loodsen
     * Spelers te overvallen, te ontvoeren of negatief te bejegenen bij het gemeentehuis
     * Facturen en/of andere items welke gerelateerd aan een baan zijn
     * Overheids voorwerpen
     * Onder dwang iemand zijn huis betreden en dan leegroven
 3. Voertuigen kunnen ook niet meer gebruikt worden bij illegale deals en kunnen enkel met legaal geld gekocht worden.
-4. Het is de verantwoordelijkheid van de kopende partij om te controleren of de aangeboden aanpassingen (ook wel bekend als tunes) op het voertuig aanwezig zijn ten tijde van overdracht van het voertuig. Het is dus volledig jouw eigen risico wanneer je er voor kiest om niet de tunes te controleren.
+4. Het is de verantwoordelijkheid van de kopende partij om te controleren of de aangeboden aanpassingen (ook wel bekend als tunes) op het voertuig aanwezig zijn ten tijde van overdracht van het voertuig. Het is dus volledig jouw eigen risico wanneer je er voor kiest om niet de tunes te controleren. Wanneer je moedwillig alsnog mensen gaat scammen met tunes kan hier alsnog op gestraft worden.
 5. Met criminele activiteiten zoals vermeld in lid 1 worden dingen met betrekking tot drugs, overvallen, witwassen, het dragen van een masker, kogelwerend vest, holster etc bedoeld, en dus geen overtredingen.
 6. Bij een overtreding van de wet in lid 1 en/of lid 2 wordt de persoon gestraft volgens de 4e categorie en wordt het geld teruggegeven aan het slachtoffer. Wanneer de persoon het geld al heeft uitgegeven zal het resulteren in straf van de 8e categorie.
 7. Hou hiermee wel rekening dat het bij het vergrijp zoals beschreven in lid 1 niet de bedoeling is hiermee misbruik te maken van onwetendheid van mensen, dus vermijd het oplichten van nieuwe spelers.
