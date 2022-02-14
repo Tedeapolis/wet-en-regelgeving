@@ -125,7 +125,9 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 
 1. Er wordt geacht dat de kleding wordt gedragen die is verstrekt door de baas voor het uitvoeren van het beroep. Wordt dit niet gedaan, zal er gestraft worden met een straf volgens de 2e categorie.
 2. Hij/zij die als niet ambtenaar kleding draagt van één van de overheids banen zal gestraft worden met een straf volgens de 2e categorie.
-3. Onder ambtenaar vallen de mensen in dienst bij één van de volgende instanties:
+3. Officiële kleding verstrekt vanuit Tedeapolis bedoeld voor specifieke groeperingen mogen niet door andere gebruikt worden tenzij hier sterke roleplay aan verbonden is. 
+4. Overtreding van lid 3 zal worden bestraft met een straf uit van de 1e categorie.
+5. Onder ambtenaar vallen de mensen in dienst bij één van de volgende instanties:
     * Politie
     * Koninklijke marechaussee
     * Justitie
