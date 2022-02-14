@@ -12,3 +12,24 @@ source .venv/bin/activate
 ```
 
 `git fetch origin pull/$ID/head:$BRANCHNAME`
+
+
+## format release
+
+```md
+
+**Aanpassingen Week X**
+
+**APV**
+
+* Geen aanpassingen
+
+**Wetboek**
+
+* Geen aanpassingen
+
+**Overig**
+
+* Geen aanpassingen
+
+```
