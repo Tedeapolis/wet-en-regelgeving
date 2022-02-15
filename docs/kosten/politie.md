@@ -14,13 +14,29 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Binnen bebouwde kom 20-30 KM/H te hard | € 1000,- |
 | Binnen bebouwde kom 30-40 KM/H te hard | € 2000,- |
 | Binnen bebouwde kom 40-50 KM/H te hard | € 3000,- |
-| Binnen bebouwde kom 50-60 KM/H te hard | € 4500,- |
+| Binnen bebouwde kom 50-60 KM/H te hard | € 4000,- |
+| Binnen bebouwde kom 60-70 KM/H te hard | € 5000,- |
+| Binnen bebouwde kom 70-80 KM/H te hard | € 6000,- |
+| Binnen bebouwde kom 80-90 KM/H te hard | € 7000,- |
+| Binnen bebouwde kom 90-100 KM/H te hard | € 8000,- |
+| Binnen bebouwde kom 100-125 KM/H te hard | € 10000,- |
+| Binnen bebouwde kom 125-150 KM/H te hard | € 12500,- |
+| Binnen bebouwde kom 150+ KM/H te hard | € 15000,- |
 | Buiten bebouwde kom < 10 KM/H te hard | € 100,- |
 | Buiten bebouwde kom 10-20 KM/H te hard | € 300,- |
 | Buiten bebouwde kom 20-30 KM/H te hard | € 700,- |
 | Buiten bebouwde kom 30-40 KM/H te hard | € 1000,- |
 | Buiten bebouwde kom 40-50 KM/H te hard | € 1500,- |
 | Buiten bebouwde kom 50-60 KM/H te hard | € 2000,- |
+| Buiten bebouwde kom 60-70 KM/H te hard | € 2500,- |
+| Buiten bebouwde kom 70-80 KM/H te hard | € 3000,- |
+| Buiten bebouwde kom 80-90 KM/H te hard | € 3500,- |
+| Buiten bebouwde kom 90-100 KM/H te hard | € 4000,- |
+| Buiten bebouwde kom 100-125 KM/H te hard | € 5000,- |
+| Buiten bebouwde kom 125-150 KM/H te hard | € 7000,- |
+| Buiten bebouwde kom 150-175 KM/H te hard | € 9000,- |
+| Buiten bebouwde kom 175-200 KM/H te hard | € 11000,- |
+| Buiten bebouwde kom 200+ KM/H te hard | € 15000,- |
 | Door rood licht rijden met een fiets | € 150,- |
 | Door rood licht rijden met een bromfiets | € 320,- |
 | Door rood licht rijden | € 720,- |
