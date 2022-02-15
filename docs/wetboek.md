@@ -469,7 +469,14 @@
 | Te hard rijden 21 - 30KM/H | € 1000,- |
 | Te hard rijden 31 - 40KM/H | € 2000,- |
 | Te hard rijden 41 - 50KM/H | € 3000,- |
-| Te hard rijden 51 - 60KM/H | € 4500,- |
+| Te hard rijden 51 - 60KM/H | € 4000,- |
+| Te hard rijden 61 - 70KM/H | € 5000,- |
+| Te hard rijden 71 - 80KM/H | € 6000,- |
+| Te hard rijden 81 - 90KM/H | € 7000,- |
+| Te hard rijden 91 - 100KM/H | € 8000,- |
+| Te hard rijden 101 - 125 KM/H | € 10000,- |
+| Te hard rijden 126 - 150 KM/H | € 12500,- |
+| Te hard rijden 150+ KM/H | € 15000,- |
 
 | ***`Buiten de Bebouwde Kom`***  |   |
 |---|---|
@@ -479,6 +486,15 @@
 | Te hard rijden 31 - 40KM/H | € 1000,- |
 | Te hard rijden 41 - 50KM/H | € 1500,- |
 | Te hard rijden 51 - 60KM/H | € 2000,- |
+| Te hard rijden 61 - 70KM/H | € 2500,- |
+| Te hard rijden 71 - 80KM/H | € 3000,- |
+| Te hard rijden 81 - 90KM/H | € 3500,- |
+| Te hard rijden 91 - 100KM/H | € 4000,- |
+| Te hard rijden 101 - 125 KM/H | € 5000,- |
+| Te hard rijden 126 - 150 KM/H | € 7000,- |
+| Te hard rijden 151 - 175 KM/H | € 9000,- |
+| Te hard rijden 176 - 200 KM/H | € 11000,- |
+| Te hard rijden 200+ KM/H | € 15000,- |
 
 ### Artikel III-12 Voertuigeisen
 
