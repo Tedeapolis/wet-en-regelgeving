@@ -602,7 +602,7 @@
 | **Tweede Veroordeling**  | 27 maanden  |   | € 6000,-  |
 | **Meerdere Veroordelingen**  | 54 maanden  |   | € 7000,-  |
 
-|***`250> ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|***`201-250 ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
 |  **Eerste Veroordeling** | 63 maanden  |  | € 8000,-  |
 | **Tweede Veroordeling**  | 72 maanden  |  | € 9000,-  |
@@ -610,13 +610,13 @@
 
 |***`ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **250-500** | 95 maanden  |  | € 10000,-  |
-| **500-750**  | 100 maanden  |  | € 11000,-  |
-| **750-1000**  | 110 maanden  |   | € 12000,-  |
-| **1000-1500**  | 125 maanden  |   | € 15000,-  |
-| **1500-2500**  | 140 maanden  |   | € 20000,-  |
-| **2500-5000**  | 165 maanden  |   | € 27500,-  |
-| **5000>**  | 200 maanden  |   | € 35000,-  |
+|  **251-500** | 95 maanden  |  | € 10000,-  |
+| **501-750**  | 100 maanden  |  | € 11000,-  |
+| **751-1000**  | 110 maanden  |   | € 12000,-  |
+| **1001-1500**  | 125 maanden  |   | € 15000,-  |
+| **1501-2500**  | 140 maanden  |   | € 20000,-  |
+| **2501-5000**  | 165 maanden  |   | € 27500,-  |
+| **5001 en meer**  | 200 maanden  |   | € 35000,-  |
 
 #### Rekentabel Harddrugs: eindproducten
 
@@ -632,7 +632,7 @@
 | **Tweede Veroordeling**  | 36 maanden  |   | €9000,-  |
 | **Meerdere Veroordelingen**  | 54 maanden  |   | €10000,-  |
 
-|***`50> eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|***`41-50 eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
 |  **Eerste Veroordeling** | 62 maanden  |  | € 11000,-  |
 | **Tweede Veroordeling**  | 80 maanden  |  | € 12000,-  |
@@ -640,13 +640,13 @@
 
 |***`eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **50-100** | 125 maanden  |  | € 13000,-  |
-| **100-150**  | 135 maanden  |  | € 14000,-  |
-| **150-250**  | 145 maanden  |   | € 15500,-  |
-| **250-500**  | 160 maanden  |   | € 17000,-  |
-| **500-1000**  | 190 maanden  |   | € 20000,-  |
-| **1000-2500**  | 220 maanden  |   | € 30000,-  |
-| **2500>**  | 275 maanden  |   | € 45000,-  |
+|  **51-100** | 125 maanden  |  | € 13000,-  |
+| **101-150**  | 135 maanden  |  | € 14000,-  |
+| **151-250**  | 145 maanden  |   | € 15500,-  |
+| **251-500**  | 160 maanden  |   | € 17000,-  |
+| **501-1000**  | 190 maanden  |   | € 20000,-  |
+| **1001-2500**  | 220 maanden  |   | € 30000,-  |
+| **2501 en meer**  | 275 maanden  |   | € 45000,-  |
 
 ### Artikel IV-2 Softdrugs (3 OW)
 
@@ -673,7 +673,7 @@
 | **Tweede Veroordeling**  |   | 50 uur  | € 3000,-  |
 | **Meerdere Veroordelingen**  | 12 maanden  |   | € 4000,-  |
 
-|***`250> ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|***`201-250> ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
 |  **Eerste Veroordeling** | 27 maanden  |  | € 5000,-  |
 | **Tweede Veroordeling**  | 40 maanden  |  | € 6000,-  |
@@ -681,13 +681,13 @@
 
 |***`ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **250-500** | 45 maanden  |  | € 6750,-  |
-| **500-750**  | 60 maanden  |  | € 7500,-  |
-| **750-1000**  | 75 maanden  |   | € 9000,-  |
-| **1000-1500**  | 95 maanden  |   | € 11500,-  |
-| **1500-2500**  | 120 maanden  |   | € 13500,-  |
-| **2500-5000**  | 150 maanden  |   | € 17500,-  |
-| **5000<**  | 175 maanden  |   | € 20000,-  |
+|  **251-500** | 45 maanden  |  | € 6750,-  |
+| **501-750**  | 60 maanden  |  | € 7500,-  |
+| **751-1000**  | 75 maanden  |   | € 9000,-  |
+| **1001-1500**  | 95 maanden  |   | € 11500,-  |
+| **1501-2500**  | 120 maanden  |   | € 13500,-  |
+| **2501-5000**  | 150 maanden  |   | € 17500,-  |
+| **5001 en meer**  | 175 maanden  |   | € 20000,-  |
 
 #### Rekentabel Softdrugs: eindproducten
 
@@ -703,7 +703,7 @@
 | **Tweede Veroordeling**  | 18 maanden  |   | € 6000,-  |
 | **Meerdere Veroordelingen**  | 45 maanden  |   | € 7000,-  |
 
-|***`50> eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|***`41-50 eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
 |  **Eerste Veroordeling** | 50 maanden  |   | € 8000,-  |
 | **Tweede Veroordeling**  | 54 maanden  |  | € 9000,-  |
@@ -711,13 +711,13 @@
 
 |***`eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **50-100** | 60 maanden  |  | € 9500,-  |
-| **100-150**  | 70 maanden  |  | € 10500,-  |
-| **150-250**  | 80 maanden  |   | € 11500,-  |
-| **250-500**  | 100 maanden  |   | € 15000,-  |
-| **500-1000**  | 125 maanden  |   | € 19500,-  |
-| **1000-2500**  | 160 maanden  |   | € 25000,-  |
-| **2500<**  | 190 maanden  |   | € 30000,-  |
+|  **51-100** | 60 maanden  |  | € 9500,-  |
+| **101-150**  | 70 maanden  |  | € 10500,-  |
+| **151-250**  | 80 maanden  |   | € 11500,-  |
+| **251-500**  | 100 maanden  |   | € 15000,-  |
+| **501-1000**  | 125 maanden  |   | € 19500,-  |
+| **1001-2500**  | 160 maanden  |   | € 25000,-  |
+| **2501 en meer**  | 190 maanden  |   | € 30000,-  |
 
 ## Titel V - Wet Wapens en Munitie
 
