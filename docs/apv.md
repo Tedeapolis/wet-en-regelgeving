@@ -393,7 +393,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
         * Zoals: Een voertuig die er overduidelijk achteraan rijd, meerdere personen die in het voertuig zitten zonder de goeie handelingen uit te voeren of niet de correcte kleding aan hebben.
     * Een persoon die verdachte handelingen doet bij een afleverpunt die niet passen bij de baan die de persoon op dat moment rijd
         * Zoals: alleen claxoneren bij een afleverpunt als je als ramen wasser rondrijd of dat je in een vuilniswagen het afval op een punt ophaalt door alleen te toeteren.
-2. Witwassen mag enkel in de voertuigen die je krijgt van het depot.
+2. Witwassen mag enkel in de voertuigen die je krijgt van het depot of een persoonlijk voertuig dat van het soortgelijkend model is.
 3. Een persoon herkennen uit het criminele circuit valt onder powergaming en is geen reden om diegene te overvallen.
 4. Een witwasser herkennen omdat hij rondom het startpunt rijdt valt onder powergaming.
 5. Iemand die een in een whitelisted job voertuig rijd met de gepaste kleding mag niet zomaar aan de kant gezet worden, dit valt onder powergaming.
@@ -423,9 +423,14 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 3. Overtreding van lid 1 zal resulteren in een straf van de 4e categorie.
 4. Overtreding van lid 2 zal resulteren in een minimale straf van de 1e categorie
 
+### Artikel 41 - Campen van een niet actieve drugslocatie
+
+1. Het campen van een niet actieve drugslocatie is niet toegestaan.
+2. Het overtreden van deze regel zal resulteren in een straf uit de 2e categorie.
+
 ## Overige bepalingen
 
-### Artikel 41 - Bodycams
+### Artikel 42 - Bodycams
 
 1. Bodycam beelden zijn op de volgende manier toegestaan
     * Overheidsdiensten zijn uitgerust met bodycams.
@@ -434,16 +439,16 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
     * Alle voertuigen inclusief overheidsvoertuigen kunnen enkel met een dashcam voor- of achteruit filmen. Zie [bijlage 1](/apv/#bijlage-1)
 2. De voorbeelden benoemd in lid zijn bedoeld in de context van Roleplay. Voor bewijsvoering in een ticket of report is alle beeldmateriaal toegestaan.
 
-### Artikel 42 - Journalistiek
+### Artikel 43 - Journalistiek
 
 1. Wanneer een journalist bezig is met een opname of live is, is het niet toegestaan deze te storen. Wanneer deze regel overtreden wordt zal dit resulteren in een ban tot de opname voorbij is en een straf volgens de 1e categorie.
 
-### Artikel 43 - Gezichtsbedekking
+### Artikel 44 - Gezichtsbedekking
 
 1. Het is verboden om gezichtsbedekkende kleding te dragen in het openbaar.
 Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 
-### Artikel 44 - Stemherkenning
+### Artikel 45 - Stemherkenning
 
 1. Het is toegestaan om een speler te herkennen aan zijn/haar stem, tenzij je hem/haar totaal niet kent.
 2. Bij de uitzondering in lid 1 dien je aan te kunnen tonen dat je de persoon daadwerkelijk kent.
@@ -451,11 +456,11 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 4. Het is toegestaan om gebruik te maken van externe software om je stem te vervormen gedurende het uitvoeren van criminele activiteiten, echter dient dit normaal te blijven. Robotstemmen, babystemmen en dergelijke zijn niet toegestaan. Als algemene richtlijn dient er aangehouden te worden dat je enkel je stem zwaarder mag maken.
 5. Het overtreden van de feiten beschreven in dit artikel zullen worden gestraft met een straf van de eerste categorie.
 
-### Artikel 45 - Streamsniping
+### Artikel 46 - Streamsniping
 
 1. Streamsnipen is ten strengste verboden. Ga jij spelers in game opzoeken aan de hand van iemand zijn/haar stream, of informatie gebruiken die jij uit zijn/haar stream haalt, zal dit bestraft worden volgens de 5e categorie.
 
-### Artikel 46 - Discord
+### Artikel 47 - Discord
 
 1. Het is niet toegestaan om externe discords te gebruiken voor roleplay gerelateerde zaken.
 2. Wanneer je met meerdere mensen die op TedeaPolis spelen in een voicecall zit, is streamen niet toegestaan en moet je gedeafened en gemute zijn. Als één persoon in-game is en de rest niet en je besluit om alsnog in een call te zitten zonder dat je gedeafened/gemute bent, ben je dus ook in overtreding van deze regel.
@@ -463,20 +468,20 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 4. Het overtreden van het feit genoemd in lid 1, 2 of 3 zal resulteren in een straf van de 1e categorie.
 5. Het overtreden van het feit genoemd in lid 1, 2 of 3 als eigenaar, moderator en/of stafflid van deze server zal resulteren in een straf van de 7e categorie.
 
-### Artikel 47 - Zelfdoding
+### Artikel 48 - Zelfdoding
 
 1. Bij een zelfmoord scenario moet de persoon in kwestie een account wipe krijgen en verplicht voor zijn nieuwe karakter een biografie schrijven. Mocht de persoon dit puur voor aandacht doen en niet uiteindelijk zijn/haar leven beëindigen, zal deze voor 200 uur naar de gevangenis gestuurd worden in isolatie.
 
-### Artikel 48 - Voertuigverlies in water (bij achtervolging)
+### Artikel 49 - Voertuigverlies in water (bij achtervolging)
 
 1. Wanneer men een voertuig dumpt tijdens een achtervolging, waar bij deze in het water terecht komt, zal deze 7 dagen in beslag genenomen worden, waarna er 30% van de nieuwprijs voor moet worden betaald om het voertuig weer op te halen.
 
-### Artikel 49 - Schieten van uit een voertuig
+### Artikel 50 - Schieten van uit een voertuig
 
 1. Het is verboden voor de bestuurder om van uit een voertuig een vuurwapen af te vuren.
 2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 1e categorie uitgedeeld.
 
-### Artikel 50 - Jobhoppen
+### Artikel 51 - Jobhoppen
 
 1. (Ex-)leden van een criminele organisatie dienen minimaal 7 kalenderdagen te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een overheidsbaan of een andere criminele organisatie, tenzij anders is bepaald door een lid van de hoge raad.
 2. (Ex-)medewerkers van een overheidsbaan dienen minimaal 7 kalenderdagen te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een andere overheidsbaan of een criminele organisatie, tenzij anders is bepaald door een lid van de hoge raad.
@@ -491,14 +496,14 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 | Overheidsbaan | Criminele organisatie | 7 kalenderdagen |
 | Criminele organisatie | Overheidsbaan | 7 kalenderdagen |
 
-### Artikel 51 - Deelname aan overheidsberoep
+### Artikel 52 - Deelname aan overheidsberoep
 
 1. Een werkgever van een overheidsberoep (Beschreven in [Artikel 28 lid 2](/#artikel-28-criminaliteit-ambtenaren)) is verplicht om een geldig VOG te kunnen overhandigen van zijn werknemers.
 2. Een werknemer moet in het bezit zijn van een geldig VOG als deze een overheidsberoep (Beschreven in [Artikel 28 lid 2](/#artikel-28-criminaliteit-ambtenaren)) uitvoert.
 3. Overtreding van lid 2 zal resulteren in een straf van de 2e categorie en ontslag bij dit beroep een verbod op uitoefenen hier van 1 maand.
 4. Als een werkgever herhaaldelijk lid 1 overtreed zal de Hogeraad zich buigen over een gepaste straf
 
-### Artikel 52 - Demonstreren
+### Artikel 53 - Demonstreren
 
 1. Het is verboden om in grote groepen samen te komen en te demonstreren zonder dat hier:
     * Schriftelijk toestemming voor is van de hogeraad.
@@ -507,25 +512,25 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 2. Bij overtreding van één van deze regel zullen alle betrokken personen een straf krijgen van de 2e categorie.
 3. Mocht de demonstratie uit de hand lopen indien deze wel voldoet aan lid 1 zal de leidinggevende persoon een straf krijgen van de 3e categorie.
 
-### Artikel 53 - Borgtocht
+### Artikel 54 - Borgtocht
 
 1. Op het moment dat een persoon op borgtocht wordt gestuurd door de politie, dan ligt het scenario tussen de politie en de desbetreffende persoon stil.
 2. Er dient aan alle voorwaarden van de borgtocht gehouden te worden.
 3. Het is niet toegestaan om spullen (zoals wapens, drugs en dergelijke) die vóór de aanhouding in het appartement/voertuig zaten hieruit te halen of over te dragen naar andere personen op het moment dat een persoon op borgtocht is gestuurd.
 4. Bij overtreding van lid 1, 2 of 3 zal een straf worden gegeven van de 1e categorie en zal het roleplayscenario worden teruggedraaid.
 
-### Artikel 54 - Refunds
+### Artikel 55 - Refunds
 
 1. Items worden niet gerefund wanneer zij verloren zijn gegaan door een aangekondigde server restart.
 2. Stacks aan items zoals drugs worden alleen gerefund bij het onverwachts wegvallen van de server door bijvoorbeeld een crash.
 3. Refunds die vallen onder lid 2 worden alleen gegeven wanneer er voldoende bewijs wordt geleverd dat het daadwerkelijk door het onverwachts wegvallen van de server verloren is gegaan.
 
-### Artikel 55 - Appartementen
+### Artikel 56 - Appartementen
 
 1. Het oplichten van een persoon, verkopen en inkopen van wapens, verkopen en opkopen van drugs, vermoorden of ontvoeren van een persoon en het gebruiken van een wapen zijn in een appartement verboden.
 2. Bij overtreding van lid 1. Zal dit resulteren in een straf volgens de 4e categorie voor alle betrokken partijen.
 
-### Artikel 56 - Erotische Roleplay(ERP)
+### Artikel 57 - Erotische Roleplay(ERP)
 
 1. Het is verboden om een Erotische roleplay uit te voeren of aan te gaan.
 2. Uitzondering van het feit genoemd in lid 1 zal binnen de Hoge Raad besproken moeten worden. Enkel voorbeeld hiervan:

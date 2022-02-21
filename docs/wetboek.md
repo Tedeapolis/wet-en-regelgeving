@@ -73,11 +73,12 @@
     2. Verwerking van de in beslag genomen goederen (behalve voertuigen) geschiedt volgens richtlijn van Politie;
 2. Wanneer een voertuig in beslag wordt genomen vanwege een strafbaar feit:
     1. Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek;
-    2. Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een strafbaar feit waarbij de eigenaar ook veroordeeld is, uitgekocht kunnen worden voor 20% van de cataloguswaarde;
-    3. Zal deze, wanneer, met inachtneming van de vorige regel, het voertuig tevens uit het water moest worden gehaald, uitgekocht kunnen worden voor 30% van de cataloguswaarde;
-    4. Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eigenaar geen strafbaar feit ten laste is gelegd, of kan gelegd worden, welke in directe zin gekoppeld is aan de reden van inbeslagname.
-    5. Wanneer het voertuig bewijsbaar onderdeel was van het strafbare feit en de eigenaar daarvan overleden is, dan zal het voertuig uitgekocht kunnen worden voor 20% van de cataloguswaarde.
-    6. Uitzonderingsgrond voor teruggave van het voertuig is, indien het een voertuig betreft zoals omschreven in Artikel III-14 Illegale voertuigen of indien een voertuig al drie keer in beslag is genomen. In dit geval zal het voertuig worden vernietigd of verkocht. Ook voertuigen die langer dan veertien (14) dagen in de opslag staan, zullen worden vernietigd of verkocht. Dit laatste geldt niet indien er bezwaar is aangetekend via het klachtenformulier van de politie of koninklijke marechaussee.
+    2. Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een strafbaar feit, uitgekocht kunnen worden op basis van de ernst van het strafbaar feit met een maximum van 20% van de catalogus waarde;
+    3. Zal deze, wanneer, met inachtneming van de vorige regel, het voertuig tevens uit het water moest worden gehaald, uitgekocht kunnen worden op toevoeging van 10% op het uitkooppercentage;
+    4. Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien aan is getoond dat het goed niet gebruikt is in het plegen van een strafbaar feit, of uit een strafbaar feit is verkregen, welke in directe zin gekoppeld is aan de reden van inbeslagname.
+    5. Zal deze kosteloos worden teruggegeven indien aan is getoond dat het voertuig als gestolen is opgegeven voor de tijd van het gepleegde strafbaar feit. Het opgeven als gestolen moet worden gedaan door middel van aangifte bij een ambtenaar in functie.
+    6. Wanneer het goed bewijsbaar onderdeel was van het strafbare feit en de eigenaar daarvan overleden is, dan zal het voertuig uitgekocht kunnen worden op basis van de ernst van het strafbaar feit. 
+    7. Uitzonderingsgrond voor teruggave van het voertuig is, indien het een voertuig betreft zoals omschreven in Artikel III-14 Illegale voertuigen of indien een voertuig al drie keer in beslag is genomen. In dit geval zal het voertuig worden vernietigd of verkocht. Ook voertuigen die langer dan veertien (14) dagen in de opslag staan, zullen worden vernietigd of verkocht. Dit laatste geldt niet indien er bezwaar is aangetekend via het klachtenformulier van de politie of koninklijke marechaussee.
 3. Geldige redenen voor inbeslagname zijn:
     1. Plegen van een strafbaar feit uit het wetboek van Tedeapolis waarbij het goed direct of indirect betrokken is, behalve fout parkeren en een snelheidsovertreding;
     2. Plegen van een misdrijf uit de Nederlandse wetgeving waarbij het goed direct of indirect betrokken is;
@@ -85,8 +86,9 @@
     4. Niet voldoen aan (verkeers)aanwijzing van bevoegde en als zodanig kenbare opsporingsambtenaar;
     5. Snelheidsovertreding van meer dan 100% van de maximumsnelheid;
     6. Op de openbare weg rijden met een voertuig met daarop een WOK-status.
-4. Alle bovenstaande leden gelden ook voor heli's en vliegtuigen.
-5. Meerdere notities voor het vliegen zonder vliegbrevet zal resulteren in een inbeslag name van het voertuig.
+4. Een voertuig mag terug worden gekocht voor 10% op basis van de ernst van het gepleegde strafbare feit. De ernst is ter beoordeling van een hOvJ/OvJ
+5. Alle bovenstaande leden gelden ook voor heli's en vliegtuigen.
+6. Meerdere notities voor het vliegen zonder vliegbrevet zal resulteren in een inbeslag name van het voertuig.
 
 ### A8 - Openstaande boetes
 
@@ -469,7 +471,14 @@
 | Te hard rijden 21 - 30KM/H | € 1000,- |
 | Te hard rijden 31 - 40KM/H | € 2000,- |
 | Te hard rijden 41 - 50KM/H | € 3000,- |
-| Te hard rijden 51 - 60KM/H | € 4500,- |
+| Te hard rijden 51 - 60KM/H | € 4000,- |
+| Te hard rijden 61 - 70KM/H | € 5000,- |
+| Te hard rijden 71 - 80KM/H | € 6000,- |
+| Te hard rijden 81 - 90KM/H | € 7000,- |
+| Te hard rijden 91 - 100KM/H | € 8000,- |
+| Te hard rijden 101 - 125 KM/H | € 10000,- |
+| Te hard rijden 126 - 150 KM/H | € 12500,- |
+| Te hard rijden 150+ KM/H | € 15000,- |
 
 | ***`Buiten de Bebouwde Kom`***  |   |
 |---|---|
@@ -479,6 +488,15 @@
 | Te hard rijden 31 - 40KM/H | € 1000,- |
 | Te hard rijden 41 - 50KM/H | € 1500,- |
 | Te hard rijden 51 - 60KM/H | € 2000,- |
+| Te hard rijden 61 - 70KM/H | € 2500,- |
+| Te hard rijden 71 - 80KM/H | € 3000,- |
+| Te hard rijden 81 - 90KM/H | € 3500,- |
+| Te hard rijden 91 - 100KM/H | € 4000,- |
+| Te hard rijden 101 - 125 KM/H | € 5000,- |
+| Te hard rijden 126 - 150 KM/H | € 7000,- |
+| Te hard rijden 151 - 175 KM/H | € 9000,- |
+| Te hard rijden 176 - 200 KM/H | € 11000,- |
+| Te hard rijden 200+ KM/H | € 15000,- |
 
 ### Artikel III-12 Voertuigeisen
 
@@ -584,7 +602,7 @@
 | **Tweede Veroordeling**  | 27 maanden  |   | € 6000,-  |
 | **Meerdere Veroordelingen**  | 54 maanden  |   | € 7000,-  |
 
-|***`250> ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|***`201-250 ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
 |  **Eerste Veroordeling** | 63 maanden  |  | € 8000,-  |
 | **Tweede Veroordeling**  | 72 maanden  |  | € 9000,-  |
@@ -592,13 +610,13 @@
 
 |***`ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **250-500** | 95 maanden  |  | € 10000,-  |
-| **500-750**  | 100 maanden  |  | € 11000,-  |
-| **750-1000**  | 110 maanden  |   | € 12000,-  |
-| **1000-1500**  | 125 maanden  |   | € 15000,-  |
-| **1500-2500**  | 140 maanden  |   | € 20000,-  |
-| **2500-5000**  | 165 maanden  |   | € 27500,-  |
-| **5000>**  | 200 maanden  |   | € 35000,-  |
+|  **251-500** | 95 maanden  |  | € 10000,-  |
+| **501-750**  | 100 maanden  |  | € 11000,-  |
+| **751-1000**  | 110 maanden  |   | € 12000,-  |
+| **1001-1500**  | 125 maanden  |   | € 15000,-  |
+| **1501-2500**  | 140 maanden  |   | € 20000,-  |
+| **2501-5000**  | 165 maanden  |   | € 27500,-  |
+| **5001 en meer**  | 200 maanden  |   | € 35000,-  |
 
 #### Rekentabel Harddrugs: eindproducten
 
@@ -614,7 +632,7 @@
 | **Tweede Veroordeling**  | 36 maanden  |   | €9000,-  |
 | **Meerdere Veroordelingen**  | 54 maanden  |   | €10000,-  |
 
-|***`50> eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|***`41-50 eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
 |  **Eerste Veroordeling** | 62 maanden  |  | € 11000,-  |
 | **Tweede Veroordeling**  | 80 maanden  |  | € 12000,-  |
@@ -622,13 +640,13 @@
 
 |***`eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **50-100** | 125 maanden  |  | € 13000,-  |
-| **100-150**  | 135 maanden  |  | € 14000,-  |
-| **150-250**  | 145 maanden  |   | € 15500,-  |
-| **250-500**  | 160 maanden  |   | € 17000,-  |
-| **500-1000**  | 190 maanden  |   | € 20000,-  |
-| **1000-2500**  | 220 maanden  |   | € 30000,-  |
-| **2500>**  | 275 maanden  |   | € 45000,-  |
+|  **51-100** | 125 maanden  |  | € 13000,-  |
+| **101-150**  | 135 maanden  |  | € 14000,-  |
+| **151-250**  | 145 maanden  |   | € 15500,-  |
+| **251-500**  | 160 maanden  |   | € 17000,-  |
+| **501-1000**  | 190 maanden  |   | € 20000,-  |
+| **1001-2500**  | 220 maanden  |   | € 30000,-  |
+| **2501 en meer**  | 275 maanden  |   | € 45000,-  |
 
 ### Artikel IV-2 Softdrugs (3 OW)
 
@@ -655,7 +673,7 @@
 | **Tweede Veroordeling**  |   | 50 uur  | € 3000,-  |
 | **Meerdere Veroordelingen**  | 12 maanden  |   | € 4000,-  |
 
-|***`250> ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|***`201-250> ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
 |  **Eerste Veroordeling** | 27 maanden  |  | € 5000,-  |
 | **Tweede Veroordeling**  | 40 maanden  |  | € 6000,-  |
@@ -663,13 +681,13 @@
 
 |***`ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **250-500** | 45 maanden  |  | € 6750,-  |
-| **500-750**  | 60 maanden  |  | € 7500,-  |
-| **750-1000**  | 75 maanden  |   | € 9000,-  |
-| **1000-1500**  | 95 maanden  |   | € 11500,-  |
-| **1500-2500**  | 120 maanden  |   | € 13500,-  |
-| **2500-5000**  | 150 maanden  |   | € 17500,-  |
-| **5000<**  | 175 maanden  |   | € 20000,-  |
+|  **251-500** | 45 maanden  |  | € 6750,-  |
+| **501-750**  | 60 maanden  |  | € 7500,-  |
+| **751-1000**  | 75 maanden  |   | € 9000,-  |
+| **1001-1500**  | 95 maanden  |   | € 11500,-  |
+| **1501-2500**  | 120 maanden  |   | € 13500,-  |
+| **2501-5000**  | 150 maanden  |   | € 17500,-  |
+| **5001 en meer**  | 175 maanden  |   | € 20000,-  |
 
 #### Rekentabel Softdrugs: eindproducten
 
@@ -685,7 +703,7 @@
 | **Tweede Veroordeling**  | 18 maanden  |   | € 6000,-  |
 | **Meerdere Veroordelingen**  | 45 maanden  |   | € 7000,-  |
 
-|***`50> eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|***`41-50 eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
 |  **Eerste Veroordeling** | 50 maanden  |   | € 8000,-  |
 | **Tweede Veroordeling**  | 54 maanden  |  | € 9000,-  |
@@ -693,13 +711,13 @@
 
 |***`eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **50-100** | 60 maanden  |  | € 9500,-  |
-| **100-150**  | 70 maanden  |  | € 10500,-  |
-| **150-250**  | 80 maanden  |   | € 11500,-  |
-| **250-500**  | 100 maanden  |   | € 15000,-  |
-| **500-1000**  | 125 maanden  |   | € 19500,-  |
-| **1000-2500**  | 160 maanden  |   | € 25000,-  |
-| **2500<**  | 190 maanden  |   | € 30000,-  |
+|  **51-100** | 60 maanden  |  | € 9500,-  |
+| **101-150**  | 70 maanden  |  | € 10500,-  |
+| **151-250**  | 80 maanden  |   | € 11500,-  |
+| **251-500**  | 100 maanden  |   | € 15000,-  |
+| **501-1000**  | 125 maanden  |   | € 19500,-  |
+| **1001-2500**  | 160 maanden  |   | € 25000,-  |
+| **2501 en meer**  | 190 maanden  |   | € 30000,-  |
 
 ## Titel V - Wet Wapens en Munitie
 
@@ -1031,11 +1049,10 @@
 | Tweede Veroordeling  |  | 25 uur | € 75000,-  |
 | Meerdere Veroordelingen  |  | 50 uur | € 100000,-  |
 
-### Artikel VIII-14 Werkzaam bedrijf zonder KvK-Inschrijving
+### Artikel VIII-15 Werkzaam bedrijf zonder KvK-Inschrijving
 
-1. Schuldig is een persoon die een omzet creëert doormiddel van zijn of haar bedrijf. en niet KvK ingeschreven staat.
-2. Een persoon die werkzaam bij een bedrijf wat niet kvk ingeschreven staat niet schuldig.
-3. Indien een opsporingsambtenaar merkt dat de schuldige nergens van afwist, dan kan deze zijn discretionaire bevoegdheid gebruiken om het af te doen met een waarschuwing in de vorm van een notitie.
+1. Schuldig is een persoon die een omzet creëert doormiddel van zijn of haar bedrijf en niet KvK ingeschreven staat.
+2. Indien een opsporingsambtenaar merkt dat de schuldige nergens van afwist, dan kan deze zijn discretionaire bevoegdheid gebruiken om het af te doen met een waarschuwing in de vorm van een notitie.
 
 |  |Celstraf  | Taakstraf  | boete  |
 |---|---|---|---|
@@ -1043,11 +1060,10 @@
 | Tweede Veroordeling  | 25 maanden |  | € 15000,-  |
 | Meerdere Veroordelingen  | 50 maanden |  | € 100000,-  |
 
-### Artikel VIII-15 Niet in bezit hebben van juiste vergunningen
+### Artikel VIII-16 Niet in bezit hebben van juiste vergunningen
 
 1. Schuldig is een persoon die een dienst levert waarvoor een onderscheidende vergunning vereist is, maar dit zonder doet.
 2. Indien een opsporingsambtenaar merkt dat de schuldige nergens van afwist, dan kan deze zijn discretionaire bevoegdheid gebruiken om het af te doen met een waarschuwing in de vorm van een notitie.
-3. Indien een opsporingsambtenaar merkt dat de schuldige nergens van afwist, dan kan deze zijn discretionaire bevoegdheid gebruiken om het af te doen met een waarschuwing in de vorm van een notitie.
 
 |  |Celstraf  | Taakstraf  | boete  |
 |---|---|---|---|
