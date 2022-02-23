@@ -416,12 +416,13 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 9. Bij overtreding van lid 7 en/of lid 8 zal een straf van de 5e categorie worden uitgedeeld en zal de functionaliteit voor deze groep worden uitgeschakeld voor een periode die vast wordt gesteld door de hoge raad.
 10. Bij herhaalde overtredingen van lid 1, 2, 3, 4 of 7 door een gang kan er worden overgegaan op gangstrikes.
 
-### Artikel 40 - Winkel en bank overvallen
+### Artikel 40 - Winkel- en bankovervallen
 
 1. Een gijzelaar mag geen kennis of vriend van je zijn, maar moet een onbekend persoon zijn.
 2. Het is niet de bedoeling dat elke overval een wild-west-situatie wordt, dus probeer op alle mogelijke manieren eerst een vuurgevecht te vermijden en onderhandel met de politie.
-3. Overtreding van lid 1 zal resulteren in een straf van de 4e categorie.
-4. Overtreding van lid 2 zal resulteren in een minimale straf van de 1e categorie
+3. Het is niet toegestaan om tussen 1:30 en 2:00 ('s nachts) een bank- of winkeloverval te starten in verband met de restart.
+4. Overtreding van lid 1 zal resulteren in een straf van de 4e categorie.
+5. Overtreding van lid 2 en/of 3 zal resulteren in een minimale straf van de 1e categorie
 
 ### Artikel 41 - Campen van een niet actieve drugslocatie
 
