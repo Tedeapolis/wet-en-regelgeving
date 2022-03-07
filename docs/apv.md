@@ -534,7 +534,7 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 
 1. Het is verboden om een Erotische roleplay uit te voeren of aan te gaan.
 2. Uitzondering van het feit genoemd in lid 1 zal binnen de Hoge Raad besproken moeten worden. Enkel voorbeeld hiervan:
-    * Enkel dansen als stripper in de stripclub.
+    * Enkel dansen als dansers in clubs.
 3. Het overtreden van het feit genoemd in lid 1 zal resulteren in een straf van de 7e categorie.
 
 ## Narcopolis
