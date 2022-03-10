@@ -209,7 +209,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 2. Het is tevens verboden om te benoemen dat een persoon een artikel van de algemene plaatselijke verordering heeft overtreden. Indien een persoon een artikel van de APV heeft overtreden, neem dan de correcte stappen zoals het aanmaken van een report of een ticket.
 3. Het verbod zoals beschreven in lid 1 & 2 geldt niet voor medewerkers van de gemeenteraad (staffleden) indien zij een gesprek voeren ten behoeve van de uitvoering van hun werkzaamheden als gemeentelid. Dit geldt ook voor de personen waarmee zij in gesprek zijn.
 4. Indien de regel zoals genoemd in lid 1 & 2 overtreden wordt, wordt dit bestraft met een straf volgens categorie 1.
-5. Het foutief gebruiken van /looc dus om bijvoorbeeld te chatten, wordt bestratft met een minimale straf van de 1e categorie.
+5. Het foutief gebruiken van /looc dus om bijvoorbeeld te chatten, wordt bestraft met een minimale straf van de 1e categorie.
 
 ### Artikel 17 - Alt Characters
 
