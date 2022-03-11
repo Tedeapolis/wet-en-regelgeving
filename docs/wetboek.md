@@ -161,7 +161,7 @@
 
 1. Schuldig is een persoon die een goed wegneemt zonder daarvoor toestemming of enig recht toe te hebben, daarbij gebruik makende van geweld in enige vorm.
 2. Genoemd geweld is gebruikt bij de voorbereiding, diefstal of overval, of vlucht.
-3. Bij een poging tot diefstal met geweld / overval is de maximaal op te leggen straf 2/3 van de volledige strafeis
+3. Bij een poging tot diefstal met geweld / overval wordt de straf met 33% verminderd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -419,12 +419,13 @@
 1. Schuldig is een persoon die een plaats van verkeersongeval verlaat ongeacht of hij of zij schuldig was aan het veroorzaken daarvan.
 2. Wanneer daarbij een derde wordt achtergelaten in hulpeloze toestand wordt de straf verhoogd met 33%.
 3. Wanneer de persoon zich nadien, tijdig, alsnog meldt bij de politie zal worden afgezien van strafvervolging.
+4. Een eventuele rijontzegging is ter beoordeling van de dienstdoende ambtenaar.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
 |---|---|---|---|---|
-|  **Eerste Veroordeling** | 9 maanden |  | € 15000,-  |   |
-| **Tweede Veroordeling**  | 13 maanden  |  | € 16000,-  |   |
-| **Meerdere Veroordelingen**  | 22 maanden  |  | € 18000,-  |   |
+|  **Eerste Veroordeling** | 9 maanden |  | € 15000,-  | 12-24 uur |
+| **Tweede Veroordeling**  | 13 maanden  |  | € 16000,-  | 24-48 uur |
+| **Meerdere Veroordelingen**  | 22 maanden  |  | € 18000,-  | 72 uur |
 
 ### Artikel III-8 Rijden onder invloed (8 WVW)
 
@@ -454,6 +455,7 @@
     1. dubbelparkeren of het moedwillig doorkruisen van parkeervakken;
     2. het parkeren langs een rode trottoirrand;
     3. volledig parkeren op de stoep;
+    4. parkeren op een plaats enkel bestemd voor dienst voertuigen;
 2. De vastgestelde boete voor bovenstaande acties is € 1750,-
 
 ### Artikel III-11 Snelheidsovertredingen
