@@ -1135,15 +1135,18 @@
 5. Niet schuldig is tevens een persoon die, gelet op artikel 4, zijn of haar voertuig na passeren van de grens, met inachtneming van enige redelijkheid van afstand en tijd, tot stilstand brengt om alsnog te worden gecontroleerd.
 6. De straf gegeven voor de overtredingen als bedoeld in lid 1 en 2 wordt gegeven in de vorm van een boete van €10000 voor de eerste maal en €15000 voor alle opvolgende malen.
 
-### Artikel X-2 Bevoegdheden douane om aan controle te onderwerpen (Artikel 1:28 Algemene Douanewet)
+### Artikel X-2 Bepalingen inzake douanetoezicht en douanecontrole (Artikel 1:26 en 1:27 en 1:28)
 
-1. De douane is bevoegd om personen en/of vervoermiddelen aan controle te onderwerpen bij locaties die bekend zijn als grensinspectiepost.
-2. De douane is bevoegd personen die aanwezig zijn in of op de bedoelde locaties van lid 1 aan fouillering te onderwerpen.
+1. De douane is bevoegd aan controle te onderwerpen:
+	1. Personen en/of vervoermiddelen en/of plaatsen voor distributie en overslag voor goederen die over de weg worden vervoerd, havens, haventerreinen, luchthavens, grensinspectiepost en luchtvaartterreinen.
+	2. Controle zoals beschreven in lid 1 is alleen van toepassing op gebieden die staan gemarkeerd als douanegebied op de douanekaart. Zie hiervoor de kaart douanegebieden in het wetboek.
+	3. Uitzondering op lid 1b betreft vervoersmiddelen en/of personen, die aantoonbaar door de douane, vanuit open wateren het binnenland of binnenwater betreden.
+2. Onder controle in de zin van lid 1 wordt mede verstaan doorzoeking en fouillering.
 3. Fouillering geschiedt op een besloten plaats door dienstdoend personeel die van hetzelfde geslacht zijn als de persoon die aan fouillering wordt onderworpen.
-4. Onder fouillering zoals beschreven wordt verstaan: het onderzoek aan de kleding; en/of het verwijderen van de kleding, teneinde deze aan een nauwkeurig onderzoek te onderwerpen. Verwijderen van onderkleding is niet toegestaan.
-5. De douane is bevoegd vervoermiddelen die aanwezig zijn in of op de bedoelde locaties van lid 1 te doorzoeken.
-6. Personen zijn op vordering van de douane gehouden stil te staan en deze te volgen naar een door hem aangewezen plaats.
-7. Op vordering van de douane zijn reizigers, die zich bevinden in een vervoermiddel op de bedoelde locaties van lid 1, gehouden hun identiteit- en/of rijbewijs te vertonen. Deze verplichting geldt eveneens voor reizigers die in het vervoermiddel aanwezig zijn of juist hebben verlaten, dan wel die op het punt staan daarin aan boord te gaan.
+4. Onder fouillering zoals beschreven in lid 2 en lid 3 wordt verstaan: het onderzoek aan de kleding; en/of het verwijderen van de kleding, teneinde deze aan een nauwkeurig onderzoek te onderwerpen. Verwijderen van onderkleding is niet toegestaan.
+5. De douane is bevoegd met het oog op de uitoefening van de bevoegdheden, zoals bedoeld in dit artikel, de bestuurder dan wel de gezagvoerder van het vervoermiddel te vorderen dat deze zijn vervoermiddel vaart laat minderen, bijdraait, landt, stilhoudt, naar een door hem aangewezen plaats overbrengt, aanlegt en de motor buiten werking stelt. De in dit lid bedoelde personen zijn gehouden aan de vordering te voldoen.
+6. De douane is bevoegd personen die aanwezig zijn in of op de in dit artikel bedoelde locaties of vervoermiddelen of deze juist gaan betreden of hebben verlaten aan fouillering te onderwerpen.
+7. De douane maakt van zijn bevoegdheden slechts gebruik voorzover dat redelijkerwijs voor de vervulling van zijn taak nodig is.
 
 ---------------------
 *Wetboek Tedeapolis is opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Tedeapolis”, opgetekend door Bram Mosterdfiets, te Tedeapolis.*
