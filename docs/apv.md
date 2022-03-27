@@ -400,7 +400,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 5. Iemand die een in een whitelisted job voertuig rijd met de gepaste kleding mag niet zomaar aan de kant gezet worden, dit valt onder powergaming.
 6. Het overtreden van de bovenstaande regels zal worden bestraft worden met een straf van de 1e categorie.
 7. De overvaller dient op het moment van overvallen beelden te kunnen overhandingen aan de staffleden. Mocht dit niet gedaan kunnen worden, zal er een straf van de 2e categorie gegeven worden.
-8. Het campen/opwachten op wiwas locaties en het depot is verboden. Dit zal bestraft worden volgens de 2e categorie.
+8. Het campen/opwachten op witwas locaties en het depot is verboden. Dit zal bestraft worden volgens de 2e categorie.
 
 ### Artikel 39 - Officiële gang regels
 
