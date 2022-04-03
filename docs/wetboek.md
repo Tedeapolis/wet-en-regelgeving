@@ -73,7 +73,7 @@
     2. Verwerking van de in beslag genomen goederen (behalve voertuigen) geschiedt volgens richtlijn van Politie;
 2. Wanneer een voertuig in beslag wordt genomen vanwege een strafbaar feit:
     1. Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek;
-    2. Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een strafbaar feit, uitgekocht kunnen worden op basis van de ernst van het strafbaar feit;
+    2. Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een strafbaar feit, uitgekocht kunnen worden op basis van de ernst van het strafbaar feit, 24 uur nadat de inbeslagname is geregistreerd in de politiesystemen;
     3. Zal deze, wanneer, met inachtneming van de vorige regel, het voertuig tevens uit het water moest worden gehaald, uitgekocht kunnen worden op toevoeging van 10% op het basisuitkooppercentage;
     4. Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien aan is getoond dat het goed niet gebruikt is in het plegen van een strafbaar feit, of uit een strafbaar feit is verkregen, welke in directe zin gekoppeld is aan de reden van inbeslagname.
     5. Zal deze kosteloos worden teruggegeven indien aan is getoond dat het voertuig als gestolen is opgegeven voor de tijd van het gepleegde strafbaar feit. Het opgeven als gestolen moet worden gedaan door middel van aangifte bij een ambtenaar in functie.
