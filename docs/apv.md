@@ -1,11 +1,11 @@
-# Algemene Plaatselijke Verordening Tedeapolis 2021
+# Algemene Plaatselijke Verordening Tedeapolis
 
 ## Wetstechnische informatie
 
 | | |
 |---|---|
 | Overheidsorganisatie      | Hoge Raad Tedeapolis |
-| Officiële naam regeling   | Algemene Plaatselijke Verordening Tedeapolis 2021 |
+| Officiële naam regeling   | Algemene Plaatselijke Verordening Tedeapolis|
 | Citeertitel               | Algemene Plaatselijke Verordening Tedeapolis|
 | Vastgesteld door          | De Hoge Raad|
 | Onderwerp                 | Openbare orde en veiligheid|
