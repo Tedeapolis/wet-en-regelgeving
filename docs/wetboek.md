@@ -80,7 +80,7 @@
     6. Wanneer het goed bewijsbaar onderdeel was van het strafbare feit en de eigenaar daarvan overleden is, dan zal het voertuig ook uitgekocht moeten worden volgens de standaardregels.
     7. Uitzonderingsgrond voor teruggave van het voertuig is, indien het een voertuig betreft zoals omschreven in Artikel III-14 Illegale voertuigen of indien een voertuig al drie keer in beslag is genomen. In dit geval zal het voertuig worden vernietigd of verkocht. Ook voertuigen die langer dan veertien (14) dagen in de opslag staan, zullen worden vernietigd of verkocht. Dit laatste geldt niet indien er bezwaar is aangetekend via het klachtenformulier van de politie of koninklijke marechaussee.
 3. Geldige redenen voor inbeslagname zijn:
-    1. Plegen van een strafbaar feit uit het wetboek van Tedeapolis waarbij het goed direct of indirect betrokken is, behalve fout parkeren en een snelheidsovertreding;
+    1. Plegen van een strafbaar feit uit het wetboek van Tedeapolis waarbij het goed direct of indirect betrokken is, behalve fout parkeren en een snelheidsovertreding met uitzondering zoals beschreven in lid E van dit artikel;
     2. Plegen van een misdrijf uit de Nederlandse wetgeving waarbij het goed direct of indirect betrokken is;
     3. Niet stoppen voor stopteken gegeven door middel van een politietransparant of rode lamp;
     4. Niet voldoen aan (verkeers)aanwijzing van bevoegde en als zodanig kenbare opsporingsambtenaar;
