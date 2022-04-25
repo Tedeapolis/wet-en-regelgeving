@@ -153,6 +153,9 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Poging tot moord op een overheidsmedewerker | € 19150,- |
 | Moord | € 20000,- |
 | Moord op een overheidsmedewerker | € 26600,- |
+| Gekwalifiseerde diefstal eerste veroordeling | € 15000,- |
+| Gekwalifiseerde diefstal tweede veroordeling | € 17500,- |
+| Gekwalifiseerde diefstal derde veroordeling | € 25000,- |
 | Overval | € 20000,- |
 | Witwassen | € 15000,- |
 | Betreden van verboden militair domein eerste veroordeling | € 10000,- |
