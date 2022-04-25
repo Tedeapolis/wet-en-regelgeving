@@ -155,7 +155,7 @@
 
 ### Artikel I-2 Gekwalificeerde Diefstal (311 SR)
 
-1. Schuldig is een persoon die een diefstal pleegt gedurende de voor de nachtrust bestemde tijd, in een woning of op een besloten erf waarop een woning staat, door iemand die zich aldaar buiten weten of tegen de wil van de rechthebbende bevindt. 
+1. Schuldig is een persoon die een diefstal pleegt in een woning of op een besloten erf waarop een woning staat, door iemand die zich aldaar buiten weten of tegen de wil van de rechthebbende bevindt. 
 2. Schuldig is een persoon die een diefstal pleegt in vereniging. 
 3. Schuldig is een persoon die een diefstal pleegt waarbij de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft of het weg te nemen goed onder zijn bereik heeft gebracht door middel van braak, verbreking of inklimming, van valse sleutels, van een valse order of een vals kostuum;
 4. Bij een poging tot gekwalificeerde diefstal wordt de straf met 33% verminderd.
