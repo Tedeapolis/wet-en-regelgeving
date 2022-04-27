@@ -85,6 +85,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
     * Het counteren van een overval wanneer er al roleplay gestart is tussen de politie en de overvallers die al ter plaatse zijn.
     * Het hebben van keybinds voor /me of /do acties
     * Het gebruik maken van je "Veters" in de cel om iemand af te boeien en daardoor vrij te kunnen breken
+    * Het willekeurig overvallen van Ambulance medewerkers om wapens te zoeken
 
 ### Artikel 2 - Cheats
 
