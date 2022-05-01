@@ -85,6 +85,8 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
     * Het counteren van een overval wanneer er al roleplay gestart is tussen de politie en de overvallers die al ter plaatse zijn.
     * Het hebben van keybinds voor /me of /do acties
     * Het gebruik maken van je "Veters" in de cel om iemand af te boeien en daardoor vrij te kunnen breken
+    * Het willekeurig overvallen van Ambulance medewerkers om wapens te zoeken
+    * Het controleren van kofferbakken zonder enige aanleiding
 
 ### Artikel 2 - Cheats
 
@@ -294,19 +296,20 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 1. Het overvallen/oplichten/bestelen van mensen is verboden, dit mag alleen wanneer een persoon bezig is met criminele activiteiten.
 2. Met betrekking tot de volgende dingen/situaties is overvallen/oplichten niet toegestaan:
     * Het stelen/overvallen van bankgeld
-    * Voertuigen (muv. tunes)
     * Loodsen
     * Spelers te overvallen, te ontvoeren of negatief te bejegenen bij het gemeentehuis
     * Facturen en/of andere items welke gerelateerd aan een baan zijn
     * Overheids voorwerpen
     * Onder dwang iemand zijn huis betreden en dan leegroven
-3. Voertuigen kunnen ook niet meer gebruikt worden bij illegale deals en kunnen enkel met legaal geld gekocht worden.
-4. Het is de verantwoordelijkheid van de kopende partij om te controleren of de aangeboden aanpassingen (ook wel bekend als tunes) op het voertuig aanwezig zijn ten tijde van overdracht van het voertuig. Het is dus volledig jouw eigen risico wanneer je er voor kiest om niet de tunes te controleren. Wanneer je moedwillig alsnog mensen gaat scammen met tunes kan hier alsnog op gestraft worden.
-5. Met criminele activiteiten zoals vermeld in lid 1 worden dingen met betrekking tot drugs, overvallen, witwassen, het dragen van een masker, kogelwerend vest, holster etc bedoeld, en dus geen overtredingen.
-6. Bij een overtreding van de wet in lid 1 en/of lid 2 wordt de persoon gestraft volgens de 4e categorie en wordt het geld teruggegeven aan het slachtoffer. Wanneer de persoon het geld al heeft uitgegeven zal het resulteren in straf van de 8e categorie.
-7. Hou hiermee wel rekening dat het bij het vergrijp zoals beschreven in lid 1 niet de bedoeling is hiermee misbruik te maken van onwetendheid van mensen, dus vermijd het oplichten van nieuwe spelers.
-8. Het is voor criminelen toegestaan om mensen gedurende langere tijd te ondervragen en/of te martelen. Echter mag dit maximaal circa 2 uur duren. Er dient ook goede roleplay aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
-9. Bij een overtreding van de regel in lid 6 wordt de persoon gestraft volgens de 1e categorie en zal het scenario onmiddellijk worden teruggedraaid.
+3. Met betrekking tot de volgende dingen/situaties is oplichten niet toegestaan:
+    * Voertuigen (muv. tunes)
+4. Voertuigen kunnen ook niet meer gebruikt worden bij illegale deals en kunnen enkel met legaal geld gekocht worden.
+5. Het is de verantwoordelijkheid van de kopende partij om te controleren of de aangeboden aanpassingen (ook wel bekend als tunes) op het voertuig aanwezig zijn ten tijde van overdracht van het voertuig. Het is dus volledig jouw eigen risico wanneer je er voor kiest om niet de tunes te controleren. Wanneer je moedwillig alsnog mensen gaat scammen met tunes kan hier alsnog op gestraft worden.
+6. Met criminele activiteiten zoals vermeld in lid 1 worden dingen met betrekking tot drugs, overvallen, witwassen, het dragen van een masker, kogelwerend vest, holster etc bedoeld, en dus geen overtredingen.
+7. Bij een overtreding van de wet in lid 1 en/of lid 2 en/of lid 3 wordt de persoon gestraft volgens de 4e categorie en wordt het geld teruggegeven aan het slachtoffer. Wanneer de persoon het geld al heeft uitgegeven zal het resulteren in straf van de 8e categorie.
+8. Hou hiermee wel rekening dat het bij het vergrijp zoals beschreven in lid 1 niet de bedoeling is hiermee misbruik te maken van onwetendheid van mensen, dus vermijd het oplichten van nieuwe spelers.
+9. Het is voor criminelen toegestaan om mensen gedurende langere tijd te ondervragen en/of te martelen. Echter mag dit maximaal circa 2 uur duren. Er dient ook goede roleplay aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
+10. Bij een overtreding van de regel in lid 7 wordt de persoon gestraft volgens de 1e categorie en zal het scenario onmiddellijk worden teruggedraaid.
 
 ### Artikel 28 - Criminaliteit & Ambtenaren
 
@@ -322,7 +325,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 ### Artikel 29 - Overheidsvoertuigen
 
 1. Je mag als je geen ambtenaar in dienst bent geen overheidsvoertuigen besturen.
-2. Hij/zij die zich schuldig maakt aan het stelen van overheidsvoertuigen als beschreven in lid 1 zal bestraft worden met een straf volgens categorie 1 dit is ter beoordeling van het desbetreffende stafflid.
+2. Hij/zij die zich schuldig maakt aan het stelen van overheidsvoertuigen als beschreven in lid 1 zal bestraft worden met een straf volgens categorie 2e dit is ter beoordeling van het desbetreffende stafflid.
 
 ### Artikel 30 - Juist gebruik van baan voertuigen
 
