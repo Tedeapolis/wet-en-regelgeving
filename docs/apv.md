@@ -324,7 +324,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 ### Artikel 29 - Overheidsvoertuigen
 
 1. Je mag als je geen ambtenaar in dienst bent geen overheidsvoertuigen besturen.
-2. Hij/zij die zich schuldig maakt aan het stelen van overheidsvoertuigen als beschreven in lid 1 zal bestraft worden met een straf volgens categorie 1 dit is ter beoordeling van het desbetreffende stafflid.
+2. Hij/zij die zich schuldig maakt aan het stelen van overheidsvoertuigen als beschreven in lid 1 zal bestraft worden met een straf volgens categorie 2e dit is ter beoordeling van het desbetreffende stafflid.
 
 ### Artikel 30 - Juist gebruik van baan voertuigen
 
