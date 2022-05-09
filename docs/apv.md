@@ -254,15 +254,15 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 4. Het feit genoemd in lid 1 en lid 2 wordt gezien als "FailRP".
 5. Dit zal gestraft worden met een straf van de eerste categorie.
 
-### Artikel 23 - Cardealers/Carmeetings
+### Artikel 23 - Voertuig handelaar / Voertuig meetings
 
-1. Een cardealer mag enkel uitgevoerd worden wanneer hiervoor goedkeuring is vanuit justitie.
-2. Een cardealer mag maximaal 10 voertuigen in hun “showroom” zetten.
-3. Een cardealer mag zich enkel vestigen op een, door justitie, aangewezen locatie.
-4. Een cardealer dient officiële vergunningen te hebben, ondertekend door een lid van justitie, waarin de locatie vermeld staat.
+1. Een voertuig handelaar mag enkel uitgevoerd worden wanneer hiervoor goedkeuring is vanuit justitie.
+2. Een voertuig handelaar mag maximaal 10 voertuigen in hun “showroom” zetten.
+3. Een voertuig handelaar mag zich enkel vestigen op een, door justitie, aangewezen locatie.
+4. Een voertuig handelaar dient officiële vergunningen te hebben, ondertekend door een lid van justitie, waarin de locatie vermeld staat.
 5. Bij overtreding van lid 1, 2, 3 en/of 4 zullen gestraft worden middels een straf volgens de 2e categorie.
 6. Tevens zullen alle voertuigen weggehaald worden middels /dvf.
-7. Bij Carmeetings mogen maximaal 20 voertuigen aanwezig zijn. Wordt er geconstateerd door een stafflid, dat er teveel voertuigen aanwezig zijn en de server daar problemen door ondervindt, dan zal er aan de organisator een straf worden uitgedeeld van minimaal de 2e categorie. 
+7. Bij voertuig meetings mogen maximaal 20 voertuigen aanwezig zijn. Wordt er geconstateerd door een stafflid, dat er teveel voertuigen aanwezig zijn en de server daar problemen door ondervindt, dan zal er aan de organisator een straf worden uitgedeeld van minimaal de 2e categorie. 
 
 ## Overtredingen - Schade des persoons
 
@@ -358,13 +358,16 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 ### Artikel 34 - Roleplay & Ledenaantal Criminele Organisaties
 
-1. Criminele organisaties mogen een maximaal ledenaantal hebben van 25 personen, hierin is een vrije keuze voor het aantal leden met de 'loopjongens' rang (onder loopjongens word gezien officiële leden die zich nog moeten bewijzen en geen toegang hebben tot het F6 menu).
-2. Bij een overtreding van het ledenaantal genoemd in lid 1 zal een straf worden uitgedeeld volgens de 1e categorie aan de eigena(a)r(en) & deelnemers van de organisatie.
-3. Bij herhaling van het overtreden van lid 1, zal er een straf van de 2e categorie volgen.
-4. Criminele organisaties mogen met een maximum aantal van 20 personen een roleplayscenario houden, dit mag met hun volledige organisatie of met leden van andere Officiële of onofficiële gangs of personen, mits dit een geldige en logische reden heeft in de roleplay.
-5. Criminele organisaties mogen onderling met elkaar samenwerken met een maximum van 2 organisaties in een tijdsduur van 2 uur, op voorwaarde dat er geen volledige samenwerking tussen alle organisaties ontstaat en met uitzondering van het witwassen van geld. Dit is ter beoordeling van de Hoge Raad van Tedeapolis.
-6. Bij overtreding van lid 4 & 5 zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het Roleplayscenario.
-7. Bij herhaling van het overtreden van lid 4 & 5, wordt er naast de straf van de 5e categorie ook een gang strike uitgedeeld.
+1. Onder "criminele organisaties" vallen alle officiële groepen gevestigd in Tedeapolis.
+2. Criminele organisaties mogen een maximaal ledenaantal van 25 personen hebben. Hierin is een vrije keuze voor het aantal leden met de "hangaround" rang. 
+3. Bij een overtreding van het ledenaantal genoemd in lid 2 zal een straf worden uitgedeeld volgens de 1e categorie aan de eigena(a)r(en) van de organisatie.
+4. Bij herhaling van het overtreden van lid 2 zal een straf van de 2e categorie volgen en wordt er een gangstrike uitgedeeld aan de organisatie.
+5. Criminele organisaties mogen met een maximum aantal van 20 personen een roleplay scenario houden. Dit mag met hun volledige organisatie of met leden van andere officiële of onofficïele organisatie. Hierbij geldt een maximum van 2 groepen die mogen samenwerken in een tijdsduur van 2 uur per dag. 
+6. Een voorwaarde voor het samenwerken tussen criminele organisaties is dat er geen volledige samenwerking tussen alle organisaties ontstaat en dat dit niet gebeurd tijdens het witwassen van geld. Dit is ter beoordeling van de Hoge Raad van Tedeapolis.
+7. Wanneer organisaties willen samenwerken met als doeleinde, het overvallen van drugsverkopers of verkopen van drugs geldt een maximum van 8 personen.
+8. Wanneer organisaties een samenwerking aangaan dient dit gemeld te worden volgens het format in het daarvoor aangemaakte kanaal in de Tedeapolis Discord.
+9. Bij overtreding of niet nakomen van lid 5, 6, 7 en/of 8 zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het roleplayscenario.
+10. Bij herhaling van het overtreden of niet nakomen van lid 5, 6, 7 en/of 8 zal naast een straf van de 5e categorie ook een gangstrike uitgedeeld worden.
 
 ### Artikel 35 - Gedrag Criminele Organisaties
 
