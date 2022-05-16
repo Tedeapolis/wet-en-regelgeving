@@ -343,9 +343,9 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |  100 maanden |  | € 22000,-  |
-| **Tweede Veroordeling**  |   | 125 maanden | € 25000,-  |
-| **Meerdere Veroordelingen**  | 150 maanden  |  | € 30000,-  |
+|  **Eerste Veroordeling** |  150 maanden |  | € 30000,-  |
+| **Tweede Veroordeling**  |   | 180 maanden | € 37500,-  |
+| **Meerdere Veroordelingen**  | 210 maanden  |  | € 45000,-  |
 
 ## Titel III - Verkeersdelicten
 
