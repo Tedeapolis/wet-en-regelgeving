@@ -119,8 +119,11 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Huisvredebreuk tweede veroordeling | € 4000,- |
 | Huisvredebreuk derde veroordeling | € 6000,- |
 | Diefstal eerste veroordeling | € 2000,- |
-| Diefstal tweede verroordeling | € 4000,- |
+| Diefstal tweede veroordeling | € 4000,- |
 | Diefstal derde veroordeling | € 6000,- |
+| Gekwalificeerde Diefstal eerste veroordeling | € 10000,- |
+| Gekwalificeerde Diefstal tweede veroordeling | € 12500,- |
+| Gekwalificeerde Diefstal derde veroordeling | € 15000,- |
 | Diefstal met geweld eerste veroordeling | € 2000,- |
 | Diefstal met geweld tweede verroordeling | € 4000,- |
 | Diefstal met geweld derde veroordeling | € 6000,- |
