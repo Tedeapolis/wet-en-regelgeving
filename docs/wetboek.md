@@ -1074,6 +1074,17 @@
 | Tweede Veroordeling  | 15 maanden |  | € 15000,-  |
 | Meerdere Veroordelingen  | 25 maanden |  | € 20000,-  |
 
+### Artikel VIII-17 Misdrijven tegen de openbare orde (131 SR)
+
+1. Hij die in het openbaar, mondeling of bij geschrift of afbeelding, tot enig strafbaar feit of tot gewelddadig optreden tegen het openbaar gezag opruit, wordt gestraft volgens onderstaande tabel. 
+2. Indien het strafbare feit waartoe wordt opgeruid een terroristisch misdrijf dan wel een misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf inhoudt, wordt de gevangenisstraf, gesteld op het in het eerste lid omschreven feit, met een derde verhoogd.
+
+|  |Celstraf  | Taakstraf  | boete  |
+|---|---|---|---|
+|  Eerste Veroordeling |  | 20 uur | € 2500,-  |
+| Tweede Veroordeling  | 20 maanden |  | € 5000,-  |
+| Meerdere Veroordelingen  | 40 maanden |  | € 10000,-  |
+
 ## Titel IX – Schadevergoeding
 
 ### Artikel IX-1 (Im)materiële schadevergoeding voor onterechte inverzekeringstelling of voorlopige hechtenis (artikel 533 sv)
