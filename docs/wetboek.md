@@ -145,19 +145,28 @@
 ### Artikel I-1 Diefstal (310 SR)
 
 1. Schuldig is een persoon die een goed, of voertuig, wegneemt zonder daarvoor toestemming of enig recht toe te hebben
-2. Bij feiten hieronder vemeld worden verzwarende omstandigheden in rekening gebracht met de daarbij horende strafmaat. in dit geval zal de straf die geëist wordt vermeerderd worden met 33%:
-3. Wanneer een diefstal gedurende voor de nachtrust bestemde tijd, in een woning of op een besloten erf waarop een woning staat, door iemand die aldaar buiten weten of tegen de wil van de rechthebbende bevindt. en/of;
-4. Wanneer diefstal die door twee of meerdere verenigde personen. en/of;
-5. Wanneer diefstal waarbij de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft of het weg te nemen goed onder zijn bereik heeft gebracht door middel van braak, verbreking of inklimming, van valse sleutels, van een valse order of een vals kostuum.
-6. Bij een poging tot diefstal is de maximaal op te leggen straf 2/3 van de volledige strafeis
+2. Bij een poging tot diefstal is de maximaal op te leggen straf 33% van de volledige strafeis
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 20 uur  | €2,000  |
-| **Tweede Veroordeling**  | 18 maanden  |  | €4,000  |
-| **Meerdere Veroordelingen**  | 36 maanden  |   | €6,000  |
+|  **Eerste Veroordeling** |   | 20 uur  | €10000,-  |
+| **Tweede Veroordeling**  | 18 maanden  |  | €12500,-  |
+| **Meerdere Veroordelingen**  | 36 maanden  |   | €15000,-  |
 
-### Artikel I-2 Diefstal met geweld / Overval (312 SR)
+### Artikel I-2 Gekwalificeerde Diefstal (311 SR)
+
+1. Schuldig is een persoon die een diefstal pleegt in een woning of op een besloten erf waarop een woning staat, door iemand die zich aldaar buiten weten of tegen de wil van de rechthebbende bevindt. 
+2. Schuldig is een persoon die een diefstal pleegt in vereniging. 
+3. Schuldig is een persoon die een diefstal pleegt waarbij de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft of het weg te nemen goed onder zijn bereik heeft gebracht door middel van braak, verbreking of inklimming, van valse sleutels, van een valse order of een vals kostuum;
+4. Bij een poging tot gekwalificeerde diefstal wordt de straf met 33% verminderd.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 50 uur  | €15000,-  |
+| **Tweede Veroordeling**  | 10 maanden  |  | €17500,-  |
+| **Meerdere Veroordelingen**  | 20 maanden  |   | €25000,-  |
+
+### Artikel I-3 Diefstal met geweld / Overval (312 SR)
 
 1. Schuldig is een persoon die een goed wegneemt zonder daarvoor toestemming of enig recht toe te hebben, daarbij gebruik makende van geweld in enige vorm.
 2. Genoemd geweld is gebruikt bij de voorbereiding, diefstal of overval, of vlucht.
@@ -169,7 +178,7 @@
 | **Tweede Veroordeling**  | 72 maanden  |  | € 25000,-  |
 | **Meerdere Veroordelingen**  | 108 maanden  |  | € 30000,-  |
 
-### Artikel I-3 Afpersing (317 SR)
+### Artikel I-4 Afpersing (317 SR)
 
 1. Schuldig is een persoon die met dwang gegevens of goederen opeist van een derde.
 2. Schuldig is een persoon die met dwang een actie forceert of eist van een derde.
@@ -180,7 +189,7 @@
 | **Tweede Veroordeling**  | 72 maanden  |  | € 10000,-  |
 | **Meerdere Veroordelingen**  | 108 maanden  |  | € 15000,-  |
 
-### Artikel I-4 Afdreiging / Chantage (318 SR)
+### Artikel I-5 Afdreiging / Chantage (318 SR)
 
 1. Schuldig is een persoon die gegevens of goederen opeist van een derde door bedreiging met smaad of openbaring van een geheim.
 2. Schuldig is een persoon die een actie forceert of eist van een derde door bedreiging met smaad of openbaring van een geheim.
@@ -191,7 +200,7 @@
 | **Tweede Veroordeling**  | 40 maanden  |   | € 10000,-  |
 | **Meerdere Veroordelingen**  | 90 maanden  |   | € 15000,-  |
 
-### Artikel I-5 Verduistering (321 SR)
+### Artikel I-6 Verduistering (321 SR)
 
 1. Schuldig is een persoon die geld of goederen, die niet middels een misdrijf verkregen zijn, maar wel toebehoren aan een ander, opzettelijk en wederrechtelijk toeëigent.
 
@@ -201,7 +210,7 @@
 | **Tweede Veroordeling**  |   | 30 uur  | € 7500,-  |
 | **Meerdere Veroordelingen**  |   | 60 uur  | € 10000,-  |
 
-### Artikel I-6 Heling (416 SR)
+### Artikel I-7 Heling (416 SR)
 
 1. Schuldig is een persoon die een goed, afkomstig uit een misdrijf, verwerft of hierop aanspraak maakt.
 2. Schuldig is een persoon die voordeel trekt uit opbrengst van een door misdrijf verkregen goed.
@@ -213,7 +222,7 @@
 | **Tweede Veroordeling**  |   | 30 uur  | € 4000,-  |
 | **Meerdere Veroordelingen**  |   | 60 uur  | € 5000,-  |
 
-### Artikel I-7 Witwassen (420bis SR)
+### Artikel I-8 Witwassen (420bis SR)
 
 1. Schuldig is een persoon die geld of goederen, verkregen uit misdrijf, vermengt of poogt te vermengen met het reguliere circuit van geld en goederen.
 
@@ -223,7 +232,7 @@
 | **Tweede Veroordeling**  | 54 maanden  |  | € 20000,-  |
 | **Meerdere Veroordelingen**  | 108 maanden  |  | € 25000,-  |
 
-### Artikel I-8 Geldige verklaring herkomst contanten (321 SR)
+### Artikel I-9 Geldige verklaring herkomst contanten (321 SR)
 
 1. Wanneer er tijdens aanhouding van een persoon door Politie of Koninklijke Marechaussee een geldbedrag, hoger dan € 15000,- aan contanten aangetroffen wordt bij die persoon, zal er om geldige verklaring van herkomst gevraagd worden.
 2. Wanneer deze verklaring niet bewijsbaar of redelijkerwijs aannemelijk is, dan heeft de Politie of Koninklijke Marechaussee de bevoegdheid dit bedrag in beslag te nemen voor onderzoek.
