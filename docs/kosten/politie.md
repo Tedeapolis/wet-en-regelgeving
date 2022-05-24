@@ -159,6 +159,9 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Gekwalifiseerde diefstal eerste veroordeling | € 15000,- |
 | Gekwalifiseerde diefstal tweede veroordeling | € 17500,- |
 | Gekwalifiseerde diefstal derde veroordeling | € 25000,- |
+| Terroristisch misdrijf eerste veroordeling | € 30000,- |
+| Terroristisch misdrijf tweede veroordeling | € 37500,- |
+| Terroristisch misdrijf derde veroordeling | € 45000,- |
 | Overval | € 20000,- |
 | Witwassen | € 15000,- |
 | Betreden van verboden militair domein eerste veroordeling | € 10000,- |
