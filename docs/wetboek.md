@@ -1165,26 +1165,24 @@
 	1. de officieren van justitie;
 	2. de ambtenaren van politie voor zover zij zijn aangesteld voor de uitvoering van de politietaak;
 	3. de ambtenaren van de Koninklijke marechaussee;
-	4. de opsporingsambtenaren van de Recherche en Dienst Speciale Interventies (DSI)
-	5. De bevoegdheid van ambtenaren met de opsporing van strafbare feiten belast, is beperkt tot het gebied waarvoor zij zijn aangesteld of waar zij in overeenstemming met de bepalingen van de Politiewet 2012 buiten dat grondgebied hun taak vervullen;
+	4. de opsporingsambtenaren van de Recherche en Dienst Speciale Interventies (DSI);
+	5. De bevoegdheid van ambtenaren die met de opsporing van strafbare feiten zijn belast, is beperkt tot het gebied waarvoor zij zijn aangesteld;
 
 ### Artikel XI-2 Wettige bewijsmiddelen (Artikel 338/339 SR)
 
-1. Het bewijs dat de verdachte het telastegelegde feit heeft begaan, kan door den rechter slechts worden aangenomen, indien hij daarvan uit het onderzoek op de terechtzitting door den inhoud van wettige bewijsmiddelen de overtuiging heeft bekomen.
+1. Het bewijs dat de verdachte het telastegelegde feit heeft begaan, kan door de rechter alleen worden aangenomen, indien de inhoud van wettige bewijsmiddelen de rechter de overtuiging heeft dat de verdachte het telastegelegde feit heeft begaan.
 2. Als wettige bewijsmiddelen worden alleen erkend:
-	1. eigen waarneming van den rechter. Onder eigen waarneming van den rechter wordt verstaan die welke bij het onderzoek op de terechtzitting door hem persoonlijk is geschied;
-	2. verklaringen van den verdachte. Onder verklaring van den verdachte wordt verstaan zijne bij het onderzoek op de terechtzitting gedane opgave van feiten of omstandigheden, hem uit eigen wetenschap bekend. Het bewijs dat de verdachte het telastegelegde feit heeft begaan, kan door den rechter niet uitsluitend worden aangenomen op de opgaven van den verdachte;
-	3. verklaringen van een getuige. Onder verklaring van een getuige wordt verstaan zijne bij het onderzoek op de terechtzitting gedane mededeeling van feiten of omstandigheden, welke hij zelf waargenomen of ondervonden heeft. Het bewijs dat de verdachte het telastegelegde feit heeft begaan, kan door den rechter niet uitsluitend worden aangenomen op de verklaring van één getuige;
-	4. verklaringen van een deskundige. Onder verklaring van een deskundige wordt verstaan zijn bij het onderzoek op de terechtzitting afgelegde verklaring over wat zijn wetenschap en kennis hem leren omtrent datgene wat aan zijn oordeel onderworpen is, al dan niet naar aanleiding van een door hem in opdracht uitgebracht deskundigenverslag;
-	5. schriftelijke bescheiden;
-3. Onder schriftelijke bescheiden worden verstaan:
-	1. beslissingen in den wettelijken vorm opgemaakt door colleges of personen met rechtspraak belast, alsmede in de wettelijke vorm opgemaakte strafbeschikkingen;
-	2. processen-verbaal en andere geschriften, in den wettelijken vorm opgemaakt door colleges en personen, die daartoe bevoegd zijn, en behelzende hunne mededeeling van feiten of omstandigheden, door hen zelf waargenomen of ondervonden;
-	3. geschriften opgemaakt door openbare colleges of ambtenaren, betreffende onderwerpen behoorende tot den onder hun beheer gestelden dienst, alsmede geschriften, opgemaakt door een persoon in de openbare dienst van een vreemde staat of van een volkenrechtelijke organisatie;
-	4. verslagen van deskundigen met het antwoord op de opdracht die aan hen is verleend tot het verstrekken van informatie of het doen van onderzoek, gebaseerd op wat hun wetenschap en kennis hen leren omtrent datgene wat aan hun oordeel onderworpen is;
-	5. alle andere geschriften; doch deze kunnen alleen gelden in verband met den inhoud van andere bewijsmiddelen;
+	1. eigen waarneming van de rechter. Denk hierbij bijvoorbeeld aan foto- en videomateriaal die de rechter op de zitting te zien krijgt.
+	2. verklaringen van den verdachte. Onder verklaring van den verdachte wordt verstaan de bij het onderzoek gedane opgave van feiten of omstandigheden, door verdachte zelf waargenomen of ondervonden. Het bewijs dat de verdachte het telastegelegde feit heeft begaan, kan door de rechter niet uitsluitend worden aangenomen op de verklaring van verdachte;
+	3. verklaringen van een getuige. Onder verklaring van een getuige wordt verstaan de bij het onderzoek gedane mededeling van feiten of omstandigheden, welke hij zelf waargenomen of ondervonden heeft. Het bewijs dat de verdachte het telastegelegde feit heeft begaan, kan door de rechter niet uitsluitend worden aangenomen op de verklaring van één getuige;
+	4. verklaringen van een deskundige. Onder verklaring van een deskundige wordt verstaan de bij het onderzoek afgelegde verklaring en oordeel op basis van zijn wetenschap en kennis;
+	5. schriftelijke stukken;
+3. Onder schriftelijke stukken worden verstaan:
+	1. processen-verbaal en andere geschriften, in de wettelijke vorm opgemaakt door colleges en personen, die daartoe bevoegd zijn, met mededeling van feiten of omstandigheden, door hen zelf waargenomen of ondervonden;
+	2. verslagen van deskundigen met het antwoord op de opdracht die aan hen is verleend tot het verstrekken van informatie of het doen van onderzoek, gebaseerd op wat hun wetenschap en kennis hen leren omtrent datgene wat aan hun oordeel onderworpen is;
+	3. alle andere geschriften; deze kunnen alleen gelden in verband met de inhoud van andere bewijsmiddelen;
 4. Feiten of omstandigheden van algemene bekendheid behoeven geen bewijs.
-5. Het bewijs dat de verdachte het telastegelegde feit heeft gepleegd, kan door den rechter worden aangenomen op het proces-verbaal van een opsporingsambtenaar. Uitgezonderd:
+5. Het bewijs dat de verdachte het telastegelegde feit heeft gepleegd, kan door de rechter worden aangenomen op alleen het proces-verbaal van een opsporingsambtenaar. Uitgezonderd:
 	1. strafbare feiten op basis van de opiumwet;
 	2. strafbare feiten op basis vermogensdelicten;
 	3. strafbare feiten op basis van geweldsdelicten;
