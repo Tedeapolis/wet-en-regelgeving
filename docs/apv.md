@@ -353,7 +353,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 4. Roleplay met de ANWB moet uitgebreid en realistisch zijn. Er wordt verwacht dat je eerlijk bent over hoe de schade is ontstaan. Ook dien je mee te werken met de roleplay en mag je de anwb medewerker niet forceren om voertuigen te repareren. Anwb medewerkers zijn ten allen tijde leidend in hun roleplay.
 5. Het is niet toegestaan om een melding te maken naar een overheidsinstantie met de intentie om degene die hierop reageert te vermoorden en/of te ontvoeren.
 6. Er moeten ten allen tijden vijf overheidsmedewerkers binnen een baan beschikbaar blijven nadat er één ontvoert is, dus als er 6 agenten aanwezig zijn mag er 1 ontvoert worden, als er 5 aanwezig zijn mag er geen ontvoert worden.
-7. Een uitzondering op lid 5 geldt voor de ambulance. Hierbij moeten er te allen tijde 7 medewerkers beschikbaar blijven. Kortom, als er 8 ambulancemedewerkers aanwezig zijn, dan mag er 1 à 2 ontvoerd worden.
+7. Een uitzondering op lid 6 geldt voor de ambulance. Hierbij moeten er te allen tijde 7 medewerkers beschikbaar blijven. Kortom, als er 8 ambulancemedewerkers aanwezig zijn, dan mag er 1 à 2 ontvoerd worden.
 8. Indien de regel(s) beschreven in dit artikel overtreden wordt/worden zal dit bestraft worden met een straf volgens de 1e categorie.
 
 ### Artikel 34 - Roleplay & Ledenaantal Criminele Organisaties
@@ -365,9 +365,10 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 5. Criminele organisaties mogen met een maximum aantal van 20 personen een roleplay scenario houden. Dit mag met hun volledige organisatie of met leden van andere officiële of onofficïele organisatie. Hierbij geldt een maximum van 2 groepen die mogen samenwerken in een tijdsduur van 2 uur per dag. 
 6. Een voorwaarde voor het samenwerken tussen criminele organisaties is dat er geen volledige samenwerking tussen alle organisaties ontstaat en dat dit niet gebeurd tijdens het witwassen van geld. Dit is ter beoordeling van de Hoge Raad van Tedeapolis.
 7. Wanneer organisaties willen samenwerken met als doeleinde, het overvallen van drugsverkopers of verkopen van drugs geldt een maximum van 8 personen.
-8. Wanneer organisaties een samenwerking aangaan dient dit gemeld te worden volgens het format in het daarvoor aangemaakte kanaal in de Tedeapolis Discord.
+8. Wanneer organisaties een samenwerking aangaan dient dit gemeld te worden volgens het [format](/apv/#bijlage-2) in het daarvoor aangemaakte kanaal in de Tedeapolis Discord.
 9. Bij overtreding of niet nakomen van lid 5, 6, 7 en/of 8 zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het roleplayscenario.
 10. Bij herhaling van het overtreden of niet nakomen van lid 5, 6, 7 en/of 8 zal naast een straf van de 5e categorie ook een gangstrike uitgedeeld worden.
+
 
 ### Artikel 35 - Gedrag Criminele Organisaties
 
@@ -627,6 +628,16 @@ Onderstaande regels tellen alleen op Narcopolis
 ### Bijlage 1
 
 ![bijlage-1](https://tedeapolis.nl/wp-content/uploads/2021/08/Schermafbeelding_2021-08-23_om_10.png)
+
+### Bijlage 2
+
+```md
+Op [datum] heeft [Eigen groepsnaam] een samenwerking opgesteld met [Andere groepsnaam].
+De samenwerking is gestart om [tijdstip].
+De samenwerking is geeindigd om [tijdstip].
+Het doel van deze samenwerking is [korte omschrijving van de samenwerking].
+```
+
 
 ---------------------
 APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Tedeapolis”, opgetekend door Bram Mosterdfiets, te Tedeapolis.

@@ -18,5 +18,5 @@ Tedeapolis heeft verschillende discord servers die zijn goed gekeurd door het st
 |Tedeapolis RolePlay| Main discord server van Tedeapolis | [Invite](https://discord.gg/tedeapolis) |
 |Tedeapolis Support| Support discord server van Tedeapolis | [Invite](https://discord.gg/uQ9jGA93yC) |
 |Tedeapolis Cardealer| Cardealer discord server van Tedeapolis | [Invite](https://discord.gg/UcCG2kn) |
-|Tedeapolis Flightschool| Vliegschool discord server van Tedeapolis | [Invite](https://discord.gg/auN5WCH) |
+|Tedeapolis Flightschool| Vliegschool discord server van Tedeapolis | [Invite](https://discord.gg/JMrvTrZqcz) |
 |Ministerie van Justitie en Veiligheid| Ministerie van Justitie en Veiligheid van Tedeapolis | [Invite](https://discord.gg/KPTt4ce5nw) |

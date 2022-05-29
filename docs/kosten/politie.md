@@ -119,8 +119,11 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Huisvredebreuk tweede veroordeling | € 4000,- |
 | Huisvredebreuk derde veroordeling | € 6000,- |
 | Diefstal eerste veroordeling | € 2000,- |
-| Diefstal tweede verroordeling | € 4000,- |
+| Diefstal tweede veroordeling | € 4000,- |
 | Diefstal derde veroordeling | € 6000,- |
+| Gekwalificeerde Diefstal eerste veroordeling | € 10000,- |
+| Gekwalificeerde Diefstal tweede veroordeling | € 12500,- |
+| Gekwalificeerde Diefstal derde veroordeling | € 15000,- |
 | Diefstal met geweld eerste veroordeling | € 2000,- |
 | Diefstal met geweld tweede verroordeling | € 4000,- |
 | Diefstal met geweld derde veroordeling | € 6000,- |
@@ -153,6 +156,12 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Poging tot moord op een overheidsmedewerker | € 19150,- |
 | Moord | € 20000,- |
 | Moord op een overheidsmedewerker | € 26600,- |
+| Gekwalifiseerde diefstal eerste veroordeling | € 15000,- |
+| Gekwalifiseerde diefstal tweede veroordeling | € 17500,- |
+| Gekwalifiseerde diefstal derde veroordeling | € 25000,- |
+| Terroristisch misdrijf eerste veroordeling | € 30000,- |
+| Terroristisch misdrijf tweede veroordeling | € 37500,- |
+| Terroristisch misdrijf derde veroordeling | € 45000,- |
 | Overval | € 20000,- |
 | Witwassen | € 15000,- |
 | Betreden van verboden militair domein eerste veroordeling | € 10000,- |
