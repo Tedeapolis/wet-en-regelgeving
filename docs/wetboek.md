@@ -339,6 +339,23 @@
 | **Tweede Veroordeling**  |   | 25 uur | € 4500,-  |
 | **Meerdere Veroordelingen**  | 9 maanden  |  | € 6000,-  |
 
+### Titel II-9 Terroristisch misdrijf (134a 142a SR)
+
+Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of een deel der bevolking van een land ernstige vrees aan te jagen, dan wel een overheid of internationale organisatie wederrechtelijk te dwingen iets te doen, niet te doen of te dulden, dan wel de fundamentele politieke, constitutionele, economische of sociale structuren van een land of een internationale organisatie ernstig te ontwrichten of te vernietigen.
+
+1. Schuldig is een persoon die zich of een ander opzettelijk gelegenheid, middelen of inlichtingen verschaft of tracht te verschaffen tot het plegen van een terroristisch misdrijf dan wel een misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf, dan wel zich kennis of vaardigheden daartoe verwerft of een ander bijbrengt.
+2. Schuldig is een persoon die een voorwerp verzendt of op een al dan niet voor het publiek toegankelijke plaats achterlaat of plaatst, en tot ontploffing brengt met het oogmerk op een terroristische daad.
+3. Schuldig is een persoon die een voorwerp verzendt of op een al dan niet voor het publiek toegankelijke plaats achterlaat of plaatst of hij die gegevens doorgeeft met het oogmerk een ander ten onrechte te doen geloven dat daardoor een ontploffing kan worden teweeggebracht.
+4. Toepassen van dit artikel kan enkel geschieden met toestemming van een (h)OvJ of een rechter.
+5. Veroordeling op dit artikel sluit verdere strafvervolging/veroordeling van andere strafbare feiten niet uit, tenzij het in strijd is met het Ne bis in idem beginsel zoals beschreven in artikel A10 - Algemene rechtsbeginselen.
+6. Bij veroordeling op basis van lid 3 wordt de straf met 33% verminderd.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 150 maanden  |  | € 30000,-  |
+| **Tweede Veroordeling**  | 180 maanden  |  | € 37500,-  |
+| **Meerdere Veroordelingen**  | 210 maanden  |  | € 45000,-  |
+
 ## Titel III - Verkeersdelicten
 
 ![Titel III](img/wetboek/verkeer.png)
