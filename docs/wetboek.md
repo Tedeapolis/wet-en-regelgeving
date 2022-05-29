@@ -54,7 +54,7 @@
 
 1. Straffen die enige vorm van celstraf bevatten kunnen leiden tot een strafblad.
 2. Een strafblad blijft staan voor een periode van 2 (realtime) maanden voor alle geweldsdelicten met celstraf, en 1 maand voor alle overige delicten met celstraf, ingaand op de datum van de opgelegde straf.
-3. Wanneer een nieuwe overtreding of een misdrijf wordt begaan, wordt de resterende tijd gereset naar de datum van de laatst opgelegde celstraf.
+3. Wanneer een nieuwe overtreding of een misdrijf wordt begaan, wordt de resterende tijd gereset naar de datum van de laatst opgelegde celstraf. Dit geldt enkel als het nieuwe strafblad langer blijft staan dan het huidige strafblad.
 
 ### A6 - Verduidelijking en algemene aanvulling
 
@@ -73,14 +73,14 @@
     2. Verwerking van de in beslag genomen goederen (behalve voertuigen) geschiedt volgens richtlijn van Politie;
 2. Wanneer een voertuig in beslag wordt genomen vanwege een strafbaar feit:
     1. Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek;
-    2. Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een strafbaar feit, uitgekocht kunnen worden op basis van de ernst van het strafbaar feit;
+    2. Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een strafbaar feit, uitgekocht kunnen worden op basis van de ernst van het strafbaar feit, 24 uur nadat de inbeslagname is geregistreerd in de politiesystemen;
     3. Zal deze, wanneer, met inachtneming van de vorige regel, het voertuig tevens uit het water moest worden gehaald, uitgekocht kunnen worden op toevoeging van 10% op het basisuitkooppercentage;
     4. Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien aan is getoond dat het goed niet gebruikt is in het plegen van een strafbaar feit, of uit een strafbaar feit is verkregen, welke in directe zin gekoppeld is aan de reden van inbeslagname.
     5. Zal deze kosteloos worden teruggegeven indien aan is getoond dat het voertuig als gestolen is opgegeven voor de tijd van het gepleegde strafbaar feit. Het opgeven als gestolen moet worden gedaan door middel van aangifte bij een ambtenaar in functie.
     6. Wanneer het goed bewijsbaar onderdeel was van het strafbare feit en de eigenaar daarvan overleden is, dan zal het voertuig ook uitgekocht moeten worden volgens de standaardregels.
-    7. Uitzonderingsgrond voor teruggave van het voertuig is, indien het een voertuig betreft zoals omschreven in Artikel III-14 Illegale voertuigen of indien een voertuig al drie keer in beslag is genomen. In dit geval zal het voertuig worden vernietigd of verkocht. Ook voertuigen die langer dan veertien (14) dagen in de opslag staan, zullen worden vernietigd of verkocht. Dit laatste geldt niet indien er bezwaar is aangetekend via het klachtenformulier van de politie of koninklijke marechaussee.
+    7. Uitzonderingsgrond voor teruggave van het voertuig is, indien het een voertuig betreft zoals omschreven in Artikel III-14 Illegale voertuigen of indien een voertuig voor de vierde keer in beslag wordt genomen. In dit geval zal het voertuig worden vernietigd of verkocht. Ook voertuigen die langer dan veertien (14) dagen in de opslag staan, zullen worden vernietigd of verkocht. Dit laatste geldt niet indien er bezwaar is aangetekend via het klachtenformulier van de politie of koninklijke marechaussee.
 3. Geldige redenen voor inbeslagname zijn:
-    1. Plegen van een strafbaar feit uit het wetboek van Tedeapolis waarbij het goed direct of indirect betrokken is, behalve fout parkeren en een snelheidsovertreding;
+    1. Plegen van een strafbaar feit uit het wetboek van Tedeapolis waarbij het goed direct of indirect betrokken is, behalve fout parkeren en een snelheidsovertreding met uitzondering zoals beschreven in lid E van dit artikel;
     2. Plegen van een misdrijf uit de Nederlandse wetgeving waarbij het goed direct of indirect betrokken is;
     3. Niet stoppen voor stopteken gegeven door middel van een politietransparant of rode lamp;
     4. Niet voldoen aan (verkeers)aanwijzing van bevoegde en als zodanig kenbare opsporingsambtenaar;
@@ -145,19 +145,28 @@
 ### Artikel I-1 Diefstal (310 SR)
 
 1. Schuldig is een persoon die een goed, of voertuig, wegneemt zonder daarvoor toestemming of enig recht toe te hebben
-2. Bij feiten hieronder vemeld worden verzwarende omstandigheden in rekening gebracht met de daarbij horende strafmaat. in dit geval zal de straf die geëist wordt vermeerderd worden met 33%:
-3. Wanneer een diefstal gedurende voor de nachtrust bestemde tijd, in een woning of op een besloten erf waarop een woning staat, door iemand die aldaar buiten weten of tegen de wil van de rechthebbende bevindt. en/of;
-4. Wanneer diefstal die door twee of meerdere verenigde personen. en/of;
-5. Wanneer diefstal waarbij de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft of het weg te nemen goed onder zijn bereik heeft gebracht door middel van braak, verbreking of inklimming, van valse sleutels, van een valse order of een vals kostuum.
-6. Bij een poging tot diefstal is de maximaal op te leggen straf 2/3 van de volledige strafeis
+2. Bij een poging tot diefstal is de maximaal op te leggen straf 33% van de volledige strafeis
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 20 uur  | €2,000  |
-| **Tweede Veroordeling**  | 18 maanden  |  | €4,000  |
-| **Meerdere Veroordelingen**  | 36 maanden  |   | €6,000  |
+|  **Eerste Veroordeling** |   | 20 uur  | €10000,-  |
+| **Tweede Veroordeling**  | 18 maanden  |  | €12500,-  |
+| **Meerdere Veroordelingen**  | 36 maanden  |   | €15000,-  |
 
-### Artikel I-2 Diefstal met geweld / Overval (312 SR)
+### Artikel I-2 Gekwalificeerde Diefstal (311 SR)
+
+1. Schuldig is een persoon die een diefstal pleegt in een woning of op een besloten erf waarop een woning staat, door iemand die zich aldaar buiten weten of tegen de wil van de rechthebbende bevindt. 
+2. Schuldig is een persoon die een diefstal pleegt in vereniging. 
+3. Schuldig is een persoon die een diefstal pleegt waarbij de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft of het weg te nemen goed onder zijn bereik heeft gebracht door middel van braak, verbreking of inklimming, van valse sleutels, van een valse order of een vals kostuum;
+4. Bij een poging tot gekwalificeerde diefstal wordt de straf met 33% verminderd.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 50 uur  | €15000,-  |
+| **Tweede Veroordeling**  | 10 maanden  |  | €17500,-  |
+| **Meerdere Veroordelingen**  | 20 maanden  |   | €25000,-  |
+
+### Artikel I-3 Diefstal met geweld / Overval (312 SR)
 
 1. Schuldig is een persoon die een goed wegneemt zonder daarvoor toestemming of enig recht toe te hebben, daarbij gebruik makende van geweld in enige vorm.
 2. Genoemd geweld is gebruikt bij de voorbereiding, diefstal of overval, of vlucht.
@@ -169,7 +178,7 @@
 | **Tweede Veroordeling**  | 72 maanden  |  | € 25000,-  |
 | **Meerdere Veroordelingen**  | 108 maanden  |  | € 30000,-  |
 
-### Artikel I-3 Afpersing (317 SR)
+### Artikel I-4 Afpersing (317 SR)
 
 1. Schuldig is een persoon die met dwang gegevens of goederen opeist van een derde.
 2. Schuldig is een persoon die met dwang een actie forceert of eist van een derde.
@@ -180,7 +189,7 @@
 | **Tweede Veroordeling**  | 72 maanden  |  | € 10000,-  |
 | **Meerdere Veroordelingen**  | 108 maanden  |  | € 15000,-  |
 
-### Artikel I-4 Afdreiging / Chantage (318 SR)
+### Artikel I-5 Afdreiging / Chantage (318 SR)
 
 1. Schuldig is een persoon die gegevens of goederen opeist van een derde door bedreiging met smaad of openbaring van een geheim.
 2. Schuldig is een persoon die een actie forceert of eist van een derde door bedreiging met smaad of openbaring van een geheim.
@@ -191,7 +200,7 @@
 | **Tweede Veroordeling**  | 40 maanden  |   | € 10000,-  |
 | **Meerdere Veroordelingen**  | 90 maanden  |   | € 15000,-  |
 
-### Artikel I-5 Verduistering (321 SR)
+### Artikel I-6 Verduistering (321 SR)
 
 1. Schuldig is een persoon die geld of goederen, die niet middels een misdrijf verkregen zijn, maar wel toebehoren aan een ander, opzettelijk en wederrechtelijk toeëigent.
 
@@ -201,7 +210,7 @@
 | **Tweede Veroordeling**  |   | 30 uur  | € 7500,-  |
 | **Meerdere Veroordelingen**  |   | 60 uur  | € 10000,-  |
 
-### Artikel I-6 Heling (416 SR)
+### Artikel I-7 Heling (416 SR)
 
 1. Schuldig is een persoon die een goed, afkomstig uit een misdrijf, verwerft of hierop aanspraak maakt.
 2. Schuldig is een persoon die voordeel trekt uit opbrengst van een door misdrijf verkregen goed.
@@ -213,7 +222,7 @@
 | **Tweede Veroordeling**  |   | 30 uur  | € 4000,-  |
 | **Meerdere Veroordelingen**  |   | 60 uur  | € 5000,-  |
 
-### Artikel I-7 Witwassen (420bis SR)
+### Artikel I-8 Witwassen (420bis SR)
 
 1. Schuldig is een persoon die geld of goederen, verkregen uit misdrijf, vermengt of poogt te vermengen met het reguliere circuit van geld en goederen.
 
@@ -223,7 +232,7 @@
 | **Tweede Veroordeling**  | 54 maanden  |  | € 20000,-  |
 | **Meerdere Veroordelingen**  | 108 maanden  |  | € 25000,-  |
 
-### Artikel I-8 Geldige verklaring herkomst contanten (321 SR)
+### Artikel I-9 Geldige verklaring herkomst contanten (321 SR)
 
 1. Wanneer er tijdens aanhouding van een persoon door Politie of Koninklijke Marechaussee een geldbedrag, hoger dan € 15000,- aan contanten aangetroffen wordt bij die persoon, zal er om geldige verklaring van herkomst gevraagd worden.
 2. Wanneer deze verklaring niet bewijsbaar of redelijkerwijs aannemelijk is, dan heeft de Politie of Koninklijke Marechaussee de bevoegdheid dit bedrag in beslag te nemen voor onderzoek.
@@ -329,6 +338,23 @@
 |  **Eerste Veroordeling** |   | 15 uur | € 3000,-  |
 | **Tweede Veroordeling**  |   | 25 uur | € 4500,-  |
 | **Meerdere Veroordelingen**  | 9 maanden  |  | € 6000,-  |
+
+### Titel II-9 Terroristisch misdrijf (134a 142a SR)
+
+Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of een deel der bevolking van een land ernstige vrees aan te jagen, dan wel een overheid of internationale organisatie wederrechtelijk te dwingen iets te doen, niet te doen of te dulden, dan wel de fundamentele politieke, constitutionele, economische of sociale structuren van een land of een internationale organisatie ernstig te ontwrichten of te vernietigen.
+
+1. Schuldig is een persoon die zich of een ander opzettelijk gelegenheid, middelen of inlichtingen verschaft of tracht te verschaffen tot het plegen van een terroristisch misdrijf dan wel een misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf, dan wel zich kennis of vaardigheden daartoe verwerft of een ander bijbrengt.
+2. Schuldig is een persoon die een voorwerp verzendt of op een al dan niet voor het publiek toegankelijke plaats achterlaat of plaatst, en tot ontploffing brengt met het oogmerk op een terroristische daad.
+3. Schuldig is een persoon die een voorwerp verzendt of op een al dan niet voor het publiek toegankelijke plaats achterlaat of plaatst of hij die gegevens doorgeeft met het oogmerk een ander ten onrechte te doen geloven dat daardoor een ontploffing kan worden teweeggebracht.
+4. Toepassen van dit artikel kan enkel geschieden met toestemming van een (h)OvJ of een rechter.
+5. Veroordeling op dit artikel sluit verdere strafvervolging/veroordeling van andere strafbare feiten niet uit, tenzij het in strijd is met het Ne bis in idem beginsel zoals beschreven in artikel A10 - Algemene rechtsbeginselen.
+6. Bij veroordeling op basis van lid 3 wordt de straf met 33% verminderd.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 150 maanden  |  | € 30000,-  |
+| **Tweede Veroordeling**  | 180 maanden  |  | € 37500,-  |
+| **Meerdere Veroordelingen**  | 210 maanden  |  | € 45000,-  |
 
 ## Titel III - Verkeersdelicten
 

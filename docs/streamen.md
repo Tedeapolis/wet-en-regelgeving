@@ -14,9 +14,10 @@ Dit document is opgesteld om wat duidelijkheid te bieden wat betreft het creëre
 6. FailRP, RDM, VDM en dat soort zaken On-Stream (ook off-stream natuurlijk) wordt direct bestraft.
 7. De naam Tedeapolis moet in de titel van de video's of livestreams staan zodat het ook door ons gevonden kan worden.
 8. Het is niet toegestaan om drugs locaties op het vasteland van Tedeapolis te tonen in video's of livestreams.
-9. Het is niet toegestaan voor content creators vanuit overheidsdiensten om discord porto te laten horen op video's of livestreams.
-10. Het is niet toegestaan om deepwebkanalen, telefoonnummers of andere inhoudelijke informatie van telefoons te tonen in video's.
-11. Tijdens een livestream is het verplicht om gebruik te maken van streamermodus. Hiermee wordt informatie zoals vernoemd in lid 10 verborgen.  
+    * Het gaat hier bij het bezorgsysteem van drugs alleen over het start punt. 
+10. Het is niet toegestaan voor content creators vanuit overheidsdiensten om discord porto te laten horen op video's of livestreams.
+11. Het is niet toegestaan om deepwebkanalen, telefoonnummers of andere inhoudelijke informatie van telefoons te tonen in video's.
+12. Tijdens een livestream is het verplicht om gebruik te maken van streamermodus. Hiermee wordt informatie zoals vernoemd in lid 10 verborgen.  
 
 ## Sancties
 
