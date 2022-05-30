@@ -147,19 +147,28 @@
 ### Artikel I-1 Diefstal (310 SR)
 
 1. Schuldig is een persoon die een goed, of voertuig, wegneemt zonder daarvoor toestemming of enig recht toe te hebben
-2. Bij feiten hieronder vemeld worden verzwarende omstandigheden in rekening gebracht met de daarbij horende strafmaat. in dit geval zal de straf die geëist wordt vermeerderd worden met 33%:
-3. Wanneer een diefstal gedurende voor de nachtrust bestemde tijd, in een woning of op een besloten erf waarop een woning staat, door iemand die aldaar buiten weten of tegen de wil van de rechthebbende bevindt. en/of;
-4. Wanneer diefstal die door twee of meerdere verenigde personen. en/of;
-5. Wanneer diefstal waarbij de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft of het weg te nemen goed onder zijn bereik heeft gebracht door middel van braak, verbreking of inklimming, van valse sleutels, van een valse order of een vals kostuum.
-6. Bij een poging tot diefstal is de maximaal op te leggen straf 2/3 van de volledige strafeis
+2. Bij een poging tot diefstal is de maximaal op te leggen straf 33% van de volledige strafeis
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 20 uur  | €2,000  |
-| **Tweede Veroordeling**  | 18 maanden  |  | €4,000  |
-| **Meerdere Veroordelingen**  | 36 maanden  |   | €6,000  |
+|  **Eerste Veroordeling** |   | 20 uur  | €10000,-  |
+| **Tweede Veroordeling**  | 18 maanden  |  | €12500,-  |
+| **Meerdere Veroordelingen**  | 36 maanden  |   | €15000,-  |
 
-### Artikel I-2 Diefstal met geweld / Overval (312 SR)
+### Artikel I-2 Gekwalificeerde Diefstal (311 SR)
+
+1. Schuldig is een persoon die een diefstal pleegt in een woning of op een besloten erf waarop een woning staat, door iemand die zich aldaar buiten weten of tegen de wil van de rechthebbende bevindt. 
+2. Schuldig is een persoon die een diefstal pleegt in vereniging. 
+3. Schuldig is een persoon die een diefstal pleegt waarbij de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft of het weg te nemen goed onder zijn bereik heeft gebracht door middel van braak, verbreking of inklimming, van valse sleutels, van een valse order of een vals kostuum;
+4. Bij een poging tot gekwalificeerde diefstal wordt de straf met 33% verminderd.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 50 uur  | €15000,-  |
+| **Tweede Veroordeling**  | 10 maanden  |  | €17500,-  |
+| **Meerdere Veroordelingen**  | 20 maanden  |   | €25000,-  |
+
+### Artikel I-3 Diefstal met geweld / Overval (312 SR)
 
 1. Schuldig is een persoon die een goed wegneemt zonder daarvoor toestemming of enig recht toe te hebben, daarbij gebruik makende van geweld in enige vorm.
 2. Genoemd geweld is gebruikt bij de voorbereiding, diefstal of overval, of vlucht.
@@ -171,7 +180,7 @@
 | **Tweede Veroordeling**  | 72 maanden  |  | € 25000,-  |
 | **Meerdere Veroordelingen**  | 108 maanden  |  | € 30000,-  |
 
-### Artikel I-3 Afpersing (317 SR)
+### Artikel I-4 Afpersing (317 SR)
 
 1. Schuldig is een persoon die met dwang gegevens of goederen opeist van een derde.
 2. Schuldig is een persoon die met dwang een actie forceert of eist van een derde.
@@ -182,7 +191,7 @@
 | **Tweede Veroordeling**  | 72 maanden  |  | € 10000,-  |
 | **Meerdere Veroordelingen**  | 108 maanden  |  | € 15000,-  |
 
-### Artikel I-4 Afdreiging / Chantage (318 SR)
+### Artikel I-5 Afdreiging / Chantage (318 SR)
 
 1. Schuldig is een persoon die gegevens of goederen opeist van een derde door bedreiging met smaad of openbaring van een geheim.
 2. Schuldig is een persoon die een actie forceert of eist van een derde door bedreiging met smaad of openbaring van een geheim.
@@ -193,7 +202,7 @@
 | **Tweede Veroordeling**  | 40 maanden  |   | € 10000,-  |
 | **Meerdere Veroordelingen**  | 90 maanden  |   | € 15000,-  |
 
-### Artikel I-5 Verduistering (321 SR)
+### Artikel I-6 Verduistering (321 SR)
 
 1. Schuldig is een persoon die geld of goederen, die niet middels een misdrijf verkregen zijn, maar wel toebehoren aan een ander, opzettelijk en wederrechtelijk toeëigent.
 
@@ -203,7 +212,7 @@
 | **Tweede Veroordeling**  |   | 30 uur  | € 7500,-  |
 | **Meerdere Veroordelingen**  |   | 60 uur  | € 10000,-  |
 
-### Artikel I-6 Heling (416 SR)
+### Artikel I-7 Heling (416 SR)
 
 1. Schuldig is een persoon die een goed, afkomstig uit een misdrijf, verwerft of hierop aanspraak maakt.
 2. Schuldig is een persoon die voordeel trekt uit opbrengst van een door misdrijf verkregen goed.
@@ -215,7 +224,7 @@
 | **Tweede Veroordeling**  |   | 30 uur  | € 4000,-  |
 | **Meerdere Veroordelingen**  |   | 60 uur  | € 5000,-  |
 
-### Artikel I-7 Witwassen (420bis SR)
+### Artikel I-8 Witwassen (420bis SR)
 
 1. Schuldig is een persoon die geld of goederen, verkregen uit misdrijf, vermengt of poogt te vermengen met het reguliere circuit van geld en goederen.
 
@@ -225,7 +234,7 @@
 | **Tweede Veroordeling**  | 54 maanden  |  | € 20000,-  |
 | **Meerdere Veroordelingen**  | 108 maanden  |  | € 25000,-  |
 
-### Artikel I-8 Geldige verklaring herkomst contanten (321 SR)
+### Artikel I-9 Geldige verklaring herkomst contanten (321 SR)
 
 1. Wanneer er tijdens aanhouding van een persoon door Politie of Koninklijke Marechaussee een geldbedrag, hoger dan € 15000,- aan contanten aangetroffen wordt bij die persoon, zal er om geldige verklaring van herkomst gevraagd worden.
 2. Wanneer deze verklaring niet bewijsbaar of redelijkerwijs aannemelijk is, dan heeft de Politie of Koninklijke Marechaussee de bevoegdheid dit bedrag in beslag te nemen voor onderzoek.
@@ -331,6 +340,23 @@
 |  **Eerste Veroordeling** |   | 15 uur | € 3000,-  |
 | **Tweede Veroordeling**  |   | 25 uur | € 4500,-  |
 | **Meerdere Veroordelingen**  | 9 maanden  |  | € 6000,-  |
+
+### Titel II-9 Terroristisch misdrijf (134a 142a SR)
+
+Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of een deel der bevolking van een land ernstige vrees aan te jagen, dan wel een overheid of internationale organisatie wederrechtelijk te dwingen iets te doen, niet te doen of te dulden, dan wel de fundamentele politieke, constitutionele, economische of sociale structuren van een land of een internationale organisatie ernstig te ontwrichten of te vernietigen.
+
+1. Schuldig is een persoon die zich of een ander opzettelijk gelegenheid, middelen of inlichtingen verschaft of tracht te verschaffen tot het plegen van een terroristisch misdrijf dan wel een misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf, dan wel zich kennis of vaardigheden daartoe verwerft of een ander bijbrengt.
+2. Schuldig is een persoon die een voorwerp verzendt of op een al dan niet voor het publiek toegankelijke plaats achterlaat of plaatst, en tot ontploffing brengt met het oogmerk op een terroristische daad.
+3. Schuldig is een persoon die een voorwerp verzendt of op een al dan niet voor het publiek toegankelijke plaats achterlaat of plaatst of hij die gegevens doorgeeft met het oogmerk een ander ten onrechte te doen geloven dat daardoor een ontploffing kan worden teweeggebracht.
+4. Toepassen van dit artikel kan enkel geschieden met toestemming van een (h)OvJ of een rechter.
+5. Veroordeling op dit artikel sluit verdere strafvervolging/veroordeling van andere strafbare feiten niet uit, tenzij het in strijd is met het Ne bis in idem beginsel zoals beschreven in artikel A10 - Algemene rechtsbeginselen.
+6. Bij veroordeling op basis van lid 3 wordt de straf met 33% verminderd.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 150 maanden  |  | € 30000,-  |
+| **Tweede Veroordeling**  | 180 maanden  |  | € 37500,-  |
+| **Meerdere Veroordelingen**  | 210 maanden  |  | € 45000,-  |
 
 ## Titel III - Verkeersdelicten
 
@@ -759,7 +785,10 @@
 
 ### Artikel V-3 Steek- en slagwapens (27 WWM)
 
-1. Strafbaar is een persoon die een steek- of slagwapen voorhanden heeft, bij zich draagt, of opgeslagen heeft in huis of in de laadruimte van zijn of haar vervoersmiddel, waarvan redelijkerwijs kan worden aangenomen dat deze bestemd is om letsel toe te brengen.
+1. Strafbaar is een persoon die een steekwapen voorhanden heeft, bij zich draagt, of opgeslagen heeft in huis of in de laadruimte van zijn of haar vervoersmiddel.
+2. Strafbaar is een persoon die een slagwapen voorhanden heeft of bij zich draagt, waarvan redelijkerwijs kan worden aangenomen dat deze bestemd is om letsel toe te brengen.
+4. Er geldt een gedoogbeleid betreffende het bezit van steekwapens. Indien er geen strafbaar feit is gepleegd met het wapen, kan een persoon het wapen vrijwillig afgeven en in ruil daarvoor geen strafvervolging ondergaan. 
+5. In risicogebieden is het voorhanden hebben, bij je dragen, of opgeslagen hebben in huis of in de laadruimte van je vervoersmiddel van een steek- of slagwapen onder alle omstandigheden verboden. Het gedoogbeleid is dan niet van toepassing.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|

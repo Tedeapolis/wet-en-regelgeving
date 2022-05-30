@@ -353,7 +353,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 4. Roleplay met de ANWB moet uitgebreid en realistisch zijn. Er wordt verwacht dat je eerlijk bent over hoe de schade is ontstaan. Ook dien je mee te werken met de roleplay en mag je de anwb medewerker niet forceren om voertuigen te repareren. Anwb medewerkers zijn ten allen tijde leidend in hun roleplay.
 5. Het is niet toegestaan om een melding te maken naar een overheidsinstantie met de intentie om degene die hierop reageert te vermoorden en/of te ontvoeren.
 6. Er moeten ten allen tijden vijf overheidsmedewerkers binnen een baan beschikbaar blijven nadat er één ontvoert is, dus als er 6 agenten aanwezig zijn mag er 1 ontvoert worden, als er 5 aanwezig zijn mag er geen ontvoert worden.
-7. Een uitzondering op lid 5 geldt voor de ambulance. Hierbij moeten er te allen tijde 7 medewerkers beschikbaar blijven. Kortom, als er 8 ambulancemedewerkers aanwezig zijn, dan mag er 1 à 2 ontvoerd worden.
+7. Een uitzondering op lid 6 geldt voor de ambulance. Hierbij moeten er te allen tijde 7 medewerkers beschikbaar blijven. Kortom, als er 8 ambulancemedewerkers aanwezig zijn, dan mag er 1 à 2 ontvoerd worden.
 8. Indien de regel(s) beschreven in dit artikel overtreden wordt/worden zal dit bestraft worden met een straf volgens de 1e categorie.
 
 ### Artikel 34 - Roleplay & Ledenaantal Criminele Organisaties
