@@ -107,6 +107,8 @@
 3. Indien de verdachte verkiest zelf een voorkeursadvocaat op te roepen zijn de kosten van consultatie en rechtsbijstand voor rekening van de verdachte;
 4. Indien de oproep zoals genoemd in lid 3 niet mogelijk blijkt, of de verdachte weigert een advocaat op te roepen, dan is de politie verplicht tot het oproepen van een advocaat voor de verdachte;
 5. Uitsluitingsgrond voor lid 4 is wanneer verdachte expliciet en ondubbelzinnig afziet van zijn of haar recht tot consultatie.
+    1. Afzien van zijn of haar recht tot consultatie bij een advocaat is niet mogelijk voor strafrecht zaken waarbij de totale standaard strafeis hoger is dan 120 maanden. Het in handen nemen van een advocaat is in dit geval verplicht; Hetzij een Voorkeursadvocaat voor rekening van de verdachte of Pro Deo op kosten van de staat.
+    2. Mocht in het geval van lid 5 sub a er geen advocaat beschikbaar zijn binnen 15 minuten, dan mag de verdachte alsnog expliciet en ondubbelzinnig afzien van zijn of haar recht tot consultatie.
 
 ### A10 - Algemene rechtsbeginselen
 
