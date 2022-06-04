@@ -127,7 +127,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 
 1. Er wordt geacht dat de kleding wordt gedragen die is verstrekt door de baas voor het uitvoeren van het beroep. Wordt dit niet gedaan, zal er gestraft worden met een straf volgens de 2e categorie.
 2. Hij/zij die als niet ambtenaar kleding draagt van één van de overheids banen zal gestraft worden met een straf volgens de 2e categorie.
-3. Officiële kleding verstrekt vanuit Tedeapolis bedoeld voor specifieke groeperingen mogen niet door andere gebruikt worden tenzij hier sterke roleplay aan verbonden is. 
+3. Officiële kleding verstrekt vanuit Tedeapolis bedoeld voor specifieke groeperingen mogen niet door andere gebruikt worden tenzij hier sterke roleplay aan verbonden is.
 4. Overtreding van lid 3 zal worden bestraft met een straf uit van de 1e categorie.
 5. Onder ambtenaar vallen de mensen in dienst bij één van de volgende instanties:
     * Politie
@@ -174,7 +174,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
     * Zodra iemand een steek- of slagwapen binnen armlengte afstand van je trekt dan werk je mee, doe je dit niet ben je niet zuinig met je leven aangezien je dat bewust het risico neemt neergestoken of neergeslagen te worden.
     * Met een helikopter vlak boven de grond zweven om goederen en/of personen te transporteren.
     * Elke andere vorm waarmee je bewust je eigen leven in een té groot gevaar brengt valt onder no value of life, dus gebruik je gezonde verstand om de situatie in te schatten.
-    * Zodra een persoon een wapen in zijn hand heeft en jij gaat hem proberen te boeien of richting hem te rennen word dit gezien als no value of life. Wanneer jij van dat persoon weet dat hij/zij een vuur-, steek- of slagwapen op zak heeft, zal je ervoor moeten zorgen hem/haar te overmeesteren door enige vorm van bedreigende middelen toe te passen. 
+    * Zodra een persoon een wapen in zijn hand heeft en jij gaat hem proberen te boeien of richting hem te rennen word dit gezien als no value of life. Wanneer jij van dat persoon weet dat hij/zij een vuur-, steek- of slagwapen op zak heeft, zal je ervoor moeten zorgen hem/haar te overmeesteren door enige vorm van bedreigende middelen toe te passen.
     * Het valt onder no value of life om de noodknop in te drukken terwijl iemand een vuurwapen, steekwapen of slagwapen op je richt.
     * Het is geen no value of life indien een persoon in een voertuig met deuren zit niet meewerkt, als je deze van de buitenkant bedreigt met een steek- of slagwapen.
     * Ook valt het niet onder no value of life om een vuurwapen te trekken als je bedreigd wordt met een steek- of slagwapen.
@@ -368,7 +368,6 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 8. Wanneer organisaties een samenwerking aangaan dient dit gemeld te worden volgens het [format](/apv/#bijlage-2) in het daarvoor aangemaakte kanaal in de Tedeapolis Discord.
 9. Bij overtreding of niet nakomen van lid 5, 6, 7 en/of 8 zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het roleplayscenario.
 10. Bij herhaling van het overtreden of niet nakomen van lid 5, 6, 7 en/of 8 zal naast een straf van de 5e categorie ook een gangstrike uitgedeeld worden.
-
 
 ### Artikel 35 - Gedrag Criminele Organisaties
 
@@ -637,7 +636,6 @@ De samenwerking is gestart om [tijdstip].
 De samenwerking is geeindigd om [tijdstip].
 Het doel van deze samenwerking is [korte omschrijving van de samenwerking].
 ```
-
 
 ---------------------
 APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Tedeapolis”, opgetekend door Bram Mosterdfiets, te Tedeapolis.
