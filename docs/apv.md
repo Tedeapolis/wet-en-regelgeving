@@ -262,7 +262,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 4. Een voertuig handelaar dient officiële vergunningen te hebben, ondertekend door een lid van justitie, waarin de locatie vermeld staat.
 5. Bij overtreding van lid 1, 2, 3 en/of 4 zullen gestraft worden middels een straf volgens de 2e categorie.
 6. Tevens zullen alle voertuigen weggehaald worden middels /dvf.
-7. Bij voertuig meetings mogen maximaal 20 voertuigen aanwezig zijn. Wordt er geconstateerd door een stafflid, dat er teveel voertuigen aanwezig zijn en de server daar problemen door ondervindt, dan zal er aan de organisator een straf worden uitgedeeld van minimaal de 2e categorie. 
+7. Bij voertuig meetings mogen maximaal 20 voertuigen aanwezig zijn. Wordt er geconstateerd door een stafflid, dat er teveel voertuigen aanwezig zijn en de server daar problemen door ondervindt, dan zal er aan de organisator een straf worden uitgedeeld van minimaal de 2e categorie.
 
 ## Overtredingen - Schade des persoons
 
@@ -359,10 +359,10 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 ### Artikel 34 - Roleplay & Ledenaantal Criminele Organisaties
 
 1. Onder "criminele organisaties" vallen alle officiële groepen gevestigd in Tedeapolis.
-2. Criminele organisaties mogen een maximaal ledenaantal van 25 personen hebben. Hierin is een vrije keuze voor het aantal leden met de "hangaround" rang. 
+2. Criminele organisaties mogen een maximaal ledenaantal van 25 personen hebben. Hierin is een vrije keuze voor het aantal leden met de "hangaround" rang.
 3. Bij een overtreding van het ledenaantal genoemd in lid 2 zal een straf worden uitgedeeld volgens de 1e categorie aan de eigena(a)r(en) van de organisatie.
 4. Bij herhaling van het overtreden van lid 2 zal een straf van de 2e categorie volgen en wordt er een gangstrike uitgedeeld aan de organisatie.
-5. Criminele organisaties mogen met een maximum aantal van 20 personen een roleplay scenario houden. Dit mag met hun volledige organisatie of met leden van andere officiële of onofficïele organisatie. Hierbij geldt een maximum van 2 groepen die mogen samenwerken in een tijdsduur van 2 uur per dag. 
+5. Criminele organisaties mogen met een maximum aantal van 20 personen een roleplay scenario houden. Dit mag met hun volledige organisatie of met leden van andere officiële of onofficïele organisatie. Hierbij geldt een maximum van 2 groepen die mogen samenwerken in een tijdsduur van 2 uur per dag.
 6. Een voorwaarde voor het samenwerken tussen criminele organisaties is dat er geen volledige samenwerking tussen alle organisaties ontstaat en dat dit niet gebeurd tijdens het witwassen van geld. Dit is ter beoordeling van de Hoge Raad van Tedeapolis.
 7. Wanneer organisaties willen samenwerken met als doeleinde, het overvallen van drugsverkopers of verkopen van drugs geldt een maximum van 8 personen.
 8. Wanneer organisaties een samenwerking aangaan dient dit gemeld te worden volgens het [format](/apv/#bijlage-2) in het daarvoor aangemaakte kanaal in de Tedeapolis Discord.
@@ -560,7 +560,7 @@ Onderstaande regels tellen alleen op Narcopolis
 ### Artikel N-2 - Landen van helikopers/vliegtuigen
 
 1. Het is verplicht om te landen op een helipad, een landingsbaan of in een straal van 50 meter van een helipad/landingsbaan.
-2. De sea sparrow en dodo mag wel op openwater rondom het eiland geland worden.
+2. De sea sparrow en dodo mag wel op open water rondom het eiland geland worden.
 3. Bij overtreding van het feit beschreven in lid 1 of lid 2 wordt een straf van de 1e categorie uitgedeeld.
 
 ### Artikel N-3 - Claimen van het eiland

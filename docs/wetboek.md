@@ -65,7 +65,7 @@
 3. Zij, die in dienst van de Overheid, genoodzaakt zijn een actie uit te voeren welke volgens de wet verboden is, kunnen vanwege het noodzakelijk aspect, binnen de contouren van hun functie, niet aangeklaagd worden als zijnde in overtreding van de wet.
     3. Bovenstaande ontslaat ambtenaren in dienst van de Overheid niet van alle overige rechtsvervolging.
 4. Strafbare feiten zijn overtredingen en misdrijven. Hieronder vallen ook misdrijven en overtredingen uit het Wetboek van Strafrecht van Nederland.
-    
+
 ### A7 - Inbeslagname
 
 1. Wanneer een strafbaar feit gepleegd is met een goed, of wanneer een goed uit een strafbaar feit is verkregen, kan deze in beslag worden genomen.
@@ -155,8 +155,8 @@
 
 ### Artikel I-2 Gekwalificeerde Diefstal (311 SR)
 
-1. Schuldig is een persoon die een diefstal pleegt in een woning of op een besloten erf waarop een woning staat, door iemand die zich aldaar buiten weten of tegen de wil van de rechthebbende bevindt. 
-2. Schuldig is een persoon die een diefstal pleegt in vereniging. 
+1. Schuldig is een persoon die een diefstal pleegt in een woning of op een besloten erf waarop een woning staat, door iemand die zich aldaar buiten weten of tegen de wil van de rechthebbende bevindt.
+2. Schuldig is een persoon die een diefstal pleegt in vereniging.
 3. Schuldig is een persoon die een diefstal pleegt waarbij de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft of het weg te nemen goed onder zijn bereik heeft gebracht door middel van braak, verbreking of inklimming, van valse sleutels, van een valse order of een vals kostuum;
 4. Bij een poging tot gekwalificeerde diefstal wordt de straf met 33% verminderd.
 
@@ -785,8 +785,8 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 1. Strafbaar is een persoon die een steekwapen voorhanden heeft, bij zich draagt, of opgeslagen heeft in huis of in de laadruimte van zijn of haar vervoersmiddel.
 2. Strafbaar is een persoon die een slagwapen voorhanden heeft of bij zich draagt, waarvan redelijkerwijs kan worden aangenomen dat deze bestemd is om letsel toe te brengen.
-4. Er geldt een gedoogbeleid betreffende het bezit van steekwapens. Indien er geen strafbaar feit is gepleegd met het wapen, kan een persoon het wapen vrijwillig afgeven en in ruil daarvoor geen strafvervolging ondergaan. 
-5. In risicogebieden is het voorhanden hebben, bij je dragen, of opgeslagen hebben in huis of in de laadruimte van je vervoersmiddel van een steek- of slagwapen onder alle omstandigheden verboden. Het gedoogbeleid is dan niet van toepassing.
+3. Er geldt een gedoogbeleid betreffende het bezit van steekwapens. Indien er geen strafbaar feit is gepleegd met het wapen, kan een persoon het wapen vrijwillig afgeven en in ruil daarvoor geen strafvervolging ondergaan.
+4. In risicogebieden is het voorhanden hebben, bij je dragen, of opgeslagen hebben in huis of in de laadruimte van je vervoersmiddel van een steek- of slagwapen onder alle omstandigheden verboden. Het gedoogbeleid is dan niet van toepassing.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -816,7 +816,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | **Tweede Veroordeling**  | 36 maanden  |  | € 30000,-  |
 | **Meerdere Veroordelingen**  | 54 maanden  |  | € 45000,-  |
 
-### Artikel V-6 Munitiebezit 
+### Artikel V-6 Munitiebezit
 
 1. Strafbaar is een persoon die munitie voorhanden heeft.
 2. Voor elke clip word de straf met 25% verhoogd
@@ -1103,6 +1103,16 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | Tweede Veroordeling  | 15 maanden |  | € 15000,-  |
 | Meerdere Veroordelingen  | 25 maanden |  | € 20000,-  |
 
+### Artikel VIII-17 Misdrijven tegen de openbare orde (131 SR)
+
+1. Hij die in het openbaar, mondeling of bij geschrift of afbeelding, tot enig strafbaar feit of tot gewelddadig optreden tegen het openbaar gezag opruit, wordt gestraft volgens onderstaande tabel. 
+
+|  |Celstraf  | Taakstraf  | boete  |
+|---|---|---|---|
+|  Eerste Veroordeling |  | 20 uur | € 2500,-  |
+| Tweede Veroordeling  | 20 maanden |  | € 5000,-  |
+| Meerdere Veroordelingen  | 40 maanden |  | € 10000,-  |
+
 ## Titel IX – Schadevergoeding
 
 ### Artikel IX-1 (Im)materiële schadevergoeding voor onterechte inverzekeringstelling of voorlopige hechtenis (artikel 533 sv)
@@ -1167,9 +1177,9 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 ### Artikel X-2 Bepalingen inzake douanetoezicht en douanecontrole (Artikel 1:26 en 1:27 en 1:28)
 
 1. De douane is bevoegd aan controle te onderwerpen:
-	1. Personen en/of vervoermiddelen en/of plaatsen voor distributie en overslag voor goederen die over de weg worden vervoerd, havens, haventerreinen, luchthavens, grensinspectiepost en luchtvaartterreinen.
-	2. Controle zoals beschreven in lid 1 is alleen van toepassing op gebieden die staan gemarkeerd als douanegebied op de douanekaart. Zie hiervoor de kaart douanegebieden in het wetboek.
-	3. Uitzondering op lid 1b betreft vervoersmiddelen en/of personen, die aantoonbaar door de douane, vanuit open wateren het binnenland of binnenwater betreden.
+    1. Personen en/of vervoermiddelen en/of plaatsen voor distributie en overslag voor goederen die over de weg worden vervoerd, havens, haventerreinen, luchthavens, grensinspectiepost en luchtvaartterreinen.
+    2. Controle zoals beschreven in lid 1 is alleen van toepassing op gebieden die staan gemarkeerd als douanegebied op de douanekaart. Zie hiervoor de kaart douanegebieden in het wetboek.
+    3. Uitzondering op lid 1b betreft vervoersmiddelen en/of personen, die aantoonbaar door de douane, vanuit open wateren het binnenland of binnenwater betreden.
 2. Onder controle in de zin van lid 1 wordt mede verstaan doorzoeking en fouillering.
 3. Fouillering geschiedt op een besloten plaats door dienstdoend personeel die van hetzelfde geslacht zijn als de persoon die aan fouillering wordt onderworpen.
 4. Onder fouillering zoals beschreven in lid 2 en lid 3 wordt verstaan: het onderzoek aan de kleding; en/of het verwijderen van de kleding, teneinde deze aan een nauwkeurig onderzoek te onderwerpen. Verwijderen van onderkleding is niet toegestaan.
