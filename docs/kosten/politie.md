@@ -154,7 +154,6 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Dood door schuld eerste veroordeling | € 10000,- |
 | Dood door schuld tweede veroordeling | € 15000,- |
 | Dood door schuld derde veroordeling | € 20000,- |
-| Poging tot doodslag overheidsmedewerker | € 13300,- |
 | Poging tot doodslag | € 10000,- |
 | Poging tot doodslag overheidsmedewerker | € 13300,- |
 | Doodslag | € 15000,- |
