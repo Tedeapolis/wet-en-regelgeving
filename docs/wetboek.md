@@ -276,18 +276,7 @@
 | **Tweede Veroordeling**  |   | 20 uur  | € 4000,-  |
 | **Meerdere Veroordelingen**  |   | 25 uur  | € 5000,-  |
 
-### Artikel II-4 Dood door schuld (307 SR)
-
-1. Schuldig is een persoon die door zijn toedoen een ander van het leven berooft, zonder dat hierbij sprake is van opzet of voorbedachte rade.
-3. Indien de schuld bestaat door roekeloosheid wordt de straf met 33% verhoogd.
-
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** | 30 maanden  |  | € 10000,-  |
-| **Tweede Veroordeling**  | 50 maanden  |  | € 15000,-  |
-| **Meerdere Veroordelingen**  | 70 maanden  |  | € 20000,-  |
-
-### Artikel II-5 Doodslag (287 SR)
+### Artikel II-4 Doodslag (287 SR)
 
 1. Schuldig is een persoon die opzettelijk een ander van het leven berooft.
 2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 33% verhoogd.
@@ -299,7 +288,7 @@
 | **Tweede Veroordeling**  | 81 maanden  |  | € 20000,-  |
 | **Meerdere Veroordelingen**  | 90 maanden  |  | € 25000,-  |
 
-### Artikel II-6 Moord (289 SR)
+### Artikel II-5 Moord (289 SR)
 
 1. Schuldig is een persoon die opzettelijk en met voorbedachte rade iemand van het leven berooft.
 2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 33% verhoogd.
@@ -311,7 +300,7 @@
 | **Tweede Veroordeling**  | 99 maanden  |  | € 25000,-  |
 | **Meerdere Veroordelingen**  | 108 maanden  |  | € 30000,-  |
 
-### Artikel II-7 Eenvoudige mishandeling (300 SR)
+### Artikel II-6 Eenvoudige mishandeling (300 SR)
 
 1. Schuldig is een persoon die opzettelijk en wederrechtelijk een ander mishandeld met ten hoogste licht lichamelijk, dan wel geestelijk letsel tot gevolg.
 2. Met mishandeling wordt gelijkgesteld het opzettelijk benadelen van de gezondheid.
@@ -324,7 +313,7 @@
 | **Tweede Veroordeling**  |   | 60 uur  | € 7500,-  |
 | **Meerdere Veroordelingen**  |   | 70 uur  | € 10000,-  |
 
-### Artikel II-8 Zware mishandeling (302 SR)
+### Artikel II-7 Zware mishandeling (302 SR)
 
 1. Schuldig is een persoon die opzettelijk en wederrechtelijk een ander mishandeld met zwaar lichamelijk, dan wel geestelijk letsel tot gevolg.
 2. Met mishandeling wordt gelijkgesteld het opzettelijk benadelen van de gezondheid.
@@ -337,7 +326,7 @@
 | **Tweede Veroordeling**  | 13 maanden  |  | € 12500,-  |
 | **Meerdere Veroordelingen**  | 18 maanden  |  | € 15000,-  |
 
-### Artikel II-9 Vernieling (350 SR)
+### Artikel II-8 Vernieling (350 SR)
 
 1. Schuldig is een persoon die opzettelijk en wederrechtelijk een goed dat geheel of ten dele aan een ander toebehoort, vernielt, beschadigt, onbruikbaar maakt of wegmaakt.
 2. Met vernieling wordt ook gelijkgesteld het opzettelijk en wederrechtelijk doden, beschadigen, onbruikbaar maken of wegmaken van een (huis)dier.
@@ -350,7 +339,7 @@
 | **Tweede Veroordeling**  |   | 25 uur | € 4500,-  |
 | **Meerdere Veroordelingen**  | 9 maanden  |  | € 6000,-  |
 
-### Titel II-10 Terroristisch misdrijf (134a 142a SR)
+### Titel II-9 Terroristisch misdrijf (134a 142a SR)
 
 Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of een deel der bevolking van een land ernstige vrees aan te jagen, dan wel een overheid of internationale organisatie wederrechtelijk te dwingen iets te doen, niet te doen of te dulden, dan wel de fundamentele politieke, constitutionele, economische of sociale structuren van een land of een internationale organisatie ernstig te ontwrichten of te vernietigen.
 
@@ -366,6 +355,17 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 |  **Eerste Veroordeling** | 150 maanden  |  | € 30000,-  |
 | **Tweede Veroordeling**  | 180 maanden  |  | € 37500,-  |
 | **Meerdere Veroordelingen**  | 210 maanden  |  | € 45000,-  |
+
+### Artikel II-10 Dood door schuld (307 SR)
+
+1. Schuldig is een persoon die door zijn toedoen een ander van het leven berooft, zonder dat hierbij sprake is van opzet of voorbedachte rade.
+3. Indien de schuld bestaat door roekeloosheid wordt de straf met 33% verhoogd.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 30 maanden  |  | € 10000,-  |
+| **Tweede Veroordeling**  | 50 maanden  |  | € 15000,-  |
+| **Meerdere Veroordelingen**  | 70 maanden  |  | € 20000,-  |
 
 ## Titel III - Verkeersdelicten
 
