@@ -359,7 +359,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 ### Artikel II-10 Dood door schuld (307 SR)
 
 1. Schuldig is een persoon die door zijn toedoen een ander van het leven berooft, zonder dat hierbij sprake is van opzet of voorbedachte rade.
-3. Indien de schuld bestaat door roekeloosheid wordt de straf met 33% verhoogd.
+2. Indien de schuld bestaat door roekeloosheid wordt de straf met 33% verhoogd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
