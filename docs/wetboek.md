@@ -65,7 +65,7 @@
 3. Zij, die in dienst van de Overheid, genoodzaakt zijn een actie uit te voeren welke volgens de wet verboden is, kunnen vanwege het noodzakelijk aspect, binnen de contouren van hun functie, niet aangeklaagd worden als zijnde in overtreding van de wet.
     3. Bovenstaande ontslaat ambtenaren in dienst van de Overheid niet van alle overige rechtsvervolging.
 4. Strafbare feiten zijn overtredingen en misdrijven. Hieronder vallen ook misdrijven en overtredingen uit het Wetboek van Strafrecht van Nederland.
-    
+
 ### A7 - Inbeslagname
 
 1. Wanneer een strafbaar feit gepleegd is met een goed, of wanneer een goed uit een strafbaar feit is verkregen, kan deze in beslag worden genomen.
@@ -155,8 +155,8 @@
 
 ### Artikel I-2 Gekwalificeerde Diefstal (311 SR)
 
-1. Schuldig is een persoon die een diefstal pleegt in een woning of op een besloten erf waarop een woning staat, door iemand die zich aldaar buiten weten of tegen de wil van de rechthebbende bevindt. 
-2. Schuldig is een persoon die een diefstal pleegt in vereniging. 
+1. Schuldig is een persoon die een diefstal pleegt in een woning of op een besloten erf waarop een woning staat, door iemand die zich aldaar buiten weten of tegen de wil van de rechthebbende bevindt.
+2. Schuldig is een persoon die een diefstal pleegt in vereniging.
 3. Schuldig is een persoon die een diefstal pleegt waarbij de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft of het weg te nemen goed onder zijn bereik heeft gebracht door middel van braak, verbreking of inklimming, van valse sleutels, van een valse order of een vals kostuum;
 4. Bij een poging tot gekwalificeerde diefstal wordt de straf met 33% verminderd.
 
@@ -338,6 +338,23 @@
 |  **Eerste Veroordeling** |   | 15 uur | € 3000,-  |
 | **Tweede Veroordeling**  |   | 25 uur | € 4500,-  |
 | **Meerdere Veroordelingen**  | 9 maanden  |  | € 6000,-  |
+
+### Titel II-9 Terroristisch misdrijf (134a 142a SR)
+
+Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of een deel der bevolking van een land ernstige vrees aan te jagen, dan wel een overheid of internationale organisatie wederrechtelijk te dwingen iets te doen, niet te doen of te dulden, dan wel de fundamentele politieke, constitutionele, economische of sociale structuren van een land of een internationale organisatie ernstig te ontwrichten of te vernietigen.
+
+1. Schuldig is een persoon die zich of een ander opzettelijk gelegenheid, middelen of inlichtingen verschaft of tracht te verschaffen tot het plegen van een terroristisch misdrijf dan wel een misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf, dan wel zich kennis of vaardigheden daartoe verwerft of een ander bijbrengt.
+2. Schuldig is een persoon die een voorwerp verzendt of op een al dan niet voor het publiek toegankelijke plaats achterlaat of plaatst, en tot ontploffing brengt met het oogmerk op een terroristische daad.
+3. Schuldig is een persoon die een voorwerp verzendt of op een al dan niet voor het publiek toegankelijke plaats achterlaat of plaatst of hij die gegevens doorgeeft met het oogmerk een ander ten onrechte te doen geloven dat daardoor een ontploffing kan worden teweeggebracht.
+4. Toepassen van dit artikel kan enkel geschieden met toestemming van een (h)OvJ of een rechter.
+5. Veroordeling op dit artikel sluit verdere strafvervolging/veroordeling van andere strafbare feiten niet uit, tenzij het in strijd is met het Ne bis in idem beginsel zoals beschreven in artikel A10 - Algemene rechtsbeginselen.
+6. Bij veroordeling op basis van lid 3 wordt de straf met 33% verminderd.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 150 maanden  |  | € 30000,-  |
+| **Tweede Veroordeling**  | 180 maanden  |  | € 37500,-  |
+| **Meerdere Veroordelingen**  | 210 maanden  |  | € 45000,-  |
 
 ## Titel III - Verkeersdelicten
 
@@ -766,7 +783,10 @@
 
 ### Artikel V-3 Steek- en slagwapens (27 WWM)
 
-1. Strafbaar is een persoon die een steek- of slagwapen voorhanden heeft, bij zich draagt, of opgeslagen heeft in huis of in de laadruimte van zijn of haar vervoersmiddel, waarvan redelijkerwijs kan worden aangenomen dat deze bestemd is om letsel toe te brengen.
+1. Strafbaar is een persoon die een steekwapen voorhanden heeft, bij zich draagt, of opgeslagen heeft in huis of in de laadruimte van zijn of haar vervoersmiddel.
+2. Strafbaar is een persoon die een slagwapen voorhanden heeft of bij zich draagt, waarvan redelijkerwijs kan worden aangenomen dat deze bestemd is om letsel toe te brengen.
+3. Er geldt een gedoogbeleid betreffende het bezit van steekwapens. Indien er geen strafbaar feit is gepleegd met het wapen, kan een persoon het wapen vrijwillig afgeven en in ruil daarvoor geen strafvervolging ondergaan.
+4. In risicogebieden is het voorhanden hebben, bij je dragen, of opgeslagen hebben in huis of in de laadruimte van je vervoersmiddel van een steek- of slagwapen onder alle omstandigheden verboden. Het gedoogbeleid is dan niet van toepassing.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -796,7 +816,7 @@
 | **Tweede Veroordeling**  | 36 maanden  |  | € 30000,-  |
 | **Meerdere Veroordelingen**  | 54 maanden  |  | € 45000,-  |
 
-### Artikel V-6 Munitiebezit 
+### Artikel V-6 Munitiebezit
 
 1. Strafbaar is een persoon die munitie voorhanden heeft.
 2. Voor elke clip word de straf met 25% verhoogd
@@ -1083,6 +1103,16 @@
 | Tweede Veroordeling  | 15 maanden |  | € 15000,-  |
 | Meerdere Veroordelingen  | 25 maanden |  | € 20000,-  |
 
+### Artikel VIII-17 Misdrijven tegen de openbare orde (131 SR)
+
+1. Hij die in het openbaar, mondeling of bij geschrift of afbeelding, tot enig strafbaar feit of tot gewelddadig optreden tegen het openbaar gezag opruit, wordt gestraft volgens onderstaande tabel. 
+
+|  |Celstraf  | Taakstraf  | boete  |
+|---|---|---|---|
+|  Eerste Veroordeling |  | 20 uur | € 2500,-  |
+| Tweede Veroordeling  | 20 maanden |  | € 5000,-  |
+| Meerdere Veroordelingen  | 40 maanden |  | € 10000,-  |
+
 ## Titel IX – Schadevergoeding
 
 ### Artikel IX-1 (Im)materiële schadevergoeding voor onterechte inverzekeringstelling of voorlopige hechtenis (artikel 533 sv)
@@ -1147,9 +1177,9 @@
 ### Artikel X-2 Bepalingen inzake douanetoezicht en douanecontrole (Artikel 1:26 en 1:27 en 1:28)
 
 1. De douane is bevoegd aan controle te onderwerpen:
-	1. Personen en/of vervoermiddelen en/of plaatsen voor distributie en overslag voor goederen die over de weg worden vervoerd, havens, haventerreinen, luchthavens, grensinspectiepost en luchtvaartterreinen.
-	2. Controle zoals beschreven in lid 1 is alleen van toepassing op gebieden die staan gemarkeerd als douanegebied op de douanekaart. Zie hiervoor de kaart douanegebieden in het wetboek.
-	3. Uitzondering op lid 1b betreft vervoersmiddelen en/of personen, die aantoonbaar door de douane, vanuit open wateren het binnenland of binnenwater betreden.
+    1. Personen en/of vervoermiddelen en/of plaatsen voor distributie en overslag voor goederen die over de weg worden vervoerd, havens, haventerreinen, luchthavens, grensinspectiepost en luchtvaartterreinen.
+    2. Controle zoals beschreven in lid 1 is alleen van toepassing op gebieden die staan gemarkeerd als douanegebied op de douanekaart. Zie hiervoor de kaart douanegebieden in het wetboek.
+    3. Uitzondering op lid 1b betreft vervoersmiddelen en/of personen, die aantoonbaar door de douane, vanuit open wateren het binnenland of binnenwater betreden.
 2. Onder controle in de zin van lid 1 wordt mede verstaan doorzoeking en fouillering.
 3. Fouillering geschiedt op een besloten plaats door dienstdoend personeel die van hetzelfde geslacht zijn als de persoon die aan fouillering wordt onderworpen.
 4. Onder fouillering zoals beschreven in lid 2 en lid 3 wordt verstaan: het onderzoek aan de kleding; en/of het verwijderen van de kleding, teneinde deze aan een nauwkeurig onderzoek te onderwerpen. Verwijderen van onderkleding is niet toegestaan.
