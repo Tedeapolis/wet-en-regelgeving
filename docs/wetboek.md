@@ -1207,16 +1207,14 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 	3. verklaringen van een getuige. Onder verklaring van een getuige wordt verstaan de bij het onderzoek gedane mededeling van feiten of omstandigheden, welke hij zelf waargenomen of ondervonden heeft. Het bewijs dat de verdachte het telastegelegde feit heeft begaan, kan door de rechter niet uitsluitend worden aangenomen op de verklaring van één getuige;
 	4. verklaringen van een deskundige. Onder verklaring van een deskundige wordt verstaan de bij het onderzoek afgelegde verklaring en oordeel op basis van zijn wetenschap en kennis;
 	5. schriftelijke stukken;
+	6. (audio)visueel bewijs, zoals bodycambeelden of foto's.
 3. Onder schriftelijke stukken worden verstaan:
 	1. processen-verbaal en andere geschriften, in de wettelijke vorm opgemaakt door colleges en personen, die daartoe bevoegd zijn, met mededeling van feiten of omstandigheden, door hen zelf waargenomen of ondervonden;
 	2. verslagen van deskundigen met het antwoord op de opdracht die aan hen is verleend tot het verstrekken van informatie of het doen van onderzoek, gebaseerd op wat hun wetenschap en kennis hen leren omtrent datgene wat aan hun oordeel onderworpen is;
 	3. alle andere geschriften; deze kunnen alleen gelden in verband met de inhoud van andere bewijsmiddelen;
-4. Feiten of omstandigheden van algemene bekendheid behoeven geen bewijs.
-5. Het bewijs dat de verdachte het telastegelegde feit heeft gepleegd, kan door de rechter worden aangenomen op alleen het proces-verbaal van een opsporingsambtenaar. Uitgezonderd:
-	1. strafbare feiten op basis van de opiumwet;
-	2. strafbare feiten op basis vermogensdelicten;
-	3. strafbare feiten op basis van geweldsdelicten;
-	4. strafbare feiten op basis van de wet wapens en munitie;
+4. Er geldt een bewijsminimum van één bewijsstuk als het/de strafbare feit(en) volledig en overtuigend bewezen kunnen worden. Indien dit niet het geval is, dan zijn minimaal 2 bewijsstukken vereist. Dit betekent concreet dat de identiteit van de verdacht(en) en de exacte feiten en omstandigheden, bijvoorbeeld of er sprake is van opzet voor zover van toepassing, duidelijk moeten worden.
+5. Het bewijs dat de verdachte het telastegelegde feit heeft gepleegd, kan door de rechter worden aangenomen op alleen het proces-verbaal van een opsporingsambtenaar.
+6. Feiten of omstandigheden van algemene bekendheid behoeven geen bewijs.
 
 ---------------------
 *Wetboek Tedeapolis is opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Tedeapolis”, opgetekend door Bram Mosterdfiets, te Tedeapolis.*
