@@ -139,6 +139,9 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | vergunningloos voertuig handelen eerste veroordeling | € 50000,- |
 | vergunningloos voertuig handelen tweede veroordeling | € 75000,- |
 | vergunningloos voertuig derde veroordeling | € 100000,- |
+| Misdrijven tegen de openbare orde eerste Veroordeling | € 2500,-  |
+| Misdrijven tegen de openbare orde tweede Veroordeling | € 5000,-  |
+| Misdrijven tegen de openbare orde meerdere Veroordelingen | € 10000,-  |
 
 ## Grootmisdrijf
 
