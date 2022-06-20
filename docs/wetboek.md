@@ -1187,5 +1187,34 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 6. De douane is bevoegd personen die aanwezig zijn in of op de in dit artikel bedoelde locaties of vervoermiddelen of deze juist gaan betreden of hebben verlaten aan fouillering te onderwerpen.
 7. De douane maakt van zijn bevoegdheden slechts gebruik voorzover dat redelijkerwijs voor de vervulling van zijn taak nodig is.
 
+## Titel XI – Bewijs
+
+### Artikel XI-1 Het opsporingsonderzoek (Artikel 141 SR)
+
+1. Met de opsporing van strafbare feiten zijn belast:
+	1. de (hulp)officieren van justitie;
+	2. de ambtenaren van politie voor zover zij zijn aangesteld voor de uitvoering van de politietaak;
+	3. de ambtenaren van de Koninklijke marechaussee;
+	4. de opsporingsambtenaren van de Recherche en Dienst Speciale Interventies (DSI);
+	5. De bevoegdheid van ambtenaren die met de opsporing van strafbare feiten zijn belast, is beperkt tot het gebied waarvoor zij zijn aangesteld;
+
+### Artikel XI-2 Wettige bewijsmiddelen (Artikel 338/339 SR)
+
+1. Het bewijs dat de verdachte het telastegelegde feit heeft begaan, kan alleen worden aangenomen, indien de inhoud van wettige bewijsmiddelen de rechter de overtuiging heeft dat de verdachte het telastegelegde feit heeft begaan.
+2. Als wettige bewijsmiddelen worden alleen erkend:
+	1. eigen waarneming van de rechter. Denk hierbij bijvoorbeeld aan foto- en videomateriaal die de rechter op de zitting te zien krijgt.
+	2. verklaringen van de verdachte. Onder verklaring van de verdachte wordt verstaan de bij het onderzoek gedane opgave van feiten of omstandigheden, door verdachte zelf waargenomen of ondervonden. Het bewijs dat de verdachte het telastegelegde feit heeft begaan, kan niet uitsluitend worden aangenomen op de verklaring van verdachte;
+	3. verklaringen van een getuige. Onder verklaring van een getuige wordt verstaan de bij het onderzoek gedane mededeling van feiten of omstandigheden, welke hij zelf waargenomen of ondervonden heeft. Het bewijs dat de verdachte het telastegelegde feit heeft begaan, kan niet uitsluitend worden aangenomen op de verklaring van één getuige;
+	4. verklaringen van een deskundige. Onder verklaring van een deskundige wordt verstaan de bij het onderzoek afgelegde verklaring en oordeel op basis van zijn wetenschap en kennis;
+	5. schriftelijke stukken;
+	6. (audio)visueel bewijs, zoals bodycambeelden of foto's.
+3. Onder schriftelijke stukken worden verstaan:
+	1. processen-verbaal en andere geschriften, in de wettelijke vorm opgemaakt door colleges en personen, die daartoe bevoegd zijn, met mededeling van feiten of omstandigheden, door hen zelf waargenomen of ondervonden;
+	2. verslagen van deskundigen met het antwoord op de opdracht die aan hen is verleend tot het verstrekken van informatie of het doen van onderzoek, gebaseerd op wat hun wetenschap en kennis hen leren omtrent datgene wat aan hun oordeel onderworpen is;
+	3. alle andere geschriften; deze kunnen alleen gelden in verband met de inhoud van andere bewijsmiddelen;
+4. Er geldt een bewijsminimum van één bewijsstuk als het/de strafbare feit(en) volledig en overtuigend bewezen kunnen worden. Indien dit niet het geval is, dan zijn minimaal 2 bewijsstukken vereist. Dit betekent concreet dat de identiteit van de verdacht(en) en de exacte feiten en omstandigheden, bijvoorbeeld of er sprake is van opzet voor zover van toepassing, duidelijk moeten worden.
+5. Het bewijs dat de verdachte het telastegelegde feit heeft gepleegd, kan worden aangenomen op alleen het proces-verbaal van een opsporingsambtenaar.
+6. Feiten of omstandigheden van algemene bekendheid behoeven geen bewijs.
+
 ---------------------
 *Wetboek Tedeapolis is opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Tedeapolis”, opgetekend door Bram Mosterdfiets, te Tedeapolis.*
