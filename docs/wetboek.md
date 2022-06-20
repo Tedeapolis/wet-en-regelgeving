@@ -1187,6 +1187,12 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ### Artikel X-2 Bepalingen inzake douanetoezicht en douanecontrole (Artikel 1:26 en 1:27 en 1:28)
 
+| DEFINITIE | TOELICHTING  |
+|---|---|
+| Open water      | Rivieren en riviermondingen, meren en zeeën van natuurlijke oorsprong die in directe verbinding staan met de open zee |
+| Binnenland;     | Gebieden met een vast ondergrond (zand/aarde/steen) |
+| Binnenwater     | Rivieren, kanalen en meren die voor schepen en of boten bevaarbaar zijn |
+
 1. De douane is bevoegd aan controle te onderwerpen:
     1. Personen en/of vervoermiddelen en/of plaatsen voor distributie en overslag voor goederen die over de weg worden vervoerd, havens, haventerreinen, luchthavens, grensinspectiepost en luchtvaartterreinen.
     2. Controle zoals beschreven in lid 1 is alleen van toepassing op gebieden die staan gemarkeerd als douanegebied op de douanekaart. Zie hiervoor de kaart douanegebieden in het wetboek.
