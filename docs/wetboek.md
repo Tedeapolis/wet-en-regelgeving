@@ -356,6 +356,17 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | **Tweede Veroordeling**  | 180 maanden  |  | € 37500,-  |
 | **Meerdere Veroordelingen**  | 210 maanden  |  | € 45000,-  |
 
+### Artikel II-10 Dood door schuld (307 SR)
+
+1. Schuldig is een persoon die door zijn toedoen een ander van het leven berooft, zonder dat hierbij sprake is van opzet of voorbedachte rade.
+2. Indien de schuld bestaat door roekeloosheid wordt de straf met 33% verhoogd.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 30 maanden  |  | € 10000,-  |
+| **Tweede Veroordeling**  | 50 maanden  |  | € 15000,-  |
+| **Meerdere Veroordelingen**  | 70 maanden  |  | € 20000,-  |
+
 ## Titel III - Verkeersdelicten
 
 ![Titel III](img/wetboek/verkeer.png)
