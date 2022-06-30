@@ -151,6 +151,9 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Zware mishandeling | € 10000,- |
 | Eenvoudige mishandeling overheidsmedewerker | € 6600,- |
 | Zware mishandeling overheidsmedewerker | € 13300,- |
+| Dood door schuld eerste veroordeling | € 10000,- |
+| Dood door schuld tweede veroordeling | € 15000,- |
+| Dood door schuld derde veroordeling | € 20000,- |
 | Poging tot doodslag | € 10000,- |
 | Poging tot doodslag overheidsmedewerker | € 13300,- |
 | Doodslag | € 15000,- |
