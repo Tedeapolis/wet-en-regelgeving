@@ -57,17 +57,15 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Verkeersongeval met zwaar lichamelijk letsel | € 10000,- |
 | Dodelijk verkeersongeval | € 16000,- |
 | Doorrijden na een ongeluk | € 15000,- |
-| Overtreding van WOK status | € 1200,- |
 | Verboden voertuig openbare weg | € 3300,- |
 | Negeren van stopteken | € 3600,- |
 | Fout parkeren | € 1750,- |
 | Roekeloos Rijgedrag | € 3000,- |
-| Voertuig rijden met een wok status | € 4500,- |
 | Weg blokkeren | € 720,- |
 | Verkeersovertreding niet nader gespecificeerd | € 430,- |
-| Rijden zonder kentekenplaten | € 840,- |
-| Geblindeerde ramen | € 690,- |
-| Verlichting(NEON) onder het voertuig | € 690 |
+| Rijden zonder kentekenplaten | € 10000,- |
+| Geblindeerde ramen | € 7500,- |
+| Verlichting(NEON) onder het voertuig | € 2500 |
 | Opzettelijk veroorzaken van ernstig gevaar of hinder - eerste veroordeling | € 3000,- |
 | Opzettelijk veroorzaken van ernstig gevaar of hinder - tweede veroordeling | € 7500,- |
 | Opzettelijk veroorzaken van ernstig gevaar of hinder - derde veroordeling | € 10500,- |
