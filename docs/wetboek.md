@@ -556,20 +556,19 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 4. Wordt een bestuurder bij een derde keer of vaker staande gehouden zal de sanctie van een boete en inbeslagname vermeerderd worden met een taakstraf als hieronder vermeld.
 5. Een W.O.K. status is een status dat vastgelegd is bij de Politie en Koninklijke marechaussee. Deze status kan na een reparatie of aanpassing van het voertuig door de ANWB, Politie of Koninklijke marechaussee verwijderd worden na een visuele controle van het voertuig.
 
-#### Rijden met W.O.K status boetes
+#### Rijden met WOK-status straffen
 
-|  | *Taakstraf*  | *Sanctie*  | *boete*  |
+|  | *Taakstraf*  | *Sanctie* 
 |---|---|---|---|
-| **Eerste Staandehouding**  |  | Boete | € 1200,- |
-| **Tweede Staandehouding**  |  | Inbeslagname/afslepen voertuig | € 1500,- |
-| **Meerdere Staandehoudingen**  | 30 uur | Inbeslagname/afslepen voertuig | € 1500,- |
+| **Eerste Staandehouding**  |  | Inbeslagname/afslepen voertuig |
+| **Tweede Staandehouding**  |  | Inbeslagname/afslepen voertuig |
+| **Meerdere Staandehoudingen**  | 30 uur | Inbeslagname/afslepen voertuig |
 
 | *Feit* | *boete* |
 |---|---|
-| Rijden zonder kentekenplaten | € 840,- |
-| Ramen dusdanig donker getint zodat de bestuurder en passagier voor in niet zichtbaar zijn | € 690,- |
-| Verlichting(NEON) onder het voertuig | € 690,- |
-| Rijden in een voertuig met een WOK-status | € 1200,- |
+| Rijden zonder kentekenplaten | € 10000,- |
+| Ramen dusdanig donker getint zodat de bestuurder en passagier voor in niet zichtbaar zijn | € 7500,- |
+| Verlichting(NEON) onder het voertuig | € 2500,- |
 
 ### Artikel III-13 Overige verkeersboetes
 
@@ -582,7 +581,6 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | Blokkeren van de weg | € 720,- |
 | Maken van een U-turn daar waar dat niet is toegestaan | € 420,- |
 | Rijden in een voertuig dat niet toegestaan is op de openbare weg | € 3300,-  |
-| Rijden in een voertuig met een WOK-status | € 1200,- |
 | Maken van een Burnout  | € 430,- |
 | Onnodig Claxoneren | € 370,-  |
 | Over een doorgestrokken streep rijden  | € 480,-  |
