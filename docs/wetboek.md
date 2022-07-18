@@ -83,7 +83,7 @@
     1. Plegen van een strafbaar feit uit het wetboek van Tedeapolis waarbij het goed direct of indirect betrokken is, behalve fout parkeren en een snelheidsovertreding met uitzondering zoals beschreven in lid E van dit artikel;
     2. Plegen van een misdrijf uit de Nederlandse wetgeving waarbij het goed direct of indirect betrokken is;
     3. Niet stoppen voor stopteken gegeven door middel van een politietransparant of rode lamp;
-    4. Niet voldoen aan (verkeers)aanwijzing van bevoegde en als zodanig kenbare opsporingsambtenaar;
+    4. Niet voldoen aan (verkeers)aanwijzing van bevoegde en als zodanig kenbare opsporingsambtenaar of lid van de Koninklijke Luchtmacht;
     5. Snelheidsovertreding van meer dan 100% van de maximumsnelheid;
     6. Op de openbare weg rijden met een voertuig met daarop een WOK-status.
 4. Er geldt een basisuitkooppercentage van 10% indien er sprake is van een verkeersdelict.
@@ -128,7 +128,8 @@
 
 1. Als medeplichtigen van een strafbaar feit worden gestraft:
     1. zij die opzettelijk behulpzaam zijn bij het plegen van het misdrijf;
-    2. zij die opzettelijk gelegenheid, middelen of inlichtingen verschaffen tot het plegen van het misdrijf.
+    2. zij die opzettelijk gelegenheid, middelen of inlichtingen verschaffen tot het plegen van het misdrijf;
+    3. zij die opzettelijk het misdrijf bevorderen of makkelijker maken.
 2. Er is sprake van medeplichtigheid als de verdachte behulpzaam is geweest bij het plegen van het strafbare feit van een ander persoon. Bij medeplichtigheid is de rol van de medeplichtige duidelijk kleiner dan de rol van de hoofdverdachte.
 3. Bij medeplichtigheid aan een strafbaar feit wordt de straf met 33% verminderd.
 4. Als daders van een strafbaar feit worden gestraft:
@@ -607,12 +608,6 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | Manchez | Motor |
 | Sanchez | Motor |
 | Sanchez Sport | Motor |
-| 911 GT3-R | Circuit auto |
-| Chevrolet C7-R | Circuit auto |
-| Lamborghini Huracan GT3 | Circuit auto |
-| Audi R8 LMS | Circuit auto |
-| Ferrari 488 GT3 | Circuit auto |
-| McLaren MP4-12C GT3 | Circuit auto |
 
 ## Titel IV - Opiumwet
 
@@ -1206,7 +1201,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ## Titel XI – Bewijs
 
-### Artikel XI-1 Het opsporingsonderzoek (Artikel 141 SR)
+### Artikel XI-1 Het opsporingsonderzoek (Artikel 141 SV)
 
 1. Met de opsporing van strafbare feiten zijn belast:
 	1. de (hulp)officieren van justitie;
@@ -1215,7 +1210,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 	4. de opsporingsambtenaren van de Recherche en Dienst Speciale Interventies (DSI);
 	5. De bevoegdheid van ambtenaren die met de opsporing van strafbare feiten zijn belast, is beperkt tot het gebied waarvoor zij zijn aangesteld;
 
-### Artikel XI-2 Wettige bewijsmiddelen (Artikel 338/339 SR)
+### Artikel XI-2 Wettige bewijsmiddelen (Artikel 338/339 SV)
 
 1. Het bewijs dat de verdachte het telastegelegde feit heeft begaan, kan alleen worden aangenomen, indien de inhoud van wettige bewijsmiddelen de rechter de overtuiging heeft dat de verdachte het telastegelegde feit heeft begaan.
 2. Als wettige bewijsmiddelen worden alleen erkend:
