@@ -83,7 +83,7 @@
     1. Plegen van een strafbaar feit uit het wetboek van Tedeapolis waarbij het goed direct of indirect betrokken is, behalve fout parkeren en een snelheidsovertreding met uitzondering zoals beschreven in lid E van dit artikel;
     2. Plegen van een misdrijf uit de Nederlandse wetgeving waarbij het goed direct of indirect betrokken is;
     3. Niet stoppen voor stopteken gegeven door middel van een politietransparant of rode lamp;
-    4. Niet voldoen aan (verkeers)aanwijzing van bevoegde en als zodanig kenbare opsporingsambtenaar;
+    4. Niet voldoen aan (verkeers)aanwijzing van bevoegde en als zodanig kenbare opsporingsambtenaar of lid van de Koninklijke Luchtmacht;
     5. Snelheidsovertreding van meer dan 100% van de maximumsnelheid;
     6. Op de openbare weg rijden met een voertuig met daarop een WOK-status.
 4. Er geldt een basisuitkooppercentage van 10% indien er sprake is van een verkeersdelict.
