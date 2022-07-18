@@ -1206,7 +1206,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ## Titel XI – Bewijs
 
-### Artikel XI-1 Het opsporingsonderzoek (Artikel 141 SR)
+### Artikel XI-1 Het opsporingsonderzoek (Artikel 141 SV)
 
 1. Met de opsporing van strafbare feiten zijn belast:
 	1. de (hulp)officieren van justitie;
@@ -1215,7 +1215,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 	4. de opsporingsambtenaren van de Recherche en Dienst Speciale Interventies (DSI);
 	5. De bevoegdheid van ambtenaren die met de opsporing van strafbare feiten zijn belast, is beperkt tot het gebied waarvoor zij zijn aangesteld;
 
-### Artikel XI-2 Wettige bewijsmiddelen (Artikel 338/339 SR)
+### Artikel XI-2 Wettige bewijsmiddelen (Artikel 338/339 SV)
 
 1. Het bewijs dat de verdachte het telastegelegde feit heeft begaan, kan alleen worden aangenomen, indien de inhoud van wettige bewijsmiddelen de rechter de overtuiging heeft dat de verdachte het telastegelegde feit heeft begaan.
 2. Als wettige bewijsmiddelen worden alleen erkend:
