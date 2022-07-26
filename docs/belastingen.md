@@ -9,13 +9,13 @@ Fietsen zijn uitgesloten van belasting. Alle overige voertuigen met een motor va
 
 |Motorvoertuigen|Bedrag per dag|
 |:----:|:------------:|
-| 4    | € 330,-      |
+| 4    | € 280,-      |
 | 8    | € 1460,-     |
-| 10   | € 2150,-     |
-| 20   | € 6430,-     |
-| 30   | € 11.680,-   |
-| 40   | € 17.640,-   |
-| 50   | € 24.180,-   |
+| 10   | € 2260,-     |
+| 20   | € 7630,-     |
+| 30   | € 14.810,-   |
+| 40   | € 23.420,-   |
+| 50   | € 33.250,-   |
 
 ## Tol heffing
 
