@@ -558,7 +558,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 #### Rijden met WOK-status straffen
 
-|  | *Taakstraf*  | *Sanctie* 
+|  | *Taakstraf*  | *Sanctie* |
 |---|---|---|---|
 | **Eerste Staandehouding**  |  | Inbeslagname/afslepen voertuig |
 | **Tweede Staandehouding**  |  | Inbeslagname/afslepen voertuig |
