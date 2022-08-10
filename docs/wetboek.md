@@ -546,15 +546,14 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 4. Het voertuig dient vrij te zijn van uitstekende onderdelen en/of grote schade, die de veiligheid in het gedrang brengt.
 5. Bij het voertuig mogen geen deuren ontbreken, indien deze wel aanwezig behoren te zijn.
 6. Het voertuig dient een eentonige claxon te voeren.
-7. Het voertuig dient vrij te zijn van een W.O.K. status bij deelname aan het verkeer.
+7. Het voertuig dient vrij te zijn van een WOK-status bij deelname aan het verkeer.
 
 #### Strafbepalingen Voertuigeisen
 
 1. Schuldig is een persoon van wie zijn of haar voertuig niet voldoet aan de bovenstaande eisen.
-2. Indien een bestuurder in een voertuig met een W.O.K. status deelneemt aan het verkeer, en de Politie of Koninklijke Marechaussee de bestuurder voor de eerste keer staande houdt. Dan mag het voertuig per direct niet meer deelnemen aan het verkeer. De bestuurder zal de ANWB in kennis moeten stellen om het voertuig af te laten slepen naar een modshop zodat de gebreken kunnen worden hersteld en/of aangepast. Dit geheel op kosten van de bestuurder.
-3. Wordt een bestuurder in een voertuig met een W.O.K. status voor de tweede keer staande gehouden zal dit worden gezien als een misdrijf. Dit kan bestraft worden met in eerste instantie een boete en inbeslagname.
-4. Wordt een bestuurder bij een derde keer of vaker staande gehouden zal de sanctie van een boete en inbeslagname vermeerderd worden met een taakstraf als hieronder vermeld.
-5. Een W.O.K. status is een status dat vastgelegd is bij de Politie en Koninklijke marechaussee. Deze status kan na een reparatie of aanpassing van het voertuig door de ANWB, Politie of Koninklijke marechaussee verwijderd worden na een visuele controle van het voertuig.
+2. Indien een bestuurder in een voertuig met een WOK-status deelneemt aan het verkeer, en de Politie of Koninklijke Marechaussee de bestuurder voor de eerste of tweede keer staande houdt, dan zal dit worden gezien als een misdrijf. Dit wordt bestraft met een inbeslagname van het desbetreffende voertuig.
+3. Wordt een bestuurder bij een derde keer of vaker staande gehouden, zal de sanctie van een inbeslagname vermeerderd worden met een taakstraf als hieronder vermeld.
+4. Een WOK-status is een status die vastgelegd is bij de Politie en Koninklijke marechaussee. Deze status kan na een reparatie of aanpassing van het voertuig door de ANWB, Politie of Koninklijke marechaussee verwijderd worden na een visuele controle van het voertuig.
 
 #### Rijden met WOK-status straffen
 
