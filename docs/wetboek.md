@@ -547,30 +547,28 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 4. Het voertuig dient vrij te zijn van uitstekende onderdelen en/of grote schade, die de veiligheid in het gedrang brengt.
 5. Bij het voertuig mogen geen deuren ontbreken, indien deze wel aanwezig behoren te zijn.
 6. Het voertuig dient een eentonige claxon te voeren.
-7. Het voertuig dient vrij te zijn van een W.O.K. status bij deelname aan het verkeer.
+7. Het voertuig dient vrij te zijn van een WOK-status bij deelname aan het verkeer.
 
 #### Strafbepalingen Voertuigeisen
 
 1. Schuldig is een persoon van wie zijn of haar voertuig niet voldoet aan de bovenstaande eisen.
-2. Indien een bestuurder in een voertuig met een W.O.K. status deelneemt aan het verkeer, en de Politie of Koninklijke Marechaussee de bestuurder voor de eerste keer staande houdt. Dan mag het voertuig per direct niet meer deelnemen aan het verkeer. De bestuurder zal de ANWB in kennis moeten stellen om het voertuig af te laten slepen naar een modshop zodat de gebreken kunnen worden hersteld en/of aangepast. Dit geheel op kosten van de bestuurder.
-3. Wordt een bestuurder in een voertuig met een W.O.K. status voor de tweede keer staande gehouden zal dit worden gezien als een misdrijf. Dit kan bestraft worden met in eerste instantie een boete en inbeslagname.
-4. Wordt een bestuurder bij een derde keer of vaker staande gehouden zal de sanctie van een boete en inbeslagname vermeerderd worden met een taakstraf als hieronder vermeld.
-5. Een W.O.K. status is een status dat vastgelegd is bij de Politie en Koninklijke marechaussee. Deze status kan na een reparatie of aanpassing van het voertuig door de ANWB, Politie of Koninklijke marechaussee verwijderd worden na een visuele controle van het voertuig.
+2. Indien een bestuurder in een voertuig met een WOK-status deelneemt aan het verkeer, en de Politie of Koninklijke Marechaussee de bestuurder voor de eerste of tweede keer staande houdt, dan zal dit worden gezien als een misdrijf. Dit wordt bestraft met een inbeslagname van het desbetreffende voertuig.
+3. Wordt een bestuurder bij een derde keer of vaker staande gehouden, zal de sanctie van een inbeslagname vermeerderd worden met een taakstraf als hieronder vermeld.
+4. Een WOK-status is een status die vastgelegd is bij de Politie en Koninklijke marechaussee. Deze status kan na een reparatie of aanpassing van het voertuig door de ANWB, Politie of Koninklijke marechaussee verwijderd worden na een visuele controle van het voertuig.
 
-#### Rijden met W.O.K status boetes
+#### Rijden met WOK-status straffen
 
-|  | *Taakstraf*  | *Sanctie*  | *boete*  |
-|---|---|---|---|
-| **Eerste Staandehouding**  |  | Boete | € 1200,- |
-| **Tweede Staandehouding**  |  | Inbeslagname/afslepen voertuig | € 1500,- |
-| **Meerdere Staandehoudingen**  | 30 uur | Inbeslagname/afslepen voertuig | € 1500,- |
+|  | *Taakstraf*  | *Sanctie* |
+|---|---|---|
+| **Eerste Staandehouding**  |  | Inbeslagname/afslepen voertuig |
+| **Tweede Staandehouding**  |  | Inbeslagname/afslepen voertuig |
+| **Meerdere Staandehoudingen**  | 30 uur | Inbeslagname/afslepen voertuig |
 
 | *Feit* | *boete* |
 |---|---|
-| Rijden zonder kentekenplaten | € 840,- |
-| Ramen dusdanig donker getint zodat de bestuurder en passagier voor in niet zichtbaar zijn | € 690,- |
-| Verlichting(NEON) onder het voertuig | € 690,- |
-| Rijden in een voertuig met een WOK-status | € 1200,- |
+| Rijden zonder kentekenplaten | € 10000,- |
+| Ramen dusdanig donker getint zodat de bestuurder en passagier voor in niet zichtbaar zijn | € 7500,- |
+| Verlichting(NEON) onder het voertuig | € 2500,- |
 
 ### Artikel III-13 Overige verkeersboetes
 
@@ -583,7 +581,6 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | Blokkeren van de weg | € 720,- |
 | Maken van een U-turn daar waar dat niet is toegestaan | € 420,- |
 | Rijden in een voertuig dat niet toegestaan is op de openbare weg | € 3300,-  |
-| Rijden in een voertuig met een WOK-status | € 1200,- |
 | Maken van een Burnout  | € 430,- |
 | Onnodig Claxoneren | € 370,-  |
 | Over een doorgestrokken streep rijden  | € 480,-  |
@@ -1184,14 +1181,14 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 | DEFINITIE | TOELICHTING  |
 |---|---|
-| Open water      | Rivieren en riviermondingen, meren en zeeën van natuurlijke oorsprong die in directe verbinding staan met de open zee |
-| Binnenland;     | Gebieden met een vast ondergrond (zand/aarde/steen) |
-| Binnenwater     | Rivieren, kanalen en meren die voor schepen en of boten bevaarbaar zijn |
+| Open water      | Rivieren en riviermondingen, meren en zeeën van natuurlijke oorsprong die in directe verbinding staan met de open zee/oceaan. Met in directe verbinding staan wordt bedoeld: Een verbinding zonder obstakels, zoals een: dam(men), waterval(len), waterkering(en), etc. De directe verbinding dient voor schepen en of boten tevens bevaarbaar te zijn |
+| Binnenland     | Gebieden met een vast ondergrond (zand/aarde/steen) |
+| Binnenwater     | Rivieren, kanalen en meren zonder directe verbinding met de open zee/oceaan, die voor schepen en/of boten bevaarbaar zijn |
 
 1. De douane is bevoegd aan controle te onderwerpen:
     1. Personen en/of vervoermiddelen en/of plaatsen voor distributie en overslag voor goederen die over de weg worden vervoerd, havens, haventerreinen, luchthavens, grensinspectiepost en luchtvaartterreinen.
     2. Controle zoals beschreven in lid 1 is alleen van toepassing op gebieden die staan gemarkeerd als douanegebied op de douanekaart. Zie hiervoor de kaart douanegebieden in het wetboek.
-    3. Uitzondering op lid 1b betreft vervoersmiddelen en/of personen, die aantoonbaar door de douane, vanuit open wateren het binnenland of binnenwater betreden.
+    3. Uitzondering op lid 1b betreft vervoersmiddelen en/of personen, die aantoonbaar door de douane, vanuit open water het binnenland of binnenwater betreden.
 2. Onder controle in de zin van lid 1 wordt mede verstaan doorzoeking en fouillering.
 3. Fouillering geschiedt op een besloten plaats door dienstdoend personeel die van hetzelfde geslacht zijn als de persoon die aan fouillering wordt onderworpen.
 4. Onder fouillering zoals beschreven in lid 2 en lid 3 wordt verstaan: het onderzoek aan de kleding; en/of het verwijderen van de kleding, teneinde deze aan een nauwkeurig onderzoek te onderwerpen. Verwijderen van onderkleding is niet toegestaan.
