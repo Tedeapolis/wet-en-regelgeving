@@ -1181,14 +1181,14 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 | DEFINITIE | TOELICHTING  |
 |---|---|
-| Open water      | Rivieren en riviermondingen, meren en zeeën van natuurlijke oorsprong die in directe verbinding staan met de open zee |
-| Binnenland;     | Gebieden met een vast ondergrond (zand/aarde/steen) |
-| Binnenwater     | Rivieren, kanalen en meren die voor schepen en of boten bevaarbaar zijn |
+| Open water      | Rivieren en riviermondingen, meren en zeeën van natuurlijke oorsprong die in directe verbinding staan met de open zee/oceaan. Met in directe verbinding staan wordt bedoeld: Een verbinding zonder obstakels, zoals een: dam(men), waterval(len), waterkering(en), etc. De directe verbinding dient voor schepen en of boten tevens bevaarbaar te zijn |
+| Binnenland     | Gebieden met een vast ondergrond (zand/aarde/steen) |
+| Binnenwater     | Rivieren, kanalen en meren zonder directe verbinding met de open zee/oceaan, die voor schepen en/of boten bevaarbaar zijn |
 
 1. De douane is bevoegd aan controle te onderwerpen:
     1. Personen en/of vervoermiddelen en/of plaatsen voor distributie en overslag voor goederen die over de weg worden vervoerd, havens, haventerreinen, luchthavens, grensinspectiepost en luchtvaartterreinen.
     2. Controle zoals beschreven in lid 1 is alleen van toepassing op gebieden die staan gemarkeerd als douanegebied op de douanekaart. Zie hiervoor de kaart douanegebieden in het wetboek.
-    3. Uitzondering op lid 1b betreft vervoersmiddelen en/of personen, die aantoonbaar door de douane, vanuit open wateren het binnenland of binnenwater betreden.
+    3. Uitzondering op lid 1b betreft vervoersmiddelen en/of personen, die aantoonbaar door de douane, vanuit open water het binnenland of binnenwater betreden.
 2. Onder controle in de zin van lid 1 wordt mede verstaan doorzoeking en fouillering.
 3. Fouillering geschiedt op een besloten plaats door dienstdoend personeel die van hetzelfde geslacht zijn als de persoon die aan fouillering wordt onderworpen.
 4. Onder fouillering zoals beschreven in lid 2 en lid 3 wordt verstaan: het onderzoek aan de kleding; en/of het verwijderen van de kleding, teneinde deze aan een nauwkeurig onderzoek te onderwerpen. Verwijderen van onderkleding is niet toegestaan.
