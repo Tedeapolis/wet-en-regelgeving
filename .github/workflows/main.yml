@@ -23,7 +23,9 @@ jobs:
 #           embed: '{ "title": "{{ commit.title }}", "description": "{{ commit.description }}", "url": "{{ commit.url }}", "author": { "name": "{{ commit.author.name }} ({{ commit.author.username }})", "icon_url": "https://avatars.io/gravatar/{{ commit.author.email }}"} }'
       - name: Discord Commits
         uses: Tedeapolis/discord-commits@v1.2.5
-        if: "${{ env.INPUT_WEBHOOK != '' }}"
+        env:
+          WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        if: "${{ env.WEBHOOK != '' }}"
         with:
           webhook: ${{ secrets.DISCORD_WEBHOOK }}
           message: "Successful commit to **{{ github.context.payload.repository.name}}**.\nDiff: {{ github.context.payload.compare }}"
