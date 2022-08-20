@@ -362,12 +362,11 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 2. Criminele organisaties mogen een maximaal ledenaantal van 25 personen hebben. Hierin is een vrije keuze voor het aantal leden met de "hangaround" rang.
 3. Bij een overtreding van het ledenaantal genoemd in lid 2 zal een straf worden uitgedeeld volgens de 1e categorie aan de eigena(a)r(en) van de organisatie.
 4. Bij herhaling van het overtreden van lid 2 zal een straf van de 2e categorie volgen en wordt er een gangstrike uitgedeeld aan de organisatie.
-5. Criminele organisaties mogen met een maximum aantal van 20 personen een roleplay scenario houden. Dit mag met hun volledige organisatie of met leden van andere officiële of onofficïele organisatie. Hierbij geldt een maximum van 2 groepen die mogen samenwerken in een tijdsduur van 2 uur per dag.
+5. Criminele organisaties mogen met een maximum aantal van 20 personen een roleplay scenario houden. Dit mag met hun volledige organisatie of met leden van andere officiële of onofficïele organisatie. Hierbij geldt een maximum van 2 groepen die mogen samenwerken.
 6. Een voorwaarde voor het samenwerken tussen criminele organisaties is dat er geen volledige samenwerking tussen alle organisaties ontstaat en dat dit niet gebeurd tijdens het witwassen van geld. Dit is ter beoordeling van de Hoge Raad van Tedeapolis.
-7. Wanneer organisaties willen samenwerken met als doeleinde het overvallen van spelers en/of verkopen van drugs geldt er een maximum van 8 personen totaal.
-8. Wanneer organisaties een samenwerking aangaan dient dit gemeld te worden volgens het [format](/apv/#bijlage-2) in het daarvoor aangemaakte kanaal in de Tedeapolis Discord.
-9. Bij overtreding of niet nakomen van lid 5, 6, 7 en/of 8 zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het roleplayscenario.
-10. Bij herhaling van het overtreden of niet nakomen van lid 5, 6, 7 en/of 8 zal naast een straf van de 5e categorie ook een gangstrike uitgedeeld worden.
+7. Wanneer officiële organisaties een samenwerking aangaan met een andere officiële organisatie dan dient dit gemeld te worden volgens het [format](/apv/#bijlage-2) in het daarvoor aangemaakte kanaal in de Tedeapolis Discord.
+8. Bij overtreding of niet nakomen van lid 5, 6 en/of 7 zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het roleplayscenario.
+9. Bij herhaling van het overtreden of niet nakomen van lid 5, 6 en/of 7 zal naast een straf van de 5e categorie ook een gangstrike uitgedeeld worden.
 
 ### Artikel 35 - Gedrag Criminele Organisaties
 
