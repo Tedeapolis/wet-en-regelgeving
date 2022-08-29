@@ -562,11 +562,6 @@ Onderstaande regels tellen alleen op Narcopolis
 2. De sea sparrow en dodo mag wel op open water rondom het eiland geland worden.
 3. Bij overtreding van het feit beschreven in lid 1 of lid 2 wordt een straf van de 1e categorie uitgedeeld.
 
-### Artikel N-3 - Claimen van het eiland
-
-1. Het eiland kan niet worden geclaimed door een persoon en of criminele organisatie.
-2. Overtreding van deze regel zal resulteren in een straf van de 2e categorie.
-
 ### Artikel N-4 - Campen van een niet actieve drugslocatie
 
 1. Het campen van een niet actieve drugslocatie Narcopolis is niet toegestaan.
