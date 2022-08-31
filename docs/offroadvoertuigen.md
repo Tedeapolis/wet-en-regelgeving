@@ -19,7 +19,6 @@ Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is
 * KTM Super Duke R 1290
 * Suzuki Hayabusa
 * Yamaha R6
-* Sultan RS Classic
 * Sultan
 * Sultan Classic
 
@@ -54,6 +53,7 @@ Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is
 * Jeep Grand Cherokee SRT8
 * Toyota Rav-4
 * Sultan RS (Met offroad banden eronder)
+* Sultan RS Classic (Met offroad banden eronder)
 
 ## Off-Road
 
