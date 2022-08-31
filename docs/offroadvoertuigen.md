@@ -19,6 +19,9 @@ Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is
 * KTM Super Duke R 1290
 * Suzuki Hayabusa
 * Yamaha R6
+* Sultan RS Classic
+* Sultan
+* Sultan Classic
 
 ## Onverharde weg
 
@@ -50,6 +53,7 @@ Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is
 * Alfa Romeo Stelvio
 * Jeep Grand Cherokee SRT8
 * Toyota Rav-4
+* Sultan RS (Met offroad banden eronder)
 
 ## Off-Road
 
@@ -89,9 +93,5 @@ Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is
 * Hummer H1 Alpha
 * Land Rover Defender 110 2021
 * Ford F-150 1978
-* Sultan
-* Sultan RS
-* Sultan RS Classic
-* Sultan Classic
 
 Ps. Missen er nog voertuigen of is het onduidelijk graag even een ticket ervoor aanmaken
