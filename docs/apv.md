@@ -310,6 +310,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 8. Hou hiermee wel rekening dat het bij het vergrijp zoals beschreven in lid 1 niet de bedoeling is hiermee misbruik te maken van onwetendheid van mensen, dus vermijd het oplichten van nieuwe spelers.
 9. Het is voor criminelen toegestaan om mensen gedurende langere tijd te ondervragen en/of te martelen. Echter mag dit maximaal circa 2 uur duren. Er dient ook goede roleplay aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
 10. Bij een overtreding van de regel in lid 7 wordt de persoon gestraft volgens de 1e categorie en zal het scenario onmiddellijk worden teruggedraaid.
+11. De bescherming tegen oplichting zoals genoemd in lid 2 & 3 geldt alleen wanneer je het te betalen bedrag volledig ontvangt, op het moment van verkoop.
 
 ### Artikel 28 - Criminaliteit & Ambtenaren
 
@@ -491,8 +492,8 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 
 ### Artikel 51 - Jobhoppen
 
-1. (Ex-)leden van een criminele organisatie dienen minimaal 7 kalenderdagen te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een overheidsbaan of een andere criminele organisatie, tenzij anders is bepaald door een lid van de hoge raad.
-2. (Ex-)medewerkers van een overheidsbaan dienen minimaal 7 kalenderdagen te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een andere overheidsbaan of een criminele organisatie, tenzij anders is bepaald door een lid van de hoge raad.
+1. (Ex-)leden van een criminele organisatie dienen minimaal 7 kalenderdagen te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere criminele organisatie zijn voordat zij aangenomen mogen worden bij een overheidsbaan of een andere criminele organisatie, tenzij anders is bepaald door een lid van de hoge raad.
+2. (Ex-)medewerkers van een overheidsbaan dienen minimaal 7 kalenderdagen te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere criminele organisatie zijn voordat zij aangenomen mogen worden bij een andere overheidsbaan of een criminele organisatie, tenzij anders is bepaald door een lid van de hoge raad.
 3. Bij overtreding van de feiten beschreven in lid 1 en/of lid 2 wordt een straf van de 1e categorie uitgedeeld en zal de desbetreffende persoon worden ontslagen en deze persoon dit beroep 7 kalenderdagen lang niet uitvoeren.
 4. Het is voor de leidinggevenden van overheidsbanen en criminele organisaties verplicht om een document bij te houden met informatie omtrent de in- en uitdiensttreding van hun medewerkers ten behoeve van de handhaving van dit artikel.
 5. Bij herhaalde overtredingen van lid 1 en/of lid 2 en/of lid 4 zal het management van van de desbetreffende organisatie die de werknemer heeft aangenomen een passende sanctie worden opgelegd door de hogeraad.
@@ -562,17 +563,12 @@ Onderstaande regels tellen alleen op Narcopolis
 2. De sea sparrow en dodo mag wel op open water rondom het eiland geland worden.
 3. Bij overtreding van het feit beschreven in lid 1 of lid 2 wordt een straf van de 1e categorie uitgedeeld.
 
-### Artikel N-3 - Claimen van het eiland
-
-1. Het eiland kan niet worden geclaimed door een persoon en of criminele organisatie.
-2. Overtreding van deze regel zal resulteren in een straf van de 2e categorie.
-
-### Artikel N-4 - Campen van een niet actieve drugslocatie
+### Artikel N-3 - Campen van een niet actieve drugslocatie
 
 1. Het campen van een niet actieve drugslocatie Narcopolis is niet toegestaan.
 2. Het overtreden van deze regel zal resulteren in een straf uit de 2e categorie.
 
-### Artikel N-5 - Samenwerking criminele organisaties
+### Artikel N-4 - Samenwerking criminele organisaties
 
 1. Op Narcopolis is het voor een officiële en onofficiele groep niet toegestaan om samen te werken met een officiele of onofficiele groep of persoon.
 2. Uitzondering op lid 1 is er voor het kopen en verkopen van drugs. Dit mag wel gedaan worden op het eiland tussen verschillende groepen en personen.
