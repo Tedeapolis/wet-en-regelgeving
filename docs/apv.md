@@ -356,7 +356,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 6. Er moeten ten allen tijden vijf overheidsmedewerkers binnen een baan beschikbaar blijven nadat er één ontvoert is, dus als er 6 agenten aanwezig zijn mag er 1 ontvoert worden, als er 5 aanwezig zijn mag er geen ontvoert worden.
 7. Een uitzondering op lid 6 geldt voor de ambulance. Hierbij moeten er te allen tijde 7 medewerkers beschikbaar blijven. Kortom, als er 8 ambulancemedewerkers aanwezig zijn, dan mag er 1 à 2 ontvoerd worden.
 8. Indien de regel(s) beschreven in dit artikel overtreden wordt/worden zal dit bestraft worden met een straf volgens de 1e categorie.
-9. Het is toegestaan om een agent te ontvoeren zodat je jouw voertuig uit de opslag kan halen, hiervoor dien je wel het bedrag af te lossen die hiervoor openstaat. Hierbij ontneem je wel het recht op een advocaat en/of hOVJ. Het is verboden om tussen 00:00 en 10:00 een voertuig uit de opslag te forceren, tevens moeten er minimaal 5 agenten in dienst zijn om dit te mogen doen.
+9. Het is toegestaan om een agent te ontvoeren zodat je jouw voertuig uit de opslag kan halen, hiervoor dien je wel het bedrag af te lossen die hiervoor openstaat. Hierbij ontneem je wel het recht op een advocaat en/of hOVJ. Het is verboden om tussen 00:00 en 10:00 een voertuig uit de opslag te forceren
 
 ### Artikel 34 - Roleplay & Ledenaantal Criminele Organisaties
 
