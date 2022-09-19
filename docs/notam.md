@@ -4,7 +4,7 @@ De volgende gebieden zijn aangemerkt als no fly zones.
 
 * Militaire basis
 * Gevangenis
-* Blokkenpark tot een hoogte van 300 meter
+* Blokkenpark tot een hoogte van 300 meter (1200 feet)
 * Vliegdekschip
 
 Hier onder staan deze zones weergegeven op de kaart van Tedeapolis.
