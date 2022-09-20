@@ -6,4 +6,4 @@ De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Tedeapolis
 
 ## Kaartweergave
 
-![Kaart met duanegebieden](img/douaneGebieden.png)
+![Kaart met duanegebieden](img/douaneGebieden.webp)
