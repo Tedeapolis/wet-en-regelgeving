@@ -9,4 +9,4 @@ De volgende gebieden zijn aangemerkt als no fly zones.
 
 Hier onder staan deze zones weergegeven op de kaart van Tedeapolis.
 
-![No fly zones](img/restrictedAirspace.jpg)
+![No fly zones](img/restrictedAirspace.webp)

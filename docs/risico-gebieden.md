@@ -6,7 +6,7 @@ De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Tedeapolis
 
 ## Kaartweergave
 
-![Kaart met risicogebieden](img/risicoGebieden.png)
+![Kaart met risicogebieden](img/risicoGebieden.webp)
 
 ## Postcodes
 
