@@ -93,5 +93,6 @@ Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is
 * Hummer H1 Alpha
 * Land Rover Defender 110 2021
 * Ford F-150 1978
+* Aston Martin DBX(Met offroad banden eronder)
 
 Ps. Missen er nog voertuigen of is het onduidelijk graag even een ticket ervoor aanmaken
