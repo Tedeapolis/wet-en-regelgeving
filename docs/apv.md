@@ -290,6 +290,8 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
     * Steamnaam
     * Discordnaam
     * Character naam
+3. Het is tevens niet toegestaan om in discordkanalen of in-game toxic, uitlokkend, haatzaaiend of opruiend gedrag te vertonen. 
+4. Overtreding van lid 3 resulteert in een timeout in onze discord server en/of een officiële sanctie.
 
 ## Overtredingen - Criminele activiteiten
 
