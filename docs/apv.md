@@ -33,7 +33,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
     * Categorie 1: een waarschuwing + 50 uur taakstraf
         * (max 3 waarschuwingen in 1 maand, hierna volgt automatisch oplegging cat. 2)
     * Categorie 2: een ban van maximaal 1 dag
-    * Categorie 3: een ban van maximaal 2 dag
+    * Categorie 3: een ban van maximaal 2 dagen
     * Categorie 4: een ban van maximaal 3 dagen
     * Categorie 5: een ban van maximaal 1 week
     * Categorie 6: een ban van maximaal 1 maand
@@ -290,6 +290,8 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
     * Steamnaam
     * Discordnaam
     * Character naam
+3. Het is tevens niet toegestaan om in discordkanalen of in-game toxic, uitlokkend, haatzaaiend of opruiend gedrag te vertonen. 
+4. Overtreding van lid 3 resulteert in een timeout in onze discord server en/of een officiële sanctie. Dit wordt door een stafflid bepaald aan de hand van de ernst en context.
 
 ## Overtredingen - Criminele activiteiten
 
