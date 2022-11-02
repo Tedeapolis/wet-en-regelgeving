@@ -606,6 +606,35 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | Sanchez | Motor |
 | Sanchez Sport | Motor |
 
+### Artikel III-15 Rijbewijsplicht (Art. 107 WVW)
+ 
+ 1. Aan de bestuurder van een motorrijtuig op de weg dient door de daartoe bevoegde autoriteit een rijbewijs te zijn afgegeven voor het besturen van motorrijtuigen van de categorie waartoe dat motorrijtuig behoort zoals beschreven staat in Artikel III-16 Reglement Rijbewijzen.
+ 2.  Het rijbewijs dient:
+	**a.** te voldoen aan de bij ministeriële regeling vastgestelde eisen inzake inrichting, uitvoering en invulling,
+	**b.** zijn geldigheid niet te hebben verloren, en
+	**c.** behoorlijk leesbaar te zijn.
+3. Indien de bestuurder van een motorrijtuig niet in bezit is van de juiste categorie kan deze bestraft worden met een boete, als zodanig:
+
+|   |   |
+|---|--|
+| Het besturen van een motorrijtuig zonder de daarvoor aangeschreven rijbewijs categorie te bezitten  | € 1250,- |
+
+
+
+
+### Artikel III-16 Reglement Rijbewijzen
+
+1. Rijbewijzen worden afgegeven voor het besturen van de volgende categorieën van motorrijtuigen:<br>
+**a.** motorrijtuigen op twee wielen, niet zijnde een bromfiets, al dan niet met zijspan, alsmede motorrijtuigen op drie wielen, niet zijnde motorrijtuigen op twee wielen met zijspan (rijbewijs A);<br>
+**b.** motorrijtuigen op vier of meer wielen, niet zijnde een bromfiets, waarvan de toegestane maximum massa niet meer bedraagt dan 3500 kg en die zijn ontworpen en gebouwd voor het vervoer van ten hoogste acht personen, de bestuurder niet meegerekend, alsmede daardoor voortbewogen aanhangwagens of opleggers waarvan de toegestane maximum massa niet meer bedraagt dan 750 kg, dan wel meer bedraagt dan 750 kg, mits in dat geval de toegestane maximum massa van het samenstel van trekkend motorrijtuig en aanhangwagen of oplegger niet meer bedraagt dan 3500 kg, een en ander afhankelijk van de gegevens op het kentekenbewijs van het trekkend motorrijtuig (rijbewijs B);<br>
+**c.** motorrijtuigen waarvan de toegestane maximum massa meer dan 3500 kg bedraagt, alsmede daardoor voortbewogen aanhangwagens of opleggers waarvan de toegestane maximum massa niet meer bedraagt dan 750 kg (rijbewijs C);<br>
+**d.** motorrijtuigen van de rijbewijscategorieën B of C voor het besturen waarvan de bestuurder in het bezit is van een rijbewijs, met een andere aanhangwagen of oplegger dan op grond van dat rijbewijs mag worden voortbewogen (rijbewijs E).<br>
+**e.** motorrijtuigen op twee wielen, waarvan de cilinderinhoud maximaal 49 cm3 betreft. (Rijbewijs AM)
+
+2. Indien de bestuurder een rijbewijs is afgegeven voor één of meerdere van de volgende categorieën: A, B, C heeft deze bestuurder tevens het recht om een motorrijtuig te besturen zoals beschreven in Art. III-16 eerste lid, onderdeel e.
+
+
+
 ## Titel IV - Opiumwet
 
 ![Titel IV](img/wetboek/opium.webp)
