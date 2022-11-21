@@ -641,7 +641,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ### Artikel IV-1 Harddrugs (2 OW)
 
-1. Schuldig is een persoon die harddrugs vergaart, in bezit heeft, of verkoopt.
+1. Schuldig is een persoon die harddrugs vergaart, in bezit heeft, vervoert, of verkoopt.
 2. Schuldig is ook een persoon die de ingrediënten, benodigd voor het vervaardigen van harddrugs, vergaart, in bezit heeft, of verkoopt.
 3. Strafbepaling geschiedt op grond van de totale hoeveelheid die aangetroffen is, ook wanneer dit verspreid is over meerdere personen.
 4. De hoeveelheid zoals bedoeld in lid 3 wordt opgeteld ten laste gelegd per persoon.
@@ -711,7 +711,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ### Artikel IV-2 Softdrugs (3 OW)
 
-1. Schuldig is een persoon die softdrugs vergaart, in bezit heeft, of verkoopt.
+1. Schuldig is een persoon die softdrugs vergaart, in bezit heeft, vervoert, of verkoopt.
 2. Schuldig is ook een persoon die de ingrediënten, benodigd voor het vervaardigen van softdrugs, vergaart, in bezit heeft, of verkoopt.
 3. Strafbepaling geschiedt op grond van de totale hoeveelheid die aangetroffen is, ook wanneer dit verspreid is over meerdere personen.
 4. Niet schuldig is een persoon die 5 ingrediënten 1 eindproduct voor eigen gebruik bij zich draagt.
