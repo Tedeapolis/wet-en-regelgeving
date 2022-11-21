@@ -408,7 +408,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 2. Witwassen mag enkel in de voertuigen die je krijgt van het depot of een persoonlijk voertuig dat van het soortgelijkend model is.
 3. Een persoon herkennen uit het criminele circuit valt onder powergaming en is geen reden om diegene te overvallen.
 4. Een witwasser herkennen omdat hij rondom het startpunt rijdt valt onder powergaming.
-5. Iemand die een in een whitelisted job voertuig rijd met de gepaste kleding mag niet zomaar aan de kant gezet worden, dit valt onder powergaming.
+5. Iemand die in een whitelisted job voertuig rijd met de gepaste kleding mag niet zomaar aan de kant gezet worden, dit valt onder powergaming.
 6. Het overtreden van de bovenstaande regels zal worden bestraft worden met een straf van de 1e categorie.
 7. De overvaller dient op het moment van overvallen beelden te kunnen overhandingen aan de staffleden. Mocht dit niet gedaan kunnen worden, zal er een straf van de 2e categorie gegeven worden.
 8. Het campen/opwachten op witwas locaties en het depot is verboden. Dit zal bestraft worden volgens de 2e categorie.
@@ -488,7 +488,7 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 
 ### Artikel 49 - Voertuigverlies in water (bij achtervolging)
 
-1. Wanneer men een voertuig dumpt tijdens een achtervolging, waar bij deze in het water terecht komt, zal deze 7 dagen in beslag genenomen worden, waarna er 30% van de nieuwprijs voor moet worden betaald om het voertuig weer op te halen.
+1. Wanneer men een voertuig dumpt tijdens een achtervolging, waar bij deze in het water terecht komt, zal deze in beslag worden genomen conform [Artikel A7 - Inbeslagname](https://wetboek.tedeapolis.nl/wetboek/#a7-inbeslagname).
 
 ### Artikel 50 - Schieten van uit een voertuig
 
