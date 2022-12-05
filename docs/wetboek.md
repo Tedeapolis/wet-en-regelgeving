@@ -141,7 +141,7 @@
 
 ### A12 - Voorhechtenis
     1. Voorhechtenis is alleen toegestaan voor feiten waar een celstraf op staat
-    2. Voorhechtenis kan alleen gegeven worden indien er overtuigend bewijs is dat de
+    2. Voorhechtenis kan alleen gegeven worden indien er wettig overtuigend bewijs is dat de verdachten een strafbaar feit heeft begaan.
     3. Maximale periode van de voorhechtenis is 24 uur, dit kan verlengt worden tot 48 uur door een hOvj (denk aan bijvoorbeeld aan Recherche zaken)
 
 ## Titel I - Vermogensdelicten
