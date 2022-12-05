@@ -1086,7 +1086,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ### Artikel VIII-15 Werkzaam bedrijf zonder KvK-Inschrijving
 
-1. Schuldig is een persoon die een omzet creëert doormiddel van zijn of haar bedrijf en niet KvK ingeschreven staat.
+1. Schuldig is een persoon die onder een bedrijfsnaam handelt of een omzet creëert doormiddel van zijn of haar bedrijf en niet KvK ingeschreven staat.
 2. Indien een opsporingsambtenaar merkt dat de schuldige nergens van afwist, dan kan deze zijn discretionaire bevoegdheid gebruiken om het af te doen met een waarschuwing in de vorm van een notitie.
 
 |  |Celstraf  | Taakstraf  | boete  |
