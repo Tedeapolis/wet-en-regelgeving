@@ -139,6 +139,11 @@
 6. Daders en medeplichtigen van een strafbaar feit worden gestraft volgens de strafbepaling van het desbetreffende artikel.
 7. Indien er onduidelijkheid is over medeplegen of medeplichtigheid tijdens een strafzaak dan kan een Hulpofficier van Justitie, Officier van Justitie of in uiterste gevallen een rechter hierover een eindoordeel vellen.
 
+### A12 - Voorhechtenis
+    1. Voorhechtenis is alleen toegestaan voor feiten waar een celstraf op staat.
+    2. Voorhechtenis kan alleen gegeven worden indien er wettig overtuigend bewijs is dat de verdachten een strafbaar feit heeft begaan.
+    3. Maximale periode van de voorhechtenis is 24 uur, dit kan verlengt worden tot 48 uur door een hOvj (denk aan bijvoorbeeld aan Recherche zaken).
+
 ## Titel I - Vermogensdelicten
 
 ![Titel I](img/wetboek/Vermogen.webp)
@@ -1086,7 +1091,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ### Artikel VIII-15 Werkzaam bedrijf zonder KvK-Inschrijving
 
-1. Schuldig is een persoon die een omzet creëert doormiddel van zijn of haar bedrijf en niet KvK ingeschreven staat.
+1. Schuldig is een persoon die onder een bedrijfsnaam handelt of een omzet creëert doormiddel van zijn of haar bedrijf en niet KvK ingeschreven staat.
 2. Indien een opsporingsambtenaar merkt dat de schuldige nergens van afwist, dan kan deze zijn discretionaire bevoegdheid gebruiken om het af te doen met een waarschuwing in de vorm van een notitie.
 
 |  |Celstraf  | Taakstraf  | boete  |
