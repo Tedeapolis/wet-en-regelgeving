@@ -30,7 +30,7 @@ theme:
         icon: material/weather-sunny
         name: Switch to light mode
   favicon: img/logoTedeapolis.png
-  logo: img/logoTedeapolis.png
+  logo: img/logoTedeapolis.webp
   custom_dir: docs/overrides
   language: nl
 plugins:

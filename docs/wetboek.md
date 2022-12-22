@@ -139,9 +139,14 @@
 6. Daders en medeplichtigen van een strafbaar feit worden gestraft volgens de strafbepaling van het desbetreffende artikel.
 7. Indien er onduidelijkheid is over medeplegen of medeplichtigheid tijdens een strafzaak dan kan een Hulpofficier van Justitie, Officier van Justitie of in uiterste gevallen een rechter hierover een eindoordeel vellen.
 
+### A12 - Voorhechtenis
+    1. Voorhechtenis is alleen toegestaan voor feiten waar een celstraf op staat.
+    2. Voorhechtenis kan alleen gegeven worden indien er wettig overtuigend bewijs is dat de verdachten een strafbaar feit heeft begaan.
+    3. Maximale periode van de voorhechtenis is 24 uur, dit kan verlengt worden tot 48 uur door een hOvj (denk aan bijvoorbeeld aan Recherche zaken).
+
 ## Titel I - Vermogensdelicten
 
-![Titel I](img/wetboek/Vermogen.png)
+![Titel I](img/wetboek/Vermogen.webp)
 
 ### Artikel I-1 Diefstal (310 SR)
 
@@ -242,7 +247,7 @@
 
 ## Titel II - Geweldsdelicten
 
-![Titel II](img/wetboek/Geweld.png)
+![Titel II](img/wetboek/Geweld.webp)
 
 ### Artikel II-1 Wederspannigheid/verzet (180 SR)
 
@@ -370,7 +375,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ## Titel III - Verkeersdelicten
 
-![Titel III](img/wetboek/verkeer.png)
+![Titel III](img/wetboek/verkeer.webp)
 
 ### Artikel III-1 Verkeersovertredingen in algemene zin (5 WVW)
 
@@ -608,11 +613,11 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ## Titel IV - Opiumwet
 
-![Titel IV](img/wetboek/opium.png)
+![Titel IV](img/wetboek/opium.webp)
 
 ### Artikel IV-1 Harddrugs (2 OW)
 
-1. Schuldig is een persoon die harddrugs vergaart, in bezit heeft, of verkoopt.
+1. Schuldig is een persoon die harddrugs vergaart, in bezit heeft, vervoert, of verkoopt.
 2. Schuldig is ook een persoon die de ingrediënten, benodigd voor het vervaardigen van harddrugs, vergaart, in bezit heeft, of verkoopt.
 3. Strafbepaling geschiedt op grond van de totale hoeveelheid die aangetroffen is, ook wanneer dit verspreid is over meerdere personen.
 4. De hoeveelheid zoals bedoeld in lid 3 wordt opgeteld ten laste gelegd per persoon.
@@ -682,7 +687,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ### Artikel IV-2 Softdrugs (3 OW)
 
-1. Schuldig is een persoon die softdrugs vergaart, in bezit heeft, of verkoopt.
+1. Schuldig is een persoon die softdrugs vergaart, in bezit heeft, vervoert, of verkoopt.
 2. Schuldig is ook een persoon die de ingrediënten, benodigd voor het vervaardigen van softdrugs, vergaart, in bezit heeft, of verkoopt.
 3. Strafbepaling geschiedt op grond van de totale hoeveelheid die aangetroffen is, ook wanneer dit verspreid is over meerdere personen.
 4. Niet schuldig is een persoon die 5 ingrediënten 1 eindproduct voor eigen gebruik bij zich draagt.
@@ -753,7 +758,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ## Titel V - Wet Wapens en Munitie
 
-![Titel V](img/wetboek/WWM.png)
+![Titel V](img/wetboek/WWM.webp)
 
 ### Artikel V-1 Tasers (26 WWM)
 
@@ -838,7 +843,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ## Titel VI - Wet op de Kansspelen
 
-![Titel VII](img/wetboek/kansspellen.png)
+![Titel VII](img/wetboek/kansspellen.webp)
 
 ### Artikel VI-1 Algemeen verbod (1 Wok)
 
@@ -889,7 +894,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ## Titel VII - Uitsluitings- en strafverminderingsgronden
 
-![Titel VII](https://i.imgur.com/7KGl9DA.png)
+![Titel VII](https://i.imgur.com/7KGl9DA.webp)
 
 ### Artikel VII-1 Algemene Uitsluitingen (39-43 SR)
 
@@ -933,7 +938,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ## Titel VIII - Overige
 
-![Titel VIII](img/wetboek/Overige.png)
+![Titel VIII](img/wetboek/Overige.webp)
 
 ### Artikel VIII-1 Niet voldoen aan een bevel of vordering (184 SR)
 
@@ -1086,7 +1091,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ### Artikel VIII-15 Werkzaam bedrijf zonder KvK-Inschrijving
 
-1. Schuldig is een persoon die een omzet creëert doormiddel van zijn of haar bedrijf en niet KvK ingeschreven staat.
+1. Schuldig is een persoon die onder een bedrijfsnaam handelt of een omzet creëert doormiddel van zijn of haar bedrijf en niet KvK ingeschreven staat.
 2. Indien een opsporingsambtenaar merkt dat de schuldige nergens van afwist, dan kan deze zijn discretionaire bevoegdheid gebruiken om het af te doen met een waarschuwing in de vorm van een notitie.
 
 |  |Celstraf  | Taakstraf  | boete  |

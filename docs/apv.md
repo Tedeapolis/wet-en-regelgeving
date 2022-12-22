@@ -33,7 +33,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
     * Categorie 1: een waarschuwing + 50 uur taakstraf
         * (max 3 waarschuwingen in 1 maand, hierna volgt automatisch oplegging cat. 2)
     * Categorie 2: een ban van maximaal 1 dag
-    * Categorie 3: een ban van maximaal 2 dag
+    * Categorie 3: een ban van maximaal 2 dagen
     * Categorie 4: een ban van maximaal 3 dagen
     * Categorie 5: een ban van maximaal 1 week
     * Categorie 6: een ban van maximaal 1 maand
@@ -82,7 +82,6 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
     * Medewerkers van de politie of koninklijke marechaussee dwingen om een (bewusteloos) persoon te fouilleren, items (zoals wapens) af te nemen en af te geven aan jou of iemand anders.
     * Je voertuig als gestolen melden bij de politie of koninklijke marechaussee, terwijl dit niet het geval is.
     * Het spelen op een zodanige resolutie dat er redelijkerwijs van uit kan worden gegaan dat hier voordeel uit wordt gehaald.
-    * Het counteren van een overval wanneer er al roleplay gestart is tussen de politie en de overvallers die al ter plaatse zijn.
     * Het hebben van keybinds voor /me of /do acties
     * Het doen van meerdere handelingen in één /me of /do waardoor de tegenpartij geen tegenreactie kan geven (Bijvoorbeeld: /me Doet gordel los en duwt persoon uit voertuig, dit moet in 2 losse /me)
     * Het gebruik maken van je "Veters" in de cel om iemand af te boeien en daardoor vrij te kunnen breken
@@ -290,6 +289,8 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
     * Steamnaam
     * Discordnaam
     * Character naam
+3. Het is tevens niet toegestaan om in discordkanalen of in-game toxic, uitlokkend, haatzaaiend of opruiend gedrag te vertonen. 
+4. Overtreding van lid 3 resulteert in een timeout in onze discord server en/of een officiële sanctie. Dit wordt door een stafflid bepaald aan de hand van de ernst en context.
 
 ## Overtredingen - Criminele activiteiten
 
@@ -313,6 +314,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 9. Het is voor criminelen toegestaan om mensen gedurende langere tijd te ondervragen en/of te martelen. Echter mag dit maximaal circa 2 uur duren. Er dient ook goede roleplay aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
 10. Bij een overtreding van de regel in lid 7 wordt de persoon gestraft volgens de 1e categorie en zal het scenario onmiddellijk worden teruggedraaid.
 11. De bescherming tegen oplichting zoals genoemd in lid 2 & 3 geldt alleen wanneer je het te betalen bedrag volledig ontvangt, op het moment van verkoop.
+12. Het counteren van een overval is niet toegestaan van zodra politie en/of KMAR ter plaatse is.
 
 ### Artikel 28 - Criminaliteit & Ambtenaren
 
@@ -406,7 +408,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 2. Witwassen mag enkel in de voertuigen die je krijgt van het depot of een persoonlijk voertuig dat van het soortgelijkend model is.
 3. Een persoon herkennen uit het criminele circuit valt onder powergaming en is geen reden om diegene te overvallen.
 4. Een witwasser herkennen omdat hij rondom het startpunt rijdt valt onder powergaming.
-5. Iemand die een in een whitelisted job voertuig rijd met de gepaste kleding mag niet zomaar aan de kant gezet worden, dit valt onder powergaming.
+5. Iemand die in een whitelisted job voertuig rijd met de gepaste kleding mag niet zomaar aan de kant gezet worden, dit valt onder powergaming.
 6. Het overtreden van de bovenstaande regels zal worden bestraft worden met een straf van de 1e categorie.
 7. De overvaller dient op het moment van overvallen beelden te kunnen overhandingen aan de staffleden. Mocht dit niet gedaan kunnen worden, zal er een straf van de 2e categorie gegeven worden.
 8. Het campen/opwachten op witwas locaties en het depot is verboden. Dit zal bestraft worden volgens de 2e categorie.
@@ -486,7 +488,7 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 
 ### Artikel 49 - Voertuigverlies in water (bij achtervolging)
 
-1. Wanneer men een voertuig dumpt tijdens een achtervolging, waar bij deze in het water terecht komt, zal deze 7 dagen in beslag genenomen worden, waarna er 30% van de nieuwprijs voor moet worden betaald om het voertuig weer op te halen.
+1. Wanneer men een voertuig dumpt tijdens een achtervolging, waar bij deze in het water terecht komt, zal deze in beslag worden genomen conform [Artikel A7 - Inbeslagname](https://wetboek.tedeapolis.nl/wetboek/#a7-inbeslagname).
 
 ### Artikel 50 - Schieten van uit een voertuig
 

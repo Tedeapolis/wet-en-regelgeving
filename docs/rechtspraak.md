@@ -7,7 +7,7 @@ In dit document kunt u een overzicht vinden van de rechten en plichten die verbo
 
 ## De advocatuur
 
-![Advocatuur](/img/rechtspraak/advocatuur.png)
+![Advocatuur](img/rechtspraak/advocatuur.webp)
 
 De advocatuur in Tedeapolis staat formeel in dienst van Justitie. Dit is voornamelijk administratief en heeft geen inhoudelijke gevolgen voor de onpartijdigheid van de advocaten. U mag dus verwachten dat een door u ingehuurde advocaat vrij is van belangenverstrengeling en *voor u* werkt.
 
@@ -26,7 +26,7 @@ Wilt u zelf aan de slag als advocaat? Kijk dan eens bij de sollicitatiepagina va
 
 ## De Officier van Justitie
 
-![OvJ](/img/rechtspraak/Officier_van_justitie.png)
+![OvJ](img/rechtspraak/Officier_van_justitie.webp)
 
 De Officier van Justitie (hierna OvJ) heeft binnen Tedeapolis de rol van openbaar aanklager, strafvervolger, en advocaat van de overheid. Ook is de OvJ aangewezen voor het uitgeven van bijvoorbeeld huiszoekingsbevelen.
 Naast de OvJ bestaat er nog de rol van hulpofficier van Justitie (hOvJ), en Hoofdofficier van Justitie (HOvJ). De hulpofficier van Justitie heeft dezelfde bevoegdheden als de OvJ. De OvJ heeft alleen senioriteit, en beslisbevoegdheid indien er een knoop doorgehakt moet worden. Dezelfde verdeling staat tussen de OvJ en de HOvJ, waarbij de HOvJ een additionele bevoegdheid heeft: het besluiten tot betrekking van de rechtbank in een zaak.
@@ -47,7 +47,7 @@ Wanneer de OvJ betrokken wordt vanwege een strafzaak en de OvJ dus de rol van ad
 
 ## De rechtbank
 
-![Rechtbank](/img/rechtspraak/rechtbank.png)
+![Rechtbank](img/rechtspraak/rechtbank.webp)
 
 De rechtbank heeft een relatief kleine rol binnen Tedeapolis, maar wel met groot gevolg. Verreweg de meeste zaken zullen nooit voor de rechter verschijnen, omdat ze afgedaan kunnen worden door de politie en de officieren van Justitie (OvJ).
 
@@ -72,7 +72,7 @@ De uitspraak van de rechter is bindend (er is geen hoger beroep boven de rechter
 
 ## Het Ministerie
 
-![Ministerie](/img/rechtspraak/ministerie.png)
+![Ministerie](img/rechtspraak/ministerie.webp)
 
 Het Ministerie van Justitie is administratief het hoofd van Justitie (en van alle bovengenoemde rollen). Daarnaast heeft het Ministerie als taak het bewaken, verbeteren, verduidelijken en aanvullen van de diverse wetten en documentatie, zoals u op deze pagina's kunt vinden.
 
