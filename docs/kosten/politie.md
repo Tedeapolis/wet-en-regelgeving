@@ -69,6 +69,7 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Opzettelijk veroorzaken van ernstig gevaar of hinder - eerste veroordeling | € 3000,- |
 | Opzettelijk veroorzaken van ernstig gevaar of hinder - tweede veroordeling | € 7500,- |
 | Opzettelijk veroorzaken van ernstig gevaar of hinder - derde veroordeling | € 10500,- |
+| Rijden met koplampen met een andere lichtkleur dan wit | € 5000,- |
 
 ## Klein misdrijf
 
