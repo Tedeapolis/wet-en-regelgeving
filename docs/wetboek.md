@@ -549,10 +549,11 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 1. Het voertuig, uitgezonderd fietsen, heeft 1 of meer nummerplaten, als dit niet mogelijk is moet de bestuurder in het bezit zijn van een geldig bewijs in vorm van een document als ontheffing daarvoor.
 2. Indien een voertuig ramen bezit dient het gezicht van de bestuurder en passagier(s) duidelijk zichtbaar te zijn.
 3. Er mag geen verlichting gevoerd worden onder het voertuig bij deelname aan het verkeer.
-4. Het voertuig dient vrij te zijn van uitstekende onderdelen en/of grote schade, die de veiligheid in het gedrang brengt.
-5. Bij het voertuig mogen geen deuren ontbreken, indien deze wel aanwezig behoren te zijn.
-6. Het voertuig dient een eentonige claxon te voeren.
-7. Het voertuig dient vrij te zijn van een WOK-status bij deelname aan het verkeer.
+4. Grootlicht en dimlicht  mag niet anders dan wit, wit-blauw, geel of wit-geel stralen.
+5. Het voertuig dient vrij te zijn van uitstekende onderdelen en/of grote schade, die de veiligheid in het gedrang brengt.
+6. Bij het voertuig mogen geen deuren ontbreken, indien deze wel aanwezig behoren te zijn.
+7. Het voertuig dient een eentonige claxon te voeren.
+8. Het voertuig dient vrij te zijn van een WOK-status bij deelname aan het verkeer.
 
 #### Strafbepalingen Voertuigeisen
 
@@ -573,6 +574,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 |---|---|
 | Rijden zonder kentekenplaten | € 10000,- |
 | Ramen dusdanig donker getint zodat de bestuurder en passagier voor in niet zichtbaar zijn | € 7500,- |
+| Verkeerde kleur dim- of grootlicht | € 5000,- |
 | Verlichting(NEON) onder het voertuig | € 2500,- |
 
 ### Artikel III-13 Overige verkeersboetes
