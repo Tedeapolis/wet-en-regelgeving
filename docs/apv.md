@@ -349,6 +349,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 1. Het is nadat iemand van het leven beroofd is door een rivaliserende groep, gedurende 24 uur niet toegestaan mee te doen aan eventuele wraakacties tegen deze groep.
 2. Indien de regel zoals beschreven in lid 1 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.
+3. Een liquidatie mag niet uitgevoerd worden zonder dat het slachtoffer op de hoogte is van de reden hierachter. Er dient dus aan het slachtoffer duidelijk gemaakt te worden, terwijl hij/zij nog leeft, waarom diegene geliquideerd wordt.
 
 ### Artikel 33 - Gedrag tegen overheidsmedewerkers
 
