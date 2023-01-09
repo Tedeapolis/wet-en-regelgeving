@@ -82,7 +82,6 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
     * Medewerkers van de politie of koninklijke marechaussee dwingen om een (bewusteloos) persoon te fouilleren, items (zoals wapens) af te nemen en af te geven aan jou of iemand anders.
     * Je voertuig als gestolen melden bij de politie of koninklijke marechaussee, terwijl dit niet het geval is.
     * Het spelen op een zodanige resolutie dat er redelijkerwijs van uit kan worden gegaan dat hier voordeel uit wordt gehaald.
-    * Het counteren van een overval wanneer er al roleplay gestart is tussen de politie en de overvallers die al ter plaatse zijn.
     * Het hebben van keybinds voor /me of /do acties
     * Het doen van meerdere handelingen in één /me of /do waardoor de tegenpartij geen tegenreactie kan geven (Bijvoorbeeld: /me Doet gordel los en duwt persoon uit voertuig, dit moet in 2 losse /me)
     * Het gebruik maken van je "Veters" in de cel om iemand af te boeien en daardoor vrij te kunnen breken
@@ -103,7 +102,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 2. Wanneer het om bedragen gaat hoger dan €50.000,- zal de straf genoemd in lid 1 verhoogd worden naar de 6e categorie.
 3. Wanneer het om bedragen gaat hoger dan €100.000,- zal de straf genoemd in lid 1 en lid 2 verhoogd worden naar de 7e categorie.
 4. De bedragen zoals genoemd in lid 2 en lid 3 zijn ook van toepassing voor voorwerpen, hiervoor zal dan de waarde van deze voorwerpen worden getaxeerd. Taxering geschiedt hier op basis van catalogus of -marktwaarde.
-5. De bedragen en/of materialen zullen per direct teruggegeven worden aan de Hoge Raad. De Hoge Raad dient deze per direct te vernietigen. Hiernaast zullen de betrokken accounts ook volledig verwijderd worden (categorie 8).
+5. De bedragen en/of materialen zullen per direct teruggegeven worden aan een stafflid. Het stafflid dient deze per direct te vernietigen. Hiernaast zullen de betrokken accounts ook volledig verwijderd worden (categorie 8).
 6. Naast de in lid 1, 2 en 3 genoemde straffen zal de overtreder ook 25% van de waarde extra terug moeten betalen.
 
 ### Artikel 4 - Verstoring RP
@@ -315,6 +314,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 9. Het is voor criminelen toegestaan om mensen gedurende langere tijd te ondervragen en/of te martelen. Echter mag dit maximaal circa 2 uur duren. Er dient ook goede roleplay aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
 10. Bij een overtreding van de regel in lid 7 wordt de persoon gestraft volgens de 1e categorie en zal het scenario onmiddellijk worden teruggedraaid.
 11. De bescherming tegen oplichting zoals genoemd in lid 2 & 3 geldt alleen wanneer je het te betalen bedrag volledig ontvangt, op het moment van verkoop.
+12. Het counteren van een overval is niet toegestaan van zodra politie en/of KMAR ter plaatse is.
 
 ### Artikel 28 - Criminaliteit & Ambtenaren
 
@@ -575,7 +575,7 @@ Onderstaande regels tellen alleen op Narcopolis
 
 ### Artikel N-4 - Samenwerking criminele organisaties
 
-1. Op Narcopolis is het voor een officiële en onofficiele groep niet toegestaan om samen te werken met een officiele of onofficiele groep of persoon.
+1. Op Narcopolis is het voor een officiële groep niet toegestaan om samen te werken met een officiele of onofficiele groep of persoon.
 2. Uitzondering op lid 1 is er voor het kopen en verkopen van drugs. Dit mag wel gedaan worden op het eiland tussen verschillende groepen en personen.
 3. Bij overtreding van lid 1 zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het Roleplayscenario.
 4. Bij herhaling na de straf van de 5e categorie wordt er een gang strike uitgedeeld.
