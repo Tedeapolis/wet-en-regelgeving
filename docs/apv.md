@@ -562,18 +562,13 @@ Onderstaande regels tellen alleen op Narcopolis
 3. Bij overtreding van lid 1 of lid 2 zal een straf worden gegeven van de 1e categorie.
 4. Er mag op binnenkomende vluchten en schepen geschoten worden, die niet afkomstig zijn van de koninklijke marechaussee.
 
-### Artikel N-2 - Landen van helikopers/vliegtuigen
+### Artikel N-2 - Inladen van helikopers/vliegtuigen
 
-1. Het is verplicht om te landen op een helipad, een landingsbaan of in een straal van 50 meter van een helipad/landingsbaan.
-2. De sea sparrow en dodo mag wel op open water rondom het eiland geland worden.
+1. Wanneer jij drugs wilt inladen in een vliegtuig of helikopter moet het vliegtuig of de helikopter binnen een straal van 50 meter van een helipad of landingsbaan staan.
+2. De sea sparrow en dodo mag wel volgeladen worden op open water.
 3. Bij overtreding van het feit beschreven in lid 1 of lid 2 wordt een straf van de 1e categorie uitgedeeld.
 
-### Artikel N-3 - Campen van een niet actieve drugslocatie
-
-1. Het campen van een niet actieve drugslocatie Narcopolis is niet toegestaan.
-2. Het overtreden van deze regel zal resulteren in een straf uit de 2e categorie.
-
-### Artikel N-4 - Samenwerking criminele organisaties
+### Artikel N-3 - Samenwerking criminele organisaties
 
 1. Op Narcopolis is het voor een officiële groep niet toegestaan om samen te werken met een officiele of onofficiele groep of persoon.
 2. Uitzondering op lid 1 is er voor het kopen en verkopen van drugs. Dit mag wel gedaan worden op het eiland tussen verschillende groepen en personen.
