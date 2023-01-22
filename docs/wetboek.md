@@ -555,7 +555,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 5. Bij het voertuig mogen geen deuren ontbreken, indien deze wel aanwezig behoren te zijn.
 6. Het voertuig dient een eentonige claxon te voeren.
 7. Het voertuig dient vrij te zijn van een WOK-status bij deelname aan het verkeer.
-8. Het licht van de koplampen van het voertuigen dient een witte kleur te hebben.
+8. Het licht van de koplampen van het voertuigen dient een witte of gele kleur te hebben.
 
 #### Strafbepalingen Voertuigeisen
 
@@ -577,7 +577,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | Rijden zonder kentekenplaten | € 10000,- |
 | Ramen dusdanig donker getint zodat de bestuurder en passagier voor in niet zichtbaar zijn | € 7500,- |
 | Verlichting(NEON) onder het voertuig | € 2500,- |
-| Rijden met koplampen met een andere lichtkleur dan wit | € 5000,- |
+| Rijden met koplampen met een andere lichtkleur dan wit of geel | € 5000,- |
 
 ### Artikel III-13 Overige verkeersboetes
 
