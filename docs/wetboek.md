@@ -72,13 +72,15 @@
     1. De keuze voor inbeslagname is ter beoordeling van Politie en/of de Koninklijke Marechaussee.
     2. Verwerking van de in beslag genomen goederen (behalve voertuigen) geschiedt volgens richtlijn van Politie;
 2. Wanneer een voertuig in beslag wordt genomen vanwege een strafbaar feit:
-    1. Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek;
+    1. Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek, in deze 3 dagen heeft de Politie en/ of Koninklijke Marechaussee de tijd om	de bewijzen te verzamelen en beschikbaar te stellen;
     2. Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een strafbaar feit, uitgekocht kunnen worden op basis van de ernst van het strafbaar feit, 24 uur nadat de inbeslagname is geregistreerd in de politiesystemen;
     3. Zal deze, wanneer, met inachtneming van de vorige regel, het voertuig tevens uit het water moest worden gehaald, uitgekocht kunnen worden op toevoeging van 10% op het basisuitkooppercentage;
-    4. Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien aan is getoond dat het goed niet gebruikt is in het plegen van een strafbaar feit, of uit een strafbaar feit is verkregen, welke in directe zin gekoppeld is aan de reden van inbeslagname.
+    4. Zal deze kosteloos worden teruggegeven als er na 3 dagen tijd niet voldoende bewijs is voor de inbeslagname, als een advocaat op de 3e dag pas de hOvj/Ovj benaderd, heeft de hOvj/Ovj het recht om een extra 48 uur te nemen voor extra bewijs op te vragen als dat er zou zijn.
     5. Zal deze kosteloos worden teruggegeven indien aan is getoond dat het voertuig als gestolen is opgegeven voor de tijd van het gepleegde strafbaar feit. Het opgeven als gestolen moet worden gedaan door middel van aangifte bij een ambtenaar in functie.
     6. Wanneer het goed bewijsbaar onderdeel was van het strafbare feit en de eigenaar daarvan overleden is, dan zal het voertuig ook uitgekocht moeten worden volgens de standaardregels.
-    7. Uitzonderingsgrond voor teruggave van het voertuig is, indien het een voertuig betreft zoals omschreven in Artikel III-14 Illegale voertuigen of indien een voertuig voor de vierde keer in beslag wordt genomen. In dit geval zal het voertuig worden vernietigd of verkocht. Ook voertuigen die langer dan veertien (14) dagen in de opslag staan, zullen worden vernietigd of verkocht. Dit laatste geldt niet indien er bezwaar is aangetekend via het klachtenformulier van de politie of koninklijke marechaussee.
+    7. Wanneer een advocaat een hOvj of Ovj inschakeld heeft deze altijd het recht om 48 uur de tijd te krijgen om bewijs op te vragen vanaf het moment dat hij of zij ingeschakeld wordt. Deze 48 uur kunnen dus ook het maximum van 3 dagen/ 72 uur verlengen als de hOvj of Ovj pas op de 3e dag wordt ingeschakeld. Indien de officier op de 1ste dag wordt ingeschakeld, dan is lid a leidend en mag deze 48 uur niet gebruikt worden om de maximum duur van 3 dagen te verlengen.
+    8. Er kan alleen in beroep gegaan worden tegen een inbeslagname door middel van een advocaat. Het voertuig kan er alleen uitgehaald worden als er een advocaat betrokken is, of d.m.v. het klachtenformulier.
+    9. Uitzonderingsgrond voor teruggave van het voertuig is, indien het een voertuig betreft zoals omschreven in Artikel III-14 Illegale voertuigen of indien een voertuig voor de vierde keer in beslag wordt genomen. In dit geval zal het voertuig worden vernietigd of verkocht. Ook voertuigen die langer dan veertien (14) dagen in de opslag staan, zullen worden vernietigd of verkocht. Dit laatste geldt niet indien er bezwaar is aangetekend via het klachtenformulier van de politie of koninklijke marechaussee.
 3. Geldige redenen voor inbeslagname zijn:
     1. Plegen van een strafbaar feit uit het wetboek van Tedeapolis waarbij het goed direct of indirect betrokken is, behalve fout parkeren en een snelheidsovertreding met uitzondering zoals beschreven in lid E van dit artikel;
     2. Plegen van een misdrijf uit de Nederlandse wetgeving waarbij het goed direct of indirect betrokken is;
@@ -140,9 +142,9 @@
 7. Indien er onduidelijkheid is over medeplegen of medeplichtigheid tijdens een strafzaak dan kan een Hulpofficier van Justitie, Officier van Justitie of in uiterste gevallen een rechter hierover een eindoordeel vellen.
 
 ### A12 - Voorhechtenis
-    1. Voorhechtenis is alleen toegestaan voor feiten waar een celstraf op staat.
-    2. Voorhechtenis kan alleen gegeven worden indien er wettig overtuigend bewijs is dat de verdachten een strafbaar feit heeft begaan.
-    3. Maximale periode van de voorhechtenis is 24 uur, dit kan verlengt worden tot 48 uur door een hOvj (denk aan bijvoorbeeld aan Recherche zaken).
+1. Voorhechtenis is alleen toegestaan voor feiten waar een celstraf op staat.
+2. Voorhechtenis kan alleen gegeven worden indien er wettig overtuigend bewijs is dat de verdachte een strafbaar feit heeft begaan.
+3. De maximale periode van de voorhechtenis is 24 uur. Dit kan maximaal verlengt worden tot 72 uur voorarrest door een hOvJ.
 
 ## Titel I - Vermogensdelicten
 
@@ -1160,18 +1162,6 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | Onterecht gebruik vuurwapen (cat. 1) als geweldsmiddel | € 4000,- |
 | Onterecht inzet surveillancehond als geweldsmiddel | € 5000,- |
 | Onterecht gebruik vuurwapen (cat. 2) als geweldsmiddel | € 7000,- |
-
-### Artikel IX-3 (Im)materiële schadevergoeding voor buitensporig geweld door burger jegens overheidsmedewerker
-
-1. Een overheidsmedewerker zoals bedoeld in dit artikel is een ambtenaar in functie werkzaam voor: Politie/KMAR, Ambulance of Justitie.
-2. Bij bepaling of buitensporig geweld van toepassing is wordt uitgegaan van Artikel II-6 Eenvoudige mishandeling (300 SR), Artikel II-7 Zware mishandeling (302 SR), Artikel II-2 Gijzeling (282 SR) en Artikel II-3 Bedreiging (285 SR). Artikel II-4 Doodslag (287 SR) en Artikel II-5 Moord (289 SR) zijn alleen van toepassing indien het een "poging tot" betreft.
-3. Buitensporig geweld dient jegens een overheidsmedewerker te zijn toegepast.
-4. Indien verdachte conform lid 2 wordt veroordeeld wordt de boete die ontstaat uit de artikelen benoemt in lid 2 met 33% verhoogd en komt dit 33% deel als vergoeding ten gunste van de getroffen overheidsmedewerker.
-5. Indien meerdere overheidsmedewerkers slachtoffer zijn van het buitensporig geweld, dan wordt de vergoeding zoals beschreven in lid 4 evenredig verdeeld over de overheidsmedewerkers.
-6. Een vergoeding die ten gunste komt van de getroffen overheidsmedewerker is alleen mogelijk indien een advocaat is betrokken bij de zaak.
-7. Een uitzondering op lid 6 is indien er een besluit is genomen door OvJ/HOvJ/hOvJ die betrokken wordt bij de zaak.
-8. Het schadevergoeding document kan alleen worden ondertekend door korpsleiding of een OvJ/HOvJ/hOvJ.
-9. Schadevergoeding wordt uitgekeerd vanuit de korpsleiding op vertoon van het schadevergoeding document.
 
 ## Titel X – Algemene douanewet
 
