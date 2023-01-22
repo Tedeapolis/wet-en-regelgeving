@@ -142,9 +142,9 @@
 7. Indien er onduidelijkheid is over medeplegen of medeplichtigheid tijdens een strafzaak dan kan een Hulpofficier van Justitie, Officier van Justitie of in uiterste gevallen een rechter hierover een eindoordeel vellen.
 
 ### A12 - Voorhechtenis
-    1. Voorhechtenis is alleen toegestaan voor feiten waar een celstraf op staat.
-    2. Voorhechtenis kan alleen gegeven worden indien er wettig overtuigend bewijs is dat de verdachten een strafbaar feit heeft begaan.
-    3. Maximale periode van de voorhechtenis is 24 uur, dit kan verlengt worden tot 48 uur door een hOvj (denk aan bijvoorbeeld aan Recherche zaken).
+1. Voorhechtenis is alleen toegestaan voor feiten waar een celstraf op staat.
+2. Voorhechtenis kan alleen gegeven worden indien er wettig overtuigend bewijs is dat de verdachte een strafbaar feit heeft begaan.
+3. De maximale periode van de voorhechtenis is 24 uur. Dit kan maximaal verlengt worden tot 72 uur voorarrest door een hOvJ.
 
 ## Titel I - Vermogensdelicten
 
@@ -555,6 +555,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 5. Bij het voertuig mogen geen deuren ontbreken, indien deze wel aanwezig behoren te zijn.
 6. Het voertuig dient een eentonige claxon te voeren.
 7. Het voertuig dient vrij te zijn van een WOK-status bij deelname aan het verkeer.
+8. Het licht van de koplampen van het voertuigen dient een witte of gele kleur te hebben.
 
 #### Strafbepalingen Voertuigeisen
 
@@ -576,6 +577,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | Rijden zonder kentekenplaten | € 10000,- |
 | Ramen dusdanig donker getint zodat de bestuurder en passagier voor in niet zichtbaar zijn | € 7500,- |
 | Verlichting(NEON) onder het voertuig | € 2500,- |
+| Rijden met koplampen met een andere lichtkleur dan wit of geel | € 5000,- |
 
 ### Artikel III-13 Overige verkeersboetes
 
@@ -1160,18 +1162,6 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | Onterecht gebruik vuurwapen (cat. 1) als geweldsmiddel | € 4000,- |
 | Onterecht inzet surveillancehond als geweldsmiddel | € 5000,- |
 | Onterecht gebruik vuurwapen (cat. 2) als geweldsmiddel | € 7000,- |
-
-### Artikel IX-3 (Im)materiële schadevergoeding voor buitensporig geweld door burger jegens overheidsmedewerker
-
-1. Een overheidsmedewerker zoals bedoeld in dit artikel is een ambtenaar in functie werkzaam voor: Politie/KMAR, Ambulance of Justitie.
-2. Bij bepaling of buitensporig geweld van toepassing is wordt uitgegaan van Artikel II-6 Eenvoudige mishandeling (300 SR), Artikel II-7 Zware mishandeling (302 SR), Artikel II-2 Gijzeling (282 SR) en Artikel II-3 Bedreiging (285 SR). Artikel II-4 Doodslag (287 SR) en Artikel II-5 Moord (289 SR) zijn alleen van toepassing indien het een "poging tot" betreft.
-3. Buitensporig geweld dient jegens een overheidsmedewerker te zijn toegepast.
-4. Indien verdachte conform lid 2 wordt veroordeeld wordt de boete die ontstaat uit de artikelen benoemt in lid 2 met 33% verhoogd en komt dit 33% deel als vergoeding ten gunste van de getroffen overheidsmedewerker.
-5. Indien meerdere overheidsmedewerkers slachtoffer zijn van het buitensporig geweld, dan wordt de vergoeding zoals beschreven in lid 4 evenredig verdeeld over de overheidsmedewerkers.
-6. Een vergoeding die ten gunste komt van de getroffen overheidsmedewerker is alleen mogelijk indien een advocaat is betrokken bij de zaak.
-7. Een uitzondering op lid 6 is indien er een besluit is genomen door OvJ/HOvJ/hOvJ die betrokken wordt bij de zaak.
-8. Het schadevergoeding document kan alleen worden ondertekend door korpsleiding of een OvJ/HOvJ/hOvJ.
-9. Schadevergoeding wordt uitgekeerd vanuit de korpsleiding op vertoon van het schadevergoeding document.
 
 ## Titel X – Algemene douanewet
 
