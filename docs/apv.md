@@ -583,7 +583,7 @@ Onderstaande regels tellen alleen op Narcopolis
 
 1. Het is verboden om tussen 01:30 en 10:00 uit de gevangenis te breken.
 2. Er moet ten allen tijden 10+ koninklijke marechaussee beschikbaar zijn, als er 6 - 10 koninklijke marechaussee aanwezig zijn mag je niet uitgebroken worden.
-3. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 2e categorie uitgedeeld.
+3. Bij overtreding van het feit beschreven in lid 1 of lid 2 wordt een straf van de 2e categorie uitgedeeld.
 
 ## Slotbepaling: Regels in het kort
 
