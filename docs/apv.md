@@ -394,8 +394,9 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 2. Het is niet toegestaan om te ontsnappen of jezelf uit te laten breken indien er is afgesproken om het roleplayscenario op een later tijdstip voort te zetten, bijvoorbeeld vanwege tijdsgebrek of andere beperkingen.
 3. Het is niet toegestaan om een uit-dienst politiemedewerker te ontvoeren om een ontsnapping van een arrestant uit het cellencomplex te faciliteren of te vergemakkelijken. Deze agenten zijn op dat moment immers niet bezig met de uitvoering van de politietaak.
 4. Het is niet toegestaan om jezelf voor te doen als overheidsmedewerker bij het ontsnappen of helpen ontsnappen van een derde persoon uit het cellencomplex.
-5. Het is verboden om tussen 23:00 en 10:00 uit het cellencomplex te breken.
-6. Bij overtreding van dit artikel zal er een straf uitgedeeld worden volgens de 1e categorie en zal het roleplayscenario worden teruggedraaid.
+5. Het is verboden om tussen 01:30 en 10:00 uit het cellencomplex te breken.
+6. Er moet ten allen tijden 10+ politie beschikbaar zijn, als er 6 - 10 politie aanwezig zijn mag je niet ontsnappen.
+7. Bij overtreding van dit artikel zal er een straf uitgedeeld worden volgens de 1e categorie en zal het roleplayscenario worden teruggedraaid.
 
 ### Artikel 38 - Witwassen
 
@@ -581,8 +582,9 @@ Onderstaande regels tellen alleen op Narcopolis
 
 ### Artikel T-1 - Uitbreken uit de gevangenis
 
-1. Het is verboden om tussen 23:00 en 10:00 uit de gevangenis te breken.
-2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 2e categorie uitgedeeld.
+1. Het is verboden om tussen 01:30 en 10:00 uit de gevangenis te breken.
+2. Er moet ten allen tijden 10+ koninklijke marechaussee beschikbaar zijn, als er 6 - 10 koninklijke marechaussee aanwezig zijn mag je niet uitgebroken worden.
+3. Bij overtreding van het feit beschreven in lid 1 of lid 2 wordt een straf van de 2e categorie uitgedeeld.
 
 ## Slotbepaling: Regels in het kort
 
