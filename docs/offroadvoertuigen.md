@@ -35,6 +35,7 @@ Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is
 * Baller Sport
 * Bentley bentayga 
 * Camper
+* Maibatsu Mule
 * Cliffhanger
 * Jeep DemonHawk
 * Range Rover Evoque
