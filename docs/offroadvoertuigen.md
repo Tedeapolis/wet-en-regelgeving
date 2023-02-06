@@ -52,18 +52,27 @@ Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is
 * Alfa Romeo Stelvio
 * Jeep Grand Cherokee SRT8
 * Toyota Rav-4
+* Volvo XC90 T8
 * Sultan RS (Met offroad banden eronder)
 * Sultan RS Classic (Met offroad banden eronder)
+* Subaru Impreza WRX STI 2012
 
 ## Off-Road
 
 * Mercedes G65 6x6 AMG
 * Mercedes X Klasse
-* Mercedes G65 AMG 
+* Mercedes G65 AMG
+* Mercedes Maybach G650 Landaulet
+* Mercedes Unimog U5023
+* Brabus D35
+* Brabus 500 4x4
+* Can-Am Maverick
 * BMW X5M
 * Ford Raptor
+* Ford velociaptor 6x6
 * Nissan Titan
 * Dodge Ram 2500 Hemi
+* Dodge Ram 1500 TRX
 * Jeep Wrangler
 * Trophy Truck
 * Manchez
@@ -90,9 +99,11 @@ Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is
 * BMW X7 
 * Ford Bronco Wildtrak
 * Range Rover Startech
+* Range Rover Vogue
 * Hummer H1 Alpha
 * Land Rover Defender 110 2021
 * Ford F-150 1978
 * Aston Martin DBX(Met offroad banden eronder)
+* Comet Safari Kerst Editie
 
 Ps. Missen er nog voertuigen of is het onduidelijk graag even een ticket ervoor aanmaken
