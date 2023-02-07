@@ -305,17 +305,17 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
     * Facturen en/of andere items welke gerelateerd aan een baan zijn
     * Overheids voorwerpen
     * Onder dwang iemand zijn huis betreden en dan leegroven
-3. Met betrekking tot de volgende dingen/situaties is oplichten niet toegestaan:
-    * Voertuigen (muv. tunes)
-4. Voertuigen kunnen ook niet meer gebruikt worden bij illegale deals en kunnen enkel met legaal geld gekocht worden.
-5. Het is de verantwoordelijkheid van de kopende partij om te controleren of de aangeboden aanpassingen (ook wel bekend als tunes) op het voertuig aanwezig zijn ten tijde van overdracht van het voertuig. Het is dus volledig jouw eigen risico wanneer je er voor kiest om niet de tunes te controleren. Wanneer je moedwillig alsnog mensen gaat scammen met tunes kan hier alsnog op gestraft worden.
-6. Met criminele activiteiten zoals vermeld in lid 1 worden dingen met betrekking tot drugs, overvallen, witwassen, het dragen van een masker, kogelwerend vest, holster etc bedoeld, en dus geen overtredingen.
-7. Bij een overtreding van de wet in lid 1 en/of lid 2 en/of lid 3 wordt de persoon gestraft volgens de 4e categorie en wordt het geld teruggegeven aan het slachtoffer. Wanneer de persoon het geld al heeft uitgegeven zal het resulteren in straf van de 8e categorie.
-8. Hou hiermee wel rekening dat het bij het vergrijp zoals beschreven in lid 1 niet de bedoeling is hiermee misbruik te maken van onwetendheid van mensen, dus vermijd het oplichten van nieuwe spelers.
-9. Het is voor criminelen toegestaan om mensen gedurende langere tijd te ondervragen en/of te martelen. Echter mag dit maximaal circa 2 uur duren. Er dient ook goede roleplay aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
-10. Bij een overtreding van de regel in lid 7 wordt de persoon gestraft volgens de 1e categorie en zal het scenario onmiddellijk worden teruggedraaid.
-11. De bescherming tegen oplichting zoals genoemd in lid 2 & 3 geldt alleen wanneer je het te betalen bedrag volledig ontvangt, op het moment van verkoop.
-12. Het counteren van een overval is niet toegestaan van zodra politie en/of KMAR ter plaatse is.
+    * Voertuigen
+3. Voertuigen kunnen ook niet meer gebruikt worden bij illegale deals en kunnen enkel met legaal geld gekocht worden.
+4. Het is de verantwoordelijkheid van de kopende partij om te controleren of de aangeboden aanpassingen (ook wel bekend als tunes) op het voertuig aanwezig zijn ten tijde van overdracht van het voertuig. Het is dus volledig jouw eigen risico wanneer je er voor kiest om niet de tunes te controleren. Wanneer je moedwillig alsnog mensen gaat scammen met tunes kan hier alsnog op gestraft worden.
+Het is de verantwoordelijkheid van de kopende partij om te controleren of de aangeboden aanpassingen (ook wel bekend als tunes) op het voertuig aanwezig zijn ten tijde van overdracht van het voertuig in een modshop. Het is dus volledig jouw eigen risico wanneer je er voor kiest om niet de tunes te controleren in de modshop. Scammen van voertuigen en/of tunes blijft ten allen tijden strafbaar.
+5. Met criminele activiteiten zoals vermeld in lid 1 worden dingen met betrekking tot drugs, overvallen, witwassen, het dragen van een masker, kogelwerend vest, holster etc bedoeld, en dus geen overtredingen.
+6. Bij een overtreding van de wet in lid 1 en/of lid 2 wordt de persoon gestraft volgens de 4e categorie en wordt het geld teruggegeven aan het slachtoffer. Wanneer de persoon het geld al heeft uitgegeven zal het resulteren in straf van de 8e categorie.
+7. Hou hiermee wel rekening dat het bij het vergrijp zoals beschreven in lid 1 niet de bedoeling is hiermee misbruik te maken van onwetendheid van mensen, dus vermijd het oplichten van nieuwe spelers.
+8. Het is voor criminelen toegestaan om mensen gedurende langere tijd te ondervragen en/of te martelen. Echter mag dit maximaal circa 2 uur duren. Er dient ook goede roleplay aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
+9. Bij een overtreding van de regel in lid 7 wordt de persoon gestraft volgens de 1e categorie en zal het scenario onmiddellijk worden teruggedraaid.
+10. De bescherming tegen oplichting zoals genoemd in lid 2 geldt alleen wanneer je het te betalen bedrag volledig ontvangt, op het moment van verkoop.
+11. Het counteren van een overval is niet toegestaan van zodra politie en/of KMAR ter plaatse is.
 
 ### Artikel 28 - Criminaliteit & Ambtenaren
 
