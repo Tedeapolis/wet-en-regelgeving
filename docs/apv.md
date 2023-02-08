@@ -578,6 +578,11 @@ Onderstaande regels tellen alleen op Narcopolis
 3. Bij overtreding van lid 1 zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het Roleplayscenario.
 4. Bij herhaling na de straf van de 5e categorie wordt er een gang strike uitgedeeld.
 
+### Artikel N-4 - Campen van een niet actieve drugslocatie
+1. Het campen van een niet actieve drugslocatie is niet toegestaan op het eiland.
+2. Zodra je binnen 100 meter van de pluk bent, kan dit onder campen vallen. 
+3. Het overtreden van deze regel zal resulteren in een straf uit de 2e categorie.
+
 ## Tijdelijke bepalingen
 
 ### Artikel T-1 - Uitbreken uit de gevangenis
