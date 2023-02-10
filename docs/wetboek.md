@@ -1125,6 +1125,17 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | Tweede Veroordeling  | 20 maanden |  | € 5000,-  |
 | Meerdere Veroordelingen  | 40 maanden |  | € 10000,-  |
 
+### Artikel VIII-18 Misdrijven tegen het openbaar gezag (189 SR)
+
+1. Schuldig is een persoon die opzettelijk iemand die schuldig is aan of verdacht wordt van enig misdrijf behulpzaam is in het ontkomen aan de nasporing van of aanhouding door enige ambtenaar in functie.
+2. Schuldig is een persoon die opzettelijk voorwerpen vernietigd of ontneemt om de inbeslagneming door een ambtenaar in functie te beletten of te belemmeren. 
+
+|  |Celstraf  | Taakstraf  | boete  |
+|---|---|---|---|
+|  Eerste Veroordeling | 12 maanden |  | € 10.000,-  |
+| Tweede Veroordeling  | 36 maanden |  | € 15.000,-  |
+| Meerdere Veroordelingen  | 48 maanden |  | € 20.000,-  |
+
 ## Titel IX – Schadevergoeding
 
 ### Artikel IX-1 (Im)materiële schadevergoeding voor onterechte inverzekeringstelling of voorlopige hechtenis (artikel 533 sv)
