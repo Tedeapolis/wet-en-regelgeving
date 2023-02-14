@@ -442,7 +442,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 ### Artikel 41 - Campen van een niet actieve drugslocatie
 
 1. Het campen van een niet actieve drugslocatie is niet toegestaan, zowel op land en op het eiland.
-2. Zodra je binnen 100 meter van de pluk bent, kan dit onder campen vallen. 
+2. Zodra je binnen 1000 meter van de pluk bent, kan dit onder campen vallen. Dit is ter beoordeling aan een stafflid.
 3. Het overtreden van deze regel zal resulteren in een straf uit de 2e categorie.
 
 ## Overige bepalingen
@@ -580,7 +580,7 @@ Onderstaande regels tellen alleen op Narcopolis
 
 ### Artikel N-4 - Campen van een niet actieve drugslocatie
 1. Het campen van een niet actieve drugslocatie is niet toegestaan op het eiland.
-2. Zodra je binnen 100 meter van de pluk bent, kan dit onder campen vallen. 
+2. Zodra je binnen 1000 meter van de pluk bent, kan dit onder campen vallen. Dit is ter beoordeling aan een stafflid.
 3. Het overtreden van deze regel zal resulteren in een straf uit de 2e categorie.
 
 ## Tijdelijke bepalingen
