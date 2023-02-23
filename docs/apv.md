@@ -307,8 +307,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
     * Onder dwang iemand zijn huis betreden en dan leegroven
     * Voertuigen
 3. Voertuigen kunnen ook niet meer gebruikt worden bij illegale deals en kunnen enkel met legaal geld gekocht worden.
-4. Het is de verantwoordelijkheid van de kopende partij om te controleren of de aangeboden aanpassingen (ook wel bekend als tunes) op het voertuig aanwezig zijn ten tijde van overdracht van het voertuig. Het is dus volledig jouw eigen risico wanneer je er voor kiest om niet de tunes te controleren. Wanneer je moedwillig alsnog mensen gaat scammen met tunes kan hier alsnog op gestraft worden.
-Het is de verantwoordelijkheid van de kopende partij om te controleren of de aangeboden aanpassingen (ook wel bekend als tunes) op het voertuig aanwezig zijn ten tijde van overdracht van het voertuig in een modshop. Het is dus volledig jouw eigen risico wanneer je er voor kiest om niet de tunes te controleren in de modshop. Scammen van voertuigen en/of tunes blijft ten allen tijden strafbaar.
+4. Het is de verantwoordelijkheid van de kopende partij om te controleren of de aangeboden aanpassingen (ook wel bekend als tunes) op het voertuig aanwezig zijn ten tijde van overdracht van het voertuig in een modshop. Het is dus volledig jouw eigen risico wanneer je er voor kiest om niet de tunes te controleren in de modshop. Scammen van voertuigen en/of tunes blijft ten allen tijden strafbaar.
 5. Met criminele activiteiten zoals vermeld in lid 1 worden dingen met betrekking tot drugs, overvallen, witwassen, het dragen van een masker, kogelwerend vest, holster etc bedoeld, en dus geen overtredingen.
 6. Bij een overtreding van de wet in lid 1 en/of lid 2 wordt de persoon gestraft volgens de 4e categorie en wordt het geld teruggegeven aan het slachtoffer. Wanneer de persoon het geld al heeft uitgegeven zal het resulteren in straf van de 8e categorie.
 7. Hou hiermee wel rekening dat het bij het vergrijp zoals beschreven in lid 1 niet de bedoeling is hiermee misbruik te maken van onwetendheid van mensen, dus vermijd het oplichten van nieuwe spelers.
@@ -443,8 +442,9 @@ Het is de verantwoordelijkheid van de kopende partij om te controleren of de aan
 ### Artikel 41 - Campen van een niet actieve drugslocatie
 
 1. Het campen van een niet actieve drugslocatie is niet toegestaan, zowel op land en op het eiland.
-2. Zodra je binnen 100 meter van de pluk bent, kan dit onder campen vallen. 
-3. Het overtreden van deze regel zal resulteren in een straf uit de 2e categorie.
+2. Zodra je binnen 1000 meter van de pluk bent, kan dit onder campen vallen. Dit is ter beoordeling aan een stafflid.
+3. Het is niet toegestaan om constant op en neer te rijden naar een niet-actieve drugs locatie, om zo de camp regel te omzeilen. Als dit blijft gebeuren zullen er sancties komen. Dit is ter beoordeling aan een stafflid.
+4. Het overtreden van deze regel zal resulteren in een straf uit de 2e categorie.
 
 ## Overige bepalingen
 
@@ -581,8 +581,9 @@ Onderstaande regels tellen alleen op Narcopolis
 
 ### Artikel N-4 - Campen van een niet actieve drugslocatie
 1. Het campen van een niet actieve drugslocatie is niet toegestaan op het eiland.
-2. Zodra je binnen 100 meter van de pluk bent, kan dit onder campen vallen. 
-3. Het overtreden van deze regel zal resulteren in een straf uit de 2e categorie.
+2. Zodra je binnen 1000 meter van de pluk bent, kan dit onder campen vallen. Dit is ter beoordeling aan een stafflid.
+3. Het is niet toegestaan om constant op en neer te rijden naar een niet-actieve drugs locatie, om zo de camp regel te omzeilen. Als dit blijft gebeuren zullen er sancties komen. Dit is ter beoordeling aan een stafflid.
+4. Het overtreden van deze regel zal resulteren in een straf uit de 2e categorie.
 
 ## Tijdelijke bepalingen
 
