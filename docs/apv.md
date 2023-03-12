@@ -174,6 +174,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 3. Enkele voorbeelden van “no value of life”:
     * zodra iemand een pistool op je richt binnen 50 meter en er geen beschutting is, blijf je staan, werk je mee en val je deze persoon niet aan.
     * Zodra iemand een steek- of slagwapen binnen armlengte afstand van je trekt dan werk je mee, doe je dit niet ben je niet zuinig met je leven aangezien je dat bewust het risico neemt neergestoken of neergeslagen te worden.
+    * Het bovenstaande voorbeeld is alleen van toepassing als de persoon die het wapen trekt ook een bedreiging vormt voor jou of anderen. 
     * Met een helikopter vlak boven de grond zweven om goederen en/of personen te transporteren.
     * Elke andere vorm waarmee je bewust je eigen leven in een té groot gevaar brengt valt onder no value of life, dus gebruik je gezonde verstand om de situatie in te schatten.
     * Zodra een persoon een wapen in zijn hand heeft en jij gaat hem proberen te boeien of richting hem te rennen word dit gezien als no value of life. Wanneer jij van dat persoon weet dat hij/zij een vuur-, steek- of slagwapen op zak heeft, zal je ervoor moeten zorgen hem/haar te overmeesteren door enige vorm van bedreigende middelen toe te passen.
