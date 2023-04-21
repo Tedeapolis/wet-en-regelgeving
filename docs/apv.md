@@ -314,7 +314,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 8. Het is voor criminelen toegestaan om mensen gedurende langere tijd te ondervragen en/of te martelen. Echter mag dit maximaal circa 2 uur duren. Er dient ook goede roleplay aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
 9. Bij een overtreding van de regel in lid 7 wordt de persoon gestraft volgens de 1e categorie en zal het scenario onmiddellijk worden teruggedraaid.
 10. De bescherming tegen oplichting zoals genoemd in lid 2 geldt alleen wanneer je het te betalen bedrag volledig ontvangt, op het moment van verkoop.
-11. Het counteren van een overval is niet toegestaan van zodra politie en/of KMAR ter plaatse is.
+11. Het counteren van een overval en/of gijzelingen is niet toegestaan van zodra politie en/of KMAR ter plaatse is.
 
 ### Artikel 28 - Criminaliteit & Ambtenaren
 
