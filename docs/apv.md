@@ -140,9 +140,8 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 
 ### Artikel 7 - Baiting
 
-1. Hij/zij die moedwillig ambtenaren uitlokt met de intentie deze te irriteren en/of bezig te houden zal bestraft worden met een straf volgens de 1e categorie.
-2. Hij/zij die moedwillig officieel onnodig uitlokt zonder verdere intentie tot roleplay en/of bezig te houden zal bestraft worden met een straf volgens de 1e categorie.
-3. De overtreding zoals beschreven in lid 1 en lid 2 staat bekend als “baiting”
+1. Hij/zij die moedwillig medespelers onnodig uitlokt en/of anderen aan het irriteren is zonder verdere intentie tot roleplay zal bestraft worden met minstens een straf volgens de 1e categorie.
+2. De overtreding zoals beschreven in lid 1 staat bekend als “baiting”.
 
 ### Artikel 8 - Spam
 
@@ -166,6 +165,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 3. Buiten de weg rijden mag, mits dit met matige snelheid gedaan wordt en met een geschikt voertuig. Pas hierbij dus ook de snelheid aan voor het type voertuig. Een lijst met voertuigen en de verschillende classificaties is [hier](https://wetboek.tedeapolis.nl/offroadvoertuigen/) te vinden.
 4. In de spoorwegtunnels die zich onder de stad bevinden en alle tunnels die daar direct op aangesloten zijn is het enkel toegestaan om met voertuigen te rijden die de classificatie A hebben en dus onder het kopje Off-Road staan.
 5. De overtreding zoals beschreven in lid 1 staat bekend als “GTA style driving”.
+6. Op onverharde wegen is de maximale toegestane snelheid 50km/u voor alle voertuigen die niet genoemd staan onder het kopje onverhard of off-road [hier](https://wetboek.tedeapolis.nl/offroadvoertuigen/).
 
 ### Artikel 11 - Value of Life
 
@@ -315,7 +315,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 8. Het is voor criminelen toegestaan om mensen gedurende langere tijd te ondervragen en/of te martelen. Echter mag dit maximaal circa 2 uur duren. Er dient ook goede roleplay aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
 9. Bij een overtreding van de regel in lid 7 wordt de persoon gestraft volgens de 1e categorie en zal het scenario onmiddellijk worden teruggedraaid.
 10. De bescherming tegen oplichting zoals genoemd in lid 2 geldt alleen wanneer je het te betalen bedrag volledig ontvangt, op het moment van verkoop.
-11. Het counteren van een overval is niet toegestaan van zodra politie en/of KMAR ter plaatse is.
+11. Het counteren van een overval en/of gijzelingen is niet toegestaan van zodra politie en/of KMAR ter plaatse is.
 
 ### Artikel 28 - Criminaliteit & Ambtenaren
 
