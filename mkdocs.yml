@@ -12,7 +12,6 @@ repo_url: 'https://github.com/Tedeapolis/wet-en-regelgeving/'
 repo_name: 'Tedeapolis/wet-en-regelgeving'
 edit_uri: 'https://github.com/Tedeapolis/wet-en-regelgeving/blob/master/docs/'
 
-# Google Analytics
 google_analytics: ['UA-167800475-3', 'wetboek.tedeapolis.nl']
 
 # Congiguration
@@ -35,6 +34,17 @@ theme:
   logo: img/logoTedeapolis.webp
   custom_dir: docs/overrides
   language: nl
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.indexes
+    - header.autohide
+    - toc.follow
+  extra:
+    analytics:
+      provider: google
+      property: UA-167800475-3
+
 plugins:
   - git-revision-date-localized:
       type: timeago
