@@ -29,7 +29,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 
 ### A3 - Strafbepaling
 
-1. De straffen zijn onderverdeeld in zes waarschuwingen:
+1. De straffen zijn onderverdeeld in zes categorieën (waarschuwingen):
     * 1e Waarschuwing: Mondeling aanspreken en waarschuwing in het adminpanel.
          "Dit zodat een speler beter geholpen wordt om zijn gedrag en rp kwaliteit te verhogen."
     * 2e Waarschuwing: schriftelijke waarschuwing en een taakstraf van 100 taken.
@@ -47,7 +47,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 3. Er kan door een stafflid gekozen worden om straffen te verhogen en/of te verlagen op basis van de context, situatie of eerdere straffen/waarschuwingen van de overtreder in kwestie. Wanneer je het niet eens bent met een oordeel van een stafflid kan je hiervoor een ticket aanmaken.
 4. Bij een eerste overtreding kan er voor gekozen worden in plaats van een Schriftelijke waarschuwing (Categorie 1) een Mondelinge waarschuwing uit te delen. Hierbij wordt ook gecontroleerd of de persoon daadwerkelijk de regels heeft gelezen en deze begrijpt.
 5. Een mondelinge waarschuwing dient in een notitie bij deze persoon aangegeven te zijn, anders is deze niet geldig.
-6. Het omzeilen van een straf zal resulteren in een straf volgens categorie 7
+6. Het omzeilen van een straf zal resulteren in een straf volgens categorie 6
 7. Bans worden uitgedeeld op basis van de GTA licentie en ip-adres en geldt als zodanig voor alle gebruikers van deze kenmerken.
 8. Een warning dient binnen 48 uur te worden aangevochten door de speler, anders zal er geen mogelijkheid meer zijn op herziening van deze beslissing.
 
@@ -161,7 +161,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
     * Nieuwe spelers
 3. Voertuigen kunnen ook niet meer gebruikt worden bij illegale deals en kunnen enkel met legaal geld gekocht worden.
 4. Het is de verantwoordelijkheid van de kopende partij om te controleren of de aangeboden aanpassingen (ook wel bekend als tunes) op het voertuig aanwezig zijn ten tijde van overdracht van het voertuig in een modshop. 
-5. Het counteren van een overval en/of gijzelingen is niet toegestaan van zodra politie en/of KMAR ter plaatse is.
+5. Het counteren van een overval en/of gijzeling is niet toegestaan van zodra politie en/of KMAR ter plaatse is.
 6. Het oplichten van een persoon, verkopen en inkopen van wapens, verkopen en inkopen van drugs, vermoorden of ontvoeren van een persoon en het gebruiken van een wapen zijn in een appartement verboden.
 
 ### Artikel 12 - Gedrag van Ambtenaren
