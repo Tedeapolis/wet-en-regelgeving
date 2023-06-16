@@ -1240,6 +1240,11 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 4. Er geldt een bewijsminimum van één bewijsstuk als het/de strafbare feit(en) volledig en overtuigend bewezen kunnen worden. Indien dit niet het geval is, dan zijn minimaal 2 bewijsstukken vereist. Dit betekent concreet dat de identiteit van de verdacht(en) en de exacte feiten en omstandigheden, bijvoorbeeld of er sprake is van opzet voor zover van toepassing, duidelijk moeten worden.
 5. Het bewijs dat de verdachte het telastegelegde feit heeft gepleegd, kan worden aangenomen op alleen het proces-verbaal van een opsporingsambtenaar.
 6. Feiten of omstandigheden van algemene bekendheid behoeven geen bewijs.
+7. Stemherkenning, wanneer aantoonbaar  bewijs kan worden geleverd dat je de verdachte daadwerkelijk kent;
+       1. Onder artikel 7 wordt verstaam: SMS Gesprekken, Telephone Gespreken en/of recente opnames met verdachte in Privé sfeer.
+Onder "Recente Opnames" wordt verstaan 2 weken
+
+Lid 1 moet worden goed gekeurd door een Hovj/Ovj. En moet gebruikt kunnen worden als wettig bewijs materiaal
 
 ---------------------
 *Wetboek Tedeapolis is opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Tedeapolis”, opgetekend door Bram Mosterdfiets, te Tedeapolis.*
