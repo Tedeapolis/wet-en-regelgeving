@@ -1058,8 +1058,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 1. Onder beschermd wordt verstaan: diersoorten die wettelijk beschermd zijn, bijvoorbeeld omdat zij bedreigd worden in hun voortbestaan of beschermd moeten worden tegen overmatige benutting.
 2. Een persoon is schuldig wanneer deze weet of behoort te weten dat het verboden is om jacht te maken op dieren die bij wet beschermd zijn en bij zich draagt.
-3. Een persoon is schuldig wanneer deze een beschermd dier bij zich draagt met het oogmerk het dier te verkopen.
-4. Een persoon is schuldig wanneer deze een beschermd dier vervoert in een voertuig.
+3. Een persoon is schuldig wanneer deze een beschermd dier voorhanden heeft, vervoert en/of verkoopt.
 
 | Bij wet geclassificeerde beschermde dieren |
 |---|
