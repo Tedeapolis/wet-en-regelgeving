@@ -64,7 +64,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 1. Het is verboden om een roleplay van zeer slechte kwaliteit uit te spelen, of roleplay verstorend gedrag te vertonen.
 2. Het is niet toegestaan om opzettelijk de roleplay zodanig te vormen dat er een oneerlijke of onrealistische draai aan het verhaal gegeven wordt, of de roleplay van de andere partij zelf invullen door een onrealistische dwang.
 3. Het onnodig mishandelen, vermoorden (RDM), uitlokken en/of anderen lastig vallen zonder verdere intentie tot roleplay is niet toegestaan. 
-4. Hij/zij die geen waarde hecht aan het leven van het karakter dat hij/zij speelt (No Value of Life), zal bestraft worden (van slag en steekwapens kan men wel wegrennen).
+4. Hij/zij die geen waarde hecht aan het leven van het karakter dat hij/zij speelt (No Value of Life), zal bestraft worden.
 5. Het is verboden om een erotische roleplay (ERP) uit te voeren of aan te gaan.
 6. Indien het karakter overleden is, wordt er verwacht dat hij/zij de laatste roleplay vergeten is. Het karakter mag ook niet naar het gebied waar hij/zij overleden is terugkeren, dit is aangeduid met een rode cirkel op de kaart voor 30 minuten na het overlijden.
 7. Het is te allen tijde verboden om je karakter te breken. Hiermee bedoelen we dat je een term gebruikt die gezien wordt als OOC (Out Of Character)
@@ -134,7 +134,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 
 ### Artikel 9 - Gebruik van voertuigen
 
-1. Je mag als burger geen overheidsvoertuigen besturen, tenzij er een goede roleplay aan vast zit, welke goedgekeurd is door een stafflid.
+1. Je mag als burger geen overheidsvoertuigen besturen, tenzij er in de roleplay een goede reden voor is.
 2. Er wordt geacht van mensen geen gebruik te maken van baan voertuigen voor illegale bezigheden, tenzij hier goedkeuring voor is gegeven vanuit een stafflid voor een roleplay scenario.
 3. Het is niet toegestaan met voertuigen gebouwen te betreden die daar niet voor bedoeld zijn.
 4. Het is niet toegestaan om jouw voertuig als wapen te gebruiken (VDM).
