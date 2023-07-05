@@ -550,6 +550,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 1. Het voertuig, uitgezonderd fietsen, heeft 1 of meer nummerplaten, als dit niet mogelijk is moet de bestuurder in het bezit zijn van een geldig bewijs in vorm van een document als ontheffing daarvoor.
 2. Indien een voertuig ramen bezit dient het gezicht van de bestuurder en passagier(s) duidelijk zichtbaar te zijn.
+2A lid 2 geldt voor de voorruit en de naast de bestuurderszitplaats aanwezige zijruiten.
 3. Er mag geen verlichting gevoerd worden onder het voertuig bij deelname aan het verkeer.
 4. Het voertuig dient vrij te zijn van uitstekende onderdelen en/of grote schade, die de veiligheid in het gedrang brengt.
 5. Bij het voertuig mogen geen deuren ontbreken, indien deze wel aanwezig behoren te zijn.
