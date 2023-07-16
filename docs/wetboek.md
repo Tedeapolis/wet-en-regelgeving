@@ -88,7 +88,7 @@
     4. Niet voldoen aan (verkeers)aanwijzing van bevoegde en als zodanig kenbare opsporingsambtenaar of lid van de Koninklijke Luchtmacht;
     5. Snelheidsovertreding van meer dan 100% van de maximumsnelheid;
     6. Op de openbare weg rijden met een voertuig met daarop een WOK-status.
-4. Er geldt een basisuitkooppercentage van 10% indien er sprake is van een verkeersdelict.
+4. Er geldt een basisuitkooppercentage van 10% indien er sprake is van een verkeersdelict. Hierbij geldt een maximaal uitkoopbedrag van 100.000 euro.
 5. Er geldt een basisuitkooppercentage van 20% indien er sprake is van een ander delict dan een verkeersdelict.
 6. Alle bovenstaande leden gelden ook voor helikopters en vliegtuigen.
 7. Meerdere notities voor het vliegen zonder vliegbrevet zal resulteren in een inbeslagname van het voertuig.
