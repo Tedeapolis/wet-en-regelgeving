@@ -134,7 +134,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 
 ### Artikel 9 - Gebruik van voertuigen
 
-1. Je mag als burger geen overheidsvoertuigen besturen, tenzij er in de roleplay een goede reden voor is.
+1. Je mag als burger geen overheidsvoertuigen besturen, tenzij er in de roleplay een goede reden voor is of wanneer er toestemming is gegeven door een stafflid.
 2. Er wordt geacht van mensen geen gebruik te maken van baan voertuigen voor illegale bezigheden, tenzij hier goedkeuring voor is gegeven vanuit een stafflid voor een roleplay scenario.
 3. Het is niet toegestaan met voertuigen gebouwen te betreden die daar niet voor bedoeld zijn.
 4. Het is niet toegestaan om jouw voertuig als wapen te gebruiken (VDM).
@@ -276,7 +276,6 @@ Onderstaande regels tellen alleen op Narcopolis
 * Geen Exploits (Bugs / Misstanden misbruiken om hier zelf en/of voor andere profijt uit te halen).
 * Geen server/roleplay verstorend gedrag (Mic spammen, trollen etc).
 * Geen Metagaming (Gebruik maken van informatie wat jouw karakter niet kan weten en of andere discord kanalen dan de main discord).
-* Geen Overheidsvoertuigen stelen of kleding dragen.(Politie, ambulance en ANWB auto’s mogen niet door burgers gereden worden).
 * Geen Cop-baiting (politie uitdagen/uitlokken).
 * Geen Spam (de chat vol spammen met nutteloze berichten)
 * Geen Combat Logging (Zomaar de server verlaten tijden bijvoorbeeld een ontvoering).
