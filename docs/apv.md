@@ -30,7 +30,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 ### A3 - Strafbepaling
 
 1. De straffen zijn onderverdeeld in zes categorieën (waarschuwingen):
-    * 1e Waarschuwing: Mondeling aanspreken en waarschuwing in het adminpanel.
+    * 1e Waarschuwing: Mondeling aanspreken en notitie in het adminpanel.
          "Dit zodat een speler beter geholpen wordt om zijn gedrag en rp kwaliteit te verhogen."
     * 2e Waarschuwing: schriftelijke waarschuwing en een taakstraf van 100 taken.
 
