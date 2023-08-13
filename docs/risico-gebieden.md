@@ -1,8 +1,23 @@
 # Risicogebieden binnen Tedeapolis
 
-Tedeapolis kent enkele risicogebieden. In een risicogebied mag preventief gefouilleerd worden. Dus dat wilt zeggen dat ook voertuigen gecontroleerd mogen worden. Hier onder zijn deze gebieden aangegeven.
+Tedeapolis kent enkele risicogebieden. In een risicogebied mag preventief gefouilleerd worden. Dat wilt zeggen dat ook voertuigen gecontroleerd mogen worden. Hieronder zijn deze gebieden aangegeven.
 
 De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Tedeapolis, aanvullende risicogebieden aan te wijzen. Hiervoor gelden dezelfde regels als de normale risicogebieden.
+
+## Dreigingsniveau's
+
+De risicogebieden zijn dynamisch en worden bepaald aan de hand van het actuele dreigingsniveau. Hieronder vind je een overzicht van de dreigingsniveau's, met daarbij de gevolgen voor de risicogebieden.
+
+Niveau 1: Risicogebieden zijn niet van toepassing.
+
+Niveau 2: Risicogebieden worden geminimaliseerd.
+Grote bank, Gevangenis, Politie HB, Militaire basis & Tweedehands blijven een risicogebied.
+
+Niveau 3: Risicogebieden blijven zoals hieronder aangegeven. 
+
+Niveau 4: Risicogebieden worden uitgebreid naar het gehele stadscentrum. Dit gaat dus om het bebouwde gedeelte in het zuiden. Hieronder vallen ook de havens, olievelden & snelwegen tot aan de west of oost post.
+
+Niveau 5: Risicogebieden worden uitgebreid naar de gehele stad. Dit gaat dus om ‘main land’. Narcopolis valt hier niet onder. Binnen risicogebieden mag standaard worden overgegaan tot een BTGV.
 
 ## Kaartweergave
 
