@@ -165,8 +165,9 @@
 
 1. Schuldig is een persoon die een diefstal pleegt in een woning of op een besloten erf waarop een woning staat, door iemand die zich aldaar buiten weten of tegen de wil van de rechthebbende bevindt.
 2. Schuldig is een persoon die een diefstal pleegt in vereniging.
-3. Schuldig is een persoon die een diefstal pleegt waarbij de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft of het weg te nemen goed onder zijn bereik heeft gebracht door middel van braak, verbreking of inklimming, van valse sleutels, van een valse order of een vals kostuum;
-4. Bij een poging tot gekwalificeerde diefstal wordt de straf met 33% verminderd.
+3. Schuldig is een persoon die een diefstal pleegt waarbij de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft of het weg te nemen goed onder zijn bereik heeft gebracht door middel van braak, verbreking of inklimming, van valse sleutels, van een valse order of een vals kostuum.
+4. Schuldig is een persoon die een diefstal pleegt in gelegenheid van een brand of ontploffing.
+5. Bij een poging tot gekwalificeerde diefstal wordt de straf met 33% verminderd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -347,7 +348,18 @@
 | **Tweede Veroordeling**  |   | 25 uur | € 4500,-  |
 | **Meerdere Veroordelingen**  | 9 maanden  |  | € 6000,-  |
 
-### Titel II-9 Terroristisch misdrijf (134a 142a SR)
+### Artikel II-8a Brandstichting en ontploffingen (157 SR)
+
+1. Schuldig is een persoon die opzettelijk brand sticht of een ontploffing teweegbrengt.
+2. Bij een poging tot brandstichting of een ontploffing teweegbrengen wordt de straf met 33% verminderd.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 50 uur | € 6000,-  |
+| **Tweede Veroordeling**  | 20 maanden  |  | € 9000,-  |
+| **Meerdere Veroordelingen**  | 30 maanden  |  | € 12000,-  |
+
+### Artikel II-9 Terroristisch misdrijf (134a SR en 142a SR)
 
 Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of een deel der bevolking van een land ernstige vrees aan te jagen, dan wel een overheid of internationale organisatie wederrechtelijk te dwingen iets te doen, niet te doen of te dulden, dan wel de fundamentele politieke, constitutionele, economische of sociale structuren van een land of een internationale organisatie ernstig te ontwrichten of te vernietigen.
 
