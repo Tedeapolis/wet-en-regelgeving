@@ -176,6 +176,7 @@ _Onder ambtenaar wordt verstaan de spelers die één van de volgende instanties 
 * _Ambulance_
 * _ANWB_
 * _Taxi_
+* _Brandweer_
 1. Voor een ambtenaar is het niet toegestaan zich bezig te houden met illegale bezigheden.
 2. Het is niet toegestaan om door de politie in beslag genomen objecten door te handelen naar spelers. Ditzelfde is ook van toepassing op alle andere overheidsobjecten en op informatie die de (ex-)medewerker heeft verkregen tijdens zijn carrière bij de desbetreffende overheidsdienst. Dit geldt ook nadat de desbetreffende persoon ontslag heeft genomen of ontslagen is.
 3. Op lid 3 geldt een uitzondering voor medewerkers van de politie of koninklijke marechaussee met een speciale vergunning. Deze leden mogen wel hun wapens buiten dienst behouden.
@@ -184,10 +185,10 @@ _Onder ambtenaar wordt verstaan de spelers die één van de volgende instanties 
 
 
 1. Meldingen naar een overheidsinstantie dienen te allen tijde realistisch en uitgebreid te zijn. 
-2. Roleplay met de ANWB en Ambulance moet uitgebreid en realistisch zijn. Ook dien je mee te werken met de roleplay en mag je de medewerkers niet forceren om voertuigen te repareren of spelers te reviven. De medewerkers zijn te allen tijde leidend in hun roleplay.
+2. Roleplay met de ANWB, Brandweer en Ambulance moet uitgebreid en realistisch zijn. Ook dien je mee te werken met de roleplay en mag je de medewerkers niet forceren om voertuigen te repareren of spelers te reviven. De medewerkers zijn te allen tijde leidend in hun roleplay.
 3. Het is niet toegestaan om een melding te maken naar een overheidsinstantie met de intentie om degene die hierop reageert te vermoorden en/of te ontvoeren.
 4. Er moeten ten allen tijden vijf overheidsmedewerkers binnen een baan beschikbaar blijven nadat er één ontvoerd is, dus als er 6 agenten aanwezig zijn mag er 1 ontvoerd worden, als er 5 aanwezig zijn mag er geen ontvoerd worden.
-5. Een uitzondering op lid 4 geldt voor de ambulance. Hierbij moeten er te allen tijde 7 medewerkers beschikbaar blijven. Kortom, als er 8 ambulancemedewerkers aanwezig zijn, dan mag er 1 à 2 ontvoerd worden.
+5. Een uitzondering op lid 4 geldt voor de ambulance & brandweer. Hierbij moeten er te allen tijde 7 medewerkers beschikbaar blijven. Kortom, als er 8 ambulance of brandweer medewerkers aanwezig zijn, dan mag er 1 à 2 ontvoerd worden.
 6. Het is toegestaan om een agent te ontvoeren zodat je jouw voertuig uit de opslag kan halen, hiervoor dien je wel het bedrag af te lossen die hiervoor openstaat. Hierbij ontneem je wel het recht op een advocaat en/of hOVJ. Het is verboden om tussen 00:00 en 10:00 een voertuig uit de opslag te forceren.
 
 ### Artikel 14 - Roleplay & Ledenaantal Criminele Organisaties
