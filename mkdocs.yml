@@ -40,6 +40,8 @@ theme:
     - navigation.indexes
     - header.autohide
     - toc.follow
+    - content.action.edit
+    - content.action.view
   extra:
     analytics:
       provider: google
