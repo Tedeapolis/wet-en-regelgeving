@@ -1,3 +1,4 @@
 {
-    "extends": "markdownlint/style/relaxed"
+    "default": true,
+    "line_length": false
 }
