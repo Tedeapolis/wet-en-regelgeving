@@ -45,11 +45,9 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
     Waarschuwingen zijn 3 maanden geldig, daarna vervallen ze automatisch.
 
 3. Er kan door een stafflid gekozen worden om straffen te verhogen en/of te verlagen op basis van de context, situatie of eerdere straffen/waarschuwingen van de overtreder in kwestie. Wanneer je het niet eens bent met een oordeel van een stafflid kan je hiervoor een ticket aanmaken.
-4. Bij een eerste overtreding kan er voor gekozen worden in plaats van een Schriftelijke waarschuwing (Categorie 1) een Mondelinge waarschuwing uit te delen. Hierbij wordt ook gecontroleerd of de persoon daadwerkelijk de regels heeft gelezen en deze begrijpt.
-5. Een mondelinge waarschuwing dient in een notitie bij deze persoon aangegeven te zijn, anders is deze niet geldig.
-6. Het omzeilen van een straf zal resulteren in een straf volgens categorie 6
-7. Bans worden uitgedeeld op basis van de GTA licentie en ip-adres en geldt als zodanig voor alle gebruikers van deze kenmerken.
-8. Een warning dient binnen 48 uur te worden aangevochten door de speler, anders zal er geen mogelijkheid meer zijn op herziening van deze beslissing.
+4. Een mondelinge waarschuwing dient in een notitie bij deze persoon aangegeven te zijn, anders is deze niet geldig.
+5. Het omzeilen van een straf zal resulteren in een permanente ban.
+6. Bans worden uitgedeeld op basis van de GTA licentie en IP-adres en geldt als zodanig voor alle gebruikers van deze kenmerken.
 
 ### A4 - Aanvullende Wetten en regels
 
@@ -66,7 +64,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 1. Het is verboden om een roleplay van zeer slechte kwaliteit uit te spelen, of roleplay verstorend gedrag te vertonen.
 2. Het is niet toegestaan om opzettelijk de roleplay zodanig te vormen dat er een oneerlijke of onrealistische draai aan het verhaal gegeven wordt, of de roleplay van de andere partij zelf invullen door een onrealistische dwang.
 3. Het onnodig mishandelen, vermoorden (RDM), uitlokken en/of anderen lastig vallen zonder verdere intentie tot roleplay is niet toegestaan. 
-4. Hij/zij die geen waarde hecht aan het leven van het karakter dat hij/zij speelt (No Value of Life), zal bestraft worden (van slag en steekwapens kan men wel wegrennen).
+4. Hij/zij die geen waarde hecht aan het leven van het karakter dat hij/zij speelt (No Value of Life), zal bestraft worden.
 5. Het is verboden om een erotische roleplay (ERP) uit te voeren of aan te gaan.
 6. Indien het karakter overleden is, wordt er verwacht dat hij/zij de laatste roleplay vergeten is. Het karakter mag ook niet naar het gebied waar hij/zij overleden is terugkeren, dit is aangeduid met een rode cirkel op de kaart voor 30 minuten na het overlijden.
 7. Het is te allen tijde verboden om je karakter te breken. Hiermee bedoelen we dat je een term gebruikt die gezien wordt als OOC (Out Of Character)
@@ -116,7 +114,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 ### Artikel 6 - Report gebruik
 
 1. Er wordt van mensen verwacht gebruik te maken van “/report” om overtredingen van regels te melden. Dit zodat de overtreder hiervan niet op de hoogte is en de eventuele roleplay hierdoor niet beïnvloed wordt.
-2. Het is, als je een report maakt, niet de bedoeling om dit in game te melden aan mensen. Wanneer dit wel gedaan wordt, kan een stafflid waarschijnlijk geen straffen uitdelen. Ook wordt het vermelden van het aanmaken van een report gezien als FailRP (OOC gaan in RP). 
+2. Het is als je een report maakt niet de bedoeling om dit in game te melden aan mensen. Wanneer dit wel gedaan wordt, kan een stafflid waarschijnlijk daardoor geen straffen uitdelen omdat de persoon zal doorhebben dat er iemand meekijkt. Ook wordt het vermelden van het aanmaken van een report gezien als FailRP (OOC gaan in RP). 
 3. Het spammen van reports, het onnodig aanmaken van reports en discussiëren in reports is verboden.
 
 ### Artikel 7 - Alt Characters
@@ -136,7 +134,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 
 ### Artikel 9 - Gebruik van voertuigen
 
-1. Je mag als burger geen overheidsvoertuigen besturen, tenzij er een goede roleplay aan vast zit, welke goedgekeurd is door een stafflid.
+1. Je mag als burger geen overheidsvoertuigen besturen, tenzij er in de roleplay een goede reden voor is of wanneer er toestemming is gegeven door een stafflid.
 2. Er wordt geacht van mensen geen gebruik te maken van baan voertuigen voor illegale bezigheden, tenzij hier goedkeuring voor is gegeven vanuit een stafflid voor een roleplay scenario.
 3. Het is niet toegestaan met voertuigen gebouwen te betreden die daar niet voor bedoeld zijn.
 4. Het is niet toegestaan om jouw voertuig als wapen te gebruiken (VDM).
@@ -187,7 +185,7 @@ _Onder ambtenaar wordt verstaan de spelers die één van de volgende instanties 
 2. Roleplay met de ANWB en Ambulance moet uitgebreid en realistisch zijn. Ook dien je mee te werken met de roleplay en mag je de medewerkers niet forceren om voertuigen te repareren of spelers te reviven. De medewerkers zijn te allen tijde leidend in hun roleplay.
 3. Het is niet toegestaan om een melding te maken naar een overheidsinstantie met de intentie om degene die hierop reageert te vermoorden en/of te ontvoeren.
 4. Er moeten ten allen tijden vijf overheidsmedewerkers binnen een baan beschikbaar blijven nadat er één ontvoerd is, dus als er 6 agenten aanwezig zijn mag er 1 ontvoerd worden, als er 5 aanwezig zijn mag er geen ontvoerd worden.
-5. Een uitzondering op lid 4 geldt voor de ambulance. Hierbij moeten er te allen tijde 7 medewerkers beschikbaar blijven. Kortom, als er 8 ambulancemedewerkers aanwezig zijn, dan mag er 1 à 2 ontvoerd worden.
+5. Een uitzondering op lid 4 geldt voor de ambulance. Hierbij moeten er te allen tijde 7 medewerkers beschikbaar blijven. Kortom, als er 8 ambulancemedewerkers aanwezig zijn, dan mag er 1 ontvoerd worden.
 6. Het is toegestaan om een agent te ontvoeren zodat je jouw voertuig uit de opslag kan halen, hiervoor dien je wel het bedrag af te lossen die hiervoor openstaat. Hierbij ontneem je wel het recht op een advocaat en/of hOVJ. Het is verboden om tussen 00:00 en 10:00 een voertuig uit de opslag te forceren.
 
 ### Artikel 14 - Roleplay & Ledenaantal Criminele Organisaties
@@ -250,27 +248,22 @@ Onderstaande regels tellen alleen op Narcopolis
 
 1. Het is verboden om vanaf het vaste land op de patrouillerende schepen of heli's te schieten.
 2. Het is vanuit de koninklijke marechaussee verboden om op het vasteland te schieten.
-3. Bij overtreding van lid 1 of lid 2 zal een straf worden gegeven van de 1e categorie.
-4. Er mag op binnenkomende vluchten en schepen geschoten worden, die niet afkomstig zijn van de koninklijke marechaussee.
+3. Er mag op binnenkomende vluchten en schepen geschoten worden, die niet afkomstig zijn van de koninklijke marechaussee.
 
 ### Artikel N-2 - Inladen van helikopers/vliegtuigen
 
 1. Wanneer jij drugs wilt inladen in een vliegtuig of helikopter moet het vliegtuig of de helikopter binnen een straal van 50 meter van een helipad of landingsbaan staan.
 2. De sea sparrow en dodo mag wel volgeladen worden op open water.
-3. Bij overtreding van het feit beschreven in lid 1 of lid 2 wordt een straf van de 1e categorie uitgedeeld.
 
 ### Artikel N-3 - Samenwerking criminele organisaties
 
 1. Op Narcopolis is het voor een officiële groep niet toegestaan om samen te werken met een officiele of onofficiele groep of persoon.
 2. Uitzondering op lid 1 is er voor het kopen en verkopen van drugs. Dit mag wel gedaan worden op het eiland tussen verschillende groepen en personen.
-3. Bij overtreding van lid 1 zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het Roleplayscenario.
-4. Bij herhaling na de straf van de 5e categorie wordt er een gang strike uitgedeeld.
 
 ### Artikel N-4 - Campen van een niet actieve drugslocatie
 1. Het campen van een niet actieve drugslocatie is niet toegestaan op het eiland.
 2. Zodra je binnen 1000 meter van de pluk bent, kan dit onder campen vallen. Dit is ter beoordeling aan een stafflid.
 3. Het is niet toegestaan om constant op en neer te rijden naar een niet-actieve drugs locatie, om zo de camp regel te omzeilen. Als dit blijft gebeuren zullen er sancties komen. Dit is ter beoordeling aan een stafflid.
-4. Het overtreden van deze regel zal resulteren in een straf uit de 2e categorie.
 
 ## Tijdelijke bepalingen
 
@@ -283,7 +276,6 @@ Onderstaande regels tellen alleen op Narcopolis
 * Geen Exploits (Bugs / Misstanden misbruiken om hier zelf en/of voor andere profijt uit te halen).
 * Geen server/roleplay verstorend gedrag (Mic spammen, trollen etc).
 * Geen Metagaming (Gebruik maken van informatie wat jouw karakter niet kan weten en of andere discord kanalen dan de main discord).
-* Geen Overheidsvoertuigen stelen of kleding dragen.(Politie, ambulance en ANWB auto’s mogen niet door burgers gereden worden).
 * Geen Cop-baiting (politie uitdagen/uitlokken).
 * Geen Spam (de chat vol spammen met nutteloze berichten)
 * Geen Combat Logging (Zomaar de server verlaten tijden bijvoorbeeld een ontvoering).
@@ -305,8 +297,8 @@ Onderstaande regels tellen alleen op Narcopolis
 * Het is verboden met voertuigen gebouwen in te rijden.
 * Onder de AFK-kick proberen uit te komen is verboden.
 * Ben je als agent niet in game, mag je niet deelnemen aan een overval.
-* wanneer je wordt vermoord door een rivaliserende gang mag je 24 uur niet deelnemen aan eventuele wraakacties of roleplay richting een andere gang.
-* Het is verboden een ambulancier of anwb'er te vermoorden of te ontvoeren bij een oproep of gebruik van hun.
+* Wanneer je wordt vermoord door een rivaliserende gang mag je 24 uur niet deelnemen aan eventuele wraakacties of roleplay richting een andere gang.
+* Het is verboden een ambulancier of een medewerker van de ANWB te vermoorden of te ontvoeren bij een oproep of gebruik van hen.
 * Het is verboden om drugslocaties of wapens te verkopen via twitter, ook als je het hebt over "theeblaadjeslocaties", "broodmessen", "waterpistolen" en dergelijke.
 
 ## Bijlages
