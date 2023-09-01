@@ -38,20 +38,20 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Buiten bebouwde kom 175-200 KM/H te hard | € 11000,- |
 | Buiten bebouwde kom 200+ KM/H te hard | € 15000,- |
 | Door rood licht rijden met een fiets | € 150,- |
-| Door rood licht rijden met een bromfiets | € 320,- |
-| Door rood licht rijden | € 720,- |
+| Door rood licht rijden met een bromfiets | € 1250,- |
+| Door rood licht rijden | € 1750,- |
 | Verkeerde voertuig informatie doorgeven | € 270,- |
-| Onnodig claxoneren | € 370,- |
+| Onnodig claxoneren | € 1000,- |
 | Joyriding | € 1700,- |
 | Rijden onder invloed | € 4000,- |
-| Illegaal off road rijden | € 420,- |
-| Door rijden bij een stop bord | € 420,- |
+| Illegaal off road rijden | € 2500,- |
+| Door rijden bij een stop bord | € 950,- |
 | Illegaal inhalen over een vluchtstrook | € 1140,- |
-| U-turn | € 420,- |
-| Over een doorgetrokken streep rijden | € 480,- |
+| U-turn | € 950,- |
+| Over een doorgetrokken streep rijden | € 850,- |
 | Onnodig linksrijden | € 420,- |
 | Spookrijden | € 1860,- |
-| Stil staan met je auto waar dat niet mag | € 420,- |
+| Stil staan met je auto waar dat niet mag | € 3000,- |
 | Hinder zonder ongeval | € 3000,- |
 | Verkeersongeval met licht lichamelijk letsel | € 4000,- |
 | Verkeersongeval met zwaar lichamelijk letsel | € 10000,- |
@@ -61,7 +61,7 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Negeren van stopteken | € 3600,- |
 | Fout parkeren | € 1750,- |
 | Roekeloos Rijgedrag | € 3000,- |
-| Weg blokkeren | € 720,- |
+| Weg blokkeren | € 1500,- |
 | Verkeersovertreding niet nader gespecificeerd | € 430,- |
 | Rijden zonder kentekenplaten | € 10000,- |
 | Geblindeerde ramen | € 7500,- |
