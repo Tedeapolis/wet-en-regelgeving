@@ -32,6 +32,8 @@
     * Voor misdrijven waar de totale strafeis tussen de 151 en 250 maanden bedroeg, verjaren deze feiten na 30 dagen;
     * Voor misdrijven waar de totale strafeis meer dan 250 maanden bedroeg, verjaren deze feiten na 45 dagen;
 
+2. Het recht tot strafvordering vervalt niet door verjaring voor misdrijven waar de totale strafeis geen celstraf bedroeg.
+
 ### A4 - Strafbepaling
 
 1. Straffen zijn vastgesteld en opgenomen per artikel. Hieronder vallen:
