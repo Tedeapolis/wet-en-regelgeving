@@ -101,6 +101,12 @@ De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Tedeapolis
 
 - 5152
 
+### Tedeapolis Casino
+
+- 6047
+- 6048
+- 6049
+
 ### Gevangenis
 
 - 702

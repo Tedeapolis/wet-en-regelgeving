@@ -32,6 +32,8 @@
     * Voor misdrijven waar de totale strafeis tussen de 151 en 250 maanden bedroeg, verjaren deze feiten na 30 dagen;
     * Voor misdrijven waar de totale strafeis meer dan 250 maanden bedroeg, verjaren deze feiten na 45 dagen;
 
+2. Het recht tot strafvordering vervalt niet door verjaring voor misdrijven waar de totale strafeis geen celstraf bedroeg.
+
 ### A4 - Strafbepaling
 
 1. Straffen zijn vastgesteld en opgenomen per artikel. Hieronder vallen:
@@ -88,7 +90,7 @@
     4. Niet voldoen aan (verkeers)aanwijzing van bevoegde en als zodanig kenbare opsporingsambtenaar of lid van de Koninklijke Luchtmacht;
     5. Snelheidsovertreding van meer dan 100% van de maximumsnelheid;
     6. Op de openbare weg rijden met een voertuig met daarop een WOK-status.
-4. Er geldt een basisuitkooppercentage van 10% indien er sprake is van een verkeersdelict.
+4. Er geldt een basisuitkooppercentage van 10% indien er sprake is van een verkeersdelict. Hierbij geldt een maximaal uitkoopbedrag van 100.000 euro.
 5. Er geldt een basisuitkooppercentage van 20% indien er sprake is van een ander delict dan een verkeersdelict.
 6. Alle bovenstaande leden gelden ook voor helikopters en vliegtuigen.
 7. Meerdere notities voor het vliegen zonder vliegbrevet zal resulteren in een inbeslagname van het voertuig.
@@ -98,7 +100,7 @@
 1. Wanneer tijdens een controle of aanhouding aangetoond wordt dat het totaalbedrag van openstaande boetes boven de € 10000,- reikt, kan dit impact hebben op de strafeis.
     1. Wanneer dit aangetoond wordt bij het opvragen van een inbeslaggenomen goed of voertuig kan geëist worden eerst het boetebedrag te voldoen;
     2. Wanneer dit aangetoond wordt tijdens onderzoek volgende op een misdrijf of crimineel feit kan hiervoor een boete of taakstraf worden opgelegd;
-    3. De hoogte van deze boete of taakstraf is ter beoordeling van de Officier van Dienst.
+    3. De hoogte van deze boete of taakstraf is ter beoordeling van de hulpOfficier van Justitie.
     4. Deze boete of taakstraf wordt bijgevoegd bij de totale straf eis.
 2. Onder het voldoen van het boetebedrag wordt verstaan tenminste een zodanige betaling te voldoen dat het totale boetebedrag onder de € 10000,- komt.
 
@@ -166,8 +168,9 @@
 
 1. Schuldig is een persoon die een diefstal pleegt in een woning of op een besloten erf waarop een woning staat, door iemand die zich aldaar buiten weten of tegen de wil van de rechthebbende bevindt.
 2. Schuldig is een persoon die een diefstal pleegt in vereniging.
-3. Schuldig is een persoon die een diefstal pleegt waarbij de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft of het weg te nemen goed onder zijn bereik heeft gebracht door middel van braak, verbreking of inklimming, van valse sleutels, van een valse order of een vals kostuum;
-4. Bij een poging tot gekwalificeerde diefstal wordt de straf met 33% verminderd.
+3. Schuldig is een persoon die een diefstal pleegt waarbij de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft of het weg te nemen goed onder zijn bereik heeft gebracht door middel van braak, verbreking of inklimming, van valse sleutels, van een valse order of een vals kostuum.
+4. Schuldig is een persoon die een diefstal pleegt in gelegenheid van een brand of ontploffing.
+5. Bij een poging tot gekwalificeerde diefstal wordt de straf met 33% verminderd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -348,7 +351,18 @@
 | **Tweede Veroordeling**  |   | 25 uur | € 4500,-  |
 | **Meerdere Veroordelingen**  | 9 maanden  |  | € 6000,-  |
 
-### Titel II-9 Terroristisch misdrijf (134a 142a SR)
+### Artikel II-8a Brandstichting en ontploffingen (157 SR)
+
+1. Schuldig is een persoon die opzettelijk brand sticht of een ontploffing teweegbrengt.
+2. Bij een poging tot brandstichting of een ontploffing teweegbrengen wordt de straf met 33% verminderd.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 50 uur | € 6000,-  |
+| **Tweede Veroordeling**  | 20 maanden  |  | € 9000,-  |
+| **Meerdere Veroordelingen**  | 30 maanden  |  | € 12000,-  |
+
+### Artikel II-9 Terroristisch misdrijf (134a SR en 142a SR)
 
 Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of een deel der bevolking van een land ernstige vrees aan te jagen, dan wel een overheid of internationale organisatie wederrechtelijk te dwingen iets te doen, niet te doen of te dulden, dan wel de fundamentele politieke, constitutionele, economische of sociale structuren van een land of een internationale organisatie ernstig te ontwrichten of te vernietigen.
 
@@ -551,6 +565,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 1. Het voertuig, uitgezonderd fietsen, heeft 1 of meer nummerplaten, als dit niet mogelijk is moet de bestuurder in het bezit zijn van een geldig bewijs in vorm van een document als ontheffing daarvoor.
 2. Indien een voertuig ramen bezit dient het gezicht van de bestuurder en passagier(s) duidelijk zichtbaar te zijn.
+2A lid 2 geldt voor de voorruit en de naast de bestuurderszitplaats aanwezige zijruiten.
 3. Er mag geen verlichting gevoerd worden onder het voertuig bij deelname aan het verkeer.
 4. Het voertuig dient vrij te zijn van uitstekende onderdelen en/of grote schade, die de veiligheid in het gedrang brengt.
 5. Bij het voertuig mogen geen deuren ontbreken, indien deze wel aanwezig behoren te zijn.
@@ -1059,8 +1074,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 1. Onder beschermd wordt verstaan: diersoorten die wettelijk beschermd zijn, bijvoorbeeld omdat zij bedreigd worden in hun voortbestaan of beschermd moeten worden tegen overmatige benutting.
 2. Een persoon is schuldig wanneer deze weet of behoort te weten dat het verboden is om jacht te maken op dieren die bij wet beschermd zijn en bij zich draagt.
-3. Een persoon is schuldig wanneer deze een beschermd dier bij zich draagt met het oogmerk het dier te verkopen.
-4. Een persoon is schuldig wanneer deze een beschermd dier vervoert in een voertuig.
+3. Een persoon is schuldig wanneer deze een beschermd dier voorhanden heeft, vervoert en/of verkoopt.
 
 | Bij wet geclassificeerde beschermde dieren |
 |---|

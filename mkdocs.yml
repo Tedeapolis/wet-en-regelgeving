@@ -10,7 +10,6 @@ copyright: Copyright &copy; 2019 - 2022 Tedeapolis
 # Repository
 repo_url: 'https://github.com/Tedeapolis/wet-en-regelgeving/'
 repo_name: 'Tedeapolis/wet-en-regelgeving'
-edit_uri: 'https://github.com/Tedeapolis/wet-en-regelgeving/blob/master/docs/'
 
 google_analytics: ['UA-167800475-3', 'wetboek.tedeapolis.nl']
 
@@ -40,6 +39,8 @@ theme:
     - navigation.indexes
     - header.autohide
     - toc.follow
+    - content.action.edit
+    - content.action.view
   extra:
     analytics:
       provider: google
@@ -69,7 +70,6 @@ nav:
   - Belastingen: belastingen.md
   - Regelement voor de rechtspraak: rechtspraak.md
   - Streamen op Tedeapolis: streamen.md
-  - Offroad Voertuigen: offroadvoertuigen.md
   - Kosten:
     - Advocatuur: kosten/advocatuur.md
     - Ambulance: kosten/ambulance.md
