@@ -3,7 +3,7 @@ on: [push, pull_request]
 
 jobs:
   lint:
-    name: Deploy docs
+    name: Check Markdown styling (lint)
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
