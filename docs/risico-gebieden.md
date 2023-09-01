@@ -19,14 +19,14 @@ De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Tedeapolis
 - 7012
 - 7010
 
-### Bank
+### Burton Bank Vlakbij Tune Shop
 
 - 7032
 - 7031
 - 7035
 - 7033
 
-### Bank
+### Alta Bank Vlakbij Basic Fit
 
 - 7021
 - 7003
@@ -34,27 +34,28 @@ De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Tedeapolis
 - 7020
 - 7059
 
-### Bank
+### Rockford Hills Bank Vlakbij Golfbaan
 
 - 5146
 - 5147
 - 5148
 - 5158
+- 5159
 
-### Bank
+### Banham Canyon Bank
 
 - 7066
 - 7064
 - 7063
 
-### Bank
+### Paleto Bay Bank
 
 - 938
 - 909
 - 936
 - 939
 
-### Bank
+### Grand Senora Bank
 
 - 707
 - 706
