@@ -1042,11 +1042,12 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 1. Schuldig is een persoon die zonder daartoe gerechtigd is, over iemand anders zijn grond waarvan de toegang op een voor hem blijkbare wijze door den rechthebbende is verboden, loopt, rijdt of vee laat lopen.
 2. Schuldig is een persoon die zonder daartoe gerechtigd is, over bij wet geclassificeerde verboden domeinen te lopen, rijden, varen, vliegen of landen zonder nadrukkelijke en aantoonbaar toestemming te hebben verkregen van de Politie, Koninklijke Marechaussee, Koninklijke Luchtmacht of Korps Commando Troepen.
 
-| Bij wet geclassificeerde verboden domeinen |
-|---|
-| Luchtmachtbasis |
-| Vliegdekschip |
-| Gevangenis |
+| Bij wet geclassificeerde verboden domeinen | Gelegen Nabij Postcode |
+|---|---|
+| Luchtmachtbasis | 719
+| Vliegdekschip | 3705
+| Gevangenis | 704
+| Ministerie van Defensie | 6035
 |  |
 
 |  |Celstraf  | Taakstraf  | boete  |
