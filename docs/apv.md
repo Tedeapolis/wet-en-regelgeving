@@ -174,7 +174,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 3. Enkele voorbeelden van “no value of life”:
     * zodra iemand een pistool op je richt binnen 50 meter en er geen beschutting is, blijf je staan, werk je mee en val je deze persoon niet aan.
     * Zodra iemand een steek- of slagwapen binnen armlengte afstand van je trekt dan werk je mee, doe je dit niet ben je niet zuinig met je leven aangezien je dat bewust het risico neemt neergestoken of neergeslagen te worden.
-    * Het bovenstaande voorbeeld is alleen van toepassing als de persoon die het wapen trekt ook een bedreiging vormt voor jou of anderen. 
+    * Het bovenstaande voorbeeld is alleen van toepassing als de persoon die het wapen trekt ook een bedreiging vormt voor jou of anderen.
     * Met een helikopter vlak boven de grond zweven om goederen en/of personen te transporteren.
     * Elke andere vorm waarmee je bewust je eigen leven in een té groot gevaar brengt valt onder no value of life, dus gebruik je gezonde verstand om de situatie in te schatten.
     * Zodra een persoon een wapen in zijn hand heeft en jij gaat hem proberen te boeien of richting hem te rennen word dit gezien als no value of life. Wanneer jij van dat persoon weet dat hij/zij een vuur-, steek- of slagwapen op zak heeft, zal je ervoor moeten zorgen hem/haar te overmeesteren door enige vorm van bedreigende middelen toe te passen.
@@ -291,7 +291,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
     * Steamnaam
     * Discordnaam
     * Character naam
-3. Het is tevens niet toegestaan om in discordkanalen of in-game toxic, uitlokkend, haatzaaiend of opruiend gedrag te vertonen. 
+3. Het is tevens niet toegestaan om in discordkanalen of in-game toxic, uitlokkend, haatzaaiend of opruiend gedrag te vertonen.
 4. Overtreding van lid 3 resulteert in een timeout in onze discord server en/of een officiële sanctie. Dit wordt door een stafflid bepaald aan de hand van de ernst en context.
 
 ## Overtredingen - Criminele activiteiten
@@ -581,6 +581,7 @@ Onderstaande regels tellen alleen op Narcopolis
 4. Bij herhaling na de straf van de 5e categorie wordt er een gang strike uitgedeeld.
 
 ### Artikel N-4 - Campen van een niet actieve drugslocatie
+
 1. Het campen van een niet actieve drugslocatie is niet toegestaan op het eiland.
 2. Zodra je binnen 1000 meter van de pluk bent, kan dit onder campen vallen. Dit is ter beoordeling aan een stafflid.
 3. Het is niet toegestaan om constant op en neer te rijden naar een niet-actieve drugs locatie, om zo de camp regel te omzeilen. Als dit blijft gebeuren zullen er sancties komen. Dit is ter beoordeling aan een stafflid.

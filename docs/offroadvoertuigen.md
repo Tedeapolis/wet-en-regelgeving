@@ -12,7 +12,6 @@ De lijst hieronder geeft aan welke voertuigen vanuit de gemeente zijn toegestaan
 
 Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is valt dit onder [Artikel 10 - Deelname aan het verkeer](https://wetboek.tedeapolis.nl/apv/#artikel-10-deelname-aan-het-verkeer) van de APV
 
-
 ## Verharde weg
 
 * Akuma
@@ -78,7 +77,7 @@ Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is
 * Trophy Truck
 * Manchez
 * Quad(Met offroad banden eronder)
-* Africat 
+* Africat
 * BF Benito
 * Bf Injection
 * Bifta
@@ -97,7 +96,7 @@ Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is
 * Jeep Gladiator
 * Volkswagen Amarok
 * Rebel Raid
-* BMW X7 
+* BMW X7
 * Ford Bronco Wildtrak
 * Range Rover Startech
 * Range Rover Vogue
