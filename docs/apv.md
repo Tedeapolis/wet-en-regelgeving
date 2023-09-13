@@ -229,10 +229,11 @@ _Onder ambtenaar wordt verstaan de spelers die één van de volgende instanties 
 ### Artikel 18 - Beeldmateriaal
 
 1. Bodycam beelden zijn op de volgende manier toegestaan:
-    * Overheidsdiensten zijn uitgerust met bodycams.
-    * Medewerkers van alle overheidsdiensten zijn verplicht om de bodycams visueel te dragen als zij de bodycam beelden als bewijs willen gebruiken.
+    * Medewerkers in dienst bij de overheid zijn uitgerust met bodycams.
+    * Medewerkers van alle overheidsdiensten zijn verplicht om de bodycams visueel te dragen als zij de bodycam beelden als bewijs willen gebruiken. (Uitzondering op deze regel is wanneer dit niet mogelijk is (bijvoorbeeld bij een zwaar vest van de politie))
+    * De bodycam beelden mogen met 360 graden beeld gebruikt worden.
     * Burgers kunnen alleen met hun telefoon filmen.
-    * Alle voertuigen inclusief overheidsvoertuigen kunnen enkel met een dashcam voor- of achteruit filmen. 
+    * Alle voertuigen inclusief overheidsvoertuigen kunnen enkel met een dashcam voor- of achteruit filmen.
 2. De bovengenoemde voorbeelden zijn bedoeld in de context van Roleplay. Voor bewijsvoering in een ticket of report is alle beeldmateriaal toegestaan.
 
 ### Artikel 19 - Jobhoppen
