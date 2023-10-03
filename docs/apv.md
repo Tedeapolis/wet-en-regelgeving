@@ -63,7 +63,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 
 1. Het is verboden om een roleplay van zeer slechte kwaliteit uit te spelen, of roleplay verstorend gedrag te vertonen.
 2. Het is niet toegestaan om opzettelijk de roleplay zodanig te vormen dat er een oneerlijke of onrealistische draai aan het verhaal gegeven wordt, of de roleplay van de andere partij zelf invullen door een onrealistische dwang.
-3. Het onnodig mishandelen, vermoorden (RDM), uitlokken en/of anderen lastig vallen zonder verdere intentie tot roleplay is niet toegestaan. 
+3. Het onnodig mishandelen, vermoorden (RDM), uitlokken en/of anderen lastig vallen zonder verdere intentie tot roleplay is niet toegestaan. Dit geld ook voor dieren.
 4. Hij/zij die geen waarde hecht aan het leven van het karakter dat hij/zij speelt (No Value of Life), zal bestraft worden.
 5. Het is verboden om een erotische roleplay (ERP) uit te voeren of aan te gaan.
 6. Indien het karakter overleden is, wordt er verwacht dat hij/zij de laatste roleplay vergeten is. Het karakter mag ook niet naar het gebied waar hij/zij overleden is terugkeren, dit is aangeduid met een rode cirkel op de kaart voor 30 minuten na het overlijden.
@@ -272,7 +272,7 @@ Onderstaande regels tellen alleen op Narcopolis
 
 * Geen FailRP (Roleplay van zeer slechte kwaliteit, niet realistisch)
 * Geen VDM (Vehicle deathmatch, je wagen als wapen gebruiken).
-* Geen RDM (Random deathmatch, zonder goede reden mensen dood slaan/ schieten).
+* Geen RDM (Random deathmatch, zonder goede reden mensen of dieren dood slaan en/of schieten).
 * Geen Cheats (Uiteraard is het niet toegestaan om cheats te gebruiken om jezelf een voordeel te geven en dit zal dan ook resulteren is een regelrechte ban)
 * Geen Exploits (Bugs / Misstanden misbruiken om hier zelf en/of voor andere profijt uit te halen).
 * Geen server/roleplay verstorend gedrag (Mic spammen, trollen etc).
