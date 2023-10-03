@@ -144,6 +144,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 
 1. Persoon die scheldt met hedendaags relevante ziektes, racistische opmerkingen, of andere ongepaste opmerkingen, wordt bestraft door middel van een permanente ban. Dit is ook van kracht op steam-, discord- en karakternaam.
 2. Het is tevens niet toegestaan om in de Tedeapolis erkende platformen toxic, uitlokkend, haatzaaiend of opruiend gedrag te vertonen.
+3. Op lid 1 geldt een uitzondering voor het schelden met hedendaagse relevante ziektes, bij de eerste keer zal dat bestraft worden doormiddel van een ban van twee weken. Bij de tweede keer zal hij/zij bestraft worden met 3 maanden ban, en derde keer zal het een permanente verbanning zijn.
 
 ### Artikel 11 - Overvallen & Oplichten
 
