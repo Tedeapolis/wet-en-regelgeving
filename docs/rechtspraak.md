@@ -51,7 +51,7 @@ Wanneer de OvJ betrokken wordt vanwege een strafzaak en de OvJ dus de rol van ad
 
 De rechtbank heeft een relatief kleine rol binnen Tedeapolis, maar wel met groot gevolg. Verreweg de meeste zaken zullen nooit voor de rechter verschijnen, omdat ze afgedaan kunnen worden door de politie en de officieren van Justitie (OvJ).
 
-Wanneer er besloten wordt tot een rechtszaak, dan wordt er een rechter aangesteld voor die zaak. Binnen Tedeapolis zijn geen permanente rechters (dit is niet haalbaar), maar wordt er wel met zorg een rechter aangesteld op het moment dat dit nodig wordt geacht. Die rechters zijn altijd in dienst van Justitie en mogen ook alleen dienen als rechter. 
+Wanneer er besloten wordt tot een rechtszaak, dan wordt er een rechter aangesteld voor die zaak. Binnen Tedeapolis zijn geen permanente rechters (dit is niet haalbaar), maar wordt er wel met zorg een rechter aangesteld op het moment dat dit nodig wordt geacht. Die rechters zijn altijd in dienst van Justitie en mogen ook alleen dienen als rechter.
 
 De planning van een rechtszaak heeft enige tijd nodig. Beide partijen willen hun zaak voorbereiden en dus zal een rechtszaak meestal niet dezelfde dag plaatsvinden. Afhankelijk van de reden van de rechtzaak kan een OvJ de hechtenis verlengen voor een rechtszaak. Zelf hoeft de verdachte ook niet aanwezig te zijn bij zijn veroordeeling. Wel moet de verdachte altijd eerlijk verhoord worden. Dit mag altijd met een advocaat erbij.
 
