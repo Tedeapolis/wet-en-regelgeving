@@ -623,6 +623,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 3. Indien persoon wordt aangetroffen op zijn of haar voertuig zoals bedoeld in lid 1, wordt het voertuig direct in beslag genomen en vernietigd.
 4. Indien persoon zoals bedoeld in lid 3 niet de eigenaar van het voertuig is, wordt het voertuig eveneens direct in beslag genomen en vernietigd.
 5. De eigenaar van het voertuig blijft verantwoordelijk, ook al wordt het voertuig met een andere bestuurder aangetroffen.
+6. Voertuigen die gehuurd worden op een illegale manier worden ook bestempeld als illegaal. Ook als er geen eigenaar aan te linken is is het voertuig illegaal. Dit zal resulteren in een boete van € 10000,-.
 
 | Illegale voertuigen | Soort |
 |---|---|
@@ -1223,7 +1224,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
     d. Indien een vaartuig en/of watervliegtuig op of naast een strand word aangetroffen, is de Koninklijke Marechaussee bevoegd het vaartuig en/of watervliegtuig, de personen en aanwezige voertuigen rondom het vaartuig en/of watervliegtuig binnen een straal van 50 meter (shoutingring) te controleren.
     e. Indien een persoon binnen een straal van 50 meter, zoals genoemd in dit artikel lid 1 onder d, en zijn/haar voertuig buiten deze straal bevind, is de Koninklijke Marechaussee bevoegd dit voertuig te controleren. Dit voertuig dient op naam te staan van de persoon in aanwezigheid van de genoemde straal.
 2. Onder controle in de zin van lid 1 wordt mede verstaan doorzoeking en fouillering.
-3. Fouillering geschiedt op een besloten plaats door dienstdoend personeel die van hetzelfde geslacht zijn als de persoon die aan fouillering wordt onderworpen.
+3. Fouillering geschiedt op een besloten plaats dit mag elke agent doen van elk geslacht. De verdachte mag dan wel een voorkeur hebben van een geslacht maar mag ten alle tijden een agent van het andere geslacht hem/haar ook laten fouilleren.
 4. Onder fouillering zoals beschreven in lid 2 en lid 3 wordt verstaan: het onderzoek aan de kleding; en/of het verwijderen van de kleding, teneinde deze aan een nauwkeurig onderzoek te onderwerpen. Verwijderen van onderkleding is niet toegestaan.
 5. De Koninklijke Marechaussee is bevoegd met het oog op de uitoefening van de bevoegdheden, zoals bedoeld in dit artikel, de bestuurder dan wel de gezagvoerder van het vervoermiddel te vorderen dat deze zijn vervoermiddel vaart laat minderen, bijdraait, landt, stilhoudt, naar een door hem aangewezen plaats overbrengt, aanlegt en de motor buiten werking stelt. De in dit lid bedoelde personen zijn gehouden aan de vordering te voldoen.
 6. De Koninklijke Marechaussee is bevoegd personen die aanwezig zijn in of op de in dit artikel bedoelde locaties of vervoermiddelen of deze juist gaan betreden of hebben verlaten aan fouillering te onderwerpen.
