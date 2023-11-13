@@ -623,7 +623,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 3. Indien persoon wordt aangetroffen op zijn of haar voertuig zoals bedoeld in lid 1, wordt het voertuig direct in beslag genomen en vernietigd.
 4. Indien persoon zoals bedoeld in lid 3 niet de eigenaar van het voertuig is, wordt het voertuig eveneens direct in beslag genomen en vernietigd.
 5. De eigenaar van het voertuig blijft verantwoordelijk, ook al wordt het voertuig met een andere bestuurder aangetroffen.
-6. Voertuigen die gehuurd worden op een illegale manier worden ook bestempeld als illegaal. Ook als er geen eigenaar aan te linken is is het voertuig illegaal. Dit zal resulteren in een boete van € 10000,-.
+6. Voertuigen die gehuurd worden op een illegale manier worden ook bestempeld als illegaal. Ook als er geen eigenaar aan te linken is is het voertuig illegaal. Dit zal resulteren in het in beslag nemen van het voertuig.
 
 | Illegale voertuigen | Soort |
 |---|---|
@@ -980,8 +980,14 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ### Artikel VIII-2 Belediging (266 SR)
 
-1. Schuldig is een persoon die opzettelijk een ander belegdigt op straffe van een boete van €1200,- per geval.
+1. Schuldig is een persoon die opzettelijk een ander belegdigt.
 2. Wanneer de belediging opzettelijk is geuit richting een ambtenaar in functie wordt de boete met 33% verhoogd.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 10 uur  | € 1200,-  |
+| **Tweede Veroordeling**  |   | 15 uur  | € 1500,-  |
+| **Meerdere Veroordelingen**  |   | 20 uur  | € 2000,-  |
 
 ### Artikel VIII-3 Opgeven valse gegevens (435 SR)
 
