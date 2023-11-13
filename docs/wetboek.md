@@ -980,8 +980,14 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ### Artikel VIII-2 Belediging (266 SR)
 
-1. Schuldig is een persoon die opzettelijk een ander belegdigt op straffe van een boete van €1200,- per geval.
+1. Schuldig is een persoon die opzettelijk een ander belegdigt.
 2. Wanneer de belediging opzettelijk is geuit richting een ambtenaar in functie wordt de boete met 33% verhoogd.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 10 uur  | € 1200,-  |
+| **Tweede Veroordeling**  |   | 15 uur  | € 1500,-  |
+| **Meerdere Veroordelingen**  |   | 20 uur  | € 2000,-  |
 
 ### Artikel VIII-3 Opgeven valse gegevens (435 SR)
 
