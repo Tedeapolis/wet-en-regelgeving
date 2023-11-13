@@ -72,10 +72,10 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 9. Het uitvoeren van een zelfmoord scenario is niet toegestaan, mits er goedkeuring voor is geweest vanuit staff.
 10. Het is verboden om door middel van de Safe Zone te ontkomen aan illegale activiteiten en/of roleplays.
 11. Het is verboden om een individu schade aan te richten, te ontvoeren, uitbreken, overvallen, aanrijden of vermoorden in een Safe Zone, tenzij er daadwerkelijke roleplay (die aan te tonen is) aan gekoppeld zit.
-    * Enkele voorbeelden van lid 1 en lid 2 zijn:
-    * Tijdens een achtervolging je voertuig in de garage zetten om te voorkomen dat je je voertuig kwijt raakt;
-    * Een agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS).
-    * Medewerkers van de overheidsdiensten dwingen om een (bewusteloos) persoon te fouilleren, items (zoals wapens) af te nemen en af te geven aan jou of iemand anders.
+   * Enkele voorbeelden van lid 1 en lid 2 zijn:
+   * Tijdens een achtervolging je voertuig in de garage zetten om te voorkomen dat je je voertuig kwijt raakt;
+   * Een agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS).
+   * Medewerkers van de overheidsdiensten dwingen om een (bewusteloos) persoon te fouilleren, items (zoals wapens) af te nemen en af te geven aan jou of iemand anders.
 
 ### Artikel 2 - Cheats, Exploits & Meta-gaming
 
