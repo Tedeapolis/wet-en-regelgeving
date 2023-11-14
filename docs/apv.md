@@ -72,10 +72,11 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 9. Het uitvoeren van een zelfmoord scenario is niet toegestaan, mits er goedkeuring voor is geweest vanuit staff.
 10. Het is verboden om door middel van de Safe Zone te ontkomen aan illegale activiteiten en/of roleplays.
 11. Het is verboden om een individu schade aan te richten, te ontvoeren, uitbreken, overvallen, aanrijden of vermoorden in een Safe Zone, tenzij er daadwerkelijke roleplay (die aan te tonen is) aan gekoppeld zit.
+
     * Enkele voorbeelden van lid 1 en lid 2 zijn:
-     * Tijdens een achtervolging je voertuig in de garage zetten om te voorkomen dat je je voertuig kwijt raakt;
-     * Een agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS).
-     * Medewerkers van de overheidsdiensten dwingen om een (bewusteloos) persoon te fouilleren, items (zoals wapens) af te nemen en af te geven aan jou of iemand anders.
+    * Tijdens een achtervolging je voertuig in de garage zetten om te voorkomen dat je je voertuig kwijt raakt;
+    * Een agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS).
+    * Medewerkers van de overheidsdiensten dwingen om een (bewusteloos) persoon te fouilleren, items (zoals wapens) af te nemen en af te geven aan jou of iemand anders.
 
 ### Artikel 2 - Cheats, Exploits & Meta-gaming
 
@@ -227,8 +228,9 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 ### Artikel 18 - Beeldmateriaal
 
 1. Bodycam beelden zijn op de volgende manier toegestaan:
-    * Overheidsdiensten zijn uitgerust met bodycams.
-    * Medewerkers van alle overheidsdiensten zijn verplicht om de bodycams visueel te dragen als zij de bodycam beelden als bewijs willen gebruiken.
+    * Medewerkers in dienst bij de overheid zijn uitgerust met bodycams.
+    * Medewerkers van alle overheidsdiensten zijn verplicht om de bodycams visueel te dragen als zij de bodycam beelden als bewijs willen gebruiken. (Uitzondering op deze regel is wanneer dit niet mogelijk is (bijvoorbeeld bij een zwaar vest van de politie))
+    * De bodycam beelden mogen met 360 graden beeld gebruikt worden.
     * Burgers kunnen alleen met hun telefoon filmen.
     * Alle voertuigen inclusief overheidsvoertuigen kunnen enkel met een dashcam voor- of achteruit filmen.
 2. De bovengenoemde voorbeelden zijn bedoeld in de context van Roleplay. Voor bewijsvoering in een ticket of report is alle beeldmateriaal toegestaan.
