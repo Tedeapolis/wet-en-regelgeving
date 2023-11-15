@@ -1127,6 +1127,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 1. Schuldig is een persoon die onder een bedrijfsnaam handelt of een omzet creëert doormiddel van zijn of haar bedrijf en niet KvK ingeschreven staat.
 2. Indien een opsporingsambtenaar merkt dat de schuldige nergens van afwist, dan kan deze zijn discretionaire bevoegdheid gebruiken om het af te doen met een waarschuwing in de vorm van een notitie.
+3. Indien de persoon wel ingeschreven staat maar geen vergunning heeft dient dit uitgezocht te worden door een werknemer van de KVK.
 
 |  |Celstraf  | Taakstraf  | boete  |
 |---|---|---|---|
@@ -1138,6 +1139,8 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 1. Schuldig is een persoon die een dienst levert waarvoor een onderscheidende vergunning vereist is, maar dit zonder doet.
 2. Indien een opsporingsambtenaar merkt dat de schuldige nergens van afwist, dan kan deze zijn discretionaire bevoegdheid gebruiken om het af te doen met een waarschuwing in de vorm van een notitie.
+3. Indien een persoon ingeschreven staat bij een bedrijf dient de eigenaren/leiding dit aan te geven in hun werknemersregister.
+4. Als lid 3 wel van toepassing is hoeven alleen de eigenaren/leiding de juiste vergunningen aan te tonen. Als dit niet up to date is mag er gesanctioneerd worden.
 
 |  |Celstraf  | Taakstraf  | boete  |
 |---|---|---|---|
