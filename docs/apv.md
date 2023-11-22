@@ -32,7 +32,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 1. De straffen zijn onderverdeeld in acht categorieën:
     * Categorie 1: een waarschuwing + 100 uur taakstraf
        *(max 3 waarschuwingen in 1 maand, hierna volgt de automatisch oplegging cat. 2)
-      
+
     * Categorie 2: een ban van maximaal 1 dag
 
     * Categorie 3: een ban van maximaal 2 dagen
@@ -163,7 +163,7 @@ celstraf.
 1. Je mag als burger geen overheidsvoertuigen besturen, tenzij er in de roleplay een goede reden voor is of wanneer er toestemming is gegeven door een stafflid.
 2. Er wordt geacht van mensen geen gebruik te maken van baan voertuigen voor illegale bezigheden, tenzij hier goedkeuring voor is gegeven vanuit een stafflid voor een roleplay scenario.
 3. Het is niet toegestaan met voertuigen gebouwen te betreden die daar niet voor bedoeld zijn.
-4. Het is niet toegestaan om jouw voertuig als wapen te gebruiken (VDM). Bij overtreding zal dit resulteren in een straf volgens de 2e categorie. 
+4. Het is niet toegestaan om jouw voertuig als wapen te gebruiken (VDM). Bij overtreding zal dit resulteren in een straf volgens de 2e categorie.
 
    *Indien een overtreding gemaakt wordt van lid 1 t/m 4 zal dit resulteren in een straf van de 1e categorie.
 
@@ -223,7 +223,6 @@ ambulanciers in dienst, hierbij zal er wel een goede roleplay aan vast moeten zi
 run and gun. Mocht hier toch gezien worden dat er geen roleplay aan verbonden wordt zoals enkel
 een melding maken en de ambulancier snel te laten werken zodat het wapen direct weg kan, zal er
 bestraft worden volgens de 5e categorie bij herhaling kan dit meer worden.
-
 
 ### Artikel 14 - Roleplay & Ledenaantal Criminele Organisaties
 
