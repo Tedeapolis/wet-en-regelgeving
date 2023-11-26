@@ -1267,6 +1267,11 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 4. Er geldt een bewijsminimum van één bewijsstuk als het/de strafbare feit(en) volledig en overtuigend bewezen kunnen worden. Indien dit niet het geval is, dan zijn minimaal 2 bewijsstukken vereist. Dit betekent concreet dat de identiteit van de verdacht(en) en de exacte feiten en omstandigheden, bijvoorbeeld of er sprake is van opzet voor zover van toepassing, duidelijk moeten worden.
 5. Het bewijs dat de verdachte het telastegelegde feit heeft gepleegd, kan worden aangenomen op alleen het proces-verbaal van een opsporingsambtenaar.
 6. Feiten of omstandigheden van algemene bekendheid behoeven geen bewijs.
-
+7. Bodycam beelden zijn op de volgende manier toegestaan:
+    * Medewerkers in dienst bij de overheid zijn uitgerust met bodycams.
+    * Medewerkers van alle overheidsdiensten zijn verplicht om de bodycams visueel te dragen als zij de bodycam beelden als bewijs willen gebruiken.   (Uitzondering op deze regel is wanneer dit niet mogelijk is (bijvoorbeeld bij een zwaar vest van de politie))
+    * De bodycam beelden mogen met 360 graden beeld gebruikt worden.
+    * Burgers kunnen alleen met hun telefoon filmen.
+    * Alle voertuigen inclusief overheidsvoertuigen kunnen enkel met een dashcam voor- of achteruit filmen.
 ---------------------
 *Wetboek Tedeapolis is opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Tedeapolis”, opgetekend door Bram Mosterdfiets, te Tedeapolis.*
