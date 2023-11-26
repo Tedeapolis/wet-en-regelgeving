@@ -1273,5 +1273,6 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
     * De bodycam beelden mogen met 360 graden beeld gebruikt worden.
     * Burgers kunnen alleen met hun telefoon filmen.
     * Alle voertuigen inclusief overheidsvoertuigen kunnen enkel met een dashcam voor- of achteruit filmen.
+
 ---------------------
 *Wetboek Tedeapolis is opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Tedeapolis”, opgetekend door Bram Mosterdfiets, te Tedeapolis.*
