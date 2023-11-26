@@ -196,13 +196,13 @@ celstraf.
 
 *Onder ambtenaar wordt verstaan de spelers die één van de volgende instanties uitvoert, deze zijn weergegeven in het F10 menu:*
 
-    * *Politie*
-    * *Koninklijke marechaussee*
-    * *Justitie*
-    * *Ambulance*
-    * *ANWB*
-    * *Taxi*
-    * *Brandweer*
+* *Politie*
+* *Koninklijke marechaussee*
+* *Justitie*
+* *Ambulance*
+* *ANWB*
+* *Taxi*
+* *Brandweer*
 
 1. Voor een ambtenaar is het niet toegestaan zich bezig te houden met illegale bezigheden.
 2. Het is niet toegestaan om door de politie in beslag genomen objecten door te handelen naar spelers. Ditzelfde is ook van toepassing op alle andere overheidsobjecten en op informatie die de (ex-)medewerker heeft verkregen tijdens zijn carrière bij de desbetreffende overheidsdienst. Dit geldt ook nadat de desbetreffende persoon ontslag heeft genomen of ontslagen is.
