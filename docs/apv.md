@@ -75,7 +75,7 @@ roleplays.
 6. Het is verboden om een individu schade aan te richten, te ontvoeren, uitbreken, overvallen,
 aanrijden of vermoorden in een Safe Zone, tenzij er daadwerkelijke roleplay (die aan te tonen is) aan
 gekoppeld zit.
-   * Bij overtreding van lid 1 t/m 6 zal dit resulteren in een straf volgens de 1e categorie.
+    * Bij overtreding van lid 1 t/m 6 zal dit resulteren in een straf volgens de 1e categorie.
 
 7. Het onnodig mishandelen, vermoorden (RDM), uitlokken en/of anderen lastig vallen zonder
 verdere intentie tot roleplay is niet toegestaan. Dit geld ook voor dieren.
@@ -165,7 +165,7 @@ celstraf.
 3. Het is niet toegestaan met voertuigen gebouwen te betreden die daar niet voor bedoeld zijn.
 4. Het is niet toegestaan om jouw voertuig als wapen te gebruiken (VDM). Bij overtreding zal dit resulteren in een straf volgens de 2e categorie.
 
-   *Indien een overtreding gemaakt wordt van lid 1 t/m 4 zal dit resulteren in een straf van de 1e categorie.
+   *Indien een overtreding gemaakt wordt van lid 1 t/m 3 zal dit resulteren in een straf van de 1e categorie.
 
 ### Artikel 10 - Belediging
 
