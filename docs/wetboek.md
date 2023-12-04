@@ -161,9 +161,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 20 uur  | €10000,-  |
-| **Tweede Veroordeling**  | 18 maanden  |  | €12500,-  |
-| **Meerdere Veroordelingen**  | 36 maanden  |   | €15000,-  |
+|  **Eerste Veroordeling** |   | 14 uur  | €6500,-  |
+| **Tweede Veroordeling**  | 12 maanden  |  | €8500,-  |
+| **Meerdere Veroordelingen**  | 24 maanden  |   | €10000,-  |
 
 ### Artikel I-2 Gekwalificeerde Diefstal (311 SR)
 
@@ -175,9 +175,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 50 uur  | €15000,-  |
-| **Tweede Veroordeling**  | 10 maanden  |  | €17500,-  |
-| **Meerdere Veroordelingen**  | 20 maanden  |   | €25000,-  |
+|  **Eerste Veroordeling** |   | 35 uur  | €10000,-  |
+| **Tweede Veroordeling**  | 7 maanden  |  | €12000,-  |
+| **Meerdere Veroordelingen**  | 14 maanden  |   | €17000,-  |
 
 ### Artikel I-3 Diefstal met geweld / Overval (312 SR)
 
@@ -1045,9 +1045,9 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 |  |Celstraf  | Taakstraf  | boete  |
 |---|---|---|---|
-|  Eerste Veroordeling |   | 35 uur  | €1,500 |
-| Tweede Veroordeling  |   | 40 uur  | €2,000 |
-| Meerdere Veroordelingen  |   | 50 uur | €3,000 |
+|  Eerste Veroordeling |   | 25 uur  | €1,500 |
+| Tweede Veroordeling  |   | 30 uur  | €2,000 |
+| Meerdere Veroordelingen  |   | 35 uur | €3,000 |
 
 ### Artikel VIII-10 Huisvredebreuk (138 SR)
 
@@ -1056,9 +1056,9 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 |  |Celstraf  | Taakstraf  | boete  |
 |---|---|---|---|
-|  Eerste Veroordeling |   | 20 uur | € 2000,- |
-| Tweede Veroordeling  |   | 40 uur  | € 4000,- |
-| Meerdere Veroordelingen  |   | 50 uur | € 6000,- |
+|  Eerste Veroordeling |   | 15 uur | € 1500,- |
+| Tweede Veroordeling  |   | 25 uur  | € 3000,- |
+| Meerdere Veroordelingen  |   | 35 uur | € 4000,- |
 
 ### Artikel VIII-11 Betreden van verboden domein
 
