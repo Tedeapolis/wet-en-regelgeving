@@ -66,7 +66,7 @@ onrealistische draai aan het verhaal gegeven wordt, of de roleplay van de andere
 door een onrealistische dwang.
 3. Indien het karakter overleden is, wordt er verwacht dat hij/zij de laatste roleplay vergeten is. Het
 karakter mag ook niet naar het gebied waar hij/zij overleden is terugkeren, dit is aangeduid met een
-rode cirkel op de kaart voor 30 minuten na het overlijden.
+rode cirkel op de kaart voor 30 minuten na het overlijden. Tevens mag het karakter zich niet opnieuw bemoeien met ditzelfde scenario totdat deze afgelopen is (New life rule).
 4. Het is te allen tijde verboden om je karakter te breken. Hiermee bedoelen we dat je een term
 gebruikt die gezien wordt als OOC (Out Of Character), Ook is het niet toegestaan om “/looc” foutief
 te gebruiken.
