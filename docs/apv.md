@@ -229,8 +229,11 @@ een melding maken en de ambulancier snel te laten werken zodat het wapen direct 
 1. Onder "criminele organisaties" vallen alle officiële groepen gevestigd in Tedeapolis.
 2. Criminele organisaties mogen een maximaal ledenaantal van 25 personen hebben. Hierin is een vrije keuze voor het aantal leden met de "hangaround" rang.
 3. Een voorwaarde voor het samenwerken tussen criminele organisaties, is dat er geen volledige samenwerking tussen alle organisaties ontstaat en dat dit niet gebeurt tijdens het witwassen van geld.
-4. Wanneer officiële organisaties een samenwerking aangaan met een andere officiële organisatie dan dient dit gemeld te worden volgens het format in het daarvoor aangemaakte kanaal in de Tedeapolis Discord.
-5. Wanneer de leden in een server supported organisatie zodanig opvallen op een negatieve manier (denk aan meerdere malen combat gedrag in plaats van roleplay, teveel warnings, etc.), zal superadmin+ beslissen over een gepaste straf jegens deze organisatie. Bij criminele organisaties kan dit zelfs leiden tot een volledige opschorting van de groep.
+4. Bij een samenwerking mogen er maximaal 2 gangs met een limiet van 20 man samenwerken. Alleen personen met een rang van de (officiële groep) criminele organisatie kunnen in dit geval meedoen.
+5. Bij een zogeheten "politie inval" is het toegestaan voor de gangs om met maximaal 2 groepen en 25 man samen te mogen werken. Hier mogen dus 5 personen meer bij aanwezig zijn.
+6. Wanneer officiële organisaties een samenwerking aangaan met een andere officiële organisatie dan dient dit gemeld te worden volgens het format in het daarvoor aangemaakte kanaal in de Tedeapolis Discord.
+7. Wanneer de leden in een server supported organisatie zodanig opvallen op een negatieve manier (denk aan meerdere malen combat gedrag in plaats van roleplay, teveel warnings, etc.), zal superadmin+ beslissen over een gepaste straf jegens deze organisatie. Bij criminele organisaties kan dit zelfs leiden tot een volledige opschorting van de groep.
+
 
 ### Artikel 15 - Ontsnappen uit het cellencomplex
 
