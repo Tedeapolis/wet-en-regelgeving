@@ -80,12 +80,14 @@ De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Tedeapolis
 
 - 3212
 
-### Gemeentehuis / ziekenhuis
+### Gemeentehuis
 
 - 7041
 - 7040
-- 5157
-- 7038
+
+### Ziekenhuis
+
+- 3224 (Uitzondering op de aanhanger garage / buschauffeur depot)
 
 ### Pier
 
