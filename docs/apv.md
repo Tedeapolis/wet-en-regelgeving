@@ -220,9 +220,9 @@ celstraf.
 6. Het is toegestaan om een agent te ontvoeren zodat je jouw voertuig uit de opslag kan halen, hiervoor dien je wel het bedrag af te lossen die hiervoor openstaat. Hierbij ontneem je wel het recht op een advocaat en/of hOVJ. Het is verboden om tussen 00:00 en 10:00 een voertuig uit de opslag te forceren.
 7. Een officiële criminele organisatie heeft de mogelijkheid om een ambulancier te ontvoeren vanaf 4
 ambulanciers in dienst, hierbij zal er wel een goede roleplay aan vast moeten zitten in plaats van een
-run and gun. Mocht hier toch gezien worden dat er geen roleplay aan verbonden wordt zoals enkel
-een melding maken en de ambulancier snel te laten werken zodat het wapen direct weg kan, zal er
-bestraft worden volgens de 5e categorie bij herhaling kan dit meer worden.
+run and gun. Tevens mag dit alleen gedaan worden bij eigen vrienden of gangleden en dus niet bij personen welke niks met jou te maken hebben. De ambulance is in deze roleplay nogsteeds leidend omtrent gezondheid van de bewusteloze persoon. Indien persoon dit niet kan overleven, kan de ambulancier er voor kiezen om deze dood te moeten verklaren. 
+   * Mocht hier toch gezien worden dat er geen roleplay aan verbonden wordt zoals enkel
+een melding maken en de ambulancier snel te laten werken zodat het wapen direct weg kan, of een van de andere eisen verbroken wordt zal er bestraft worden volgens de 5e categorie en bij herhaling volgens de 6e categorie of hoger.
 
 ### Artikel 14 - Roleplay & Ledenaantal Criminele Organisaties
 
