@@ -238,7 +238,6 @@ een melding maken en de ambulancier snel te laten werken zodat het wapen direct 
 6. Wanneer officiële organisaties een samenwerking aangaan met een andere officiële organisatie dan dient dit gemeld te worden volgens het format in het daarvoor aangemaakte kanaal in de Tedeapolis Discord.
 7. Wanneer de leden in een server supported organisatie zodanig opvallen op een negatieve manier (denk aan meerdere malen combat gedrag in plaats van roleplay, teveel warnings, etc.), zal superadmin+ beslissen over een gepaste straf jegens deze organisatie. Bij criminele organisaties kan dit zelfs leiden tot een volledige opschorting van de groep.
 
-
 ### Artikel 15 - Ontsnappen uit het cellencomplex
 
 1. Het is toegestaan om te ontsnappen uit het cellencomplex, echter dient hier een geldig roleplay scenario aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
