@@ -70,10 +70,10 @@ rode cirkel op de kaart voor 30 minuten na het overlijden. Tevens mag het karakt
 4. Het is te allen tijde verboden om je karakter te breken. Hiermee bedoelen we dat je een term
 gebruikt die gezien wordt als OOC (Out Of Character), Ook is het niet toegestaan om “/looc” foutief
 te gebruiken of te gebruiken om toxic / zoutige opmerkingen te plaatsen.
-   * Enkele voorbeelden van het foutief gebruiken van looc:
-   * /looc wat doen jullie
-   * /looc waarom rdm je
-   * /looc slechte roleplay
+    * Enkele voorbeelden van het foutief gebruiken van looc:
+    * /looc wat doen jullie
+    * /looc waarom rdm je
+    * /looc slechte roleplay
 5. Het is verboden om door middel van de Safe Zone te ontkomen aan illegale activiteiten en/of
 roleplays.
 6. Het is verboden om een individu schade aan te richten, te ontvoeren, uitbreken, overvallen,
