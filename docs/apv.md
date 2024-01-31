@@ -93,11 +93,14 @@ resulteren in een straf volgens de 7e categorie.
 10. Het uitvoeren van een zelfmoord scenario is niet toegestaan, mits er goedkeuring voor is geweest
 vanuit staff. Bij geen goedkeuring zal dit resulteren tot een straf van categorie 8 of 200 maanden
 celstraf.
-
     * Enkele voorbeelden van lid 1 en lid 2 zijn:
     * Tijdens een achtervolging je voertuig in de garage zetten om te voorkomen dat je je voertuig kwijt raakt;
     * Een agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS).
     * Medewerkers van de overheidsdiensten dwingen om een (bewusteloos) persoon te fouilleren, items (zoals wapens) af te nemen en af te geven aan jou of iemand anders.
+
+11. Het zogeheten "counteren" tijdens een politie achtervolging, dus het bemoeien in een achtervolging van een ander met de politie, is niet toegestaan.
+    * Ter verduidelijking: Indien de politie tussen een onderling conflict komt welke al bezig is, is deze regel niet van toepassing.
+    * Bij overtreding van lid 11 zal dit resulteren in een straf volgens de 2e categorie.
 
 ### Artikel 2 - Cheats, Exploits & Meta-gaming
 
