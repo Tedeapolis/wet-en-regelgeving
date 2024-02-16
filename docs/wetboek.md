@@ -90,7 +90,7 @@
     4. Niet voldoen aan (verkeers)aanwijzing van bevoegde en als zodanig kenbare opsporingsambtenaar of lid van de Koninklijke Luchtmacht;
     5. Snelheidsovertreding van meer dan 100% van de maximumsnelheid;
     6. Op de openbare weg rijden met een voertuig met daarop een WOK-status.
-4. Er geldt een basisuitkooppercentage van 10% indien er sprake is van een verkeersdelict. Hierbij geldt een maximaal uitkoopbedrag van 100.000 euro.
+4. Er geldt een basisuitkooppercentage van 10% indien er sprake is van een verkeersdelict of indien er niet voldaan wordt aan (verkeers)aanwijzing van een bevoegd en als zodanig kenbaar lid van de Koninklijke Luchtmacht. Hierbij geldt een maximaal uitkoopbedrag van 100.000 euro.
 5. Er geldt een basisuitkooppercentage van 20% indien er sprake is van een ander delict dan een verkeersdelict.
 6. Alle bovenstaande leden gelden ook voor helikopters en vliegtuigen.
 7. Meerdere notities voor het vliegen zonder vliegbrevet zal resulteren in een inbeslagname van het voertuig.
@@ -184,6 +184,7 @@
 1. Schuldig is een persoon die een goed wegneemt zonder daarvoor toestemming of enig recht toe te hebben, daarbij gebruik makende van geweld in enige vorm.
 2. Genoemd geweld is gebruikt bij de voorbereiding, diefstal of overval, of vlucht.
 3. Bij een poging tot diefstal met geweld / overval wordt de straf met 33% verminderd.
+4. Indien de persoon een winkel heeft overvallen word dit artikel met 33% extra verlaagd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -1275,4 +1276,4 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
     * Alle voertuigen inclusief overheidsvoertuigen kunnen enkel met een dashcam voor- en achteruit filmen.
 
 ---------------------
-*Wetboek Tedeapolis is opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Tedeapolis”, opgetekend door Bram Mosterdfiets, te Tedeapolis.*
+*Wetboek Tedeapolis is opgesteld uit naam van de Hoge Raad, bedoeld voor de gemeente en de stad “Tedeapolis”, opgetekend door Bram Mosterdfiets, te Tedeapolis.*
