@@ -269,6 +269,7 @@ een melding maken en de ambulancier snel te laten werken zodat het wapen direct 
 ### Artikel 17 - Officiële gang regels
 
 1. Het is verboden om nepmeldingen te maken in de omgeving van een gang huis met de intentie tot uitlokken van de criminelen of het in de problemen werken van de rivaliserende groep.
+   * Hieronder valt ook het expres uitvoeren van andere illegale praktijken (zoals schieten met vuurwapens) onder.
 2. Het in beslag nemen van een voertuig door een officiële gang hoort met goede of langdurige roleplay te gebeuren, en niet met de intentie om geld te verdienen.
 3. Wanneer er twee weken lang geen roleplay aan de inbeslagname gebonden wordt, is het toegestaan om het voertuig weer gratis uit de garage te halen.
 4. Het confisqueren van items, wapens en geld van een speler is alleen toegestaan als hier een roleplay aan is verbonden. Het confisqueren van overheids objecten is niet toegestaan.
