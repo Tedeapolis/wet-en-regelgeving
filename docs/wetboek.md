@@ -93,9 +93,9 @@
 4. Er geldt een basisuitkooppercentage van 10% indien er sprake is van een verkeersdelict. Hierbij geldt een maximaal uitkoopbedrag van 100.000 euro.
 5. Er geldt een basisuitkooppercentage van 10% indien er niet voldaan wordt aan een (verkeers)aanwijzing van een bevoegd en als zodanig kenbaar lid van de Koninklijke Luchtmacht.
    * Indien de (verkeers)aanwijzing(en) van de Koninklijke Luchtmacht worden opgedragen en blijkt dat het toestel om wat voor reden dan ook in beslag genomen moet worden, geldt er naast het basisuitkooppercentage van 10% een maximaal uitkoopbedrag van 200.000 euro.
-5. Er geldt een basisuitkooppercentage van 20% indien er sprake is van een ander delict dan een verkeersdelict.
-6. Alle bovenstaande leden gelden ook voor helikopters en vliegtuigen.
-7. Meerdere notities voor het vliegen zonder vliegbrevet zal resulteren in een inbeslagname van het voertuig.
+6. Er geldt een basisuitkooppercentage van 20% indien er sprake is van een ander delict dan een verkeersdelict.
+7. Alle bovenstaande leden gelden ook voor helikopters en vliegtuigen.
+8. Meerdere notities voor het vliegen zonder vliegbrevet zal resulteren in een inbeslagname van het voertuig.
 
 ### A8 - Openstaande boetes
 
