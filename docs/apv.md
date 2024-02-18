@@ -284,6 +284,13 @@ een melding maken en de ambulancier snel te laten werken zodat het wapen direct 
 
    *Bij overtreding zal gestraft worden volgens de 1e categorie en zal de desbetreffende persoon worden ontslagen en deze persoon mag dit beroep 3 kalenderdagen lang niet uitvoeren.
 
+### Artikel 19 - Stemherkenning
+
+1. Het is toegestaan om een speler te herkennen aan zijn/haar stem, tenzij je hem/haar totaal niet kent. Indien hierom gevraagd word, dien je dit aan te kunnen tonen.
+2. Indien de speler duidelijk moeite doet om zijn stem te vervormen, dan is het niet toegestaan om een speler aan zijn/haar stem te herkennen.
+3. Het is toegestaan om gebruik te maken van externe software om je stem te vervormen gedurende het uitvoeren van criminele activiteiten, echter dient dit normaal te blijven.
+4. Het overtreden van de feiten beschreven in lid 1,2 & 3 zullen worden gestraft met een straf van de eerste categorie.
+
 ## Narcopolis
 
 Onderstaande regels tellen alleen op Narcopolis
