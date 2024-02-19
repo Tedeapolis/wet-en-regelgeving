@@ -988,9 +988,9 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 10 uur  | € 1200,-  |
-| **Tweede Veroordeling**  |   | 15 uur  | € 1500,-  |
-| **Meerdere Veroordelingen**  |   | 20 uur  | € 2000,-  |
+|  **Eerste Veroordeling** |   | 10 uur  | € 2000,-  |
+| **Tweede Veroordeling**  |   | 15 uur  | € 3000,-  |
+| **Meerdere Veroordelingen**  |   | 20 uur  | € 4000,-  |
 
 ### Artikel VIII-3 Opgeven valse gegevens (435 SR)
 
@@ -1154,6 +1154,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 ### Artikel VIII-17 Misdrijven tegen de openbare orde (131 SR)
 
 1. Hij die in het openbaar, mondeling of bij geschrift of afbeelding, tot enig strafbaar feit of tot gewelddadig optreden tegen het openbaar gezag opruit, wordt gestraft volgens onderstaande tabel.
+2. Dit geld ook voor personen die de openbare orde verstoren. De straf word dan wel met 33% verlaagt indien het alleen het verstoren van de openbare orde is.
 
 |  |Celstraf  | Taakstraf  | boete  |
 |---|---|---|---|
@@ -1276,6 +1277,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
     * De bodycam beelden mogen met 360 graden beeld gebruikt worden.
     * Burgers kunnen alleen met hun telefoon filmen.
     * Alle voertuigen inclusief overheidsvoertuigen kunnen enkel met een dashcam voor- en achteruit filmen.
+8. Indien er een afspraak gemaakt word in de zaak om geen bewijsstukken meer toe te voegen mag dit ook niet. Word dit wel gedaan mag dit gezien worden als een vormfout. Je hebt namelijk 24 uur de tijd om bewijs te verzamelen.
 
 ---------------------
 *Wetboek Tedeapolis is opgesteld uit naam van de Hoge Raad, bedoeld voor de gemeente en de stad “Tedeapolis”, opgetekend door Bram Mosterdfiets, te Tedeapolis.*
