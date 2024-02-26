@@ -259,7 +259,7 @@ een melding maken en de ambulancier snel te laten werken zodat het wapen direct 
 2. Witwassen mag enkel in de voertuigen die je krijgt van het depot of een persoonlijk voertuig dat van het soort gelijkend model is.
 3. De overvaller dient op het moment van overvallen beelden te kunnen overhandigen aan de staffleden. Mocht dit niet mogelijk zijn zal het direct teruggedraait worden en zal er een straf komen van de 1e categorie.
 4. Het campen of opwachten op witwas locaties en het depot is verboden.
-5. Een gijzelaar mag geen kennis of vriend van je zijn, maar moet een onbekend persoon zijn.
+5. Een gijzelaar mag geen kennis of vriend van je zijn, maar moet een onbekend persoon zijn. Ook mag dit geen UWV werknemer zijn die actief bezig is met zijn/haar job.
 6. Probeer op alle mogelijke manieren een vuurgevecht te vermijden en onderhandel eerst met de politie.
 7. Een liquidatie mag niet uitgevoerd worden zonder dat het slachtoffer op de hoogte is van de reden hierachter. Er dient dus aan het slachtoffer duidelijk gemaakt te worden, terwijl hij/zij nog leeft, waarom diegene geliquideerd wordt.
 8. Het campen op een niet actieve drugs locatie is niet toegestaan, zowel op land als op het eiland.
