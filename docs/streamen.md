@@ -13,15 +13,11 @@ Dit document is opgesteld om wat duidelijkheid te bieden wat betreft het creëre
 5. Mocht je iets zien bij een andere content creator wat je niet bevalt. Spreek dan een stafflid aan.
 6. FailRP, RDM, VDM en dat soort zaken On-Stream (ook off-stream natuurlijk) wordt direct bestraft.
 7. De naam Tedeapolis moet in de titel van de video's of livestreams staan zodat het ook door ons gevonden kan worden.
-8. Het is niet toegestaan om drugs locaties op het vasteland van Tedeapolis te tonen in video's of livestreams.
-    * Het gaat hier bij het bezorgsysteem van drugs alleen over het start punt.
-9. Het is niet toegestaan voor content creators vanuit overheidsdiensten om discord porto te laten horen op video's of livestreams.
-10. Het is niet toegestaan om deepwebkanalen, telefoonnummers of andere inhoudelijke informatie van telefoons te tonen in video's.
-11. Tijdens een livestream is het verplicht om gebruik te maken van streamermodus. Hiermee wordt informatie zoals vernoemd in lid 10 verborgen.  
+8. Het is niet toegestaan voor content creators vanuit overheidsdiensten om discord porto te laten horen op video's of livestreams.
+9. Het is niet toegestaan om deepwebkanalen, telefoonnummers of andere inhoudelijke informatie van telefoons te tonen in video's.
+10. Tijdens een livestream is het verplicht om gebruik te maken van streamermodus. Hiermee wordt informatie zoals vernoemd in lid 10 verborgen.  
 
 ## Sancties
 
-* Bij het tonen van alle drugs gerelateerde locaties op het vasteland van Tedeapolis zal er bij de eerste overtreding een straf volgens de 5e categorie worden uitgedeeld, bij een volgende overtreding zal er over worden gegaan naar een straf van de 6e categorie.
 * Bij het tonen van inhoudelijke informatie op de telefoon (nummers, deepwebkanalen, e.d.) zal er bij de eerste overtreding een straf van de 1e categorie uitgeschreven worden. Bij herhaaldelijke overtreding zal ter beoordeling van een stafflid de straf verhoogd kunnen worden.
-* Wanneer een deepwebkanaal die aangemaakt is door Tedeapolis zelf (vb. witwas kanaal) getoond wordt zal een straf volgens de 3e categorie volgen. Bij herhaaldelijke overtreding zal ter beoordeling van een stafflid de straf verhoogd kunnen worden.
 * Wanneer tijdens een livestream geen gebruik wordt gemaakt van de streamermodus zal een straf van de 2e categorie volgen. Bij herhaaldelijke overtreding zal ter beoordeling van een stafflid de straf verhoogd kunnen worden.
