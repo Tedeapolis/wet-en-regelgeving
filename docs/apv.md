@@ -195,7 +195,8 @@ celstraf.
 3. Voertuigen kunnen ook niet meer gebruikt worden bij illegale deals en kunnen enkel met legaal geld gekocht worden.
 4. Het is de verantwoordelijkheid van de kopende partij om te controleren of de aangeboden aanpassingen (ook wel bekend als tunes) op het voertuig aanwezig zijn ten tijde van overdracht van het voertuig in een modshop.
 5. Het counteren van een overval en/of gijzeling is niet toegestaan van zodra politie en/of KMAR ter plaatse is.
-6. Het oplichten van een persoon, verkopen en inkopen van wapens, verkopen en inkopen van drugs, vermoorden of ontvoeren van een persoon en het gebruiken van een wapen zijn in een appartement verboden.
+6. Uitzondering op artikel 11.5 is wanneer persoon een ongeplande gijzeling start, terwijl je hiervoor in scenario zat met desbetreffende crimineel. Je mag de crimineel dan counteren op het moment dat hij de politie en/of KMAR kwijtgeraakt is uit een achtervolging. Denk hierbij aan een straatgijzeling van de politie en/of burgers.
+7. Het oplichten van een persoon, verkopen en inkopen van wapens, verkopen en inkopen van drugs, vermoorden of ontvoeren van een persoon en het gebruiken van een wapen zijn in een appartement verboden.
 
    *Bij overtreding zal er gestraft worden volgens de 1e categorie.
 
@@ -259,7 +260,7 @@ een melding maken en de ambulancier snel te laten werken zodat het wapen direct 
 2. Witwassen mag enkel in de voertuigen die je krijgt van het depot of een persoonlijk voertuig dat van het soort gelijkend model is.
 3. De overvaller dient op het moment van overvallen beelden te kunnen overhandigen aan de staffleden. Mocht dit niet mogelijk zijn zal het direct teruggedraait worden en zal er een straf komen van de 1e categorie.
 4. Het campen of opwachten op witwas locaties en het depot is verboden.
-5. Een gijzelaar mag geen kennis of vriend van je zijn, maar moet een onbekend persoon zijn.
+5. Een gijzelaar mag geen kennis of vriend van je zijn, maar moet een onbekend persoon zijn. Ook mag dit geen UWV werknemer zijn die actief bezig is met zijn/haar job.
 6. Probeer op alle mogelijke manieren een vuurgevecht te vermijden en onderhandel eerst met de politie.
 7. Een liquidatie mag niet uitgevoerd worden zonder dat het slachtoffer op de hoogte is van de reden hierachter. Er dient dus aan het slachtoffer duidelijk gemaakt te worden, terwijl hij/zij nog leeft, waarom diegene geliquideerd wordt.
 8. Het campen op een niet actieve drugs locatie is niet toegestaan, zowel op land als op het eiland.
