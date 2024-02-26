@@ -19,7 +19,5 @@ Dit document is opgesteld om wat duidelijkheid te bieden wat betreft het creëre
 
 ## Sancties
 
-* Bij het tonen van alle drugs gerelateerde locaties op het vasteland van Tedeapolis zal er bij de eerste overtreding een straf volgens de 5e categorie worden uitgedeeld, bij een volgende overtreding zal er over worden gegaan naar een straf van de 6e categorie.
 * Bij het tonen van inhoudelijke informatie op de telefoon (nummers, deepwebkanalen, e.d.) zal er bij de eerste overtreding een straf van de 1e categorie uitgeschreven worden. Bij herhaaldelijke overtreding zal ter beoordeling van een stafflid de straf verhoogd kunnen worden.
-* Wanneer een deepwebkanaal die aangemaakt is door Tedeapolis zelf (vb. witwas kanaal) getoond wordt zal een straf volgens de 3e categorie volgen. Bij herhaaldelijke overtreding zal ter beoordeling van een stafflid de straf verhoogd kunnen worden.
 * Wanneer tijdens een livestream geen gebruik wordt gemaakt van de streamermodus zal een straf van de 2e categorie volgen. Bij herhaaldelijke overtreding zal ter beoordeling van een stafflid de straf verhoogd kunnen worden.
