@@ -871,6 +871,30 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | **Tweede Veroordeling**  | 37 maanden  |  | € 8500,-  |
 | **Meerdere Veroordelingen**  | 49 maanden  |  | € 9350,-  |
 
+### Artikel V-7 Vuurwerkbezit
+1. Strafbaar is een persoon die vuurwerk bij zich heeft of in bezit is van vuurwerk.
+2. Een persoon is niet strafbaar op het vertoon van de juiste documenten die uitgeschreven zijn door Justitie.
+3. Een persoon is ook niet strafbaar als hij/zij vuurwerk bij zich draagt op Oudjaardag en nieuwjaarsdag (31 december en 1 januari).
+4. Een persoon is ook strafbaar als deze heterdaad word betrapt op het afsteken van vuurwerk. Als dit artikel van kracht is mag de straf met 33% omhoog.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 10 maanden  |  | € 5000,-  |
+| **Tweede Veroordeling**  | 15 maanden  |  | € 7500,-  |
+| **Meerdere Veroordelingen**  | 30 maanden  |  | € 15000,-  |
+
+### Artikel V-8 Vuurwerkhandel
+1. Strafbaar is een persoon die vuurwerk verhandelt.
+2. Een persoon is niet strafbaar op het vertoon van de juiste documenten die uitgeschreven zijn door Justitie. 
+3. Een persoon is ook niet strafbaar als hij/zij vuurwerk bij zich draagt op Oudjaardag en nieuwjaarsdag (31 december en 1 januari).
+4. Een persoon is ook strafbaar als deze heterdaad word betrapt op het afsteken van vuurwerk. Als dit artikel van kracht is mag de straf met 33% omhoog.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 15 maanden  |  | € 7500,-  |
+| **Tweede Veroordeling**  | 25 maanden  |  | € 12500,-  |
+| **Meerdere Veroordelingen**  | 45 maanden  |  | € 22500,-  |
+
 ## Titel VI - Wet op de Kansspelen
 
 ![Titel VII](img/wetboek/kansspellen.webp)
