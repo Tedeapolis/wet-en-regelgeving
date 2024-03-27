@@ -292,6 +292,22 @@ een melding maken en de ambulancier snel te laten werken zodat het wapen direct 
 3. Het is toegestaan om gebruik te maken van externe software om je stem te vervormen gedurende het uitvoeren van criminele activiteiten, echter dient dit normaal te blijven.
 4. Het overtreden van de feiten beschreven in lid 1,2 & 3 zullen worden gestraft met een straf van de eerste categorie.
 
+### Artikel 20 - Omgaan met F6
+
+1. Het direct plaatsen van een geboeide persoon in een voertuig via F6 zonder uitgevoerde roleplay-handelingen is verboden. Spelers dienen de volgende stappen te volgen voor een realistische interactie:
+   - De deuren van het voertuig openen.
+   - De geboeide persoon begeleiden naar de deuropening.
+   - Verbaal (op normale of luide toon) of via een actiecommando (/me) aangeven dat de persoon in het voertuig wordt getrokken.
+
+2. Het uit een voertuig trekken van een persoon dient gepaard te gaan met de volgende realistische roleplay-handelingen:
+   - Het inslaan van de ruiten met daarbij de juiste attributen zoals een wapen(indien van toepassing).
+   - Het openen van de deur.
+   - Het losmaken van de gordel (indien van toepassing).
+   - Het naar buiten trekken van de persoon.
+   Elke directe interactie via F6 zonder bovengenoemde handelingen wordt beschouwd als F6-Abuse.
+
+3. Het niet naleven van de richtlijnen zoals beschreven in lid 1 & 2 wordt beschouwd als F6-Abuse en zal worden bestraft met een straf van de 5e categorie (een speler met een leidinggevende functie zal zwaarder bestraft worden). Spelers worden aangemoedigd om bewijsmateriaal (zoals clips) te bewaren voor het geval van geschillen of onterechte sancties.
+
 ## Narcopolis
 
 Onderstaande regels tellen alleen op Narcopolis
