@@ -336,7 +336,7 @@
 3. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 33% verhoogd.
 4. Bij een poging tot zware mishandeling wordt de straf met 33% verminderd.
 5. Zware mishandeling moet ten alle tijden gecontroleerd worden door een ambulancier. Die geeft dan een document Verklaring Letselschade Ambulance.
-
+6. Uitzondering op lid 5 is van toepassing als de persoon bewusteloos is geweest.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
