@@ -335,6 +335,8 @@
 2. Met mishandeling wordt gelijkgesteld het opzettelijk benadelen van de gezondheid.
 3. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 33% verhoogd.
 4. Bij een poging tot zware mishandeling wordt de straf met 33% verminderd.
+5. Zware mishandeling moet ten alle tijden gecontroleerd worden door een ambulancier. Die geeft dan een document Verklaring Letselschade Ambulance.
+
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
