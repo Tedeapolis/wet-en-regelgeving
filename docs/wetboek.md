@@ -1300,8 +1300,8 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 7. Bodycam beelden zijn op de volgende manier toegestaan:
     * Medewerkers in dienst bij de overheid zijn uitgerust met bodycams.
     * Medewerkers van alle overheidsdiensten zijn verplicht om de bodycams visueel te dragen als zij de bodycam beelden als bewijs willen gebruiken.   (Uitzondering op deze regel is wanneer dit niet mogelijk is (bijvoorbeeld bij een zwaar vest van de politie))
-    * De bodycam beelden mogen met 360 graden beeld gebruikt worden.
-    * Burgers kunnen alleen met hun telefoon filmen.
+    * De bodycam beelden mogen met 360 graden beeld gebruikt worden.Wanneer je in een voertuig zit gelden de dashcam regels, dus geen 360 graden beeld.
+    * Burgers kunnen gebruik maken van een telefoon, visuele bodycam & dashcam om te filmen.
     * Alle voertuigen inclusief overheidsvoertuigen kunnen enkel met een dashcam voor- en achteruit filmen.
 8. Indien er een afspraak gemaakt word in de zaak om geen bewijsstukken meer toe te voegen mag dit ook niet. Word dit wel gedaan mag dit gezien worden als een vormfout. Je hebt namelijk 24 uur de tijd om bewijs te verzamelen.
 
