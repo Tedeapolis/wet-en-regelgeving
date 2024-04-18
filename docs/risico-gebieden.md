@@ -89,10 +89,6 @@ De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Tedeapolis
 
 - 3224 (Uitzondering op de aanhanger garage / buschauffeur depot)
 
-### Pier
-
-- 5041
-
 ### Maze bank Arena
 
 - 2200
