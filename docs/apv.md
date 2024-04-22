@@ -171,6 +171,7 @@ celstraf.
 2. Er wordt geacht van mensen geen gebruik te maken van baan voertuigen voor illegale bezigheden, tenzij hier goedkeuring voor is gegeven vanuit een stafflid voor een roleplay scenario.
 3. Het is niet toegestaan met voertuigen gebouwen te betreden die daar niet voor bedoeld zijn.
 4. Het is niet toegestaan om jouw voertuig als wapen te gebruiken (VDM). Bij overtreding zal dit resulteren in een straf volgens de 2e categorie.
+5. Een pit dient realistisch te zijn en onder of rond de 125 km/h.
 
    *Indien een overtreding gemaakt wordt van lid 1 t/m 3 zal dit resulteren in een straf van de 1e categorie.
 
