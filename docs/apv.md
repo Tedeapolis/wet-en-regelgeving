@@ -33,15 +33,15 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
     * Categorie 1: een waarschuwing + 100 uur taakstraf
        *(max 3 waarschuwingen in 1 maand, hierna volgt de automatisch oplegging cat. 2)
 
-    * Categorie 2: een ban van maximaal 1 dag
+    * Categorie 2: een ban van 1 dag
 
-    * Categorie 3: een ban van maximaal 2 dagen
+    * Categorie 3: een ban van 2 dagen
 
-    * Categorie 4: een ban van maximaal 3 dagen
+    * Categorie 4: een ban van 3 dagen
 
-    * Categorie 5: een ban van maximaal 1 week
+    * Categorie 5: een ban van 1 week
 
-    * Categorie 6: een ban van maximaal 1 maand
+    * Categorie 6: een ban van 1 maand
 
     * Categorie 7: permanente ban
 
