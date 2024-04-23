@@ -183,7 +183,7 @@ celstraf.
 ### Artikel 11 - Overvallen & Oplichten
 
 1. Het overvallen of oplichten van mensen is verboden, dit mag alleen wanneer een persoon bezig is met criminele activiteiten.
-2. Uitzondering op lid 1 is wanneer het gaat om alle soorten wapens. Deze mogen altijd overvallen worden.
+2. Uitzondering op lid 1 geldt voor alle soorten wapens; deze mogen altijd overvallen worden.
 3. Met betrekking tot de volgende situaties is overvallen of oplichten niet toegestaan:
     * Het stelen/overvallen van bankgeld
     * Loodsen
