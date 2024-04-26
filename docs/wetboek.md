@@ -51,12 +51,15 @@
 7. Er geldt een maximumcelstraf van 400 maanden. Als er volgens het wetboek meer dan 400 maanden aan de verdachte opgelegd (mogen) worden, dan wordt de boete verhoogd. De boete wordt verhoogd met 500 euro per extra maand boven de 400 maanden.
 8. Een straf kan ook verlaagd worden door verzachtende omstandigheden.
 9. Een straf kan geheel of gedeeltelijk kwijtgescholden worden op basis van uitsluitingsgronden.
+10. Bij het bepalen van de strafmaat voor een eerste/tweede veroordeling of meerdere veroordelingen tellen ALLE voorgaande veroordelingen voor het desbetreffende artikel mee.
+    1. Er wordt altijd uitgegaan van het hoofdartikel (bijvoorbeeld Artikel V-2 Vuurwapens en Explosieven (26 WWM)) bij het bepalen van het aantal veroordelingen. Subartikelen, verschillen in deelnemingsvormen (medeplegen/medeplichtig) en verschillen in categorieën (categorie 1/2) worden allemaal bij elkaar opgeteld onder het hoofdartikel.
 
 ### A5 - Strafblad
 
 1. Straffen die enige vorm van celstraf bevatten kunnen leiden tot een strafblad.
 2. Een strafblad blijft staan voor een periode van 2 (realtime) maanden voor alle geweldsdelicten met celstraf, en 1 maand voor alle overige delicten met celstraf, ingaand op de datum van de opgelegde straf.
 3. Wanneer een nieuwe overtreding of een misdrijf wordt begaan, wordt de resterende tijd gereset naar de datum van de laatst opgelegde celstraf. Dit geldt enkel als het nieuwe strafblad langer blijft staan dan het huidige strafblad.
+4. Een strafblad bepaalt enkel of er een VOG (Verklaring Omtrent het Gedrag) afgegeven kan worden door de politie ten behoeve van het uitvoeren van een overheidsbaan.
 
 ### A6 - Verduidelijking en algemene aanvulling
 
