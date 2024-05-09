@@ -83,6 +83,7 @@ gekoppeld zit.
 
 7. Het onnodig mishandelen, vermoorden (RDM), uitlokken en/of anderen lastig vallen zonder
 verdere intentie tot roleplay is niet toegestaan. Dit geld ook voor dieren.
+
 8. Hij/zij die geen waarde hecht aan het leven van het karakter dat hij/zij speelt (No Value of Life), zal
 bestraft worden. Wegrijden met een voertuig waarbij je trager als 20 km/h rijdt valt hier ook onder.
    * Bij overtreding van lid 7 en 8 zal dit resulteren in een straf volgens de 2e categorie.
@@ -120,6 +121,8 @@ celstraf.
 
 6. Het streamen van de main server in een discord server is nooit toegestaan, tenzij je expliciet toestemming hebt van een stafflid.
 
+7. Wanneer er sprake is van een ontsnapping uit het cellencomplex volgens artikel 15, moet een eventuele medeplichtige te allen tijde videobewijs kunnen overleggen waaruit blijkt dat zij de persoon in hechtenis hebben waargenomen binnen de stad, en op basis daarvan redelijkerwijs ervanuit konden gaan dat die persoon vastzat. 
+   
 ### Artikel 3 - (Overheids) kleding
 
 1. Bij het aanmaken van je personage dient je kleding veranderd te worden. Je mag niet dus niet met de starters kleding de server betreden. Verder dien je ervoor te zorgen dat je karakter er realistisch uitziet, armen bij de outfit kloppen en er geen lichaamsdelen ontbreken bij jouw personage.
@@ -201,6 +204,10 @@ celstraf.
 
    *Bij overtreding zal er gestraft worden volgens de 1e categorie.
 
+9. Als je iemand hebt overvallen of opgelicht, mag je die persoon niet afmaken, zelfs niet om de daad te laten vergeten
+
+   *Bij overtreding zal er gestraft conform de gebruikelijke sancties voor RDM.
+
 ### Artikel 12 - Gedrag van Ambtenaren
 
 *Onder ambtenaar wordt verstaan de spelers die één van de volgende instanties uitvoert, deze zijn weergegeven in het F10 menu:*
@@ -221,7 +228,7 @@ celstraf.
 
 ### Artikel 13 - Gedrag tegen overheidsmedewerkers
 
-1. Meldingen naar een overheidsinstantie dienen te allen tijde realistisch en uitgebreid te zijn.
+1. Meldingen naar een overheidsinstantie dienen te allen tijde realistisch en uitgebreid te zijn. Het is hierbij ook niet toegestaan om een valse melding te maken.
 2. Roleplay met de ANWB, Brandweer en Ambulance moet uitgebreid en realistisch zijn. Ook dien je mee te werken met de roleplay en mag je de medewerkers niet forceren om voertuigen te repareren of spelers te reviven. De medewerkers zijn te allen tijde leidend in hun roleplay.
 3. Het is niet toegestaan om een melding te maken naar een overheidsinstantie met de intentie om degene die hierop reageert te vermoorden, te ontvoeren of met als doel om deze te gaan overvallen.
 4. Er moeten ten allen tijden vijf overheidsmedewerkers binnen een baan beschikbaar blijven nadat er één ontvoerd is, dus als er 6 agenten aanwezig zijn mag er 1 ontvoerd worden, als er 5 aanwezig zijn mag er geen ontvoerd worden.
@@ -261,7 +268,7 @@ een melding maken en de ambulancier snel te laten werken zodat het wapen direct 
 2. Witwassen mag enkel in de voertuigen die je krijgt van het depot of een persoonlijk voertuig dat van het soort gelijkend model is.
 3. De overvaller dient op het moment van overvallen beelden te kunnen overhandigen aan de staffleden. Mocht dit niet mogelijk zijn zal het direct teruggedraait worden en zal er een straf komen van de 1e categorie.
 4. Het campen of opwachten op witwas locaties en het depot is verboden.
-5. Een gijzelaar mag geen kennis of vriend van je zijn, maar moet een onbekend persoon zijn. Ook mag dit geen UWV werknemer zijn die actief bezig is met zijn/haar job.
+5. Een gijzelaar mag geen kennis of vriend van je zijn, maar moet een onbekend persoon zijn.
 6. Probeer op alle mogelijke manieren een vuurgevecht te vermijden en onderhandel eerst met de politie.
 7. Een liquidatie mag niet uitgevoerd worden zonder dat het slachtoffer op de hoogte is van de reden hierachter. Er dient dus aan het slachtoffer duidelijk gemaakt te worden, terwijl hij/zij nog leeft, waarom diegene geliquideerd wordt.
 8. Het campen op een niet actieve drugs locatie is niet toegestaan, zowel op land als op het eiland.
