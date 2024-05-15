@@ -1006,9 +1006,9 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 20 uur  | € 320,-  |
-| **Tweede Veroordeling**  |   | 30 uur  | € 320,-  |
-| **Meerdere Veroordelingen**  |   | 40 uur  | € 320,-  |
+|  **Eerste Veroordeling** |   | 20 uur  | € 1320,-  |
+| **Tweede Veroordeling**  |   | 30 uur  | € 2320,-  |
+| **Meerdere Veroordelingen**  |   | 40 uur  | € 3320,-  |
 
 ### Artikel VIII-2 Belediging (266 SR)
 
