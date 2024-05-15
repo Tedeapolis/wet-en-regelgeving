@@ -33,15 +33,15 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
     * Categorie 1: een waarschuwing + 100 uur taakstraf
        *(max 3 waarschuwingen in 1 maand, hierna volgt de automatisch oplegging cat. 2)
 
-    * Categorie 2: een ban van maximaal 1 dag
+    * Categorie 2: een ban van 1 dag
 
-    * Categorie 3: een ban van maximaal 2 dagen
+    * Categorie 3: een ban van 2 dagen
 
-    * Categorie 4: een ban van maximaal 3 dagen
+    * Categorie 4: een ban van 3 dagen
 
-    * Categorie 5: een ban van maximaal 1 week
+    * Categorie 5: een ban van 1 week
 
-    * Categorie 6: een ban van maximaal 1 maand
+    * Categorie 6: een ban van 1 maand
 
     * Categorie 7: permanente ban
 
@@ -171,6 +171,7 @@ celstraf.
 2. Er wordt geacht van mensen geen gebruik te maken van baan voertuigen voor illegale bezigheden, tenzij hier goedkeuring voor is gegeven vanuit een stafflid voor een roleplay scenario.
 3. Het is niet toegestaan met voertuigen gebouwen te betreden die daar niet voor bedoeld zijn.
 4. Het is niet toegestaan om jouw voertuig als wapen te gebruiken (VDM). Bij overtreding zal dit resulteren in een straf volgens de 2e categorie.
+5. Een pit dient realistisch te zijn en onder of rond de 125 km/h.
 
    *Indien een overtreding gemaakt wordt van lid 1 t/m 3 zal dit resulteren in een straf van de 1e categorie.
 
@@ -196,7 +197,7 @@ celstraf.
 4. Voertuigen kunnen ook niet meer gebruikt worden bij illegale deals en kunnen enkel met legaal geld gekocht worden.
 5. Het is de verantwoordelijkheid van de kopende partij om te controleren of de aangeboden aanpassingen (ook wel bekend als tunes) op het voertuig aanwezig zijn ten tijde van overdracht van het voertuig in een modshop.
 6. Het counteren van een overval en/of gijzeling is niet toegestaan van zodra politie en/of KMAR ter plaatse is.
-7. Uitzondering op artikel 11.5 is wanneer persoon een ongeplande gijzeling start, terwijl je hiervoor in scenario zat met desbetreffende crimineel. Je mag de crimineel dan counteren op het moment dat hij de politie en/of KMAR kwijtgeraakt is uit een achtervolging. Denk hierbij aan een straatgijzeling van de politie en/of burgers.
+7. Uitzondering op lid 6 is wanneer persoon een ongeplande gijzeling start, terwijl je hiervoor in scenario zat met desbetreffende crimineel. Je mag de crimineel dan counteren op het moment dat hij de politie en/of KMAR kwijtgeraakt is uit een achtervolging. Denk hierbij aan een straatgijzeling van de politie en/of burgers.
 8. Het oplichten van een persoon, verkopen en inkopen van wapens, verkopen en inkopen van drugs, vermoorden of ontvoeren van een persoon en het gebruiken van een wapen zijn in een appartement verboden.
 
    *Bij overtreding zal er gestraft worden volgens de 1e categorie.
