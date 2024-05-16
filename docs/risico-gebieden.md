@@ -87,7 +87,8 @@ De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Tedeapolis
 
 ### Ziekenhuis
 
-- 3224 (Uitzondering op de aanhanger garage / buschauffeur depot)
+- 7038
+- 7039
 
 ### Maze bank Arena
 
