@@ -64,34 +64,36 @@ gedrag te vertonen.
 2. Het is niet toegestaan om opzettelijk de roleplay zodanig te vormen dat er een oneerlijke of
 onrealistische draai aan het verhaal gegeven wordt, of de roleplay van de andere partij zelf invullen
 door een onrealistische dwang.
-3. Indien het karakter overleden is, wordt er verwacht dat hij/zij de laatste roleplay vergeten is. Het
-karakter mag ook niet naar het gebied waar hij/zij overleden is terugkeren, dit is aangeduid met een
-rode cirkel op de kaart voor 30 minuten na het overlijden. Tevens mag het karakter zich niet opnieuw bemoeien met ditzelfde scenario totdat deze afgelopen is (New life rule).
-4. Het is te allen tijde verboden om je karakter te breken. Hiermee bedoelen we dat je een term
+3. Het is te allen tijde verboden om je karakter te breken. Hiermee bedoelen we dat je een term
 gebruikt die gezien wordt als OOC (Out Of Character), Ook is het niet toegestaan om “/looc” foutief
 te gebruiken of te gebruiken om toxic / zoutige opmerkingen te plaatsen.
     * Enkele voorbeelden van het foutief gebruiken van looc:
     * /looc wat doen jullie
     * /looc waarom rdm je
     * /looc slechte roleplay
-5. Het is verboden om door middel van de Safe Zone te ontkomen aan illegale activiteiten en/of
+4. Het is verboden om door middel van de Safe Zone te ontkomen aan illegale activiteiten en/of
 roleplays.
-6. Het is verboden om een individu schade aan te richten, te ontvoeren, uitbreken, overvallen,
+5. Het is verboden om een individu schade aan te richten, te ontvoeren, uitbreken, overvallen,
 aanrijden of vermoorden in een Safe Zone, tenzij er daadwerkelijke roleplay (die aan te tonen is) aan
 gekoppeld zit.
-    * Bij overtreding van lid 1 t/m 6 zal dit resulteren in een straf volgens de 1e categorie.
+    * Bij overtreding van lid 1 t/m 5 zal dit resulteren in een straf volgens de 1e categorie.
+  
+6. Indien het karakter overleden is, wordt er verwacht dat hij/zij de laatste roleplay vergeten is. Het
+karakter mag ook niet naar het gebied waar hij/zij overleden is terugkeren, dit is aangeduid met een
+rode cirkel op de kaart voor 30 minuten na het overlijden. Tevens mag het karakter zich niet opnieuw bemoeien met ditzelfde scenario totdat deze afgelopen is (New life rule).
+   * Bij overtreding van lid 6 zal dit resulteren in een straf volgens de 4e categorie.
 
-7. Het onnodig mishandelen, vermoorden (RDM), uitlokken en/of anderen lastig vallen zonder
+8. Het onnodig mishandelen, vermoorden (RDM), uitlokken en/of anderen lastig vallen zonder
 verdere intentie tot roleplay is niet toegestaan. Dit geld ook voor dieren.
 
-8. Hij/zij die geen waarde hecht aan het leven van het karakter dat hij/zij speelt (No Value of Life), zal
+9. Hij/zij die geen waarde hecht aan het leven van het karakter dat hij/zij speelt (No Value of Life), zal
 bestraft worden. Wegrijden met een voertuig waarbij je trager als 20 km/h rijdt valt hier ook onder.
    * Bij overtreding van lid 7 en 8 zal dit resulteren in een straf volgens de 2e categorie.
 
-9. Het is verboden om een erotische roleplay (ERP) uit te voeren of aan te gaan. Bij overtreding zal dit
+10. Het is verboden om een erotische roleplay (ERP) uit te voeren of aan te gaan. Bij overtreding zal dit
 resulteren in een straf volgens de 7e categorie.
 
-10. Het uitvoeren van een zelfmoord scenario is niet toegestaan, mits er goedkeuring voor is geweest
+11. Het uitvoeren van een zelfmoord scenario is niet toegestaan, mits er goedkeuring voor is geweest
 vanuit staff. Bij geen goedkeuring zal dit resulteren tot een straf van categorie 8 of 200 maanden
 celstraf.
     * Enkele voorbeelden van lid 1 en lid 2 zijn:
@@ -99,7 +101,7 @@ celstraf.
     * Een agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS).
     * Medewerkers van de overheidsdiensten dwingen om een (bewusteloos) persoon te fouilleren, items (zoals wapens) af te nemen en af te geven aan jou of iemand anders.
 
-11. Het zogeheten "counteren" tijdens een politie achtervolging, dus het bemoeien in een achtervolging van een ander met de politie, is niet toegestaan.
+12. Het zogeheten "counteren" tijdens een politie achtervolging, dus het bemoeien in een achtervolging van een ander met de politie, is niet toegestaan.
     * Ter verduidelijking: Indien de politie tussen een onderling conflict komt welke al bezig is, is deze regel niet van toepassing.
     * Bij overtreding van lid 11 zal dit resulteren in een straf volgens de 2e categorie.
 
