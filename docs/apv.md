@@ -192,7 +192,7 @@ celstraf.
 2. Uitzondering op lid 1 geldt voor alle soorten wapens; deze mogen altijd overvallen worden.
 3. Met betrekking tot de volgende situaties is overvallen of oplichten niet toegestaan:
     * Het stelen/overvallen van bankgeld
-    * Loodsen
+    * Loodsen (Artikel 21 - Loodsen)
     * Spelers te overvallen, te ontvoeren of negatief te bejegenen bij safezones
     * Facturen en/of andere items welke gerelateerd aan een baan zijn
     * Overheids voorwerpen
@@ -318,6 +318,15 @@ een melding maken en de ambulancier snel te laten werken zodat het wapen direct 
    Elke directe interactie via F6 zonder bovengenoemde handelingen wordt beschouwd als F6-Abuse.
 
 3. Het niet naleven van de richtlijnen zoals beschreven in lid 1 & 2 wordt beschouwd als F6-Abuse en zal worden bestraft met een straf van de 5e categorie (een speler met een leidinggevende functie zal zwaarder bestraft worden). Spelers worden aangemoedigd om bewijsmateriaal (zoals clips) te bewaren voor het geval van geschillen of onterechte sancties.
+
+### Artikel 21 - Loodsen
+1. Het misleiden of bedriegen met betrekking tot loodsen is verboden.
+2. De verhuur van sleutels voor loodsen is toegestaan.
+3. Het verhandelen van aandelen in loodsen is toegestaan.
+4. Alle overeenkomsten met betrekking tot loodsen moeten schriftelijk worden vastgelegd en gedocumenteerd in de stad Tedeapolis met het commando /docu, en dienen te worden ondertekend door alle betrokken partijen.
+5. In geval van onduidelijkheid over de bepalingen van lid 2 of 3, zal het oordeel van een staflid leidend zijn, en dit staflid zal beslissen over de verdeling van de loods. De partij die beweert benadeeld te zijn, dient bewijsmateriaal te overleggen en draagt de verantwoordelijkheid voor de bewijslast.
+
+*Bij overtreding zal er gestraft worden volgens de 3e categorie. Indien de overtreding over bedragen boven de 2 miljoen gaat, zal er gestraft worden volgens de 5de categorie.
 
 ## Narcopolis
 
