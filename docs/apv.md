@@ -320,6 +320,7 @@ een melding maken en de ambulancier snel te laten werken zodat het wapen direct 
 3. Het niet naleven van de richtlijnen zoals beschreven in lid 1 & 2 wordt beschouwd als F6-Abuse en zal worden bestraft met een straf van de 5e categorie (een speler met een leidinggevende functie zal zwaarder bestraft worden). Spelers worden aangemoedigd om bewijsmateriaal (zoals clips) te bewaren voor het geval van geschillen of onterechte sancties.
 
 ### Artikel 21 - Loodsen
+
 1. Het misleiden of bedriegen met betrekking tot loodsen is verboden.
 2. De verhuur van sleutels voor loodsen is toegestaan.
 3. Het verhandelen van aandelen in loodsen is toegestaan.
