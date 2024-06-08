@@ -639,7 +639,6 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | Manchez | Motor |
 | Sanchez | Motor |
 | Sanchez Sport | Motor |
-| Trophy Truck (limited) | Auto |
 
 ## Titel IV - Opiumwet
 
