@@ -277,6 +277,7 @@
 1. Schuldig is een persoon die overgaat tot wederrechtelijke beroving van de vrijheid van een derde.
 2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 33% verhoogd.
 3. Bij poging tot wederrechtelijke beroving van de vrijheid van een derde wordt de straf met 33% verminderd.
+4. In het geval van meerdere slachtoffers is er geen vermeerdering op de straf van toepassing (zoals benoemd in A4 Strafbepaling lid 5).
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
