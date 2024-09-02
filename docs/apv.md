@@ -83,17 +83,17 @@ karakter mag ook niet naar het gebied waar hij/zij overleden is terugkeren, dit 
 rode cirkel op de kaart voor 30 minuten na het overlijden. Tevens mag het karakter zich niet opnieuw bemoeien met ditzelfde scenario totdat deze afgelopen is (New life rule).
    * Bij overtreding van lid 6 zal dit resulteren in een straf volgens de 4e categorie.
 
-8. Het onnodig mishandelen, vermoorden (RDM), uitlokken en/of anderen lastig vallen zonder
+7. Het onnodig mishandelen, vermoorden (RDM), uitlokken en/of anderen lastig vallen zonder
 verdere intentie tot roleplay is niet toegestaan. Dit geld ook voor dieren.
 
-9. Hij/zij die geen waarde hecht aan het leven van het karakter dat hij/zij speelt (No Value of Life), zal
+8. Hij/zij die geen waarde hecht aan het leven van het karakter dat hij/zij speelt (No Value of Life), zal
 bestraft worden. Wegrijden met een voertuig waarbij je trager als 20 km/h rijdt valt hier ook onder.
    * Bij overtreding van lid 8 en 9 zal dit resulteren in een straf volgens de 2e categorie.
 
-10. Het is verboden om een erotische roleplay (ERP) uit te voeren of aan te gaan. Bij overtreding zal dit
+9. Het is verboden om een erotische roleplay (ERP) uit te voeren of aan te gaan. Bij overtreding zal dit
 resulteren in een straf volgens de 7e categorie.
 
-11. Het uitvoeren van een zelfmoord scenario is niet toegestaan, mits er goedkeuring voor is geweest
+10. Het uitvoeren van een zelfmoord scenario is niet toegestaan, mits er goedkeuring voor is geweest
 vanuit staff. Bij geen goedkeuring zal dit resulteren tot een straf van categorie 8 of 200 maanden
 celstraf.
     * Enkele voorbeelden van lid 1 en lid 2 zijn:
@@ -101,7 +101,7 @@ celstraf.
     * Een agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS).
     * Medewerkers van de overheidsdiensten dwingen om een (bewusteloos) persoon te fouilleren, items (zoals wapens) af te nemen en af te geven aan jou of iemand anders.
 
-12. Het zogeheten "counteren" tijdens een politie achtervolging, dus het bemoeien in een achtervolging van een ander met de politie, is niet toegestaan.
+11. Het zogeheten "counteren" tijdens een politie achtervolging, dus het bemoeien in een achtervolging van een ander met de politie, is niet toegestaan.
     * Ter verduidelijking: Indien de politie tussen een onderling conflict komt welke al bezig is, is deze regel niet van toepassing.
     * Bij overtreding van lid 11 zal dit resulteren in een straf volgens de 2e categorie.
 
@@ -119,12 +119,12 @@ celstraf.
 
 4. Het is niet toegestaan om externe discords te gebruiken voor roleplay gerelateerde zaken, zonder dat hier toestemming is voor gegeven vanuit staff (denk hierbij aan het gebruik van sheets en andere onderlinge zaken) hierbij geldt de straf van lid 3. Eigenaren van externe discords waarin meta-gaming voorkomt, zullen een straf ontvangen volgens de 7e categorie.
 
-5. Wanneer je met meerdere mensen die op TedeaPolis spelen in een voicecall zit, is streamen niet toegestaan en moet je gedeafened en gemute zijn. Als één persoon in-game is en de rest niet en je besluit om alsnog in een call te zitten zonder dat je gedeafened/gemute bent, ben je dus ook in overtreding van deze regel die aangeduid zijn in lid 3
+5. Wanneer je met meerdere mensen die op TedeaPolis spelen in een voicecall zit, is streamen niet toegestaan en moet je gedeafened en gemute zijn. Als één persoon in-game is en de rest niet en je besluit om alsnog in een call te zitten zonder dat je gedeafened/gemute bent, ben je dus ook in overtreding van deze regel die aangeduid zijn in lid 3.
 
 6. Het streamen van de main server in een discord server is nooit toegestaan, tenzij je expliciet toestemming hebt van een stafflid.
 
-7. Wanneer er sprake is van een ontsnapping uit het cellencomplex volgens artikel 15, moet een eventuele medeplichtige te allen tijde videobewijs kunnen overleggen waaruit blijkt dat zij de persoon in hechtenis hebben waargenomen binnen de stad, en op basis daarvan redelijkerwijs ervanuit konden gaan dat die persoon vastzat. 
-   
+7. Wanneer er sprake is van een ontsnapping uit het cellencomplex volgens artikel 15, moet een eventuele medeplichtige te allen tijde videobewijs kunnen overleggen waaruit blijkt dat zij de persoon in hechtenis hebben waargenomen binnen de stad, en op basis daarvan redelijkerwijs ervanuit konden gaan dat die persoon vastzat.
+
 ### Artikel 3 - (Overheids) kleding
 
 1. Bij het aanmaken van je personage dient je kleding veranderd te worden. Je mag niet dus niet met de starters kleding de server betreden. Verder dien je ervoor te zorgen dat je karakter er realistisch uitziet, armen bij de outfit kloppen en er geen lichaamsdelen ontbreken bij jouw personage.
