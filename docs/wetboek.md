@@ -877,6 +877,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | **Meerdere Veroordelingen**  | 49 maanden  |  | € 9350,-  |
 
 ### Artikel V-7 Vuurwerkbezit
+
 1. Strafbaar is een persoon die vuurwerk bij zich heeft of in bezit is van vuurwerk.
 2. Een persoon is niet strafbaar op het vertoon van de juiste documenten die uitgeschreven zijn door Justitie.
 3. Een persoon is ook niet strafbaar als hij/zij vuurwerk bij zich draagt op Oudjaardag en nieuwjaarsdag (31 december en 1 januari).
@@ -889,6 +890,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | **Meerdere Veroordelingen**  | 30 maanden  |  | € 15000,-  |
 
 ### Artikel V-8 Vuurwerkhandel
+
 1. Strafbaar is een persoon die vuurwerk verhandelt.
 2. Een persoon is niet strafbaar op het vertoon van de juiste documenten die uitgeschreven zijn door Justitie. 
 3. Een persoon is ook niet strafbaar als hij/zij vuurwerk bij zich draagt op Oudjaardag en nieuwjaarsdag (31 december en 1 januari).
