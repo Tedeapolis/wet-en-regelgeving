@@ -850,8 +850,9 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 ### Artikel V-5 Wapenhandel (14-20 WWM)
 
 1. Strafbaar is een persoon die wapens, aangemerkt als niet legaal, invoert, uitvoert, of doorvoert zonder hiervoor een geldig consent te hebben.
-2. Indien een ophanden zijnde wapentransactie aantoonbaar gepleegd zou gaan worden, of dreigde te gaan worden, doch niet is afgerond, wordt dit aangemerkt als poging tot wapenhandel.
-3. Een poging tot wapenhandel zoals beschreven in lid 2 wordt bestraft als zijnde wapenhandel, verminderd met 1/2.
+2. Het is verboden een wapen of munitie van de categorieën I, II en III over te dragen.
+3. Indien een ophanden zijnde wapentransactie aantoonbaar gepleegd zou gaan worden, of dreigde te gaan worden, doch niet is afgerond, wordt dit aangemerkt als poging tot wapenhandel.
+4. Een poging tot wapenhandel zoals beschreven in lid 2 wordt bestraft als zijnde wapenhandel, verminderd met 1/2.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
