@@ -81,14 +81,14 @@ gekoppeld zit.
 6. Indien het karakter overleden is, wordt er verwacht dat hij/zij de laatste roleplay vergeten is. Het
 karakter mag ook niet naar het gebied waar hij/zij overleden is terugkeren, dit is aangeduid met een
 rode cirkel op de kaart voor 30 minuten na het overlijden. Tevens mag het karakter zich niet opnieuw bemoeien met ditzelfde scenario totdat deze afgelopen is (New life rule).
-   * Bij overtreding van lid 6 zal dit resulteren in een straf volgens de 4e categorie.
+    * Bij overtreding van lid 6 zal dit resulteren in een straf volgens de 4e categorie.
 
 7. Het onnodig mishandelen, vermoorden (RDM), uitlokken en/of anderen lastig vallen zonder
 verdere intentie tot roleplay is niet toegestaan. Dit geld ook voor dieren.
 
 8. Hij/zij die geen waarde hecht aan het leven van het karakter dat hij/zij speelt (No Value of Life), zal
 bestraft worden. Wegrijden met een voertuig waarbij je trager als 20 km/h rijdt valt hier ook onder.
-   * Bij overtreding van lid 7 en 8 zal dit resulteren in een straf volgens de 2e categorie.
+    * Bij overtreding van lid 7 en 8 zal dit resulteren in een straf volgens de 2e categorie.
 
 9. Het is verboden om een erotische roleplay (ERP) uit te voeren of aan te gaan. Bij overtreding zal dit
 resulteren in een straf volgens de 7e categorie.
