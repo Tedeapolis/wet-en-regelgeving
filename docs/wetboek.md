@@ -646,8 +646,6 @@ Artikel III-15 Straatraces
 1. Schuldig is een persoon die meedoet aan een straatraces.
 2. Onder straatrace word gezien als 2 of meerdere auto's naast of achter elkaar duelleren om sneller te zijn op een willekeurige of geplande route. Vaak gebeurd dit op Hoge snelheden, maar kan ook gebeuren op lage snelheden.
 3. Indien persoon de race organiseert word de straf met 33% verhoogt.
-4. Indien een persoon een andere overtreding begaat tijdens dit delict kan de persoon in kwestie niet nog een straf krijgen van Titel III - Verkeersdelicten.
-5. Op uitzondering op lid 4 kan het voertuig wel in beslag genomen worden als de snelheid word overschreden volgens Artikel III-11 Snelheidsovertredingen.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
 |---|---|---|---|---|
