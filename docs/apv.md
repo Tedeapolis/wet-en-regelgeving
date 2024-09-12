@@ -88,7 +88,7 @@ verdere intentie tot roleplay is niet toegestaan. Dit geld ook voor dieren.
 
 8. Hij/zij die geen waarde hecht aan het leven van het karakter dat hij/zij speelt (No Value of Life), zal
 bestraft worden. Wegrijden met een voertuig waarbij je trager als 20 km/h rijdt valt hier ook onder.
-    * Bij overtreding van lid 7 en 8 zal dit resulteren in een straf volgens de 2e categorie.
+   * Bij overtreding van lid 7 en 8 zal dit resulteren in een straf volgens de 2e categorie.
 
 9. Het is verboden om een erotische roleplay (ERP) uit te voeren of aan te gaan. Bij overtreding zal dit
 resulteren in een straf volgens de 7e categorie.
