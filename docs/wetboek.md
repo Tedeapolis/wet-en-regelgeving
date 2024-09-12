@@ -444,9 +444,9 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
 |---|---|---|---|---|
-|  **Eerste Veroordeling** | | 45 uur | € 3000,-  | 24-48 uur |
-| **Tweede Veroordeling**  | 12 maanden  | | € 7500,- | 48-72 uur |
-| **Meerdere Veroordelingen**  | 18 maanden  | | € 10500,-  | 48-72 uur |
+|  **Eerste Veroordeling** |   | 45 uur  | € 3000,-  | 24-48 uur |
+| **Tweede Veroordeling**  |   | 75 uur | € 7500,-  | 48-72 uur |
+| **Meerdere Veroordelingen**  |   | 100 uur | € 10250,-  | 48-72 uur |
 
 ### Artikel III-4 Veroorzaken ongeval, met al dan niet licht lichamelijk letsel tot gevolg (6 WVW)
 
@@ -649,11 +649,11 @@ Artikel III-15 Straatraces
 4. Indien een persoon een andere overtreding begaat tijdens dit delict kan de persoon in kwestie niet nog een straf krijgen van Titel III - Verkeersdelicten.
 5. Op uitzondering op lid 4 kan het voertuig wel in beslag genomen worden als de snelheid word overschreden volgens Artikel III-11 Snelheidsovertredingen.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** |   | 10 uur  | € 10000,-  |
-| **Tweede Veroordeling**  |   | 20 uur  | € 15000,-  |
-| **Meerdere Veroordelingen**  |   | 35 uur | € 22500,-  |
+|   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
+|---|---|---|---|---|
+|  **Eerste Veroordeling** |   | 15 uur  | € 10000,-  | 24-48 uur |
+| **Tweede Veroordeling**  |   | 25 uur | € 15000,-  | 48-72 uur |
+| **Meerdere Veroordelingen**  |   | 40 uur | € 22500,-  | 48-72 uur |
 
 ## Titel IV - Opiumwet
 
