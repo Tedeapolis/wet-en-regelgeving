@@ -64,22 +64,24 @@ gedrag te vertonen.
 2. Het is niet toegestaan om opzettelijk de roleplay zodanig te vormen dat er een oneerlijke of
 onrealistische draai aan het verhaal gegeven wordt, of de roleplay van de andere partij zelf invullen
 door een onrealistische dwang.
-3. Indien het karakter overleden is, wordt er verwacht dat hij/zij de laatste roleplay vergeten is. Het
-karakter mag ook niet naar het gebied waar hij/zij overleden is terugkeren, dit is aangeduid met een
-rode cirkel op de kaart voor 30 minuten na het overlijden. Tevens mag het karakter zich niet opnieuw bemoeien met ditzelfde scenario totdat deze afgelopen is (New life rule).
-4. Het is te allen tijde verboden om je karakter te breken. Hiermee bedoelen we dat je een term
+3. Het is te allen tijde verboden om je karakter te breken. Hiermee bedoelen we dat je een term
 gebruikt die gezien wordt als OOC (Out Of Character), Ook is het niet toegestaan om “/looc” foutief
 te gebruiken of te gebruiken om toxic / zoutige opmerkingen te plaatsen.
     * Enkele voorbeelden van het foutief gebruiken van looc:
     * /looc wat doen jullie
     * /looc waarom rdm je
     * /looc slechte roleplay
-5. Het is verboden om door middel van de Safe Zone te ontkomen aan illegale activiteiten en/of
+4. Het is verboden om door middel van de Safe Zone te ontkomen aan illegale activiteiten en/of
 roleplays.
-6. Het is verboden om een individu schade aan te richten, te ontvoeren, uitbreken, overvallen,
+5. Het is verboden om een individu schade aan te richten, te ontvoeren, uitbreken, overvallen,
 aanrijden of vermoorden in een Safe Zone, tenzij er daadwerkelijke roleplay (die aan te tonen is) aan
 gekoppeld zit.
-    * Bij overtreding van lid 1 t/m 6 zal dit resulteren in een straf volgens de 1e categorie.
+    * Bij overtreding van lid 1 t/m 5 zal dit resulteren in een straf volgens de 1e categorie.
+  
+6. Indien het karakter overleden is, wordt er verwacht dat hij/zij de laatste roleplay vergeten is. Het
+karakter mag ook niet naar het gebied waar hij/zij overleden is terugkeren, dit is aangeduid met een
+rode cirkel op de kaart voor 30 minuten na het overlijden. Tevens mag het karakter zich niet opnieuw bemoeien met ditzelfde scenario totdat deze afgelopen is (New life rule).
+    * Bij overtreding van lid 6 zal dit resulteren in een straf volgens de 4e categorie.
 
 7. Het onnodig mishandelen, vermoorden (RDM), uitlokken en/of anderen lastig vallen zonder
 verdere intentie tot roleplay is niet toegestaan. Dit geld ook voor dieren.
@@ -117,12 +119,12 @@ celstraf.
 
 4. Het is niet toegestaan om externe discords te gebruiken voor roleplay gerelateerde zaken, zonder dat hier toestemming is voor gegeven vanuit staff (denk hierbij aan het gebruik van sheets en andere onderlinge zaken) hierbij geldt de straf van lid 3. Eigenaren van externe discords waarin meta-gaming voorkomt, zullen een straf ontvangen volgens de 7e categorie.
 
-5. Wanneer je met meerdere mensen die op TedeaPolis spelen in een voicecall zit, is streamen niet toegestaan en moet je gedeafened en gemute zijn. Als één persoon in-game is en de rest niet en je besluit om alsnog in een call te zitten zonder dat je gedeafened/gemute bent, ben je dus ook in overtreding van deze regel die aangeduid zijn in lid 3
+5. Wanneer je met meerdere mensen die op TedeaPolis spelen in een voicecall zit, is streamen niet toegestaan en moet je gedeafened en gemute zijn. Als één persoon in-game is en de rest niet en je besluit om alsnog in een call te zitten zonder dat je gedeafened/gemute bent, ben je dus ook in overtreding van deze regel die aangeduid zijn in lid 3.
 
 6. Het streamen van de main server in een discord server is nooit toegestaan, tenzij je expliciet toestemming hebt van een stafflid.
 
-7. Wanneer er sprake is van een ontsnapping uit het cellencomplex volgens artikel 15, moet een eventuele medeplichtige te allen tijde videobewijs kunnen overleggen waaruit blijkt dat zij de persoon in hechtenis hebben waargenomen binnen de stad, en op basis daarvan redelijkerwijs ervanuit konden gaan dat die persoon vastzat. 
-   
+7. Wanneer er sprake is van een ontsnapping uit het cellencomplex volgens artikel 15, moet een eventuele medeplichtige te allen tijde videobewijs kunnen overleggen waaruit blijkt dat zij de persoon in hechtenis hebben waargenomen binnen de stad, en op basis daarvan redelijkerwijs ervanuit konden gaan dat die persoon vastzat.
+
 ### Artikel 3 - (Overheids) kleding
 
 1. Bij het aanmaken van je personage dient je kleding veranderd te worden. Je mag niet dus niet met de starters kleding de server betreden. Verder dien je ervoor te zorgen dat je karakter er realistisch uitziet, armen bij de outfit kloppen en er geen lichaamsdelen ontbreken bij jouw personage.
@@ -190,7 +192,7 @@ celstraf.
 2. Uitzondering op lid 1 geldt voor alle soorten wapens; deze mogen altijd overvallen worden.
 3. Met betrekking tot de volgende situaties is overvallen of oplichten niet toegestaan:
     * Het stelen/overvallen van bankgeld
-    * Loodsen
+    * Loodsen (Artikel 21 - Loodsen)
     * Spelers te overvallen, te ontvoeren of negatief te bejegenen bij safezones
     * Facturen en/of andere items welke gerelateerd aan een baan zijn
     * Overheids voorwerpen
@@ -316,6 +318,16 @@ een melding maken en de ambulancier snel te laten werken zodat het wapen direct 
    Elke directe interactie via F6 zonder bovengenoemde handelingen wordt beschouwd als F6-Abuse.
 
 3. Het niet naleven van de richtlijnen zoals beschreven in lid 1 & 2 wordt beschouwd als F6-Abuse en zal worden bestraft met een straf van de 5e categorie (een speler met een leidinggevende functie zal zwaarder bestraft worden). Spelers worden aangemoedigd om bewijsmateriaal (zoals clips) te bewaren voor het geval van geschillen of onterechte sancties.
+
+### Artikel 21 - Loodsen
+
+1. Het misleiden of bedriegen met betrekking tot loodsen is verboden.
+2. De verhuur van sleutels voor loodsen is toegestaan.
+3. Het verhandelen van aandelen in loodsen is toegestaan.
+4. Alle overeenkomsten met betrekking tot loodsen moeten schriftelijk worden vastgelegd en gedocumenteerd in de stad Tedeapolis met het commando /docu, en dienen te worden ondertekend door alle betrokken partijen.
+5. In geval van onduidelijkheid over de bepalingen van lid 2 of 3, zal het oordeel van een staflid leidend zijn, en dit staflid zal beslissen over de verdeling van de loods. De partij die beweert benadeeld te zijn, dient bewijsmateriaal te overleggen en draagt de verantwoordelijkheid voor de bewijslast.
+
+*Bij overtreding zal er gestraft worden volgens de 3e categorie. Indien de overtreding over bedragen boven de 2 miljoen gaat, zal er gestraft worden volgens de 5de categorie.
 
 ## Narcopolis
 
