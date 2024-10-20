@@ -258,7 +258,7 @@ een melding maken en de ambulancier snel te laten werken zodat het wapen direct 
 1. Het is toegestaan om te ontsnappen uit het cellencomplex, echter dient hier een geldig roleplay scenario aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
 2. Het is niet toegestaan om te ontsnappen of jezelf uit te laten breken indien er is afgesproken om het roleplay scenario op een later tijdstip voort te zetten, bijvoorbeeld vanwege tijdgebrek of andere beperkingen.
 3. Het is verboden om tussen 01:30 en 10:00 uit het cellencomplex te breken.
-4. Er moet ten allen tijden 10+ politie beschikbaar zijn, als er 6 - 10 politie aanwezig zijn mag je niet ontsnappen.
+4. Er moet ten allen tijden 6-10 politie & 6-10 kmar zijn of 10+ politie of kmar aanwezig zijn. Wanneer er dus minder dan 10+ politie / kmar is, mag je niet ontsnappen.
 
    *Bij overtreding zal gestraft worden volgens de 1e categorie.
 
