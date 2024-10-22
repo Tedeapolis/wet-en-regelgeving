@@ -397,7 +397,7 @@ Onderstaande regels tellen alleen op Narcopolis
 
 ### Bijlage 1
 
-![bijlage-1](https://tedeapolis.nl/wp-content/uploads/2021/08/Schermafbeelding_2021-08-23_om_10.png)
+![Bijlage-1](img/apv/dashcamUitleg.webp)
 
 ### Bijlage 2
 
