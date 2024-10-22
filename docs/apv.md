@@ -201,8 +201,8 @@ celstraf.
     * Nieuwe spelers
 4. Voertuigen kunnen ook niet meer gebruikt worden bij illegale deals en kunnen enkel met legaal geld gekocht worden.
 5. Het is de verantwoordelijkheid van de kopende partij om te controleren of de aangeboden aanpassingen (ook wel bekend als tunes) op het voertuig aanwezig zijn ten tijde van overdracht van het voertuig in een modshop.
-6. Het counteren van een overval en/of gijzeling is niet toegestaan van zodra politie en/of KMAR ter plaatse is.
-7. Uitzondering op lid 6 is wanneer persoon een ongeplande gijzeling start, terwijl je hiervoor in scenario zat met desbetreffende crimineel. Je mag de crimineel dan counteren op het moment dat hij de politie en/of KMAR kwijtgeraakt is uit een achtervolging. Denk hierbij aan een straatgijzeling van de politie en/of burgers.
+6. Het counteren van een overval en/of gijzeling is niet toegestaan van zodra politie en/of KMAR (niet als hostage) ter plaatse is.
+7. Uitzondering op lid 6 is wanneer persoon een ongeplande gijzeling start, terwijl je hiervoor in scenario zat met desbetreffende crimineel. Je mag de crimineel dan counteren op het moment dat hij de politie en/of KMAR kwijtgeraakt is uit een achtervolging. Denk hierbij aan een straatgijzeling van de politie en/of burgers. Je mag hierbij op geen enkele wijze de achtervolging hinderen en deze verstoren.
 8. Het oplichten van een persoon, verkopen en inkopen van wapens, verkopen en inkopen van drugs, vermoorden of ontvoeren van een persoon en het gebruiken van een wapen zijn in een appartement verboden.
 
    *Bij overtreding zal er gestraft worden volgens de 1e categorie.
@@ -235,13 +235,9 @@ celstraf.
 2. Roleplay met de ANWB, Brandweer en Ambulance moet uitgebreid en realistisch zijn. Ook dien je mee te werken met de roleplay en mag je de medewerkers niet forceren om voertuigen te repareren of spelers te reviven. De medewerkers zijn te allen tijde leidend in hun roleplay.
 3. Het is niet toegestaan om een melding te maken naar een overheidsinstantie met de intentie om degene die hierop reageert te vermoorden, te ontvoeren of met als doel om deze te gaan overvallen.
 4. Er moeten ten allen tijden vijf overheidsmedewerkers binnen een baan beschikbaar blijven nadat er één ontvoerd is, dus als er 6 agenten aanwezig zijn mag er 1 ontvoerd worden, als er 5 aanwezig zijn mag er geen ontvoerd worden.
-5. Een uitzondering op lid 4 geldt voor de ambulance & brandweer. Hierbij moeten er te allen tijde 7 medewerkers beschikbaar blijven. Kortom, als er 8 ambulance of brandweer medewerkers aanwezig zijn, dan mag er 1 à 2 ontvoerd worden.
+5. Een uitzondering op lid 4 geldt voor de ambulance. Een criminele organisatie heeft de mogelijkheid om een ambulancier te ontvoeren vanaf 4 ambulanciers in dienst, hierbij zal er wel een goede roleplay aan vast moeten zitten in plaats van een run and gun. Tevens mag dit alleen gedaan worden bij eigen vrienden of gangleden en dus niet bij personen welke niks met jou te maken hebben. De ambulance is in deze roleplay nogsteeds leidend omtrent gezondheid van de bewusteloze persoon. Indien persoon dit niet kan overleven, kan de ambulancier er voor kiezen om deze dood te moeten verklaren.
+   * Mocht hier toch gezien worden dat er geen roleplay aan verbonden wordt zoals enkel een melding maken en de ambulancier snel te laten werken zodat het wapen direct weg kan, of een van de andere eisen verbroken wordt zal er bestraft worden volgens de 5e categorie en bij herhaling volgens de 6e categorie of hoger.
 6. Het is toegestaan om een agent te ontvoeren zodat je jouw voertuig uit de opslag kan halen, hiervoor dien je wel het bedrag af te lossen die hiervoor openstaat. Hierbij ontneem je wel het recht op een advocaat en/of hOVJ. Het is verboden om tussen 00:00 en 10:00 een voertuig uit de opslag te forceren.
-7. Een officiële criminele organisatie heeft de mogelijkheid om een ambulancier te ontvoeren vanaf 4
-ambulanciers in dienst, hierbij zal er wel een goede roleplay aan vast moeten zitten in plaats van een
-run and gun. Tevens mag dit alleen gedaan worden bij eigen vrienden of gangleden en dus niet bij personen welke niks met jou te maken hebben. De ambulance is in deze roleplay nogsteeds leidend omtrent gezondheid van de bewusteloze persoon. Indien persoon dit niet kan overleven, kan de ambulancier er voor kiezen om deze dood te moeten verklaren.
-   * Mocht hier toch gezien worden dat er geen roleplay aan verbonden wordt zoals enkel
-een melding maken en de ambulancier snel te laten werken zodat het wapen direct weg kan, of een van de andere eisen verbroken wordt zal er bestraft worden volgens de 5e categorie en bij herhaling volgens de 6e categorie of hoger.
 
 ### Artikel 14 - Roleplay & Ledenaantal Criminele Organisaties
 
