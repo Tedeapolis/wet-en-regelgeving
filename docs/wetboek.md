@@ -530,8 +530,8 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 ### Artikel III-11 Snelheidsovertredingen
 
 1. Schuldig is een persoon die de wettelijk bepaalde snelheden voor het verkeer niet in acht neemt tijdens deelname aan het verkeer.
-2. Buiten de bebouwde kom, alsmede op de snelwegen, geldt een maximumsnelheid van 130km/h;
-3. Binnen de bebouwde kom geldt een maximumsnelheid van 80km/h.
+2. Op de snelwegen geldt een maximumsnelheid van 130km/h;
+3. Op de overige wegen, niet gespecificeerd als in lid 2 geldt een maximumsnelheid van 80km/h.
 4. Flitscamera's die op verschillende plaatsen staan, schrijven in geval van een overtreding een boete uit aan de overtredende partij.
 5. Er geldt een wettelijke correctie van 5 km/h en de eerste 5km/h die gemeten zijn boven de toegestane snelheid, blijven ongestraft.
 
