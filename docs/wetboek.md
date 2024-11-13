@@ -529,14 +529,13 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ### Artikel III-11 Snelheidsovertredingen
 
-1. Schuldig is een persoon die de wettelijk bepaalde snelheden voor verkeer niet in acht neemt tijdens deelname aan het verkeer.
-2. De toegestane snelheden zijn 80KM/h en 130KM/h op de snelweg.
-3. Flitscamera's die op verschillende plaatsen staan zullen in geval van overtreding een boete uitsturen naar de overtredende partij.
-4. Indien een dienstdoende agent een overtredende partij staande houdt, is hij of zij gerechtigd tot het uitschrijven van onderstaande boetes.
-5. Voor snelheidsovertredingen die de bovenstaande snelheden overschreiden kan de agent overgaan tot arrestatie en strafvervolging.
-6. De meetcorrectie is 5 kilometer en de eerste 5 kilometer te hard rijden blijft onbestraft.
+1. Schuldig is een persoon die de wettelijk bepaalde snelheden voor het verkeer niet in acht neemt tijdens deelname aan het verkeer.
+2. Buiten de bebouwde kom, alsmede op de snelwegen, geldt een maximumsnelheid van 130km/h;
+3. Binnen de bebouwde kom geldt een maximumsnelheid van 80km/h.
+4. Flitscamera's die op verschillende plaatsen staan, schrijven in geval van een overtreding een boete uit aan de overtredende partij.
+5. Er geldt een wettelijke correctie van 5 km/h en de eerste 5km/h die gemeten zijn boven de toegestane snelheid, blijven ongestraft.
 
-| ***`Binnen de Bebouwde Kom`***  |   |
+| ***`Binnen de bebouwde kom`***  |   |
 |---|---|
 | Te hard rijden 6 - 10KM/H | € 100,- |
 | Te hard rijden 10 - 20KM/H | € 400,- |
@@ -552,7 +551,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | Te hard rijden 126 - 150 KM/H | € 12500,- |
 | Te hard rijden 150+ KM/H | € 15000,- |
 
-| ***`Buiten de Bebouwde Kom`***  |   |
+| ***`Buiten de bebouwde kom`***  |   |
 |---|---|
 | Te hard rijden 6 - 10KM/H | € 100,- |
 | Te hard rijden 10 - 20KM/H | € 300,- |
