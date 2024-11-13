@@ -535,7 +535,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 4. Flitscamera's die op verschillende plaatsen staan, schrijven in geval van een overtreding een boete uit aan de overtredende partij.
 5. Er geldt een wettelijke correctie van 5 km/h en de eerste 5km/h die gemeten zijn boven de toegestane snelheid, blijven ongestraft.
 
-| ***`Binnen de bebouwde kom`***  |   |
+| ***`Op de overige wegen`***  |   |
 |---|---|
 | Te hard rijden 6 - 10KM/H | € 100,- |
 | Te hard rijden 10 - 20KM/H | € 400,- |
@@ -551,7 +551,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | Te hard rijden 126 - 150 KM/H | € 12500,- |
 | Te hard rijden 150+ KM/H | € 15000,- |
 
-| ***`Buiten de bebouwde kom`***  |   |
+| ***`Op snelwegen`***  |   |
 |---|---|
 | Te hard rijden 6 - 10KM/H | € 100,- |
 | Te hard rijden 10 - 20KM/H | € 300,- |
