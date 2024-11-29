@@ -2,7 +2,7 @@
 
 ## Wetstechnische informatie
 
-#### Wet van 29 november 2024
+### Wet van 29 november 2024
 
 Wij, de Hoge Raad der Tedeapolis, bij de gratie Gods, enz., enz., enz.
 
@@ -310,7 +310,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
     * Voertuigen (alleen legaal te koop met legaal geld).
 3. Het is de verantwoordelijkheid van de koper om te controleren of aanpassingen (zoals tunes) op een voertuig aanwezig zijn bij overdracht.
 4. Counteren van een overval/gijzeling is verboden zodra politie/KMAR ter plaatse is.
-      - **Uitzondering:** Als de crimineel de politie/KMAR is kwijtgeraakt en een nieuw scenario start, mag er wel worden gecounterd.
+      * **Uitzondering:** Als de crimineel de politie/KMAR is kwijtgeraakt en een nieuw scenario start, mag er wel worden gecounterd.
 5. Wapens, drugs, en gijzelingen in appartementen zijn verboden.
 6. Na een overval/oplichting mag je het slachtoffer niet vermoorden, zelfs niet om de gebeurtenis te laten vergeten.
 
@@ -426,7 +426,6 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
     * Je dient iemand te overmeesteren voordat er gebruik gemaakt kan worden van het F6 menu.
     * fouilleren mag alleen met een legitieme reden.
 
-
 2. Het uit een voertuig trekken van een persoon dient gepaard te gaan met de volgende realistische roleplay-handelingen:
     * Het inslaan van de ruiten met daarbij de juiste attributen zoals een wapen(indien van toepassing).
     * Het openen van de deur.
@@ -498,7 +497,8 @@ Onderstaande regels zijn voor criminele organisaties.
 Het overtreden van de onderstaande regels zullen resulteren in sancties voor de organisaties in zijn geheel.
 
 ### **Artikel G-1**
-1.  Een voertuig mag alleen in beslag genomen worden met een geldige reden
+
+1. Een voertuig mag alleen in beslag genomen worden met een geldige reden
 (een geldige reden kan zijn: Jouw voertuig is in beslag genomen, ze hebben een van je leden doodgeschoten, je hebt een oorlog, je wilt er een overval meedoen etc.)
 2. Het is niet toegestaan om elkaars voertuig in beslag te nemen om deze vervolgens expres in beslag te laten nemen door de politie/kmar.
 3. Na het in beslag nemen van een voertuig dient er binnen 24uur contact opgenomen te worden bij desbetreffende persoon (dit om de rp gaande te houden en persoon de kans te geven zijn voertuig op gestolen te zetten).
@@ -523,6 +523,7 @@ Het overtreden van de onderstaande regels zullen resulteren in sancties voor de 
 → **Sanctie:** Sanctie door CA, mogelijk opschorting van de organisatie.
 
 ---
+
 ## **Tijdelijke bepalingen**
 
 ## **Slotbepaling: Regels in het kort**
@@ -576,5 +577,5 @@ De samenwerking is geeindigd om [tijdstip].
 Het doel van deze samenwerking is [korte omschrijving van de samenwerking].
 ```
 
----------------------
+---
 APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Tedeapolis”, opgetekend door Jordy Kolb, te Tedeapolis.
