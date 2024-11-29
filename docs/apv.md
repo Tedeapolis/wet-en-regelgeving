@@ -357,7 +357,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 ### **Artikel 24 - Roleplay & Ledenaantal Criminele Organisaties**
 
 1. Criminele organisaties mogen maximaal 25 leden hebben, inclusief hangarounds.
-2. Samenwerking tussen criminele organisaties is toegestaan met maximaal twee gangs en 20 leden per gang.
+2. Samenwerking tussen criminele organisaties is toegestaan met maximaal twee gangs en 20 leden.
 3. Politie-invallen mogen worden gecounterd door maximaal twee groepen met in totaal 25 personen.
 4. Samenwerkingen tussen officiële organisaties moeten worden gemeld via het daarvoor bestemde kanaal in de Discord.
 5. Bij negatieve uitstraling van de organisatie (denk daarbij aan warns / combatgedrag ect.) kunnen sancties volgen.
