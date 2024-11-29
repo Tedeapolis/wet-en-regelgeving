@@ -566,10 +566,6 @@ Het overtreden van de onderstaande regels zullen resulteren in sancties voor de 
 
 ### **Bijlage 1**
 
-![bijlage-1](https://tedeapolis.nl/wp-content/uploads/2021/08/Schermafbeelding_2021-08-23_om_10.png)
-
-### **Bijlage 2**
-
 ```md
 Op [datum] heeft [Eigen groepsnaam] een samenwerking opgesteld met [Andere groepsnaam].
 De samenwerking is gestart om [tijdstip].
