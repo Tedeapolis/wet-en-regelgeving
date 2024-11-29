@@ -171,15 +171,15 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 1. Het is niet toegestaan om informatie die buiten het karakter is verkregen te gebruiken binnen het spel. Dit omvat alle informatie die jouw karakter niet binnen **FiveM** heeft verkregen.
     * Bij ontsnappingen uit het cellencomplex (Art. 25 APV) moet een medeplichtige videobewijs kunnen overleggen waaruit blijkt dat zij de gevangene hebben waargenomen binnen de stad en aannemelijk konden maken dat deze vastzat.
 
-→ **Sanctie:** Categorie 1.
+    → **Sanctie:** Categorie 1.
 
-Het is niet toegestaan externe discords te gebruiken voor roleplay-gerelateerde zaken zonder toestemming van de staff. Dit omvat bijvoorbeeld sheets of andere hulpmiddelen.
-   - **Eigenaren van deze Discord-servers** worden bestraft volgens **Categorie 7**.
-   - Tijdens voicechats met andere spelers van Tedeapolis geldt:
-    * Streamen is niet toegestaan.
-    * Je moet gedeafened en gemute zijn.
-   - Het streamen van de main server in een Discord-server is verboden, tenzij expliciet goedgekeurd door de staff.
-   - Bij ontsnappingen (Art. 25 APV) geldt hetzelfde videobewijsvereiste als bij lid 1.
+2. Het is niet toegestaan externe discords te gebruiken voor roleplay-gerelateerde zaken zonder toestemming van de staff.
+    * **Eigenaren van deze Discord-servers** worden bestraft volgens **Categorie 7**.
+    * Tijdens voicechats met andere spelers van Tedeapolis geldt:
+        * Streamen is niet toegestaan.
+        * Je moet gedeafened en gemute zijn.
+    * Het streamen van de main server in een Discord-server is verboden, tenzij expliciet goedgekeurd door de staff.
+    * Bij ontsnappingen (Art. 25 APV) geldt hetzelfde videobewijsvereiste als bij lid 1.
 
 → **Sanctie:** Categorie 1.
 
