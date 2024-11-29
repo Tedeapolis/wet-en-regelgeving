@@ -2,7 +2,7 @@
 
 ## Wetstechnische informatie
 
-**Wet van 29 november 2024**
+#### Wet van 29 november 2024
 
 Wij, de Hoge Raad der Tedeapolis, bij de gratie Gods, enz., enz., enz.
 
@@ -27,7 +27,6 @@ Aangezien wij in overweging hebben genomen dat het noodzakelijk is een nieuwe **
 Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij overschreven door deze APV.
 
 ---
-
 
 ## Algemene Bepalingen
 
@@ -323,19 +322,15 @@ Het is niet toegestaan externe discords te gebruiken voor roleplay-gerelateerde 
 
 *Onder ambtenaar wordt verstaan spelers die één van de volgende banen uitvoeren, zoals weergegeven in het F10-menu:*
 
-| **Politie**                   |
+* **Politie**
+* **Koninklijke marechaussee**
+* **Justitie**
+* **Ambulance**
+* **TDA Wegenwacht**
+* **Taxi**
+* **Handhaving**
 
-| **Koninklijke marechaussee**  |
-
-| **Justitie**                  |
-
-| **Ambulance**                 |
-
-| **TDA Wegenwacht**                      |
-
-| **Taxi**                      |
-
-| **Handhaving**                |
+<!-- Kaas saak -->
 
 1. Voor een ambtenaar is het niet toegestaan zich bezig te houden met illegale bezigheden.
 2. Het is niet toegestaan om door de politie in beslag genomen objecten door te handelen naar spelers. Dit geldt ook voor andere overheidsobjecten en informatie verkregen tijdens de carrière bij een overheidsdienst, ook na ontslag.
