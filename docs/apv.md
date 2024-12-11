@@ -136,7 +136,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 ### **Artikel 7 - No Value of Life (NVOL)**
 
 1. Het is niet toegestaan geen waarde te hechten aan het leven van het karakter dat je speelt. Dit omvat onder andere:
-    * Wegrijden met een voertuig met een snelheid van minder dan 25 km/u in een levensbedreigende situatie.
+    * Wegrijden met een voertuig met een snelheid van minder dan 30 km/u in een levensbedreigende situatie.
 
     **Uitzondering:** Het is **GEEN NVOL** om te vluchten wanneer iemand vanuit een voertuig of motor zijn vuurwapen op je richt.
 
@@ -180,6 +180,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
         * Je moet gedeafened en gemute zijn.
     * Het streamen van de main server in een Discord-server is verboden, tenzij expliciet goedgekeurd door de staff.
     * Bij ontsnappingen (Art. 25 APV) geldt hetzelfde videobewijsvereiste als bij lid 1.
+    * In calls zitten met je vrienden die geen Tedeapolis spelen is ook verboden.
 
 → **Sanctie:** Categorie 1.
 
@@ -356,8 +357,8 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 ### **Artikel 24 - Roleplay & Ledenaantal Criminele Organisaties**
 
-1. Criminele organisaties mogen maximaal 25 leden hebben, inclusief hangarounds.
-2. Samenwerking tussen criminele organisaties is toegestaan met maximaal twee gangs en 20 leden per gang.
+1. Criminele organisaties mogen maximaal 25 leden hebben, exclusief hangarounds maximaal 5.
+2. Samenwerking tussen criminele organisaties is toegestaan met maximaal twee gangs. Tot een totale van 20 leden van beide gangs.
 3. Politie-invallen mogen worden gecounterd door maximaal twee groepen met in totaal 25 personen.
 4. Samenwerkingen tussen officiële organisaties moeten worden gemeld via het daarvoor bestemde kanaal in de Discord.
 5. Bij negatieve uitstraling van de organisatie (denk daarbij aan warns / combatgedrag ect.) kunnen sancties volgen.
@@ -371,7 +372,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 1. Ontsnappen is toegestaan mits gekoppeld aan een geldig roleplay-scenario, beoordeeld door een stafflid.
 2. Ontsnappen is niet toegestaan tijdens afgesproken pauzes in roleplay.
 3. Ontsnappen is verboden tussen 01:30 en 10:00 uur.
-4. Er moeten minstens 10 politie- en KMAR-medewerkers aanwezig zijn.
+4. Er moet samen minstens 10 politie- en KMAR-medewerkers aanwezig zijn.
 
 → **Sanctie:** categorie 1.
 
@@ -391,6 +392,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 6. Probeer op alle mogelijke manieren een vuurgevecht te vermijden en onderhandel eerst met de politie.
 7. Een liquidatie mag niet uitgevoerd worden zonder dat het slachtoffer op de hoogte is van de reden hierachter. Er dient dus aan het slachtoffer duidelijk gemaakt te worden, terwijl hij/zij/het nog leeft, waarom diegene geliquideerd wordt.
 8. Het campen op een niet actieve drugs locatie is niet toegestaan, zowel op land als op het eiland.
+9. Je hebt pas recht op een wapen als je daadwerkelijk een achtervolging/scenario bent aangegaan met de persoon. Dit moet je wel duidelijk kenbaar maken.
 
 → **Sanctie:** categorie 1.
 
@@ -565,10 +567,6 @@ Het overtreden van de onderstaande regels zullen resulteren in sancties voor de 
 ## **Bijlages**
 
 ### **Bijlage 1**
-
-![bijlage-1](https://tedeapolis.nl/wp-content/uploads/2021/08/Schermafbeelding_2021-08-23_om_10.png)
-
-### **Bijlage 2**
 
 ```md
 Op [datum] heeft [Eigen groepsnaam] een samenwerking opgesteld met [Andere groepsnaam].
