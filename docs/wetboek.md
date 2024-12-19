@@ -155,6 +155,12 @@
 3. De maximale periode van de voorhechtenis is 24 uur. Dit kan maximaal verlengt worden tot 72 uur voorarrest door een hOvJ.
 4. Na de 72 uur kan alleen een OvJ nog toestemming geven voor een langere hechtenis tot aan de rechtszaak.
 
+### A13 - Borgtocht
+
+1. Een verdachte heeft recht op een borgtocht indien er een huiszoeking is aangevraagd. Dit moet altijd goedgekeurd worden door een hOvJ of hoger.
+2. Bij een akkoord van een borgtocht ben je je verplicht te houden aan de afspraken die gemaakt zijn.
+3. Indien de huiszoeking per direct kan uitgevoerd worden vervalt lid 1.
+
 ## Titel I - Vermogensdelicten
 
 ![Titel I](img/wetboek/Vermogen.webp)
