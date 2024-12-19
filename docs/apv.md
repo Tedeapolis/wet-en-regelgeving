@@ -393,7 +393,10 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 7. Een liquidatie mag niet uitgevoerd worden zonder dat het slachtoffer op de hoogte is van de reden hierachter. Er dient dus aan het slachtoffer duidelijk gemaakt te worden, terwijl hij/zij/het nog leeft, waarom diegene geliquideerd wordt.
 8. Het campen op een niet actieve drugs locatie is niet toegestaan, zowel op land als op het eiland.
 9. Je hebt pas recht op een wapen als je daadwerkelijk een achtervolging/scenario bent aangegaan met de persoon. Dit moet je wel duidelijk kenbaar maken.
-
+10. Indien je op borgtocht bent gestuurd zijn de volgende regels van kracht.
+   * Een persoon die de borgtocht aan gegaan is mag niet meer worden uitgebroken.
+   * Indien persoon dood gegaan is in een scenario waarbij de politie betrokken is geld de New Life rule niet meer. De huiszoeking gaat dan alsnog plaatsvinden.
+   * Je kan geen spullen pakken/verwijderen uit auto's en appartementen. Dit geld ook voor kleding verwijderen.
 → **Sanctie:** categorie 1.
 
 ---
