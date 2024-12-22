@@ -139,6 +139,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
     * Wegrijden met een voertuig met een snelheid van minder dan 30 km/u in een levensbedreigende situatie.
 
     **Uitzondering:** Het is **GEEN NVOL** om te vluchten wanneer iemand vanuit een voertuig of motor zijn vuurwapen op je richt.
+2. Indien je in een armored voertuig rijd en die helemaal kapot is of je ramen er uit liggen telt dit ook als NVOL. Je zal dus moeten meewerken ook al zit je in een armored voertuig.
 
 → **Sanctie:** Categorie 2.
 
@@ -181,6 +182,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
     * Het streamen van de main server in een Discord-server is verboden, tenzij expliciet goedgekeurd door de staff.
     * Bij ontsnappingen (Art. 25 APV) geldt hetzelfde videobewijsvereiste als bij lid 1.
     * In calls zitten met je vrienden die geen Tedeapolis spelen is ook verboden.
+    * Het is toegestaan om in Discord via een "ic-bewijs" kanaal, bewijs te delen in Discord. Dit bewijs moet opgenomen zijn met een bodycam (360 graden), dashcam (voor/achter) en/of telefoon in de hand (360 graden).
 
 → **Sanctie:** Categorie 1.
 
