@@ -40,6 +40,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ove
 1. Bij wijzigingen in de wetgeving na het tijdstip waarop het feit is begaan, worden de voor de verdachte meest gunstige bepalingen toegepast.
 2. Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die betrekking heeft op zichzelf, vrienden en/of familie. Dit om te waarborgen dat een zaak op een eerlijke en rechtvaardige manier wordt behandeld.
 3. Indien er tegen staff gelogen wordt en dit met hard bewijs (bijvoorbeeld logbestanden) wordt aangetoond, kan ervoor worden gekozen de straf te verzwaren.
+4. Wanneer je meer dan 2 weken wacht om een ticket aan te maken, kom je niet meer in aanmerking om een refund te ontvangen.
 
 ### **A-3 - Strafbepaling**
 
