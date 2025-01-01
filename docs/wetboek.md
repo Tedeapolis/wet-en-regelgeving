@@ -57,7 +57,7 @@
 ### A5 - Strafblad
 
 1. Straffen die enige vorm van celstraf bevatten kunnen leiden tot een strafblad.
-2. Een strafblad blijft staan voor een periode van 2 (realtime) maanden voor alle geweldsdelicten met celstraf, en 1 maand voor alle overige delicten met celstraf, ingaand op de datum van de opgelegde straf.
+2. Een strafblad blijft staan voor een periode van 1 (realtime) maand, ingaand op de datum van de opgelegde straf.
 3. Wanneer een nieuwe overtreding of een misdrijf wordt begaan, wordt de resterende tijd gereset naar de datum van de laatst opgelegde celstraf. Dit geldt enkel als het nieuwe strafblad langer blijft staan dan het huidige strafblad.
 4. Een strafblad bepaalt enkel of er een VOG (Verklaring Omtrent het Gedrag) afgegeven kan worden door de politie ten behoeve van het uitvoeren van een overheidsbaan.
 
