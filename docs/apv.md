@@ -140,7 +140,13 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
     * Wegrijden met een voertuig met een snelheid van minder dan 30 km/u in een levensbedreigende situatie.
 
     **Uitzondering:** Het is **GEEN NVOL** om te vluchten wanneer iemand vanuit een voertuig of motor zijn vuurwapen op je richt.
-2. Indien je in een armored voertuig rijd en die helemaal kapot is of je ramen er uit liggen telt dit ook als NVOL. Je zal dus moeten meewerken ook al zit je in een armored voertuig.
+
+
+2. Het overvallen met een mêlee-wapen is toegestaan, zolang het binnen armlengte is en het wapen op het slachtoffer gericht is. Buiten deze omstandigheden is medewerking niet verplicht.
+Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
+
+
+3. Wanneer je in een armored voertuig zit en dit voertuig ramen mist, kapotte ramen heeft of volledig kapot is, is medewerking verplicht.  
 
 → **Sanctie:** Categorie 2.
 
