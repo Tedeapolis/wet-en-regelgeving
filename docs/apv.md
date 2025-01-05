@@ -169,6 +169,7 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 1. Het uitvoeren van een zelfmoordscenario is niet toegestaan.
 
     **Uitzondering:** Dit artikel kan alleen worden overschreden met goedkeuring van de staff.
+   Het Bomvest is uitzondering op dit artikel. 
 
 → **Sanctie:** Categorie 8 en/of 200 maanden celstraf.
 
