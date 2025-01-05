@@ -138,6 +138,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 1. Het is niet toegestaan geen waarde te hechten aan het leven van het karakter dat je speelt. Dit omvat onder andere:
     * Wegrijden met een voertuig met een snelheid van minder dan 30 km/u in een levensbedreigende situatie.
+    * Wegrennen van een bomvest welke binnen armlengte van jou staat en jijzelf geen wapen in de handen hebt.
 
     **Uitzondering:** Het is **GEEN NVOL** om te vluchten wanneer iemand vanuit een voertuig of motor zijn vuurwapen op je richt.
 
