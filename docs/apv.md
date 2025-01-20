@@ -369,7 +369,7 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 ### **Artikel 24 - Roleplay & Ledenaantal Criminele Organisaties**
 
 1. Criminele organisaties mogen maximaal 25 leden hebben, exclusief hangarounds maximaal 5.
-2. Samenwerking tussen criminele organisaties is toegestaan met maximaal twee gangs. Tot een totale van 20 leden van beide gangs.
+2. Samenwerking tussen criminele organisaties is toegestaan met maximaal twee gangs. Tot een totale van 10 leden van beide gangs.
 3. Politie-invallen mogen worden gecounterd door maximaal twee groepen met in totaal 25 personen.
 4. Samenwerkingen tussen officiële organisaties moeten worden gemeld via het daarvoor bestemde kanaal in de Discord.
 5. Bij negatieve uitstraling van de organisatie (denk daarbij aan warns / combatgedrag ect.) kunnen sancties volgen.
@@ -483,6 +483,7 @@ Onderstaande regels zijn er alleen op Narcopolis
 
 1. Wanneer jij drugs wilt inladen in een vliegtuig of helikopter moet het vliegtuig of de helikopter binnen een straal van 50 meter van een helipad of landingsbaan staan.
 2. De sea sparrow en dodo mag wel volgeladen worden op open water.
+3. De Kleine eilandjes rondom Narcopolis zijn eveneens uitgezonderd van deze regel. 
 
 → **Sanctie:** categorie 1.
 
