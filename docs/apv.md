@@ -130,7 +130,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 1. Het onnodig mishandelen, vermoorden, uitlokken en/of lastigvallen van anderen zonder intentie tot roleplay is verboden. Dit geldt ook voor dieren.
 
-→ **Sanctie:** Categorie 2.
+→ **Sanctie:** Categorie 1.
 
 ---
 
@@ -288,7 +288,7 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 3. Het betreden van gebouwen met voertuigen is verboden.
 → **Sanctie:** Categorie 1.
 4. Het gebruik van voertuigen als wapen (VDM) is verboden. Het opzettelijk beuken van stilstaande voertuigen met de intentie om mensen om te laten vallen is ook niet toegestaan.
-→ **Sanctie:** Categorie 2.
+→ **Sanctie:** Categorie 1.
 5. **Pit-manoeuvres:** Deze moeten realistisch zijn en mogen niet worden uitgevoerd bij snelheden boven de **125 km/u**.
 
 → **Sanctie:** Categorie 1.
