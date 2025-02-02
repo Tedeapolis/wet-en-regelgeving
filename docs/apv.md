@@ -67,11 +67,20 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ove
 
 ## Overtredingen - Verstoring openbare orde (RP)
 
-### **Artikel 1 - Fail-RP**
+### **Artikel 1 - Cheats/Externe Software**
 
-1. Het is verboden om roleplay van zeer slechte kwaliteit uit te spelen of gedrag te vertonen dat de roleplay verstoort.
+1. Het gebruik maken van software van derde partijen om een voordeel in het spel te krijgen is niet toegestaan.
+Hieronder vallen o.a. cheats/hacks en andere software.
+Enkele voorbeelden van Cheats/Externe Software zijn:
+Crosshairs.
+Bypass Methods, Tools die traces verwijderd bijv. USBOblivion of soortgelijke tools.
+Spoofing software.
+Graphics packs – Voordeel halen uit graphics packs is niet toegestaan, zoals geen/kleine bosjes.
+Stretched spelen – Bij EindhovenRP is alleen Aspect Ratio 16:10 en 16:9 toegestaan.
+Het gebruik van BetterDiscord.
+Het aanpassen van jouw FOV in F8 menu is niet toegestaan.
 
-   → **Sanctie:** Categorie 1.
+   → **Sanctie:** Categorie 7.
 
 Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeien met een achtervolging van een ander, is niet toegestaan.
 
