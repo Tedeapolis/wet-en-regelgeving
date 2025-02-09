@@ -170,7 +170,7 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 1. Het uitvoeren van een zelfmoordscenario is niet toegestaan.
 
     **Uitzondering:** Dit artikel kan alleen worden overschreden met goedkeuring van de staff.
-   Het Bomvest is uitzondering op dit artikel. 
+   Het Bomvest is uitzondering op dit artikel. Hierbij moet wel een roleplay aan vast zitten.
 
 → **Sanctie:** Categorie 8 en/of 200 maanden celstraf.
 
@@ -417,7 +417,6 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 1. (Ex-)leden van een criminele organisatie dienen minimaal 72 uur te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere criminele organisatie voordat zij aangenomen mogen worden bij een overheidsbaan of een andere criminele organisatie.
 2. (Ex-)medewerkers van een overheidsbaan dienen minimaal 72 uur te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere criminele organisatie voordat zij aangenomen mogen worden bij een andere overheidsbaan of een criminele organisatie.
 3. Het is voor de leidinggevenden van overheidsbanen en criminele organisaties verplicht om een document bij te houden met informatie omtrent de in- en uitdiensttreding van hun medewerkers ten behoeve van de handhaving van dit artikel.
-4. (Ex-)medewerkes van een overheidsbaan dienen in de periode van 72 uur niet in de overheidsdiscord te zitten mochten zijn wisselen van baan.
 
 → **Sanctie:** categorie 1. (bij de overheid volgt ook ontslag van de nieuwe baan)
 
