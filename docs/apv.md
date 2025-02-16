@@ -339,7 +339,6 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 * **Justitie**
 * **Ambulance**
 * **TDA Wegenwacht**
-* **Taxi**
 * **Handhaving**
 
 <!-- Kaas saak -->
@@ -408,6 +407,7 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
    * Een persoon die de borgtocht aan gegaan is mag niet meer worden uitgebroken.
    * Indien persoon dood gegaan is in een scenario waarbij de politie betrokken is geld de New Life rule niet meer. De huiszoeking gaat dan alsnog plaatsvinden.
    * Je kan geen spullen pakken/verwijderen uit auto's en appartementen. Dit geld ook voor kleding verwijderen.
+11. 30 minuten voor een herstart mag je geen overvallen doen van locaties. Denk hierbij aan: winkels, banken en casinoheist. 
 → **Sanctie:** categorie 1.
 
 ---
