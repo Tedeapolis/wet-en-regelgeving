@@ -355,7 +355,7 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 
 1. Meldingen naar een overheidsinstantie moeten realistisch en uitgebreid zijn; valse meldingen zijn verboden.
 2. Roleplay met TDA Wegenwacht en Ambulance moet realistisch en uitgebreid zijn. Medewerkers zijn altijd leidend in de roleplay.
-3. Het maken van een melding met de intentie om overheidsmedewerkers te vermoorden, ontvoeren of overvallen is niet toegestaan.
+3. Het maken van een melding om een overheidsmedewerkers te vermoorden, ontvoeren of overvallen is niet toegestaan.
 4. Er moeten altijd minstens vijf overheidsmedewerkers beschikbaar blijven na een ontvoering uitgezonderd zijn de Justitie medewerkers.
 
 **Uitzondering:** Ambulanciers mogen vanaf vier aanwezige collega's ontvoerd worden door criminele organisaties, mits de roleplay goed wordt uitgevoerd.
