@@ -148,7 +148,7 @@
 6. Daders en medeplichtigen van een strafbaar feit worden gestraft volgens de strafbepaling van het desbetreffende artikel.
 7. Indien er onduidelijkheid is over medeplegen of medeplichtigheid tijdens een strafzaak dan kan een Hulpofficier van Justitie, Officier van Justitie of in uiterste gevallen een rechter hierover een eindoordeel vellen.
 
-### A12 - Voorlopige voorhechtenis
+### A12 - Voorlopige hechtenis
 
 1. Voorlopige hechtenis is alleen toegestaan voor feiten waar een celstraf op staat.
 2. Voorlopige hechtenis kan alleen gegeven worden indien er wettig overtuigend bewijs is dat de verdachte een strafbaar feit heeft begaan.
