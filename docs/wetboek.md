@@ -148,11 +148,11 @@
 6. Daders en medeplichtigen van een strafbaar feit worden gestraft volgens de strafbepaling van het desbetreffende artikel.
 7. Indien er onduidelijkheid is over medeplegen of medeplichtigheid tijdens een strafzaak dan kan een Hulpofficier van Justitie, Officier van Justitie of in uiterste gevallen een rechter hierover een eindoordeel vellen.
 
-### A12 - Voorhechtenis
+### A12 - Voorlopige voorhechtenis
 
-1. Voorhechtenis is alleen toegestaan voor feiten waar een celstraf op staat.
-2. Voorhechtenis kan alleen gegeven worden indien er wettig overtuigend bewijs is dat de verdachte een strafbaar feit heeft begaan.
-3. De maximale periode van de voorhechtenis is 24 uur. Dit kan maximaal verlengt worden tot 72 uur voorarrest door een hOvJ.
+1. Voorlopige hechtenis is alleen toegestaan voor feiten waar een celstraf op staat.
+2. Voorlopige hechtenis kan alleen gegeven worden indien er wettig overtuigend bewijs is dat de verdachte een strafbaar feit heeft begaan.
+3. De maximale periode van de voorlopige hechtenis is 24 uur. Dit kan maximaal verlengt worden tot 72 uur voorarrest door een hOvJ. De verdachte moet kunnen aantonen dat hij zich in de 24 uur meerdere malen op gebruikelijke tijden (19:00 -22:00 IRL) beschikbaar heeft gesteld voor een vervolg van het strafproces.
 4. Na de 72 uur kan alleen een OvJ nog toestemming geven voor een langere hechtenis tot aan de rechtszaak.
 
 ### A13 - Borgtocht
