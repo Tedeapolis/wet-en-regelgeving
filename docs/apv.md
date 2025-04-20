@@ -320,12 +320,12 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
     * Het dwingen van iemand om een huis leeg te roven;
     * Nieuwe spelers;
     * Voertuigen (alleen legaal te koop met legaal geld).
-   * GPS afnemen;
 3. Het is de verantwoordelijkheid van de koper om te controleren of aanpassingen (zoals tunes) op een voertuig aanwezig zijn bij overdracht.
 4. Counteren van een overval/gijzeling is verboden zodra politie/KMAR ter plaatse is.
       * **Uitzondering:** Als de crimineel de politie/KMAR is kwijtgeraakt en een nieuw scenario start, mag er wel worden gecounterd.
 5. Wapens, drugs, en gijzelingen in appartementen zijn verboden.
 6. Na een overval/oplichting mag je het slachtoffer niet vermoorden, zelfs niet om de gebeurtenis te laten vergeten.
+7. GPS afnemen is niet toegestaan wanneer je fouilleert op comminucatiemiddelen.
 
 
 → **Sanctie:** categorie 1.
