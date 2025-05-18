@@ -326,6 +326,11 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 5. Wapens, drugs, en gijzelingen in appartementen zijn verboden.
 6. Na een overval/oplichting mag je het slachtoffer niet vermoorden, zelfs niet om de gebeurtenis te laten vergeten.
 7. GPS afnemen is niet toegestaan wanneer je fouilleert op comminucatiemiddelen.
+8. Wanneer jij hebt waargenomen dat personen bezig zijn met criminele activiteiten heb jij de volgende tijden te respecteren om ze nog te overvallen en/of oplichten:
+- Hetzelfde voertuig met de juiste kleur: 15 minuten.
+- Zelfde kenteken: 1 uur.
+- Persoonsherkenning: 4 uren.
+  *Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.*
 
 
 → **Sanctie:** categorie 1.
