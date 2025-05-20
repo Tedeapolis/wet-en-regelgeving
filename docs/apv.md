@@ -290,8 +290,9 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 4. Het gebruik van voertuigen als wapen (VDM) is verboden. Het opzettelijk beuken van stilstaande voertuigen met de intentie om mensen om te laten vallen is ook niet toegestaan.
 → **Sanctie:** Categorie 1.
 5. **Pit-manoeuvres:** Deze moeten realistisch zijn en mogen niet worden uitgevoerd bij snelheden boven de **125 km/u**.
-
 → **Sanctie:** Categorie 1.
+6. Het gebruiken van een eigen voertuig tijdens jobs zoals ramenwassen,vrachtwagenchauffeur,post, enz. is niet toegestaan.
+7. → **Sanctie:** categorie 2.
 
 ---
 
