@@ -1292,6 +1292,17 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 7. De Politie en Koninklijke Marechaussee zijn bevoegd personen die aanwezig zijn in of op de in dit artikel bedoelde locaties of vervoermiddelen of deze juist gaan betreden of hebben verlaten aan fouillering te onderwerpen.
 8. De Politie en Koninklijke Marechaussee maken van hun bevoegdheden slechts gebruik voorzover dat redelijkerwijs voor de vervulling van zijn taak nodig is.
 
+### Artikel X-3 Illegaal transport in vrachtwagentrailer
+1. Het is verboden om op enigerlei wijze illegale goederen te vervoeren in de trailer van een vrachtwagen, ongeacht of de vervoerder op de hoogte is van de inhoud.
+   
+| DEFINITIE ILLEGALE GOEDEREN |
+|------|
+|  a. Gestolen goederen of eigendommen zonder geldige herkomst;
+   b. Chemicaliën die niet volgens de geldende wet- en regelgeving zijn opgeslagen of vervoerd;
+   c. Het vervoeren van dieren;
+   d. Alcohol zonder accijnsregistratie of afkomstig uit illegale productie;
+   e. Medicatie die niet via erkende en gereguleerde kanalen is verkregen. |
+
 ## Titel XI – Bewijs
 
 ### Artikel XI-1 Het opsporingsonderzoek (Artikel 141 SV)
