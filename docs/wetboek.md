@@ -1297,11 +1297,17 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
    
 | DEFINITIE ILLEGALE GOEDEREN |
 |------|
-|  a. Gestolen goederen of eigendommen zonder geldige herkomst;
-   b. Chemicaliën die niet volgens de geldende wet- en regelgeving zijn opgeslagen of vervoerd;
-   c. Het vervoeren van dieren;
-   d. Alcohol zonder accijnsregistratie of afkomstig uit illegale productie;
-   e. Medicatie die niet via erkende en gereguleerde kanalen is verkregen. |
+|  a. Gestolen goederen of eigendommen zonder geldige herkomst; |
+|  b. Chemicaliën die niet volgens de geldende wet- en regelgeving zijn opgeslagen of vervoerd; |
+|  c. Het vervoeren van dieren; |
+|  d. Alcohol zonder accijnsregistratie of afkomstig uit illegale productie; |
+|  e. Medicatie die niet via erkende en gereguleerde kanalen is verkregen. |
+
+|  |Celstraf  | Taakstraf  | boete  |
+|---|---|---|---|
+| Eerste Veroordeling |  | 30 | € 5.000,-  |
+| Tweede Veroordeling  |  | 50 | € 15.000,-  |
+| Meerdere Veroordelingen  | 15 |  | € 20.000,-  |
 
 ## Titel XI – Bewijs
 
