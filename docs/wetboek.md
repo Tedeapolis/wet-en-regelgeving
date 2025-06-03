@@ -880,7 +880,9 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 ### Artikel V-6 Munitiebezit
 
 1. Strafbaar is een persoon die munitie voorhanden heeft.
-2. Voor elke clip word de straf met 25% verhoogd
+2. Strafbaar is een persoon die hulpstukken, specifiek bestemd voor een vuurwapen, in bezit heeft.
+3. De in het tweede lid genoemde bepaling is niet van toepassing, indien het hulpstuk reeds op het vuurwapen is gemonteerd.
+4. Voor elk afzonderlijk opzetstuk of iedere afzonderlijke munitieclip wordt de straf met 25% verhoogd
 
 | ***`Categorie 1 Munitie`***  | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
