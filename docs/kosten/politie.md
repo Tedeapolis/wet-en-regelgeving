@@ -92,6 +92,9 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Lokaalvredebreuk eerste veroordeling | € 1500,- |
 | Lokaalvredebreuk tweede veroordeling | € 2000,- |
 | Lokaalvredebreuk derde veroordeling | € 3000,- |
+| Vissen zonder vispas | €3000,- |
+| Vissen zonder vispas 2e keer | €6000,- |
+| Vissen zonder vispas meerdere keren | €8000,- |
 
 ## Middelmatig misdrijf
 
