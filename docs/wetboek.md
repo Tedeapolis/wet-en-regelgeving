@@ -1137,28 +1137,39 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 2. Een persoon is schuldig wanneer deze weet of behoort te weten dat het verboden is om jacht te maken op dieren die bij wet beschermd zijn en bij zich draagt.
 3. Een persoon is schuldig wanneer deze een beschermd dier voorhanden heeft, vervoert en/of verkoopt.
 
+Artikel VIII-12 Bescherming van in het wild levende diersoorten
+Onder beschermd wordt verstaan: diersoorten die wettelijk beschermd zijn, bijvoorbeeld omdat zij bedreigd worden in hun voortbestaan of beschermd moeten worden tegen overmatige benutting.
+Een persoon is schuldig wanneer deze weet of behoort te weten dat het verboden is om jacht te maken op dieren die bij wet beschermd zijn en bij zich draagt.
+Een persoon is schuldig wanneer deze een beschermd dier voorhanden heeft, vervoert en/of verkoopt.
+
 | Bij wet geclassificeerde beschermde dieren |
 |---|
-| Haaien |
-| Schildpadden |
+| Lepelsteur |
+| Zaagvis |
+| Paling |
+| Hamerkop haai |
+| Zeeschildpad |
+| Luipaard haai |
+| Blauwe haai |
+| Witte haai |
 
-|***`1-5 dieren`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|1-5 dieren | Celstraf  | Taakstraf  | boete  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   |  35 uur  | €5.000 |
-| **Tweede Veroordeling**  | 27 maanden |  | €8.500 |
-| **Meerdere Veroordelingen**  | 45 maanden |   | €10.000 |
+|  Eerste Veroordeling |   |  21 uur  | €1.500 |
+| Tweede Veroordeling  | 10 maanden |  | €2.500 |
+| Meerdere Veroordelingen  | 20 maanden |   | €4.000 |
 
-|***`6-40 dieren`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|6-40 dieren | Celstraf  | Taakstraf  | boete  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |  | 55 uur  | €7.500 |
-| **Tweede Veroordeling**  | 36 maanden |  | €12.500 |
-| **Meerdere Veroordelingen**  | 54 maanden |   | €15.000 |
+|  Eerste Veroordeling |  | 30 uur  | €2.500 |
+| Tweede Veroordeling  | 15 maanden |  | €4.000 |
+| Meerdere Veroordelingen  | 20 maanden |   | €5.000 |
 
-|***`>40 dieren`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|>40 dieren | Celstraf  | Taakstraf  | boete  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 27 maanden |   | €10.000 |
-| **Tweede Veroordeling**  | 60 maanden |  | €15.000 |
-| **Meerdere Veroordelingen**  | 90 maanden |   | €20.000 |
+|  Eerste Veroordeling | 15 maanden |   | €4.000 |
+| Tweede Veroordeling  | 20 maanden |  | €5.000 |
+| Meerdere Veroordelingen  | 30 maanden |   | €10.000 |
 
 ### Artikel VIII-13 Recht op bijstand Advocaat tijdens huiszoeking (artikel 99a sv)
 
@@ -1282,7 +1293,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 1. De Politie en Koninklijke Marechaussee zijn bevoegd aan controle te onderwerpen:
     1. Personen en/of vervoermiddelen en/of plaatsen voor distributie en overslag voor goederen die over de weg worden vervoerd, havens, haventerreinen, luchthavens, grensinspectiepost en luchtvaartterreinen.
     2. Controle zoals beschreven in lid 1 is alleen van toepassing op gebieden die staan gemarkeerd als douanegebied op de douanekaart. Zie hiervoor de kaart douanegebieden in het wetboek.
-    3. Uitzondering op lid 1b betreft vervoersmiddelen en/of personen, die aantoonbaar door de Politie of Koninklijke Marechaussee, vanuit open water het binnenland of binnenwater betreden.
+    3. Uitzondering op lid 1b betreft vervoersmiddelen en/of personen, die aantoonbaar door de Politie of Koninklijke Marechaussee, vanuit open water het binnenland of binnenwater betreden, of die gecontroleerd worden tijdens een georganiseerde kustwachtcontrole.
     4. Indien een vaartuig en/of watervliegtuig op of naast een strand word aangetroffen, zijn de Politie of Koninklijke Marechaussee bevoegd het vaartuig en/of watervliegtuig, de personen en aanwezige voertuigen rondom het vaartuig en/of watervliegtuig binnen een straal van 50 meter (shoutingring) te controleren.
     5. Indien een persoon binnen een straal van 50 meter, zoals genoemd in dit artikel lid 1 onder d, en zijn/haar voertuig buiten deze straal bevind, zijn de Politie en de Koninklijke Marechaussee bevoegd dit voertuig te controleren. Dit voertuig dient op naam te staan van de persoon in aanwezigheid van de genoemde straal.
 3. Onder controle in de zin van lid 1 wordt mede verstaan doorzoeking en fouillering.
