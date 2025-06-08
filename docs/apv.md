@@ -333,7 +333,7 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 
 Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 
-→ **Sanctie:** categorie 1.
+→ **Sanctie:** minimaal categorie 1.
 
 ---
 
