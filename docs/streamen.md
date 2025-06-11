@@ -2,7 +2,10 @@
 
 ## Introductie
 
-Dit document is opgesteld om wat duidelijkheid te bieden wat betreft het creëren van content op Tedeapolis. Het is uiteraard toegestaan om content te creëren op Tedeapolis, echter zijn hier wel regels aan verbonden. Deze regels gelden voor elke speler die content wilt creëren en niet enkel voor de content creators zoals aangewezen in de Tedeapolis discord.
+Dit document is opgesteld om wat duidelijkheid te bieden wat betreft het creëren van content op Tedeapolis. Het is uiteraard toegestaan om content te creëren op Tedeapolis, echter zijn hier wel regels aan verbonden. Deze regels gelden voor elke speler die content wilt creëren en niet enkel voor de content creators zoals aangewezen in de Tedeapolis discord. Als je op een van de onderstaande platformen streamt of video's upload kan je dus in aanmerking komen voor de rol. Dit word wel nog eens nagekeken door de Streamer Aanspreekpunten. Maak dus gerust een ticket aan om te informeren naar de mogelijkheden.
+
+Vormen van contentplatvormen:
+Twitch, Youtube en Tiktok
 
 ## Regels
 
@@ -16,6 +19,7 @@ Dit document is opgesteld om wat duidelijkheid te bieden wat betreft het creëre
 8. Het is niet toegestaan voor content creators vanuit overheidsdiensten om discord porto te laten horen op video's of livestreams.
 9. Het is niet toegestaan om deepwebkanalen, telefoonnummers of andere inhoudelijke informatie van telefoons te tonen in video's.
 10. Tijdens een livestream is het verplicht om gebruik te maken van streamermodus. Hiermee wordt informatie zoals vernoemd in lid 10 verborgen.  
+11. Het is niet toegestaan om Tedeapolis of een andere spelers in een verkeerd daglicht te zetten.
 
 ## Sancties
 
