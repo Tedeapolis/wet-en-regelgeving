@@ -365,7 +365,8 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 3. Het maken van een melding om een overheidsmedewerkers te vermoorden, ontvoeren of overvallen is niet toegestaan.
 4. Er moeten altijd minstens vijf overheidsmedewerkers beschikbaar blijven na een ontvoering uitgezonderd zijn de Justitie medewerkers.
 
-**Uitzondering:** Ambulanciers mogen vanaf vier aanwezige collega's ontvoerd worden door criminele organisaties, mits de roleplay goed wordt uitgevoerd.
+**Uitzondering:** Ambulanciers mogen vanaf vier aanwezige collega's ontvoerd worden door criminele organisaties, mits de roleplay goed wordt uitgevoerd en het enkel voor de eigen groep is. 
+
 5. Het is toegestaan een agent te ontvoeren om een voertuig uit de opslag te halen, mits het openstaande bedrag wordt voldaan. Dit mag niet tussen 00:00 en 10:00 uur.
 
 → **Sanctie:** categorie 5, bij herhaling categorie 6.
