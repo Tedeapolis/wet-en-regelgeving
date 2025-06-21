@@ -467,6 +467,7 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 3. Het verhandelen van aandelen in loodsen is toegestaan.
 4. Alle overeenkomsten met betrekking tot loodsen moeten schriftelijk worden vastgelegd en gedocumenteerd in de stad Tedeapolis met het commando /docu, en dienen te worden ondertekend door alle betrokken partijen.
 5. In geval van onduidelijkheid over de bepalingen van lid 2 of 3, zal het oordeel van een staflid leidend zijn, en dit staflid zal beslissen over de verdeling van de loods. De partij die beweert benadeeld te zijn, dient bewijsmateriaal te overleggen en draagt de verantwoordelijkheid voor de bewijslast.
+6. Indien een loods en eigenaar beide minimaal 120 dagen inactief zijn, kan SA+ deze loods opnieuw beschikbaar maken voor het publiek.
 
 → **Sanctie:** categorie 3. Indien de overtreding over bedragen boven de 2 miljoen gaat, zal er gestraft worden volgens categorie 5.
 
