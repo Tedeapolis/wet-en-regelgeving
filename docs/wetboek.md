@@ -74,33 +74,50 @@
 ### A7 - Inbeslagname
 
 1. Wanneer een strafbaar feit gepleegd is met een goed, of wanneer een goed uit een strafbaar feit is verkregen, kan deze in beslag worden genomen.
-    1. De keuze voor inbeslagname is ter beoordeling van Politie en/of de Koninklijke Marechaussee.
-    2. Verwerking van de in beslag genomen goederen (behalve voertuigen) geschiedt volgens richtlijn van Politie;
-2. Wanneer een voertuig in beslag wordt genomen vanwege een strafbaar feit:
-    1. Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek, in deze 3 dagen heeft de Politie en/ of Koninklijke Marechaussee de tijd om de bewijzen te verzamelen en beschikbaar te stellen;
-    2. Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een strafbaar feit, uitgekocht kunnen worden op basis van de ernst van het strafbaar feit, 24 uur nadat de inbeslagname is geregistreerd in de politiesystemen;
-    3. Zal deze, wanneer, met inachtneming van de vorige regel, het voertuig tevens uit het water moest worden gehaald, uitgekocht kunnen worden op toevoeging van 10% op het basisuitkooppercentage;
-    4. Zal deze kosteloos worden teruggegeven als er na 3 dagen tijd niet voldoende bewijs is voor de inbeslagname, als een advocaat op de 3e dag pas de hOvj/Ovj benaderd, heeft de hOvj/Ovj het recht om een extra 48 uur te nemen voor extra bewijs op te vragen als dat er zou zijn.
-    5. Zal deze kosteloos worden teruggegeven indien aan is getoond dat het voertuig als gestolen is opgegeven voor de tijd van het gepleegde strafbaar feit. Het opgeven als gestolen moet worden gedaan door middel van aangifte bij een ambtenaar in functie.
-    6. Wanneer het goed bewijsbaar onderdeel was van het strafbare feit en de eigenaar daarvan overleden is, dan zal het voertuig ook uitgekocht moeten worden volgens de standaardregels.
-    7. Wanneer een advocaat een hOvj of Ovj inschakeld heeft deze altijd het recht om 48 uur de tijd te krijgen om bewijs op te vragen vanaf het moment dat hij of zij ingeschakeld wordt. Deze 48 uur kunnen dus ook het maximum van 3 dagen/ 72 uur verlengen als de hOvj of Ovj pas op de 3e dag wordt ingeschakeld. Indien de officier op de 1ste dag wordt ingeschakeld, dan is lid a leidend en mag deze 48 uur niet gebruikt worden om de maximum duur van 3 dagen te verlengen.
-    8. Er kan alleen in beroep gegaan worden tegen een inbeslagname door middel van een advocaat. Het voertuig kan er alleen uitgehaald worden als er een advocaat betrokken is, of d.m.v. het klachtenformulier.
-    9. Uitzonderingsgrond voor teruggave van het voertuig is, indien het een voertuig betreft zoals omschreven in Artikel III-14 Illegale voertuigen of indien een voertuig voor de vierde keer in beslag wordt genomen. In dit geval zal het voertuig worden vernietigd of verkocht. Ook voertuigen die langer dan veertien (14) dagen in de opslag staan, zullen worden vernietigd of verkocht. Dit laatste geldt niet indien er bezwaar is aangetekend via het klachtenformulier van de politie of koninklijke marechaussee.
-3. Geldige redenen voor inbeslagname zijn:
-    1. Plegen van een strafbaar feit uit het wetboek van Tedeapolis waarbij het goed direct of indirect betrokken is, behalve fout parkeren en een snelheidsovertreding met uitzondering zoals beschreven in lid E van dit artikel;
-    2. Plegen van een misdrijf uit de Nederlandse wetgeving waarbij het goed direct of indirect betrokken is;
-    3. Niet stoppen voor stopteken gegeven door middel van een politietransparant of rode lamp;
-    4. Niet voldoen aan (verkeers)aanwijzing van bevoegde en als zodanig kenbare opsporingsambtenaar of lid van de Koninklijke Luchtmacht;
-    5. Snelheidsovertreding van meer dan 100% van de maximumsnelheid;
-    6. Op de openbare weg rijden met een voertuig met daarop een WOK-status.
-4. Er geldt een basisuitkooppercentage van 10% indien er sprake is van een verkeersdelict. Hierbij geldt een maximaal uitkoopbedrag van 100.000 euro.
-5. Er geldt een basisuitkooppercentage van 10% indien er niet voldaan wordt aan een (verkeers)aanwijzing van een bevoegd en als zodanig kenbaar lid van de Koninklijke Luchtmacht.
-   * Indien de (verkeers)aanwijzing(en) van de Koninklijke Luchtmacht worden opgedragen en blijkt dat het toestel om wat voor reden dan ook in beslag genomen moet worden, geldt er naast het basisuitkooppercentage van 10% een maximaal uitkoopbedrag van 200.000 euro.
-6. Er geldt een basisuitkooppercentage van 20% indien er sprake is van een ander delict dan een verkeersdelict.
-7. Alle bovenstaande leden gelden ook voor helikopters en vliegtuigen.
-8. Meerdere notities voor het vliegen zonder vliegbrevet zal resulteren in een inbeslagname van het voertuig.
+    1. De keuze voor inbeslagname is ter beoordeling van Politie en/of de Koninklijke Marechaussee.  
+    2. Verwerking van de in beslag genomen goederen (behalve voertuigen) geschiedt volgens richtlijn van Politie.
 
-### A8 - Openstaande boetes
+2. Wanneer een voertuig in beslag wordt genomen vanwege een strafbaar feit:
+    1. Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek. In deze 3 dagen heeft de Politie en/of Koninklijke Marechaussee de tijd om de bewijzen te verzamelen en beschikbaar te stellen.  
+    2. Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een strafbaar feit, uitgekocht kunnen worden op basis van de ernst van het strafbaar feit, 24 uur nadat de inbeslagname is geregistreerd in de politiesystemen.  
+    3. Zal deze, wanneer het voertuig tevens uit het water moest worden gehaald, uitgekocht kunnen worden met een toevoeging van 10% op het basisuitkooppercentage.  
+    4. Zal deze kosteloos worden teruggegeven als er na 3 dagen tijd niet voldoende bewijs is voor de inbeslagname. Als een advocaat op de 3e dag pas de hOvj/Ovj benadert, heeft de hOvj/Ovj het recht om een extra 48 uur te nemen om extra bewijs op te vragen, indien aanwezig.  
+    5. Zal deze kosteloos worden teruggegeven indien is aangetoond dat het voertuig als gestolen is opgegeven vóór de tijd van het gepleegde strafbaar feit. Het opgeven als gestolen moet worden gedaan door middel van aangifte bij een ambtenaar in functie.  
+    6. Wanneer het goed bewijsbaar onderdeel was van het strafbare feit en de eigenaar daarvan overleden is, zal het voertuig ook uitgekocht moeten worden volgens de standaardregels.  
+    7. Wanneer een advocaat een hOvj of Ovj inschakelt, heeft deze altijd het recht om 48 uur de tijd te krijgen om bewijs op te vragen vanaf het moment van inschakeling. Deze 48 uur kunnen het maximum van 3 dagen (72 uur) verlengen als de hOvj of Ovj pas op de 3e dag wordt ingeschakeld. Indien de OvJ op de 1e dag wordt ingeschakeld, dan is lid a leidend en mag deze 48 uur niet worden gebruikt om de maximale duur van 3 dagen te verlengen.  
+    8. Er kan alleen in beroep worden gegaan tegen een inbeslagname door middel van een advocaat. Het voertuig kan alleen worden vrijgegeven als er een advocaat betrokken is, of via het klachtenformulier.  
+    9. Uitzonderingsgrond voor teruggave van het voertuig is van toepassing indien:  
+        - Het voertuig valt onder Artikel III-14 (Illegale voertuigen); of  
+        - Het voertuig voor de vierde keer in beslag is genomen.  
+        In beide gevallen zal het voertuig worden vernietigd of verkocht. Voertuigen die langer dan veertien (14) dagen in de opslag staan, worden eveneens vernietigd of verkocht, tenzij bezwaar is aangetekend via het klachtenformulier van Politie of Koninklijke Marechaussee.
+
+3. Geldige redenen voor inbeslagname zijn:
+    1. Plegen van een strafbaar feit uit het wetboek van Tedeapolis waarbij het goed direct of indirect betrokken is, met uitzondering van fout parkeren en snelheidsovertredingen zoals beschreven in lid 4;  
+    2. Plegen van een misdrijf uit de Nederlandse wetgeving waarbij het goed direct of indirect betrokken is;  
+    3. Niet stoppen voor een stopteken gegeven door middel van een politietransparant of rode lamp;  
+    4. Niet voldoen aan een (verkeers)aanwijzing van een bevoegd en als zodanig kenbare opsporingsambtenaar;  
+    5. Snelheidsovertreding van meer dan 100% van de maximumsnelheid;  
+    6. Rijden op de openbare weg met een voertuig met een WOK-status.
+
+4. Er geldt een basisuitkooppercentage van 10% indien er sprake is van een verkeersdelict. Hierbij geldt een maximaal uitkoopbedrag van €100.000,-.
+5. Er geldt een basisuitkooppercentage van 20% indien er sprake is van een ander delict dan een verkeersdelict.
+
+### A8 - Inbeslagname van luchtvaartvoertuigen
+
+1. Wanneer een luchtvaartvoertuig (zoals een helikopter, vliegtuig of ander luchtvaartuig) betrokken is bij een strafbaar feit, kan deze in beslag worden genomen.
+    1. De keuze voor inbeslagname is ter beoordeling van Politie en/of de Koninklijke Marechaussee.
+    2. Er geldt een basisuitkooppercentage van 20%. (Uizondering hierop is lid 2) 
+2. Inbeslagname van onbemande luchtvaartvoertuigen met illegale goederen:
+    1. Indien een onbemande helikopter of ander onbemand luchtvaartvoertuig wordt aangetroffen met illegale goederen, gelden de volgende maximale uitkoopkosten:
+        - €200.000,- indien de eigenaar volledig meewerkt aan het onderzoek of de vordering;
+3. Inbeslagname in overige gevallen:
+    1. indien de helikopter of ander luchtvaartvoertuig inbelag is genomen, gelden de volgende maximale uitkoopkosten:
+        - €500.000,- indien de eigenaar niet meewerkt met vorderingen van Politie of Koninklijke Marechaussee.
+3. Algemene bepalingen:
+    1. Wanneer het voertuig na inbeslagname niet binnen veertien (14) dagen wordt opgeëist of uitgekocht, zal het worden vernietigd of verkocht, tenzij bezwaar is ingediend via het klachtenformulier.
+    3. Beroep tegen de inbeslagname is uitsluitend mogelijk via een advocaat.
+
+### A9 - Openstaande boetes
 
 1. Wanneer tijdens een controle of aanhouding aangetoond wordt dat het totaalbedrag van openstaande boetes boven de € 10000,- reikt, kan dit impact hebben op de strafeis.
     1. Wanneer dit aangetoond wordt bij het opvragen van een inbeslaggenomen goed of voertuig kan geëist worden eerst het boetebedrag te voldoen;
@@ -109,7 +126,7 @@
     4. Deze boete of taakstraf wordt bijgevoegd bij de totale straf eis.
 2. Onder het voldoen van het boetebedrag wordt verstaan tenminste een zodanige betaling te voldoen dat het totale boetebedrag onder de € 10000,- komt.
 
-### A9 - Consultatierecht
+### A10 - Consultatierecht
 
 1. Krachtens artikel 6 van het Europees Verdrag voor de Rechten van de Mens is het een verdachte, voorafgaand aan een politieverhoor, toegestaan consultatie te ontvangen van zijn of haar voorkeursadvocaat.
 2. Indien de voorkeursadvocaat genoemd in lid 1 niet beschikbaar is, is een vervangend advocaat afdoende om te voldoen aan dit recht.
@@ -117,7 +134,7 @@
 4. Indien de oproep zoals genoemd in lid 3 niet mogelijk blijkt, of de verdachte weigert een advocaat op te roepen, dan is de politie verplicht tot het oproepen van een advocaat voor de verdachte;
 5. Uitsluitingsgrond voor lid 4 is wanneer verdachte expliciet en ondubbelzinnig afziet van zijn of haar recht tot consultatie.
 
-### A10 - Algemene rechtsbeginselen
+### A11 - Algemene rechtsbeginselen
 
 1. De algemene rechtsbeginselen stellen eisen en scheppen kaders aan beleid of regelgeving. Beleid of regelgeving dat onvoldoende aansluit op algemene rechtsbeginselen kan onderhevig zijn aan uitsluiting of verwerping.
 2. Onder de algemene rechtsbeginselen wordt verstaan:
@@ -133,7 +150,7 @@
     10. Ne bis in idem, waarbij iemand niet tweemaal veroordeeld mag worden voor hetzelfde feit;
     11. Het schutznorm-beginsel, waarbij er geen rechtsgevolg of sanctie wordt gekoppeld aan een vormfout als de verdachte niet zelf is getroffen in een (verdedigings)belang dat door het geschonden vormvoorschrift wordt beschermd.
 
-### A11 - Medeplichtigheid en medeplegen
+### A12 - Medeplichtigheid en medeplegen
 
 1. Als medeplichtigen van een strafbaar feit worden gestraft:
     1. zij die opzettelijk behulpzaam zijn bij het plegen van het misdrijf;
@@ -148,14 +165,14 @@
 6. Daders en medeplichtigen van een strafbaar feit worden gestraft volgens de strafbepaling van het desbetreffende artikel.
 7. Indien er onduidelijkheid is over medeplegen of medeplichtigheid tijdens een strafzaak dan kan een Hulpofficier van Justitie, Officier van Justitie of in uiterste gevallen een rechter hierover een eindoordeel vellen.
 
-### A12 - Voorlopige hechtenis
+### A13 - Voorlopige hechtenis
 
 1. Voorlopige hechtenis is alleen toegestaan voor feiten waar een celstraf op staat.
 2. Voorlopige hechtenis kan alleen gegeven worden indien er wettig overtuigend bewijs is dat de verdachte een strafbaar feit heeft begaan.
 3. De maximale periode van de voorlopige hechtenis is 24 uur. Dit kan maximaal verlengt worden tot 72 uur voorarrest door een hOvJ. De verdachte moet kunnen aantonen dat hij zich in de 24 uur meerdere malen op gebruikelijke tijden (19:00 -22:00 IRL) beschikbaar heeft gesteld voor een vervolg van het strafproces.
 4. Na de 72 uur kan alleen een OvJ nog toestemming geven voor een langere hechtenis tot aan de rechtszaak.
 
-### A13 - Borgtocht
+### A14 - Borgtocht
 
 1. Een verdachte heeft recht op een borgtocht indien er een huiszoeking is aangevraagd. Dit moet altijd goedgekeurd worden door een hOvJ of hoger.
 2. Bij een akkoord van een borgtocht ben je je verplicht te houden aan de afspraken die gemaakt zijn.
