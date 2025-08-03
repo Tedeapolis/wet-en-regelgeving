@@ -322,8 +322,8 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
     * Nieuwe spelers;
     * Voertuigen (alleen legaal te koop met legaal geld).
 3. Het is de verantwoordelijkheid van de koper om te controleren of aanpassingen (zoals tunes) op een voertuig aanwezig zijn bij overdracht.
-4. Counteren van een overval/gijzeling is verboden zodra politie/KMAR ter plaatse is.
-      * **Uitzondering:** Als de crimineel de politie/KMAR is kwijtgeraakt en een nieuw scenario start, mag er wel worden gecounterd.
+4. Counteren van een overval/gijzeling is verboden zodra er een politie/KMAR onderhandelaar ter plaatse is.
+      * **Uitzondering:** is wanneer persoon een ongeplande gijzeling start, terwijl je hiervoor in scenario zat met desbetreffende crimineel. Je mag de crimineel dan counteren op het moment dat hij de politie en/of KMAR kwijtgeraakt is uit een achtervolging. Denk hierbij aan een straatgijzeling van de politie en/of burgers.
 5. Wapens, drugs, en gijzelingen in appartementen zijn verboden.
 6. Na een overval/oplichting mag je het slachtoffer niet vermoorden, zelfs niet om de gebeurtenis te laten vergeten.
 7. Wanneer jij hebt waargenomen dat personen bezig zijn met criminele activiteiten heb jij de volgende tijden te respecteren om ze nog te overvallen en/of oplichten:
@@ -364,10 +364,8 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 2. Roleplay met TDA Wegenwacht en Ambulance moet realistisch en uitgebreid zijn. Medewerkers zijn altijd leidend in de roleplay.
 3. Het maken van een melding om een overheidsmedewerkers te vermoorden, ontvoeren of overvallen is niet toegestaan.
 4. Er moeten altijd minstens vijf overheidsmedewerkers beschikbaar blijven na een ontvoering uitgezonderd zijn de Justitie medewerkers.
-
-**Uitzondering:** Ambulanciers mogen vanaf vier aanwezige collega's ontvoerd worden door criminele organisaties, mits de roleplay goed wordt uitgevoerd en het enkel voor de eigen groep is. 
-
-5. Het is toegestaan een agent te ontvoeren om een voertuig uit de opslag te halen, mits het openstaande bedrag wordt voldaan. Dit mag niet tussen 00:00 en 10:00 uur.
+5. Ambulanciers mogen vanaf vier aanwezige collega's ontvoerd worden door criminele organisaties, mits de roleplay goed wordt uitgevoerd en het enkel voor de eigen groep is.
+6. Het is toegestaan een agent te ontvoeren om een voertuig uit de opslag te halen, mits het openstaande bedrag wordt voldaan. Dit mag niet tussen 00:00 en 10:00 uur.
 
 → **Sanctie:** categorie 5, bij herhaling categorie 6.
 
