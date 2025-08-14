@@ -469,7 +469,7 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 
 → **Sanctie:** categorie 3. Indien de overtreding over bedragen boven de 2 miljoen gaat, zal er gestraft worden volgens categorie 5.
 
-### **Artikel 31 - Eerijkheid in tickets**
+### **Artikel 31 - Eerlijkheid in tickets**
 
 1. Je dient ten alle tijden eerlijk te zijn in een ticket.
 2. Als je informatie gevraagd hebt aan een stafflid via report en/of prive dien je dit te vermelden.
