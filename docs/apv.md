@@ -446,6 +446,7 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
     * Verbaal (op normale of luide toon) of via een actiecommando (/me) aangeven dat de persoon in het voertuig wordt getrokken.
     * Je dient iemand te overmeesteren voordat er gebruik gemaakt kan worden van het F6 menu.
     * fouilleren mag alleen met een legitieme reden.
+    * Wanneer je enkel op communicatie fouilleert mogen zichtbare wapens niet afgenomen worden.
 
 2. Het uit een voertuig trekken van een persoon dient gepaard te gaan met de volgende realistische roleplay-handelingen:
     * Het inslaan van de ruiten met daarbij de juiste attributen zoals een wapen(indien van toepassing).
