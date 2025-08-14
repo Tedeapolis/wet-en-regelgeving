@@ -1023,7 +1023,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 1. Wanneer besloten wordt tot een strafvermindering kan als leidraad gebruikt worden:
     1. vermindering van maximaal de helft bij een onvoorwaardelijke tijdelijke vrijheidsstraf, taakstraf of geldboete, of
     2. de omzetting van maximaal de helft van het onvoorwaardelijke gedeelte van een vrijheidsstraf, taakstraf of van een geldboete in een voorwaardelijk gedeelte, of
-    3. de vervanging van maximaal een derde gedeelte van een vrijheidsstraf door taakstraf of een onvoorwaardelijke geldboete.
+    3. de vervanging van maximaal een derde gedeelte van een vrijheidsstraf of een taakstraf door een onvoorwaardelijke geldboete.
 2. Strafverminderingsgronden worden bepaald in overleg tussen overheid en verdachte met bijstand van advocaat. Hierin meegenomen worden:
     1. eventuele eerdere vergrijpen (en/of het gebrek daar aan);
     2. goed gedrag en meewerking van de verdachte tijdens en na zijn of haar aanhouding;
