@@ -352,9 +352,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 50 uur  | € 5000,-  |
-| **Tweede Veroordeling**  |   | 60 uur  | € 7500,-  |
-| **Meerdere Veroordelingen**  |   | 70 uur  | € 10000,-  |
+|  **Eerste Veroordeling** |   | 30 uur  | € 5000,-  |
+| **Tweede Veroordeling**  |   | 40 uur  | € 7500,-  |
+| **Meerdere Veroordelingen**  |   | 50 uur  | € 10000,-  |
 
 ### Artikel II-7 Zware mishandeling (302 SR)
 
