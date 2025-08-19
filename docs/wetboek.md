@@ -1137,7 +1137,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | Bij wet geclassificeerde verboden domeinen | Gelegen Nabij Postcode |
 |---|---|
 | Luchtmachtbasis | 719
-| Vliegdekschip | 3705
+| Vliegdekschepen | 3705 & 719
 | Gevangenis | 704
 | Ministerie van Defensie | 6035
 |  |
