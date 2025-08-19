@@ -192,6 +192,7 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
     * Bij ontsnappingen (Art. 25 APV) geldt hetzelfde videobewijsvereiste als bij lid 1.
     * In calls zitten met je vrienden die geen Tedeapolis spelen is ook verboden.
     * Het is toegestaan om in Discord via een "ic-bewijs" kanaal, bewijs te delen in Discord. Dit bewijs moet opgenomen zijn met een bodycam (360 graden), dashcam (voor/achter) en/of telefoon in de hand (360 graden).
+    * Een dashcam en/of bodycam is niet meer geldig vanaf het moment dat je ontploft bent. Dit telt ook op ontplofte voertuigen. Mocht dit toch gebruikt worden is dit Metagaming.
 
 → **Sanctie:** Categorie 1.
 
@@ -209,6 +210,7 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 
 1. Het gebruik van software of hulpmiddelen van derden (cheats) om voordeel te behalen in het spel is verboden.
 2. Dit artikel geldt ook voor de Discord-client. Het gebruik van bijvoorbeeld **BetterDiscord** of soortgelijke clients is niet toegestaan.
+3. Stretched resolutie mag ook niet. Hiermee pak je ook een oneerlijk voordeel.
 
 → **Sanctie:** Categorie 7.
 
@@ -330,6 +332,7 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
    * Hetzelfde voertuig met de juiste kleur: 15 minuten;
    * Zelfde kenteken: 1 uur;
    * Persoonsherkenning: 4 uren;
+8. Indien je aan het overladen, kloppen of illegale substanties aan het vervoeren bent moet je altijd een prop zien. Indien de prop niet zichtbaar is, heb je dus foutief gehandeld.
 
 Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 
@@ -588,7 +591,6 @@ Het overtreden van de onderstaande regels zullen resulteren in sancties voor de 
 * Ben je als agent niet in game, mag je niet deelnemen aan een overval.
 * Wanneer je wordt vermoord door een rivaliserende gang mag je 24 uur niet deelnemen aan eventuele wraakacties of roleplay richting een andere gang.
 * Het is verboden een ambulancier of een medewerker van de TDA Wegenwacht te vermoorden of te ontvoeren bij een oproep of gebruik van hen.
-* Het is verboden om drugslocaties of wapens te verkopen via twitter, ook als je het hebt over "theeblaadjeslocaties", "broodmessen", "waterpistolen" en dergelijke.
 
 ---
 
