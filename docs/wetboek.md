@@ -1020,10 +1020,14 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ### Artikel VII-3 Strafvermindering (44a.2 SR)
 
-1. Wanneer besloten wordt tot een strafvermindering kan als leidraad gebruikt worden:
-    1. vermindering van maximaal de helft bij een onvoorwaardelijke tijdelijke vrijheidsstraf, taakstraf of geldboete, of
-    2. de omzetting van maximaal de helft van het onvoorwaardelijke gedeelte van een vrijheidsstraf, taakstraf of van een geldboete in een voorwaardelijk gedeelte, of
-    3. de vervanging van maximaal een derde gedeelte van een vrijheidsstraf door taakstraf of een onvoorwaardelijke geldboete.
+Bij het nemen van een beslissing tot strafvermindering kan de rechter of bevoegde instantie de gehele straf, of een deel daarvan, verminderen, ongeacht de aard van de straf. De omvang en vorm van de strafvermindering worden afgestemd op de omstandigheden van het geval.
+Daarbij kan onder meer worden overwogen:
+•    het verminderen van een onvoorwaardelijke tijdelijke vrijheidsstraf, taakstraf of geldboete;
+•    het omzetten van een onvoorwaardelijk gedeelte van een straf in een voorwaardelijk gedeelte;
+•    het vervangen van (een deel van) een vrijheidsstraf door een taakstraf of een geldboete.
+•    het vervangen van (een deel van) een taakstraf door een vrijheidsstraf of een geldboete.
+•    het vervangen van (een deel van) een geldboete door een vrijheidsstraf of een taakstraf.
+De omvang en vorm van de strafvermindering worden afgestemd op de omstandigheden van het geval.
 2. Strafverminderingsgronden worden bepaald in overleg tussen overheid en verdachte met bijstand van advocaat. Hierin meegenomen worden:
     1. eventuele eerdere vergrijpen (en/of het gebrek daar aan);
     2. goed gedrag en meewerking van de verdachte tijdens en na zijn of haar aanhouding;
