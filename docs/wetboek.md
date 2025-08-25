@@ -1020,14 +1020,15 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ### Artikel VII-3 Strafvermindering (44a.2 SR)
 
-Bij het nemen van een beslissing tot strafvermindering kan de rechter of bevoegde instantie de gehele straf, of een deel daarvan, verminderen, ongeacht de aard van de straf. De omvang en vorm van de strafvermindering worden afgestemd op de omstandigheden van het geval.
+Bij het nemen van een beslissing tot strafvermindering kan de rechter of bevoegde instantie de gehele straf, of een deel daarvan, verminderen, ongeacht de aard van de straf. De omvang en vorm van de strafvermindering worden afgestemd op de omstandigheden van het geval.  
 Daarbij kan onder meer worden overwogen:
-•    het verminderen van een onvoorwaardelijke tijdelijke vrijheidsstraf, taakstraf of geldboete;
-•    het omzetten van een onvoorwaardelijk gedeelte van een straf in een voorwaardelijk gedeelte;
-•    het vervangen van (een deel van) een vrijheidsstraf door een taakstraf of een geldboete.
-•    het vervangen van (een deel van) een taakstraf door een vrijheidsstraf of een geldboete.
-•    het vervangen van (een deel van) een geldboete door een vrijheidsstraf of een taakstraf.
+   1. Het verminderen van een onvoorwaardelijke tijdelijke vrijheidsstraf, taakstraf of geldboete;
+   2. Het omzetten van een onvoorwaardelijk gedeelte van een straf in een voorwaardelijk gedeelte;
+   3. Het vervangen van (een deel van) een vrijheidsstraf door een taakstraf of een geldboete.
+   4. Het vervangen van (een deel van) een taakstraf door een vrijheidsstraf of een geldboete.
+   5. Het vervangen van (een deel van) een geldboete door een vrijheidsstraf of een taakstraf.  
 De omvang en vorm van de strafvermindering worden afgestemd op de omstandigheden van het geval.
+
 2. Strafverminderingsgronden worden bepaald in overleg tussen overheid en verdachte met bijstand van advocaat. Hierin meegenomen worden:
     1. eventuele eerdere vergrijpen (en/of het gebrek daar aan);
     2. goed gedrag en meewerking van de verdachte tijdens en na zijn of haar aanhouding;
