@@ -143,8 +143,9 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
     **Uitzondering:** Het is **GEEN NVOL** om te vluchten wanneer iemand vanuit een voertuig of motor zijn vuurwapen op je richt.
 
 
-2. Het overvallen met een mêlee-wapen is toegestaan, zolang het binnen armlengte is en het wapen op het slachtoffer gericht is. Buiten deze omstandigheden is medewerking niet verplicht.
-Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
+2. Een overval met een mêlee-wapen is toegestaan, mits het wapen zich binnen armlengte van het slachtoffer bevindt en daadwerkelijk op het slachtoffer is gericht. In deze situatie is het slachtoffer verplicht om mee te werken.
+Ook wanneer het slachtoffer de deuren van zijn/haar voertuig open heeft én het mêlee-wapen zich binnen armlengte van het lichaam van het slachtoffer bevindt, is medewerking verplicht.
+In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte bevindt of het slachtoffer een vuurwapen in bezit heeft, is medewerking niet verplicht.
 
 
 3. Wanneer je in een armored voertuig zit en dit voertuig ramen mist, kapotte ramen heeft of volledig kapot is, is medewerking verplicht.  
