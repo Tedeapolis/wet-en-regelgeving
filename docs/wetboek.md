@@ -27,12 +27,12 @@
 ### A3 - Verjaring van het strafbaar feit
 
 1. Het recht tot strafvordering vervalt door verjaring:
-    * Voor misdrijven waar de totale strafeis tussen de 1 en 100 maanden bedroeg, verjaren deze feiten na 10 dagen;
-    * Voor misdrijven waar de totale strafeis tussen de 101 en 150 maanden maanden bedroeg, verjaren deze feiten na 15 dagen;
-    * Voor misdrijven waar de totale strafeis tussen de 151 en 250 maanden bedroeg, verjaren deze feiten na 30 dagen;
-    * Voor misdrijven waar de totale strafeis meer dan 250 maanden bedroeg, verjaren deze feiten na 45 dagen;
+    * Voor misdrijven waar de totale strafeis tussen de 1 en 150 maanden bedroeg, verjaren deze feiten na 7 dagen;
+    * Voor misdrijven waar de totale strafeis tussen de 151 en 250 maanden maanden bedroeg, verjaren deze feiten na 14 dagen;
+    * Voor misdrijven waar de totale strafeis meer dan 251 maanden bedroeg, verjaren deze feiten na 21 dagen;
 
 2. Het recht tot strafvordering vervalt niet door verjaring voor misdrijven waar de totale strafeis geen celstraf bedroeg.
+3. Wanneer een zaak door de rechtbank is beoordeeld kan het zijn dat een misdrijf pas na 42 dagen verjaart.
 
 ### A4 - Strafbepaling
 
@@ -87,8 +87,8 @@
     7. Wanneer een advocaat een hOvj of Ovj inschakelt, heeft deze altijd het recht om 48 uur de tijd te krijgen om bewijs op te vragen vanaf het moment van inschakeling. Deze 48 uur kunnen het maximum van 3 dagen (72 uur) verlengen als de hOvj of Ovj pas op de 3e dag wordt ingeschakeld. Indien de OvJ op de 1e dag wordt ingeschakeld, dan is lid a leidend en mag deze 48 uur niet worden gebruikt om de maximale duur van 3 dagen te verlengen.  
     8. Er kan alleen in beroep worden gegaan tegen een inbeslagname door middel van een advocaat. Het voertuig kan alleen worden vrijgegeven als er een advocaat betrokken is, of via het klachtenformulier.  
     9. Uitzonderingsgrond voor teruggave van het voertuig is van toepassing indien:  
-        - Het voertuig valt onder Artikel III-14 (Illegale voertuigen); of  
-        - Het voertuig voor de vierde keer in beslag is genomen.  
+        * Het voertuig valt onder Artikel III-14 (Illegale voertuigen); of  
+        * Het voertuig voor de vierde keer in beslag is genomen.  
         In beide gevallen zal het voertuig worden vernietigd of verkocht. Voertuigen die langer dan veertien (14) dagen in de opslag staan, worden eveneens vernietigd of verkocht, tenzij bezwaar is aangetekend via het klachtenformulier van Politie of Koninklijke Marechaussee.
 
 3. Geldige redenen voor inbeslagname zijn:
@@ -106,16 +106,16 @@
 
 1. Wanneer een luchtvaartvoertuig (zoals een helikopter, vliegtuig of ander luchtvaartuig) betrokken is bij een strafbaar feit, kan deze in beslag worden genomen.
     1. De keuze voor inbeslagname is ter beoordeling van Politie en/of de Koninklijke Marechaussee.
-    2. Er geldt een basisuitkooppercentage van 20%. (Uizondering hierop is lid 2) 
+    2. Er geldt een basisuitkooppercentage van 20%. (Uizondering hierop is lid 2)
 2. Inbeslagname van onbemande luchtvaartvoertuigen met illegale goederen:
     1. Indien een onbemande helikopter of ander onbemand luchtvaartvoertuig wordt aangetroffen met illegale goederen, gelden de volgende maximale uitkoopkosten:
-        - €200.000,- indien de eigenaar volledig meewerkt aan het onderzoek of de vordering;
+        * €200.000,- indien de eigenaar volledig meewerkt aan het onderzoek of de vordering;
 3. Inbeslagname in overige gevallen:
     1. indien de helikopter of ander luchtvaartvoertuig inbelag is genomen, gelden de volgende maximale uitkoopkosten:
-        - €500.000,- indien de eigenaar niet meewerkt met vorderingen van Politie of Koninklijke Marechaussee.
-3. Algemene bepalingen:
+        * €500.000,- indien de eigenaar niet meewerkt met vorderingen van Politie of Koninklijke Marechaussee.
+4. Algemene bepalingen:
     1. Wanneer het voertuig na inbeslagname niet binnen veertien (14) dagen wordt opgeëist of uitgekocht, zal het worden vernietigd of verkocht, tenzij bezwaar is ingediend via het klachtenformulier.
-    3. Beroep tegen de inbeslagname is uitsluitend mogelijk via een advocaat.
+    . Beroep tegen de inbeslagname is uitsluitend mogelijk via een advocaat.
 
 ### A9 - Openstaande boetes
 
@@ -1020,22 +1020,25 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ### Artikel VII-3 Strafvermindering (44a.2 SR)
 
-Bij het nemen van een beslissing tot strafvermindering kan de rechter of bevoegde instantie de gehele straf, of een deel daarvan, verminderen, ongeacht de aard van de straf. De omvang en vorm van de strafvermindering worden afgestemd op de omstandigheden van het geval.  
-Daarbij kan onder meer worden overwogen:
-   1. Het verminderen van een onvoorwaardelijke tijdelijke vrijheidsstraf, taakstraf of geldboete;
-   2. Het omzetten van een onvoorwaardelijk gedeelte van een straf in een voorwaardelijk gedeelte;
-   3. Het vervangen van (een deel van) een vrijheidsstraf door een taakstraf of een geldboete.
-   4. Het vervangen van (een deel van) een taakstraf door een vrijheidsstraf of een geldboete.
-   5. Het vervangen van (een deel van) een geldboete door een vrijheidsstraf of een taakstraf.  
-De omvang en vorm van de strafvermindering worden afgestemd op de omstandigheden van het geval.
+1. Bij het nemen van een beslissing tot strafvermindering kan de rechter of bevoegde instantie de gehele straf, of een deel daarvan, verminderen, ongeacht de aard van de straf.  
+   Daarbij kan onder meer worden overwogen:
+
+    1. Het verminderen van een onvoorwaardelijke tijdelijke vrijheidsstraf, taakstraf of geldboete.
+    2. Het omzetten van een onvoorwaardelijk gedeelte van een straf in een voorwaardelijk gedeelte.
+    3. Het vervangen van (een deel van) een vrijheidsstraf door een taakstraf of een geldboete.
+    4. Het vervangen van (een deel van) een taakstraf door een vrijheidsstraf of een geldboete.
+    5. Het vervangen van (een deel van) een geldboete door een vrijheidsstraf of een taakstraf.
+
+   De omvang en vorm van de strafvermindering worden afgestemd op de omstandigheden van het geval.
 
 2. Strafverminderingsgronden worden bepaald in overleg tussen overheid en verdachte met bijstand van advocaat. Hierin meegenomen worden:
-    1. eventuele eerdere vergrijpen (en/of het gebrek daar aan);
-    2. goed gedrag en meewerking van de verdachte tijdens en na zijn of haar aanhouding;
-    3. verzachtende omstandigheden;
-    4. overmacht als gevolg van Stadsproblemen ("storm");
-    5. proportionaliteit;
-    6. aandeel van de verdachte in het geheel, indien er sprake is van een grootschalige overtreding met meerdere partijen.
+
+    1. Eventuele eerdere vergrijpen (en/of het gebrek daaraan).
+    2. Goed gedrag en meewerking van de verdachte tijdens en na zijn of haar aanhouding.
+    3. Verzachtende omstandigheden.
+    4. Overmacht als gevolg van stadsproblemen ("storm").
+    5. Proportionaliteit.
+    6. Aandeel van de verdachte in het geheel, indien er sprake is van een grootschalige overtreding met meerdere partijen.
 
 ## Titel VIII - Overige
 
@@ -1140,12 +1143,11 @@ De omvang en vorm van de strafvermindering worden afgestemd op de omstandigheden
 2. Schuldig is een persoon die zonder daartoe gerechtigd is, over bij wet geclassificeerde verboden domeinen te lopen, rijden, varen, vliegen of landen zonder nadrukkelijke en aantoonbaar toestemming te hebben verkregen van de Politie, Koninklijke Marechaussee, Koninklijke Luchtmacht of Korps Commando Troepen.
 
 | Bij wet geclassificeerde verboden domeinen | Gelegen Nabij Postcode |
-|---|---|
-| Luchtmachtbasis | 719
-| Vliegdekschepen | 3705 & 719
-| Gevangenis | 704
-| Ministerie van Defensie | 6035
-|  |
+|--------------------------------------------|-------------------------|
+| Luchtmachtbasis                            | 719                     |
+| Vliegdekschepen                            | 3705 & 719              |
+| Gevangenis                                 | 704                     |
+| Ministerie van Defensie                    | 6035                    |
 
 |  |Celstraf  | Taakstraf  | boete  |
 |---|---|---|---|
@@ -1318,16 +1320,17 @@ Een persoon is schuldig wanneer deze een beschermd dier voorhanden heeft, vervoe
     3. Uitzondering op lid 1b betreft vervoersmiddelen en/of personen, die aantoonbaar door de Politie of Koninklijke Marechaussee, vanuit open water het binnenland of binnenwater betreden, of die gecontroleerd worden tijdens een georganiseerde kustwachtcontrole.
     4. Indien een vaartuig en/of watervliegtuig op of naast een strand word aangetroffen, zijn de Politie of Koninklijke Marechaussee bevoegd het vaartuig en/of watervliegtuig, de personen en aanwezige voertuigen rondom het vaartuig en/of watervliegtuig binnen een straal van 50 meter (shoutingring) te controleren.
     5. Indien een persoon binnen een straal van 50 meter, zoals genoemd in dit artikel lid 1 onder d, en zijn/haar voertuig buiten deze straal bevind, zijn de Politie en de Koninklijke Marechaussee bevoegd dit voertuig te controleren. Dit voertuig dient op naam te staan van de persoon in aanwezigheid van de genoemde straal.
-3. Onder controle in de zin van lid 1 wordt mede verstaan doorzoeking en fouillering.
-4. Fouillering geschiedt op een besloten plaats. Dit mag elke agent doen van elk geslacht. De verdachte mag dan wel een voorkeur hebben van een geslacht maar mag ten alle tijden een agent van het andere geslacht hem/haar ook laten fouilleren.
-5. Onder fouillering zoals beschreven in lid 2 en lid 3 wordt verstaan: het onderzoek aan de kleding; en/of het verwijderen van de kleding, teneinde deze aan een nauwkeurig onderzoek te onderwerpen. Verwijderen van onderkleding is niet toegestaan.
-6. De Politie en Koninklijke Marechaussee zijn bevoegd met het oog op de uitoefening van de bevoegdheden, zoals bedoeld in dit artikel, de bestuurder dan wel de gezagvoerder van het vervoermiddel te vorderen dat deze zijn vervoermiddel vaart laat minderen, bijdraait, landt, stilhoudt, naar een door hem aangewezen plaats overbrengt, aanlegt en de motor buiten werking stelt. De in dit lid bedoelde personen zijn gehouden aan de vordering te voldoen.
-7. De Politie en Koninklijke Marechaussee zijn bevoegd personen die aanwezig zijn in of op de in dit artikel bedoelde locaties of vervoermiddelen of deze juist gaan betreden of hebben verlaten aan fouillering te onderwerpen.
-8. De Politie en Koninklijke Marechaussee maken van hun bevoegdheden slechts gebruik voorzover dat redelijkerwijs voor de vervulling van zijn taak nodig is.
+    6. Onder controle in de zin van lid 1 wordt mede verstaan doorzoeking en fouillering.
+    7. Fouillering geschiedt op een besloten plaats. Dit mag elke agent doen van elk geslacht. De verdachte mag dan wel een voorkeur hebben van een geslacht maar mag ten alle tijden een agent van het andere geslacht hem/haar ook laten fouilleren.
+    8. Onder fouillering zoals beschreven in lid 2 en lid 3 wordt verstaan: het onderzoek aan de kleding; en/of het verwijderen van de kleding, teneinde deze aan een nauwkeurig onderzoek te onderwerpen. Verwijderen van onderkleding is niet toegestaan.
+    9. De Politie en Koninklijke Marechaussee zijn bevoegd met het oog op de uitoefening van de bevoegdheden, zoals bedoeld in dit artikel, de bestuurder dan wel de gezagvoerder van het vervoermiddel te vorderen dat deze zijn vervoermiddel vaart laat minderen, bijdraait, landt, stilhoudt, naar een door hem aangewezen plaats overbrengt, aanlegt en de motor buiten werking stelt. De in dit lid bedoelde personen zijn gehouden aan de vordering te voldoen.
+    10. De Politie en Koninklijke Marechaussee zijn bevoegd personen die aanwezig zijn in of op de in dit artikel bedoelde locaties of vervoermiddelen of deze juist gaan betreden of hebben verlaten aan fouillering te onderwerpen.
+    11. De Politie en Koninklijke Marechaussee maken van hun bevoegdheden slechts gebruik voorzover dat redelijkerwijs voor de vervulling van zijn taak nodig is.
 
 ### Artikel X-3 Illegaal transport in vrachtwagentrailer
+
 1. Het is verboden om op enigerlei wijze illegale goederen te vervoeren in de trailer van een vrachtwagen, ongeacht of de vervoerder op de hoogte is van de inhoud.
-   
+
 | DEFINITIE ILLEGALE GOEDEREN |
 |------|
 |  a. Gestolen goederen of eigendommen zonder geldige herkomst; |
