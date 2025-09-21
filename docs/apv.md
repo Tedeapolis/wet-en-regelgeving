@@ -142,11 +142,9 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
     **Uitzondering:** Het is **GEEN NVOL** om te vluchten wanneer iemand vanuit een voertuig of motor zijn vuurwapen op je richt.
 
-
 2. Een overval met een mêlee-wapen is toegestaan, mits het wapen zich binnen armlengte van het slachtoffer bevindt en daadwerkelijk op het slachtoffer is gericht. In deze situatie is het slachtoffer verplicht om mee te werken.
 Ook wanneer het slachtoffer de deuren van zijn/haar voertuig open heeft én het mêlee-wapen zich binnen armlengte van het lichaam van het slachtoffer bevindt, is medewerking verplicht.
 In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte bevindt of het slachtoffer een vuurwapen in bezit heeft, is medewerking niet verplicht.
-
 
 3. Wanneer je in een armored voertuig zit en dit voertuig ramen mist, kapotte ramen heeft of volledig kapot is, is medewerking verplicht.  
 
@@ -304,10 +302,9 @@ In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte be
 1. Het gebruik van beledigingen met betrekking tot relevante of hedendaagse ziektes, of het maken van grensoverschrijdende racistische opmerkingen, is verboden op alle door Tedeapolis erkende platformen.
 
 → **Sanctie:**
-    **Eerste overtreding:** Twee weken ban.
-    **Tweede overtreding:** Drie maanden ban.
-    **Derde overtreding:** Permanente ban.
-    
+    - **Eerste overtreding:** Twee weken ban.
+    - **Tweede overtreding:** Drie maanden ban.
+    - **Derde overtreding:** Permanente ban.
 2. Toxic, uitlokkend, haatzaaiend of opruiend gedrag is niet toegestaan.
 
 → **Sanctie:** Categorie 7.
@@ -414,12 +411,14 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 7. Een liquidatie mag niet uitgevoerd worden zonder dat het slachtoffer op de hoogte is van de reden hierachter. Er dient dus aan het slachtoffer duidelijk gemaakt te worden, terwijl hij/zij/het nog leeft, waarom diegene geliquideerd wordt.
 8. Het campen op een niet actieve drugs locatie is niet toegestaan, zowel op land als op het eiland.
 9. Je hebt pas recht op een wapen als je daadwerkelijk een achtervolging/scenario bent aangegaan met de persoon. Dit moet je wel duidelijk kenbaar maken.
-10. Indien je op borgtocht bent gestuurd zijn de volgende regels van kracht.
-   * Een persoon die de borgtocht aan gegaan is mag niet meer worden uitgebroken.
-   * Indien persoon dood gegaan is in een scenario waarbij de politie betrokken is geld de New Life rule niet meer. De huiszoeking gaat dan alsnog plaatsvinden.
-   * Je kan geen spullen pakken/verwijderen uit auto's en appartementen. Dit geld ook voor kleding verwijderen.
-11. 30 minuten voor een herstart mag je geen overvallen doen van locaties. Denk hierbij aan: winkels, banken en casinoheist. 
-→ **Sanctie:** categorie 1.
+10. Indien je op borgtocht bent gestuurd zijn de volgende regels van kracht:
+    * Een persoon die de borgtocht aangegaan is mag niet meer worden uitgebroken.
+    * Indien de persoon dood is gegaan in een scenario waarbij de politie betrokken is geldt de New Life rule niet meer. De huiszoeking gaat dan alsnog plaatsvinden.
+    * Je kan geen spullen pakken/verwijderen uit auto's en appartementen. Dit geldt ook voor kleding verwijderen.
+
+11. Dertig minuten voor een herstart mag je geen overvallen doen van locaties. Denk hierbij aan: winkels, banken en casinoheist.
+
+**Sanctie:** Categorie 1.
 
 ---
 
@@ -509,7 +508,7 @@ Onderstaande regels zijn er alleen op Narcopolis
 
 1. Wanneer jij drugs wilt inladen in een vliegtuig of helikopter moet het vliegtuig of de helikopter binnen een straal van 50 meter van een helipad of landingsbaan staan.
 2. De sea sparrow en dodo mag wel volgeladen worden op open water.
-3. De Kleine eilandjes rondom Narcopolis zijn eveneens uitgezonderd van deze regel. 
+3. De Kleine eilandjes rondom Narcopolis zijn eveneens uitgezonderd van deze regel.
 
 → **Sanctie:** categorie 1.
 
