@@ -10,4 +10,4 @@ De volgende gebieden zijn aangemerkt als no fly zones.
 
 Hier onder staan deze zones weergegeven op de kaart van Tedeapolis.
 
-<a href='https://postimg.cc/ft1LjCT6' target='_blank'><img src='https://i.postimg.cc/rswrTY6F/NOTAM.png' border='0' alt='NOTAM'/></a>
+[![NOTAM](https://i.postimg.cc/rswrTY6F/NOTAM.png)](https://postimg.cc/ft1LjCT6)
