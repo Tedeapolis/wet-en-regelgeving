@@ -120,7 +120,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 ### **Artikel 5 - New Life Rule**
 
-1. Indien een karakter overlijdt, wordt verwacht dat hij/zij/het de laatste roleplay vergeet. Het karakter mag niet terugkeren naar het gebied waar hij/zij/het is overleden. Dit gebied wordt aangeduid met een rode cirkel op de kaart en is verboden terrein gedurende **30 minuten** na het overlijden. Tevens mag het karakter zich niet opnieuw bemoeien met hetzelfde scenario totdat dit volledig is afgerond.
+1. Indien een karakter overlijdt, wordt verwacht dat hij/zij/het de laatste roleplay vergeet. Het karakter mag niet terugkeren naar het gebied waar hij/zij/het is overleden. Dit gebied wordt aangeduid met een rode cirkel op de kaart en is verboden terrein gedurende **15 minuten** na het overlijden. Tevens mag het karakter zich niet opnieuw bemoeien met hetzelfde scenario totdat dit volledig is afgerond.
 
 → **Sanctie:** Categorie 4.
 
@@ -142,11 +142,9 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
     **Uitzondering:** Het is **GEEN NVOL** om te vluchten wanneer iemand vanuit een voertuig of motor zijn vuurwapen op je richt.
 
-
 2. Een overval met een mêlee-wapen is toegestaan, mits het wapen zich binnen armlengte van het slachtoffer bevindt en daadwerkelijk op het slachtoffer is gericht. In deze situatie is het slachtoffer verplicht om mee te werken.
 Ook wanneer het slachtoffer de deuren van zijn/haar voertuig open heeft én het mêlee-wapen zich binnen armlengte van het lichaam van het slachtoffer bevindt, is medewerking verplicht.
 In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte bevindt of het slachtoffer een vuurwapen in bezit heeft, is medewerking niet verplicht.
-
 
 3. Wanneer je in een armored voertuig zit en dit voertuig ramen mist, kapotte ramen heeft of volledig kapot is, is medewerking verplicht.  
 
@@ -154,7 +152,7 @@ In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte be
 
 ---
 
-### **Artikel 8 - ERP (Erotiche Roleplay)**
+### **Artikel 8 - ERP (Erotische Roleplay)**
 
 1. Het uitvoeren van erotische roleplay (ERP) is ten strengste verboden.
 
@@ -301,12 +299,12 @@ In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte be
 
 ### **Artikel 20 - Belediging**
 
-1. Het gebruik van beledigingen met betrekking tot relevante/hedendaagse ziektes, racistische of ongepaste opmerkingen is verboden op alle door Tedeapolis erkende platformen.
+1. Het gebruik van beledigingen met betrekking tot relevante of hedendaagse ziektes, of het maken van grensoverschrijdende racistische opmerkingen, is verboden op alle door Tedeapolis erkende platformen.
 
 → **Sanctie:**
-    **Eerste overtreding:** Twee weken ban.
-    **Tweede overtreding:** Drie maanden ban.
-    **Derde overtreding:** Permanente ban.
+    - **Eerste overtreding:** Twee weken ban.
+    - **Tweede overtreding:** Drie maanden ban.
+    - **Derde overtreding:** Permanente ban.
 2. Toxic, uitlokkend, haatzaaiend of opruiend gedrag is niet toegestaan.
 
 → **Sanctie:** Categorie 7.
@@ -413,20 +411,22 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 7. Een liquidatie mag niet uitgevoerd worden zonder dat het slachtoffer op de hoogte is van de reden hierachter. Er dient dus aan het slachtoffer duidelijk gemaakt te worden, terwijl hij/zij/het nog leeft, waarom diegene geliquideerd wordt.
 8. Het campen op een niet actieve drugs locatie is niet toegestaan, zowel op land als op het eiland.
 9. Je hebt pas recht op een wapen als je daadwerkelijk een achtervolging/scenario bent aangegaan met de persoon. Dit moet je wel duidelijk kenbaar maken.
-10. Indien je op borgtocht bent gestuurd zijn de volgende regels van kracht.
-   * Een persoon die de borgtocht aan gegaan is mag niet meer worden uitgebroken.
-   * Indien persoon dood gegaan is in een scenario waarbij de politie betrokken is geld de New Life rule niet meer. De huiszoeking gaat dan alsnog plaatsvinden.
-   * Je kan geen spullen pakken/verwijderen uit auto's en appartementen. Dit geld ook voor kleding verwijderen.
-11. 30 minuten voor een herstart mag je geen overvallen doen van locaties. Denk hierbij aan: winkels, banken en casinoheist. 
-→ **Sanctie:** categorie 1.
+10. Indien je op borgtocht bent gestuurd zijn de volgende regels van kracht:
+    * Een persoon die de borgtocht aangegaan is mag niet meer worden uitgebroken.
+    * Indien de persoon dood is gegaan in een scenario waarbij de politie betrokken is geldt de New Life rule niet meer. De huiszoeking gaat dan alsnog plaatsvinden.
+    * Je kan geen spullen pakken/verwijderen uit auto's en appartementen. Dit geldt ook voor kleding verwijderen.
+
+11. Dertig minuten voor een herstart mag je geen overvallen doen van locaties. Denk hierbij aan: winkels, banken en casinoheist.
+
+**Sanctie:** Categorie 1.
 
 ---
 
 ### **Artikel 27 - Jobhoppen**
 
-1. (Ex-)leden van een criminele organisatie dienen minimaal 72 uur te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere criminele organisatie voordat zij aangenomen mogen worden bij een overheidsbaan of een andere criminele organisatie.
-2. (Ex-)medewerkers van een overheidsbaan dienen minimaal 72 uur te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere criminele organisatie voordat zij aangenomen mogen worden bij een andere overheidsbaan of een criminele organisatie.
-3. Het is voor de leidinggevenden van overheidsbanen en criminele organisaties verplicht om een document bij te houden met informatie omtrent de in- en uitdiensttreding van hun medewerkers ten behoeve van de handhaving van dit artikel.
+1. (Ex-)leden van een officiële groepering dienen minimaal 72 uur te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere officiële groepering voordat zij aangenomen mogen worden bij een overheidsbaan of een andere officiële groepering.
+2. (Ex-)medewerkers van een overheidsbaan dienen minimaal 72 uur te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere officiële groepering voordat zij aangenomen mogen worden bij een andere overheidsbaan of een officiële groepering.
+3. Het is voor de leidinggevenden van overheidsbanen en officiële groepering verplicht om een document bij te houden met informatie omtrent de in- en uitdiensttreding van hun medewerkers ten behoeve van de handhaving van dit artikel.
 
 → **Sanctie:** categorie 1. (bij de overheid volgt ook ontslag van de nieuwe baan)
 
@@ -475,10 +475,18 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 
 ### **Artikel 31 - Eerlijkheid in tickets**
 
-1. Je dient ten alle tijden eerlijk te zijn in een ticket.
-2. Als je informatie gevraagd hebt aan een stafflid via report en/of prive dien je dit te vermelden.
+1. Je dient te allen tijde eerlijke en volledige informatie te verstrekken in een ticket.
+2. Heb je eerder contact gehad met een stafflid via een report of privébericht, dien je dit expliciet te vermelden in het ticket.
 
 → **Sanctie:** categorie 5.
+
+---
+
+### **Artikel 32 - Baiting**
+
+1. Het is verboden om eenieder opzettelijk uit te lokken zonder een geldig of geloofwaardig scenario voorafgaand aan, of volgend op, de handeling. Dit wordt beschouwd als baiting.
+
+→ **Sanctie:** categorie 1.
 
 ---
 
@@ -500,7 +508,7 @@ Onderstaande regels zijn er alleen op Narcopolis
 
 1. Wanneer jij drugs wilt inladen in een vliegtuig of helikopter moet het vliegtuig of de helikopter binnen een straal van 50 meter van een helipad of landingsbaan staan.
 2. De sea sparrow en dodo mag wel volgeladen worden op open water.
-3. De Kleine eilandjes rondom Narcopolis zijn eveneens uitgezonderd van deze regel. 
+3. De Kleine eilandjes rondom Narcopolis zijn eveneens uitgezonderd van deze regel.
 
 → **Sanctie:** categorie 1.
 
