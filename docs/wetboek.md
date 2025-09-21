@@ -27,12 +27,12 @@
 ### A3 - Verjaring van het strafbaar feit
 
 1. Het recht tot strafvordering vervalt door verjaring:
-    * Voor misdrijven waar de totale strafeis tussen de 1 en 100 maanden bedroeg, verjaren deze feiten na 10 dagen;
-    * Voor misdrijven waar de totale strafeis tussen de 101 en 150 maanden maanden bedroeg, verjaren deze feiten na 15 dagen;
-    * Voor misdrijven waar de totale strafeis tussen de 151 en 250 maanden bedroeg, verjaren deze feiten na 30 dagen;
-    * Voor misdrijven waar de totale strafeis meer dan 250 maanden bedroeg, verjaren deze feiten na 45 dagen;
+    * Voor misdrijven waar de totale strafeis tussen de 1 en 150 maanden bedroeg, verjaren deze feiten na 7 dagen;
+    * Voor misdrijven waar de totale strafeis tussen de 151 en 250 maanden maanden bedroeg, verjaren deze feiten na 14 dagen;
+    * Voor misdrijven waar de totale strafeis meer dan 251 maanden bedroeg, verjaren deze feiten na 21 dagen;
 
 2. Het recht tot strafvordering vervalt niet door verjaring voor misdrijven waar de totale strafeis geen celstraf bedroeg.
+3. Wanneer een zaak door de rechtbank is beoordeeld kan het zijn dat een misdrijf pas na 42 dagen verjaart.
 
 ### A4 - Strafbepaling
 
@@ -1022,11 +1022,13 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 Bij het nemen van een beslissing tot strafvermindering kan de rechter of bevoegde instantie de gehele straf, of een deel daarvan, verminderen, ongeacht de aard van de straf. De omvang en vorm van de strafvermindering worden afgestemd op de omstandigheden van het geval.  
 Daarbij kan onder meer worden overwogen:
+
    1. Het verminderen van een onvoorwaardelijke tijdelijke vrijheidsstraf, taakstraf of geldboete;
    2. Het omzetten van een onvoorwaardelijk gedeelte van een straf in een voorwaardelijk gedeelte;
    3. Het vervangen van (een deel van) een vrijheidsstraf door een taakstraf of een geldboete.
    4. Het vervangen van (een deel van) een taakstraf door een vrijheidsstraf of een geldboete.
-   5. Het vervangen van (een deel van) een geldboete door een vrijheidsstraf of een taakstraf.  
+   5. Het vervangen van (een deel van) een geldboete door een vrijheidsstraf of een taakstraf.
+  
 De omvang en vorm van de strafvermindering worden afgestemd op de omstandigheden van het geval.
 
 2. Strafverminderingsgronden worden bepaald in overleg tussen overheid en verdachte met bijstand van advocaat. Hierin meegenomen worden:
