@@ -423,8 +423,8 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 
 ### **Artikel 27 - Jobhoppen**
 
-1. (Ex-)leden van een officiële groeperingen dienen minimaal 72 uur te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere officiële groeperingen voordat zij aangenomen mogen worden bij een overheidsbaan of een andere officiële groeperingen.
-2. (Ex-)medewerkers van een overheidsbaan dienen minimaal 72 uur te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere officiële groeperingen voordat zij aangenomen mogen worden bij een andere overheidsbaan of een officiële groeperingen.
+1. (Ex-)leden van een officiële groepering dienen minimaal 72 uur te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere officiële groepering voordat zij aangenomen mogen worden bij een overheidsbaan of een andere officiële groepering.
+2. (Ex-)medewerkers van een overheidsbaan dienen minimaal 72 uur te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere officiële groepering voordat zij aangenomen mogen worden bij een andere overheidsbaan of een officiële groepering.
 3. Het is voor de leidinggevenden van overheidsbanen en officiële groeperingen verplicht om een document bij te houden met informatie omtrent de in- en uitdiensttreding van hun medewerkers ten behoeve van de handhaving van dit artikel.
 
 → **Sanctie:** Categorie 1. (bij de overheid volgt ook ontslag van de nieuwe baan)
