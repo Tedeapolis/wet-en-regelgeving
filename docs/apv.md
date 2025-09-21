@@ -223,7 +223,7 @@ In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte be
 4. Officiële Tedeapolis-kleding, bedoeld voor specifieke groeperingen, mag niet door anderen worden gebruikt of als startkleding worden gekozen, tenzij er een sterke en goedgekeurde roleplay aan verbonden is.
 5. Kleding die aangekocht is via de Tedeapolis website mag wel gedragen worden door iedereen. (Op eigen risico)
 
-→ **Sanctie:** eerst een mondelinge waarschuwing. Bij het niet aanpassen volgt een straf volgens Categorie 1.
+→ **Sanctie:** Eerst een mondelinge waarschuwing. Bij het niet aanpassen volgt een straf volgens Categorie 1.
 
 ---
 
@@ -293,7 +293,8 @@ In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte be
 5. **Pit-manoeuvres:** Deze moeten realistisch zijn en mogen niet worden uitgevoerd bij snelheden boven de **125 km/u**.
 → **Sanctie:** Categorie 1.
 6. Het gebruiken van een eigen voertuig tijdens jobs zoals ramenwassen,vrachtwagenchauffeur,post, enz. is niet toegestaan.
-7. → **Sanctie:** categorie 2.
+
+→ **Sanctie:** Categorie 2.
 
 ---
 
@@ -302,12 +303,10 @@ In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte be
 1. Het gebruik van beledigingen met betrekking tot relevante of hedendaagse ziektes, of het maken van grensoverschrijdende racistische opmerkingen, is verboden op alle door Tedeapolis erkende platformen.
 
 → **Sanctie:**
-    - **Eerste overtreding:** Twee weken ban.
-    - **Tweede overtreding:** Drie maanden ban.
-    - **Derde overtreding:** Permanente ban.
-2. Toxic, uitlokkend, haatzaaiend of opruiend gedrag is niet toegestaan.
 
-→ **Sanctie:** Categorie 7.
+* **Eerste overtreding:** Twee weken ban.
+* **Tweede overtreding:** Drie maanden ban.
+* **Derde overtreding:** Permanente ban.
 
 ---
 
@@ -335,7 +334,7 @@ In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte be
 
 Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 
-→ **Sanctie:** minimaal categorie 1.
+→ **Sanctie:** Minimaal categorie 1.
 
 ---
 
@@ -356,7 +355,7 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 2. Het is niet toegestaan om door de politie in beslag genomen objecten door te handelen naar spelers. Dit geldt ook voor andere overheidsobjecten en informatie verkregen tijdens de carrière bij een overheidsdienst, ook na ontslag.
 **Uitzondering:** Politie- of KMAR-medewerkers met een speciale vergunning mogen hun wapens buiten dienst behouden.
 
-→ **Sanctie:** categorie 6.
+→ **Sanctie:** Categorie 6.
 
 ---
 
@@ -369,7 +368,7 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 5. Ambulanciers mogen vanaf vier aanwezige collega's ontvoerd worden door criminele organisaties, mits de roleplay goed wordt uitgevoerd en het enkel voor de eigen groep is.
 6. Het is toegestaan een agent te ontvoeren om een voertuig uit de opslag te halen, mits het openstaande bedrag wordt voldaan. Dit mag niet tussen 00:00 en 10:00 uur.
 
-→ **Sanctie:** categorie 5, bij herhaling categorie 6.
+→ **Sanctie:** Categorie 5, bij herhaling categorie 6.
 
 ---
 
@@ -392,7 +391,7 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 3. Ontsnappen is verboden tussen 01:30 en 10:00 uur.
 4. Er moet samen minstens 10 politie- en KMAR-medewerkers aanwezig zijn.
 
-→ **Sanctie:** categorie 1.
+→ **Sanctie:** Categorie 1.
 
 ---
 
@@ -426,9 +425,9 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 
 1. (Ex-)leden van een officiële groepering dienen minimaal 72 uur te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere officiële groepering voordat zij aangenomen mogen worden bij een overheidsbaan of een andere officiële groepering.
 2. (Ex-)medewerkers van een overheidsbaan dienen minimaal 72 uur te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere officiële groepering voordat zij aangenomen mogen worden bij een andere overheidsbaan of een officiële groepering.
-3. Het is voor de leidinggevenden van overheidsbanen en officiële groepering verplicht om een document bij te houden met informatie omtrent de in- en uitdiensttreding van hun medewerkers ten behoeve van de handhaving van dit artikel.
+3. Het is voor de leidinggevenden van overheidsbanen en officiële groeperingen verplicht om een document bij te houden met informatie omtrent de in- en uitdiensttreding van hun medewerkers ten behoeve van de handhaving van dit artikel.
 
-→ **Sanctie:** categorie 1. (bij de overheid volgt ook ontslag van de nieuwe baan)
+→ **Sanctie:** Categorie 1. (bij de overheid volgt ook ontslag van de nieuwe baan)
 
 ---
 
@@ -438,7 +437,7 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 2. Indien de speler duidelijk moeite doet om zijn stem te vervormen, dan is het niet toegestaan om een speler aan zijn/haar/de stem te herkennen.
 3. Het is toegestaan om gebruik te maken van externe software om je stem te vervormen gedurende het uitvoeren van criminele activiteiten, echter dient dit realistisch te blijven.
 
-→ **Sanctie:** categorie 1.
+→ **Sanctie:** Categorie 1.
 
 ---
 
@@ -458,7 +457,7 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
     * Het naar buiten trekken van de persoon.
    Elke directe interactie via F6 zonder bovengenoemde handelingen wordt beschouwd als F6-Abuse.
 
-→ **Sanctie:** categorie 5.
+→ **Sanctie:** Categorie 5.
 
 ---
 
@@ -471,14 +470,14 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 5. In geval van onduidelijkheid over de bepalingen van lid 2 of 3, zal het oordeel van een staflid leidend zijn, en dit staflid zal beslissen over de verdeling van de loods. De partij die beweert benadeeld te zijn, dient bewijsmateriaal te overleggen en draagt de verantwoordelijkheid voor de bewijslast.
 6. Indien een loods en eigenaar beide minimaal 120 dagen inactief zijn, kan SA+ deze loods opnieuw beschikbaar maken voor het publiek.
 
-→ **Sanctie:** categorie 3. Indien de overtreding over bedragen boven de 2 miljoen gaat, zal er gestraft worden volgens categorie 5.
+→ **Sanctie:** Categorie 3. Indien de overtreding over bedragen boven de 2 miljoen gaat, zal er gestraft worden volgens categorie 5.
 
 ### **Artikel 31 - Eerlijkheid in tickets**
 
 1. Je dient te allen tijde eerlijke en volledige informatie te verstrekken in een ticket.
 2. Heb je eerder contact gehad met een stafflid via een report of privébericht, dien je dit expliciet te vermelden in het ticket.
 
-→ **Sanctie:** categorie 5.
+→ **Sanctie:** Categorie 5.
 
 ---
 
@@ -486,7 +485,7 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 
 1. Het is verboden om eenieder opzettelijk uit te lokken zonder een geldig of geloofwaardig scenario voorafgaand aan, of volgend op, de handeling. Dit wordt beschouwd als baiting.
 
-→ **Sanctie:** categorie 1.
+→ **Sanctie:** Categorie 1.
 
 ---
 
@@ -500,7 +499,7 @@ Onderstaande regels zijn er alleen op Narcopolis
 2. Het is voor de koninklijke marechaussee verboden om op het vasteland te schieten.
 3. Er mag op binnenkomende vluchten en schepen geschoten worden, die niet afkomstig zijn van de koninklijke marechaussee.
 
-→ **Sanctie:** categorie 1.
+→ **Sanctie:** Categorie 1.
 
 ---
 
@@ -510,7 +509,7 @@ Onderstaande regels zijn er alleen op Narcopolis
 2. De sea sparrow en dodo mag wel volgeladen worden op open water.
 3. De Kleine eilandjes rondom Narcopolis zijn eveneens uitgezonderd van deze regel.
 
-→ **Sanctie:** categorie 1.
+→ **Sanctie:** Categorie 1.
 
 ---
 
@@ -519,7 +518,7 @@ Onderstaande regels zijn er alleen op Narcopolis
 1. Op Narcopolis is het voor een officiële groep niet toegestaan om samen te werken met een officiele of onofficiele groep of persoon.
 2. Uitzondering op lid 1 is er voor het kopen en verkopen van drugs. Dit mag wel gedaan worden op het eiland tussen verschillende groepen en personen.
 
-→ **Sanctie:** categorie 1.
+→ **Sanctie:** Categorie 1.
 
 ---
 
@@ -529,7 +528,7 @@ Onderstaande regels zijn er alleen op Narcopolis
 2. Zodra je binnen 1000 meter van de pluk bent, kan dit onder campen vallen. Dit is ter beoordeling aan een stafflid.
 3. Het is niet toegestaan om constant op en neer te rijden naar een niet-actieve drugs locatie, om zo de camp regel te omzeilen. Als dit blijft gebeuren zullen er sancties komen. Dit is ter beoordeling aan een stafflid.
 
-→ **Sanctie:** categorie 1.
+→ **Sanctie:** Categorie 1.
 
 ---
 
