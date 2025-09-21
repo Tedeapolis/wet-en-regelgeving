@@ -120,7 +120,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 ### **Artikel 5 - New Life Rule**
 
-1. Indien een karakter overlijdt, wordt verwacht dat hij/zij/het de laatste roleplay vergeet. Het karakter mag niet terugkeren naar het gebied waar hij/zij/het is overleden. Dit gebied wordt aangeduid met een rode cirkel op de kaart en is verboden terrein gedurende **30 minuten** na het overlijden. Tevens mag het karakter zich niet opnieuw bemoeien met hetzelfde scenario totdat dit volledig is afgerond.
+1. Indien een karakter overlijdt, wordt verwacht dat hij/zij/het de laatste roleplay vergeet. Het karakter mag niet terugkeren naar het gebied waar hij/zij/het is overleden. Dit gebied wordt aangeduid met een rode cirkel op de kaart en is verboden terrein gedurende **15 minuten** na het overlijden. Tevens mag het karakter zich niet opnieuw bemoeien met hetzelfde scenario totdat dit volledig is afgerond.
 
 → **Sanctie:** Categorie 4.
 
@@ -154,7 +154,7 @@ In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte be
 
 ---
 
-### **Artikel 8 - ERP (Erotiche Roleplay)**
+### **Artikel 8 - ERP (Erotische Roleplay)**
 
 1. Het uitvoeren van erotische roleplay (ERP) is ten strengste verboden.
 
@@ -301,12 +301,13 @@ In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte be
 
 ### **Artikel 20 - Belediging**
 
-1. Het gebruik van beledigingen met betrekking tot relevante/hedendaagse ziektes, racistische of ongepaste opmerkingen is verboden op alle door Tedeapolis erkende platformen.
+1. Het gebruik van beledigingen met betrekking tot relevante of hedendaagse ziektes, of het maken van grensoverschrijdende racistische opmerkingen, is verboden op alle door Tedeapolis erkende platformen.
 
 → **Sanctie:**
     **Eerste overtreding:** Twee weken ban.
     **Tweede overtreding:** Drie maanden ban.
     **Derde overtreding:** Permanente ban.
+    
 2. Toxic, uitlokkend, haatzaaiend of opruiend gedrag is niet toegestaan.
 
 → **Sanctie:** Categorie 7.
@@ -424,9 +425,9 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 
 ### **Artikel 27 - Jobhoppen**
 
-1. (Ex-)leden van een criminele organisatie dienen minimaal 72 uur te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere criminele organisatie voordat zij aangenomen mogen worden bij een overheidsbaan of een andere criminele organisatie.
-2. (Ex-)medewerkers van een overheidsbaan dienen minimaal 72 uur te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere criminele organisatie voordat zij aangenomen mogen worden bij een andere overheidsbaan of een criminele organisatie.
-3. Het is voor de leidinggevenden van overheidsbanen en criminele organisaties verplicht om een document bij te houden met informatie omtrent de in- en uitdiensttreding van hun medewerkers ten behoeve van de handhaving van dit artikel.
+1. (Ex-)leden van een officiële groepering dienen minimaal 72 uur te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere officiële groepering voordat zij aangenomen mogen worden bij een overheidsbaan of een andere officiële groepering.
+2. (Ex-)medewerkers van een overheidsbaan dienen minimaal 72 uur te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere officiële groepering voordat zij aangenomen mogen worden bij een andere overheidsbaan of een officiële groepering.
+3. Het is voor de leidinggevenden van overheidsbanen en officiële groepering verplicht om een document bij te houden met informatie omtrent de in- en uitdiensttreding van hun medewerkers ten behoeve van de handhaving van dit artikel.
 
 → **Sanctie:** categorie 1. (bij de overheid volgt ook ontslag van de nieuwe baan)
 
@@ -475,10 +476,18 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 
 ### **Artikel 31 - Eerlijkheid in tickets**
 
-1. Je dient ten alle tijden eerlijk te zijn in een ticket.
-2. Als je informatie gevraagd hebt aan een stafflid via report en/of prive dien je dit te vermelden.
+1. Je dient te allen tijde eerlijke en volledige informatie te verstrekken in een ticket.
+2. Heb je eerder contact gehad met een stafflid via een report of privébericht, dien je dit expliciet te vermelden in het ticket.
 
 → **Sanctie:** categorie 5.
+
+---
+
+### **Artikel 32 - Baiting**
+
+1. Het is verboden om eenieder opzettelijk uit te lokken zonder een geldig of geloofwaardig scenario voorafgaand aan, of volgend op, de handeling. Dit wordt beschouwd als baiting.
+
+→ **Sanctie:** categorie 1.
 
 ---
 
