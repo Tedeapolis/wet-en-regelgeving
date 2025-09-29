@@ -27,12 +27,12 @@
 ### A3 - Verjaring van het strafbaar feit
 
 1. Het recht tot strafvordering vervalt door verjaring:
-    * Voor misdrijven waar de totale strafeis tussen de 1 en 100 maanden bedroeg, verjaren deze feiten na 10 dagen;
-    * Voor misdrijven waar de totale strafeis tussen de 101 en 150 maanden maanden bedroeg, verjaren deze feiten na 15 dagen;
-    * Voor misdrijven waar de totale strafeis tussen de 151 en 250 maanden bedroeg, verjaren deze feiten na 30 dagen;
-    * Voor misdrijven waar de totale strafeis meer dan 250 maanden bedroeg, verjaren deze feiten na 45 dagen;
+    * Voor misdrijven waar de totale strafeis tussen de 1 en 150 maanden bedroeg, verjaren deze feiten na 7 dagen;
+    * Voor misdrijven waar de totale strafeis tussen de 151 en 250 maanden maanden bedroeg, verjaren deze feiten na 14 dagen;
+    * Voor misdrijven waar de totale strafeis meer dan 251 maanden bedroeg, verjaren deze feiten na 21 dagen;
 
 2. Het recht tot strafvordering vervalt niet door verjaring voor misdrijven waar de totale strafeis geen celstraf bedroeg.
+3. Wanneer een zaak door de rechtbank is beoordeeld kan het zijn dat een misdrijf pas na 42 dagen verjaart.
 
 ### A4 - Strafbepaling
 
@@ -74,33 +74,50 @@
 ### A7 - Inbeslagname
 
 1. Wanneer een strafbaar feit gepleegd is met een goed, of wanneer een goed uit een strafbaar feit is verkregen, kan deze in beslag worden genomen.
-    1. De keuze voor inbeslagname is ter beoordeling van Politie en/of de Koninklijke Marechaussee.
-    2. Verwerking van de in beslag genomen goederen (behalve voertuigen) geschiedt volgens richtlijn van Politie;
-2. Wanneer een voertuig in beslag wordt genomen vanwege een strafbaar feit:
-    1. Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek, in deze 3 dagen heeft de Politie en/ of Koninklijke Marechaussee de tijd om de bewijzen te verzamelen en beschikbaar te stellen;
-    2. Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een strafbaar feit, uitgekocht kunnen worden op basis van de ernst van het strafbaar feit, 24 uur nadat de inbeslagname is geregistreerd in de politiesystemen;
-    3. Zal deze, wanneer, met inachtneming van de vorige regel, het voertuig tevens uit het water moest worden gehaald, uitgekocht kunnen worden op toevoeging van 10% op het basisuitkooppercentage;
-    4. Zal deze kosteloos worden teruggegeven als er na 3 dagen tijd niet voldoende bewijs is voor de inbeslagname, als een advocaat op de 3e dag pas de hOvj/Ovj benaderd, heeft de hOvj/Ovj het recht om een extra 48 uur te nemen voor extra bewijs op te vragen als dat er zou zijn.
-    5. Zal deze kosteloos worden teruggegeven indien aan is getoond dat het voertuig als gestolen is opgegeven voor de tijd van het gepleegde strafbaar feit. Het opgeven als gestolen moet worden gedaan door middel van aangifte bij een ambtenaar in functie.
-    6. Wanneer het goed bewijsbaar onderdeel was van het strafbare feit en de eigenaar daarvan overleden is, dan zal het voertuig ook uitgekocht moeten worden volgens de standaardregels.
-    7. Wanneer een advocaat een hOvj of Ovj inschakeld heeft deze altijd het recht om 48 uur de tijd te krijgen om bewijs op te vragen vanaf het moment dat hij of zij ingeschakeld wordt. Deze 48 uur kunnen dus ook het maximum van 3 dagen/ 72 uur verlengen als de hOvj of Ovj pas op de 3e dag wordt ingeschakeld. Indien de officier op de 1ste dag wordt ingeschakeld, dan is lid a leidend en mag deze 48 uur niet gebruikt worden om de maximum duur van 3 dagen te verlengen.
-    8. Er kan alleen in beroep gegaan worden tegen een inbeslagname door middel van een advocaat. Het voertuig kan er alleen uitgehaald worden als er een advocaat betrokken is, of d.m.v. het klachtenformulier.
-    9. Uitzonderingsgrond voor teruggave van het voertuig is, indien het een voertuig betreft zoals omschreven in Artikel III-14 Illegale voertuigen of indien een voertuig voor de vierde keer in beslag wordt genomen. In dit geval zal het voertuig worden vernietigd of verkocht. Ook voertuigen die langer dan veertien (14) dagen in de opslag staan, zullen worden vernietigd of verkocht. Dit laatste geldt niet indien er bezwaar is aangetekend via het klachtenformulier van de politie of koninklijke marechaussee.
-3. Geldige redenen voor inbeslagname zijn:
-    1. Plegen van een strafbaar feit uit het wetboek van Tedeapolis waarbij het goed direct of indirect betrokken is, behalve fout parkeren en een snelheidsovertreding met uitzondering zoals beschreven in lid E van dit artikel;
-    2. Plegen van een misdrijf uit de Nederlandse wetgeving waarbij het goed direct of indirect betrokken is;
-    3. Niet stoppen voor stopteken gegeven door middel van een politietransparant of rode lamp;
-    4. Niet voldoen aan (verkeers)aanwijzing van bevoegde en als zodanig kenbare opsporingsambtenaar of lid van de Koninklijke Luchtmacht;
-    5. Snelheidsovertreding van meer dan 100% van de maximumsnelheid;
-    6. Op de openbare weg rijden met een voertuig met daarop een WOK-status.
-4. Er geldt een basisuitkooppercentage van 10% indien er sprake is van een verkeersdelict. Hierbij geldt een maximaal uitkoopbedrag van 100.000 euro.
-5. Er geldt een basisuitkooppercentage van 10% indien er niet voldaan wordt aan een (verkeers)aanwijzing van een bevoegd en als zodanig kenbaar lid van de Koninklijke Luchtmacht.
-   * Indien de (verkeers)aanwijzing(en) van de Koninklijke Luchtmacht worden opgedragen en blijkt dat het toestel om wat voor reden dan ook in beslag genomen moet worden, geldt er naast het basisuitkooppercentage van 10% een maximaal uitkoopbedrag van 200.000 euro.
-6. Er geldt een basisuitkooppercentage van 20% indien er sprake is van een ander delict dan een verkeersdelict.
-7. Alle bovenstaande leden gelden ook voor helikopters en vliegtuigen.
-8. Meerdere notities voor het vliegen zonder vliegbrevet zal resulteren in een inbeslagname van het voertuig.
+    1. De keuze voor inbeslagname is ter beoordeling van Politie en/of de Koninklijke Marechaussee.  
+    2. Verwerking van de in beslag genomen goederen (behalve voertuigen) geschiedt volgens richtlijn van Politie.
 
-### A8 - Openstaande boetes
+2. Wanneer een voertuig in beslag wordt genomen vanwege een strafbaar feit:
+    1. Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek. In deze 3 dagen heeft de Politie en/of Koninklijke Marechaussee de tijd om de bewijzen te verzamelen en beschikbaar te stellen.  
+    2. Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een strafbaar feit, uitgekocht kunnen worden op basis van de ernst van het strafbaar feit, 24 uur nadat de inbeslagname is geregistreerd in de politiesystemen.  
+    3. Zal deze, wanneer het voertuig tevens uit het water moest worden gehaald, uitgekocht kunnen worden met een toevoeging van 10% op het basisuitkooppercentage.  
+    4. Zal deze kosteloos worden teruggegeven als er na 3 dagen tijd niet voldoende bewijs is voor de inbeslagname. Als een advocaat op de 3e dag pas de hOvj/Ovj benadert, heeft de hOvj/Ovj het recht om een extra 48 uur te nemen om extra bewijs op te vragen, indien aanwezig.  
+    5. Zal deze kosteloos worden teruggegeven indien is aangetoond dat het voertuig als gestolen is opgegeven vóór de tijd van het gepleegde strafbaar feit. Het opgeven als gestolen moet worden gedaan door middel van aangifte bij een ambtenaar in functie.  
+    6. Wanneer het goed bewijsbaar onderdeel was van het strafbare feit en de eigenaar daarvan overleden is, zal het voertuig ook uitgekocht moeten worden volgens de standaardregels.  
+    7. Wanneer een advocaat een hOvj of Ovj inschakelt, heeft deze altijd het recht om 48 uur de tijd te krijgen om bewijs op te vragen vanaf het moment van inschakeling. Deze 48 uur kunnen het maximum van 3 dagen (72 uur) verlengen als de hOvj of Ovj pas op de 3e dag wordt ingeschakeld. Indien de OvJ op de 1e dag wordt ingeschakeld, dan is lid a leidend en mag deze 48 uur niet worden gebruikt om de maximale duur van 3 dagen te verlengen.  
+    8. Er kan alleen in beroep worden gegaan tegen een inbeslagname door middel van een advocaat. Het voertuig kan alleen worden vrijgegeven als er een advocaat betrokken is, of via het klachtenformulier.  
+    9. Uitzonderingsgrond voor teruggave van het voertuig is van toepassing indien:  
+        * Het voertuig valt onder Artikel III-14 (Illegale voertuigen); of  
+        * Het voertuig voor de vierde keer in beslag is genomen.  
+        In beide gevallen zal het voertuig worden vernietigd of verkocht. Voertuigen die langer dan veertien (14) dagen in de opslag staan, worden eveneens vernietigd of verkocht, tenzij bezwaar is aangetekend via het klachtenformulier van Politie of Koninklijke Marechaussee.
+
+3. Geldige redenen voor inbeslagname zijn:
+    1. Plegen van een strafbaar feit uit het wetboek van Tedeapolis waarbij het goed direct of indirect betrokken is, met uitzondering van fout parkeren en snelheidsovertredingen zoals beschreven in lid 4;  
+    2. Plegen van een misdrijf uit de Nederlandse wetgeving waarbij het goed direct of indirect betrokken is;  
+    3. Niet stoppen voor een stopteken gegeven door middel van een politietransparant of rode lamp;  
+    4. Niet voldoen aan een (verkeers)aanwijzing van een bevoegd en als zodanig kenbare opsporingsambtenaar;  
+    5. Snelheidsovertreding van meer dan 100% van de maximumsnelheid;  
+    6. Rijden op de openbare weg met een voertuig met een WOK-status.
+
+4. Er geldt een basisuitkooppercentage van 10% indien er sprake is van een verkeersdelict. Hierbij geldt een maximaal uitkoopbedrag van €100.000,-.
+5. Er geldt een basisuitkooppercentage van 20% indien er sprake is van een ander delict dan een verkeersdelict.
+
+### A8 - Inbeslagname van luchtvaartvoertuigen
+
+1. Wanneer een luchtvaartvoertuig (zoals een helikopter, vliegtuig of ander luchtvaartuig) betrokken is bij een strafbaar feit, kan deze in beslag worden genomen.
+    1. De keuze voor inbeslagname is ter beoordeling van Politie en/of de Koninklijke Marechaussee.
+    2. Er geldt een basisuitkooppercentage van 20%. (Uizondering hierop is lid 2)
+2. Inbeslagname van onbemande luchtvaartvoertuigen met illegale goederen:
+    1. Indien een onbemande helikopter of ander onbemand luchtvaartvoertuig wordt aangetroffen met illegale goederen, gelden de volgende maximale uitkoopkosten:
+        * €200.000,- indien de eigenaar volledig meewerkt aan het onderzoek of de vordering;
+3. Inbeslagname in overige gevallen:
+    1. indien de helikopter of ander luchtvaartvoertuig inbelag is genomen, gelden de volgende maximale uitkoopkosten:
+        * €500.000,- indien de eigenaar niet meewerkt met vorderingen van Politie of Koninklijke Marechaussee.
+4. Algemene bepalingen:
+    1. Wanneer het voertuig na inbeslagname niet binnen veertien (14) dagen wordt opgeëist of uitgekocht, zal het worden vernietigd of verkocht, tenzij bezwaar is ingediend via het klachtenformulier.
+    . Beroep tegen de inbeslagname is uitsluitend mogelijk via een advocaat.
+
+### A9 - Openstaande boetes
 
 1. Wanneer tijdens een controle of aanhouding aangetoond wordt dat het totaalbedrag van openstaande boetes boven de € 10000,- reikt, kan dit impact hebben op de strafeis.
     1. Wanneer dit aangetoond wordt bij het opvragen van een inbeslaggenomen goed of voertuig kan geëist worden eerst het boetebedrag te voldoen;
@@ -109,7 +126,7 @@
     4. Deze boete of taakstraf wordt bijgevoegd bij de totale straf eis.
 2. Onder het voldoen van het boetebedrag wordt verstaan tenminste een zodanige betaling te voldoen dat het totale boetebedrag onder de € 10000,- komt.
 
-### A9 - Consultatierecht
+### A10 - Consultatierecht
 
 1. Krachtens artikel 6 van het Europees Verdrag voor de Rechten van de Mens is het een verdachte, voorafgaand aan een politieverhoor, toegestaan consultatie te ontvangen van zijn of haar voorkeursadvocaat.
 2. Indien de voorkeursadvocaat genoemd in lid 1 niet beschikbaar is, is een vervangend advocaat afdoende om te voldoen aan dit recht.
@@ -117,7 +134,7 @@
 4. Indien de oproep zoals genoemd in lid 3 niet mogelijk blijkt, of de verdachte weigert een advocaat op te roepen, dan is de politie verplicht tot het oproepen van een advocaat voor de verdachte;
 5. Uitsluitingsgrond voor lid 4 is wanneer verdachte expliciet en ondubbelzinnig afziet van zijn of haar recht tot consultatie.
 
-### A10 - Algemene rechtsbeginselen
+### A11 - Algemene rechtsbeginselen
 
 1. De algemene rechtsbeginselen stellen eisen en scheppen kaders aan beleid of regelgeving. Beleid of regelgeving dat onvoldoende aansluit op algemene rechtsbeginselen kan onderhevig zijn aan uitsluiting of verwerping.
 2. Onder de algemene rechtsbeginselen wordt verstaan:
@@ -133,7 +150,7 @@
     10. Ne bis in idem, waarbij iemand niet tweemaal veroordeeld mag worden voor hetzelfde feit;
     11. Het schutznorm-beginsel, waarbij er geen rechtsgevolg of sanctie wordt gekoppeld aan een vormfout als de verdachte niet zelf is getroffen in een (verdedigings)belang dat door het geschonden vormvoorschrift wordt beschermd.
 
-### A11 - Medeplichtigheid en medeplegen
+### A12 - Medeplichtigheid en medeplegen
 
 1. Als medeplichtigen van een strafbaar feit worden gestraft:
     1. zij die opzettelijk behulpzaam zijn bij het plegen van het misdrijf;
@@ -148,14 +165,14 @@
 6. Daders en medeplichtigen van een strafbaar feit worden gestraft volgens de strafbepaling van het desbetreffende artikel.
 7. Indien er onduidelijkheid is over medeplegen of medeplichtigheid tijdens een strafzaak dan kan een Hulpofficier van Justitie, Officier van Justitie of in uiterste gevallen een rechter hierover een eindoordeel vellen.
 
-### A12 - Voorhechtenis
+### A13 - Voorlopige hechtenis
 
-1. Voorhechtenis is alleen toegestaan voor feiten waar een celstraf op staat.
-2. Voorhechtenis kan alleen gegeven worden indien er wettig overtuigend bewijs is dat de verdachte een strafbaar feit heeft begaan.
-3. De maximale periode van de voorhechtenis is 24 uur. Dit kan maximaal verlengt worden tot 72 uur voorarrest door een hOvJ.
+1. Voorlopige hechtenis is alleen toegestaan voor feiten waar een celstraf op staat.
+2. Voorlopige hechtenis kan alleen gegeven worden indien er wettig overtuigend bewijs is dat de verdachte een strafbaar feit heeft begaan.
+3. De maximale periode van de voorlopige hechtenis is 24 uur. Dit kan maximaal verlengt worden tot 72 uur voorarrest door een hOvJ. De verdachte moet kunnen aantonen dat hij zich in de 24 uur meerdere malen op gebruikelijke tijden (19:00 -22:00 IRL) beschikbaar heeft gesteld voor een vervolg van het strafproces.
 4. Na de 72 uur kan alleen een OvJ nog toestemming geven voor een langere hechtenis tot aan de rechtszaak.
 
-### A13 - Borgtocht
+### A14 - Borgtocht
 
 1. Een verdachte heeft recht op een borgtocht indien er een huiszoeking is aangevraagd. Dit moet altijd goedgekeurd worden door een hOvJ of hoger.
 2. Bij een akkoord van een borgtocht ben je je verplicht te houden aan de afspraken die gemaakt zijn.
@@ -335,9 +352,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 50 uur  | € 5000,-  |
-| **Tweede Veroordeling**  |   | 60 uur  | € 7500,-  |
-| **Meerdere Veroordelingen**  |   | 70 uur  | € 10000,-  |
+|  **Eerste Veroordeling** |   | 30 uur  | € 5000,-  |
+| **Tweede Veroordeling**  |   | 40 uur  | € 7500,-  |
+| **Meerdere Veroordelingen**  |   | 50 uur  | € 10000,-  |
 
 ### Artikel II-7 Zware mishandeling (302 SR)
 
@@ -535,14 +552,13 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ### Artikel III-11 Snelheidsovertredingen
 
-1. Schuldig is een persoon die de wettelijk bepaalde snelheden voor verkeer niet in acht neemt tijdens deelname aan het verkeer.
-2. De toegestane snelheden zijn 80KM/h en 130KM/h op de snelweg.
-3. Flitscamera's die op verschillende plaatsen staan zullen in geval van overtreding een boete uitsturen naar de overtredende partij.
-4. Indien een dienstdoende agent een overtredende partij staande houdt, is hij of zij gerechtigd tot het uitschrijven van onderstaande boetes.
-5. Voor snelheidsovertredingen die de bovenstaande snelheden overschreiden kan de agent overgaan tot arrestatie en strafvervolging.
-6. De meetcorrectie is 5 kilometer en de eerste 5 kilometer te hard rijden blijft onbestraft.
+1. Schuldig is een persoon die de wettelijk bepaalde snelheden voor het verkeer niet in acht neemt tijdens deelname aan het verkeer.
+2. Op de snelwegen geldt een maximumsnelheid van 130km/h;
+3. Voor op de overige wegen, niet gespecificeerd als in lid 2, geldt een maximumsnelheid van 80km/h.
+4. Flitscamera's die op verschillende plaatsen staan, schrijven in geval van een overtreding een boete uit aan de overtredende partij.
+5. Er geldt een wettelijke correctie van 5 km/h en de eerste 5km/h die gemeten zijn boven de toegestane snelheid, blijven ongestraft.
 
-| ***`Binnen de Bebouwde Kom`***  |   |
+| ***`Op de overige wegen`***  |   |
 |---|---|
 | Te hard rijden 6 - 10KM/H | € 100,- |
 | Te hard rijden 10 - 20KM/H | € 400,- |
@@ -558,7 +574,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | Te hard rijden 126 - 150 KM/H | € 12500,- |
 | Te hard rijden 150+ KM/H | € 15000,- |
 
-| ***`Buiten de Bebouwde Kom`***  |   |
+| ***`Op snelwegen`***  |   |
 |---|---|
 | Te hard rijden 6 - 10KM/H | € 100,- |
 | Te hard rijden 10 - 20KM/H | € 300,- |
@@ -1004,17 +1020,25 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ### Artikel VII-3 Strafvermindering (44a.2 SR)
 
-1. Wanneer besloten wordt tot een strafvermindering kan als leidraad gebruikt worden:
-    1. vermindering van maximaal de helft bij een onvoorwaardelijke tijdelijke vrijheidsstraf, taakstraf of geldboete, of
-    2. de omzetting van maximaal de helft van het onvoorwaardelijke gedeelte van een vrijheidsstraf, taakstraf of van een geldboete in een voorwaardelijk gedeelte, of
-    3. de vervanging van maximaal een derde gedeelte van een vrijheidsstraf door taakstraf of een onvoorwaardelijke geldboete.
+1. Bij het nemen van een beslissing tot strafvermindering kan de rechter of bevoegde instantie de gehele straf, of een deel daarvan, verminderen, ongeacht de aard van de straf.  
+   Daarbij kan onder meer worden overwogen:
+
+    1. Het verminderen van een onvoorwaardelijke tijdelijke vrijheidsstraf, taakstraf of geldboete.
+    2. Het omzetten van een onvoorwaardelijk gedeelte van een straf in een voorwaardelijk gedeelte.
+    3. Het vervangen van (een deel van) een vrijheidsstraf door een taakstraf of een geldboete.
+    4. Het vervangen van (een deel van) een taakstraf door een vrijheidsstraf of een geldboete.
+    5. Het vervangen van (een deel van) een geldboete door een vrijheidsstraf of een taakstraf.
+
+   De omvang en vorm van de strafvermindering worden afgestemd op de omstandigheden van het geval.
+
 2. Strafverminderingsgronden worden bepaald in overleg tussen overheid en verdachte met bijstand van advocaat. Hierin meegenomen worden:
-    1. eventuele eerdere vergrijpen (en/of het gebrek daar aan);
-    2. goed gedrag en meewerking van de verdachte tijdens en na zijn of haar aanhouding;
-    3. verzachtende omstandigheden;
-    4. overmacht als gevolg van Stadsproblemen ("storm");
-    5. proportionaliteit;
-    6. aandeel van de verdachte in het geheel, indien er sprake is van een grootschalige overtreding met meerdere partijen.
+
+    1. Eventuele eerdere vergrijpen (en/of het gebrek daaraan).
+    2. Goed gedrag en meewerking van de verdachte tijdens en na zijn of haar aanhouding.
+    3. Verzachtende omstandigheden.
+    4. Overmacht als gevolg van stadsproblemen ("storm").
+    5. Proportionaliteit.
+    6. Aandeel van de verdachte in het geheel, indien er sprake is van een grootschalige overtreding met meerdere partijen.
 
 ## Titel VIII - Overige
 
@@ -1119,12 +1143,11 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 2. Schuldig is een persoon die zonder daartoe gerechtigd is, over bij wet geclassificeerde verboden domeinen te lopen, rijden, varen, vliegen of landen zonder nadrukkelijke en aantoonbaar toestemming te hebben verkregen van de Politie, Koninklijke Marechaussee, Koninklijke Luchtmacht of Korps Commando Troepen.
 
 | Bij wet geclassificeerde verboden domeinen | Gelegen Nabij Postcode |
-|---|---|
-| Luchtmachtbasis | 719
-| Vliegdekschip | 3705
-| Gevangenis | 704
-| Ministerie van Defensie | 6035
-|  |
+|--------------------------------------------|-------------------------|
+| Luchtmachtbasis                            | 719                     |
+| Vliegdekschepen                            | 3705 & 719              |
+| Gevangenis                                 | 704                     |
+| Ministerie van Defensie                    | 6035                    |
 
 |  |Celstraf  | Taakstraf  | boete  |
 |---|---|---|---|
@@ -1138,28 +1161,39 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 2. Een persoon is schuldig wanneer deze weet of behoort te weten dat het verboden is om jacht te maken op dieren die bij wet beschermd zijn en bij zich draagt.
 3. Een persoon is schuldig wanneer deze een beschermd dier voorhanden heeft, vervoert en/of verkoopt.
 
+Artikel VIII-12 Bescherming van in het wild levende diersoorten
+Onder beschermd wordt verstaan: diersoorten die wettelijk beschermd zijn, bijvoorbeeld omdat zij bedreigd worden in hun voortbestaan of beschermd moeten worden tegen overmatige benutting.
+Een persoon is schuldig wanneer deze weet of behoort te weten dat het verboden is om jacht te maken op dieren die bij wet beschermd zijn en bij zich draagt.
+Een persoon is schuldig wanneer deze een beschermd dier voorhanden heeft, vervoert en/of verkoopt.
+
 | Bij wet geclassificeerde beschermde dieren |
 |---|
-| Haaien |
-| Schildpadden |
+| Lepelsteur |
+| Zaagvis |
+| Paling |
+| Hamerkop haai |
+| Zeeschildpad |
+| Luipaard haai |
+| Blauwe haai |
+| Witte haai |
 
-|***`1-5 dieren`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|1-5 dieren | Celstraf  | Taakstraf  | boete  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   |  35 uur  | €5.000 |
-| **Tweede Veroordeling**  | 27 maanden |  | €8.500 |
-| **Meerdere Veroordelingen**  | 45 maanden |   | €10.000 |
+|  Eerste Veroordeling |   |  21 uur  | €1.500 |
+| Tweede Veroordeling  | 10 maanden |  | €2.500 |
+| Meerdere Veroordelingen  | 20 maanden |   | €4.000 |
 
-|***`6-40 dieren`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|6-40 dieren | Celstraf  | Taakstraf  | boete  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |  | 55 uur  | €7.500 |
-| **Tweede Veroordeling**  | 36 maanden |  | €12.500 |
-| **Meerdere Veroordelingen**  | 54 maanden |   | €15.000 |
+|  Eerste Veroordeling |  | 30 uur  | €2.500 |
+| Tweede Veroordeling  | 15 maanden |  | €4.000 |
+| Meerdere Veroordelingen  | 20 maanden |   | €5.000 |
 
-|***`>40 dieren`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|>40 dieren | Celstraf  | Taakstraf  | boete  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 27 maanden |   | €10.000 |
-| **Tweede Veroordeling**  | 60 maanden |  | €15.000 |
-| **Meerdere Veroordelingen**  | 90 maanden |   | €20.000 |
+|  Eerste Veroordeling | 15 maanden |   | €4.000 |
+| Tweede Veroordeling  | 20 maanden |  | €5.000 |
+| Meerdere Veroordelingen  | 30 maanden |   | €10.000 |
 
 ### Artikel VIII-13 Recht op bijstand Advocaat tijdens huiszoeking (artikel 99a sv)
 
@@ -1280,18 +1314,36 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | Binnenland     | Gebieden met een vast ondergrond (zand/aarde/steen) |
 | Binnenwater     | Rivieren, kanalen en meren zonder directe verbinding met de open zee/oceaan, die voor schepen en/of boten bevaarbaar zijn |
 
-1. De Koninklijke Marechaussee is bevoegd aan controle te onderwerpen:
-    a. Personen en/of vervoermiddelen en/of plaatsen voor distributie en overslag voor goederen die over de weg worden vervoerd, havens, haventerreinen, luchthavens, grensinspectiepost en luchtvaartterreinen.
-    b. Controle zoals beschreven in lid 1 is alleen van toepassing op gebieden die staan gemarkeerd als douanegebied op de douanekaart. Zie hiervoor de kaart douanegebieden in het wetboek.
-    c. Uitzondering op lid 1b betreft vervoersmiddelen en/of personen, die aantoonbaar door de Koninklijke Marechaussee, vanuit open water het binnenland of binnenwater betreden.
-    d. Indien een vaartuig en/of watervliegtuig op of naast een strand word aangetroffen, is de Koninklijke Marechaussee bevoegd het vaartuig en/of watervliegtuig, de personen en aanwezige voertuigen rondom het vaartuig en/of watervliegtuig binnen een straal van 50 meter (shoutingring) te controleren.
-    e. Indien een persoon binnen een straal van 50 meter, zoals genoemd in dit artikel lid 1 onder d, en zijn/haar voertuig buiten deze straal bevind, is de Koninklijke Marechaussee bevoegd dit voertuig te controleren. Dit voertuig dient op naam te staan van de persoon in aanwezigheid van de genoemde straal.
-2. Onder controle in de zin van lid 1 wordt mede verstaan doorzoeking en fouillering.
-3. Fouillering geschiedt op een besloten plaats dit mag elke agent doen van elk geslacht. De verdachte mag dan wel een voorkeur hebben van een geslacht maar mag ten alle tijden een agent van het andere geslacht hem/haar ook laten fouilleren.
-4. Onder fouillering zoals beschreven in lid 2 en lid 3 wordt verstaan: het onderzoek aan de kleding; en/of het verwijderen van de kleding, teneinde deze aan een nauwkeurig onderzoek te onderwerpen. Verwijderen van onderkleding is niet toegestaan.
-5. De Koninklijke Marechaussee is bevoegd met het oog op de uitoefening van de bevoegdheden, zoals bedoeld in dit artikel, de bestuurder dan wel de gezagvoerder van het vervoermiddel te vorderen dat deze zijn vervoermiddel vaart laat minderen, bijdraait, landt, stilhoudt, naar een door hem aangewezen plaats overbrengt, aanlegt en de motor buiten werking stelt. De in dit lid bedoelde personen zijn gehouden aan de vordering te voldoen.
-6. De Koninklijke Marechaussee is bevoegd personen die aanwezig zijn in of op de in dit artikel bedoelde locaties of vervoermiddelen of deze juist gaan betreden of hebben verlaten aan fouillering te onderwerpen.
-7. De Koninklijke Marechaussee maakt van zijn bevoegdheden slechts gebruik voorzover dat redelijkerwijs voor de vervulling van zijn taak nodig is.
+1. De Politie en Koninklijke Marechaussee zijn bevoegd aan controle te onderwerpen:
+    1. Personen en/of vervoermiddelen en/of plaatsen voor distributie en overslag voor goederen die over de weg worden vervoerd, havens, haventerreinen, luchthavens, grensinspectiepost en luchtvaartterreinen.
+    2. Controle zoals beschreven in lid 1 is alleen van toepassing op gebieden die staan gemarkeerd als douanegebied op de douanekaart. Zie hiervoor de kaart douanegebieden in het wetboek.
+    3. Uitzondering op lid 1b betreft vervoersmiddelen en/of personen, die aantoonbaar door de Politie of Koninklijke Marechaussee, vanuit open water het binnenland of binnenwater betreden, of die gecontroleerd worden tijdens een georganiseerde kustwachtcontrole.
+    4. Indien een vaartuig en/of watervliegtuig op of naast een strand word aangetroffen, zijn de Politie of Koninklijke Marechaussee bevoegd het vaartuig en/of watervliegtuig, de personen en aanwezige voertuigen rondom het vaartuig en/of watervliegtuig binnen een straal van 50 meter (shoutingring) te controleren.
+    5. Indien een persoon binnen een straal van 50 meter, zoals genoemd in dit artikel lid 1 onder d, en zijn/haar voertuig buiten deze straal bevind, zijn de Politie en de Koninklijke Marechaussee bevoegd dit voertuig te controleren. Dit voertuig dient op naam te staan van de persoon in aanwezigheid van de genoemde straal.
+    6. Onder controle in de zin van lid 1 wordt mede verstaan doorzoeking en fouillering.
+    7. Fouillering geschiedt op een besloten plaats. Dit mag elke agent doen van elk geslacht. De verdachte mag dan wel een voorkeur hebben van een geslacht maar mag ten alle tijden een agent van het andere geslacht hem/haar ook laten fouilleren.
+    8. Onder fouillering zoals beschreven in lid 2 en lid 3 wordt verstaan: het onderzoek aan de kleding; en/of het verwijderen van de kleding, teneinde deze aan een nauwkeurig onderzoek te onderwerpen. Verwijderen van onderkleding is niet toegestaan.
+    9. De Politie en Koninklijke Marechaussee zijn bevoegd met het oog op de uitoefening van de bevoegdheden, zoals bedoeld in dit artikel, de bestuurder dan wel de gezagvoerder van het vervoermiddel te vorderen dat deze zijn vervoermiddel vaart laat minderen, bijdraait, landt, stilhoudt, naar een door hem aangewezen plaats overbrengt, aanlegt en de motor buiten werking stelt. De in dit lid bedoelde personen zijn gehouden aan de vordering te voldoen.
+    10. De Politie en Koninklijke Marechaussee zijn bevoegd personen die aanwezig zijn in of op de in dit artikel bedoelde locaties of vervoermiddelen of deze juist gaan betreden of hebben verlaten aan fouillering te onderwerpen.
+    11. De Politie en Koninklijke Marechaussee maken van hun bevoegdheden slechts gebruik voorzover dat redelijkerwijs voor de vervulling van zijn taak nodig is.
+
+### Artikel X-3 Illegaal transport in vrachtwagentrailer
+
+1. Het is verboden om op enigerlei wijze illegale goederen te vervoeren in de trailer van een vrachtwagen, ongeacht of de vervoerder op de hoogte is van de inhoud.
+
+| DEFINITIE ILLEGALE GOEDEREN |
+|------|
+|  a. Gestolen goederen of eigendommen zonder geldige herkomst; |
+|  b. Chemicaliën die niet volgens de geldende wet- en regelgeving zijn opgeslagen of vervoerd; |
+|  c. Het vervoeren van dieren; |
+|  d. Alcohol zonder accijnsregistratie of afkomstig uit illegale productie; |
+|  e. Medicatie die niet via erkende en gereguleerde kanalen is verkregen. |
+
+|  |Celstraf  | Taakstraf  | boete  |
+|---|---|---|---|
+| Eerste Veroordeling |  | 30 | € 5.000,-  |
+| Tweede Veroordeling  |  | 50 | € 15.000,-  |
+| Meerdere Veroordelingen  | 15 |  | € 20.000,-  |
 
 ## Titel XI – Bewijs
 

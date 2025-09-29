@@ -86,7 +86,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 1. Het is niet toegestaan om opzettelijk de roleplay zodanig te manipuleren dat er een oneerlijke of onrealistische wending aan het verhaal wordt gegeven, of om de roleplay van een andere partij zelf in te vullen door middel van onrealistische dwang.
 
 2. Voorbeelden van overtredingen:
-    * Je voertuig in een garage zetten tijdens een achtervolging om verlies te voorkomen;
+    * Je voertuig in een garage zetten of pakken tijdens een achtervolging om verlies te voorkomen;
     * Een agent ontvoeren om een signalering te verwijderen of om toegang te krijgen tot politiedossiers (MEOS);
     * Medewerkers van overheidsdiensten dwingen een bewusteloos persoon te fouilleren, wapens af te nemen of af te geven aan jou of anderen.
 
@@ -120,7 +120,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 ### **Artikel 5 - New Life Rule**
 
-1. Indien een karakter overlijdt, wordt verwacht dat hij/zij/het de laatste roleplay vergeet. Het karakter mag niet terugkeren naar het gebied waar hij/zij/het is overleden. Dit gebied wordt aangeduid met een rode cirkel op de kaart en is verboden terrein gedurende **30 minuten** na het overlijden. Tevens mag het karakter zich niet opnieuw bemoeien met hetzelfde scenario totdat dit volledig is afgerond.
+1. Indien een karakter overlijdt, wordt verwacht dat hij/zij/het de laatste roleplay vergeet. Het karakter mag niet terugkeren naar het gebied waar hij/zij/het is overleden. Dit gebied wordt aangeduid met een rode cirkel op de kaart en is verboden terrein gedurende **15 minuten** na het overlijden. Tevens mag het karakter zich niet opnieuw bemoeien met hetzelfde scenario totdat dit volledig is afgerond.
 
 → **Sanctie:** Categorie 4.
 
@@ -130,7 +130,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 1. Het onnodig mishandelen, vermoorden, uitlokken en/of lastigvallen van anderen zonder intentie tot roleplay is verboden. Dit geldt ook voor dieren.
 
-→ **Sanctie:** Categorie 2.
+→ **Sanctie:** Categorie 1.
 
 ---
 
@@ -142,10 +142,9 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
     **Uitzondering:** Het is **GEEN NVOL** om te vluchten wanneer iemand vanuit een voertuig of motor zijn vuurwapen op je richt.
 
-
-2. Het overvallen met een mêlee-wapen is toegestaan, zolang het binnen armlengte is en het wapen op het slachtoffer gericht is. Buiten deze omstandigheden is medewerking niet verplicht.
-Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
-
+2. Een overval met een mêlee-wapen is toegestaan, mits het wapen zich binnen armlengte van het slachtoffer bevindt en daadwerkelijk op het slachtoffer is gericht. In deze situatie is het slachtoffer verplicht om mee te werken.
+Ook wanneer het slachtoffer de deuren van zijn/haar voertuig open heeft én het mêlee-wapen zich binnen armlengte van het lichaam van het slachtoffer bevindt, is medewerking verplicht.
+In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte bevindt of het slachtoffer een vuurwapen in bezit heeft, is medewerking niet verplicht.
 
 3. Wanneer je in een armored voertuig zit en dit voertuig ramen mist, kapotte ramen heeft of volledig kapot is, is medewerking verplicht.  
 
@@ -153,7 +152,7 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 
 ---
 
-### **Artikel 8 - ERP (Erotiche Roleplay)**
+### **Artikel 8 - ERP (Erotische Roleplay)**
 
 1. Het uitvoeren van erotische roleplay (ERP) is ten strengste verboden.
 
@@ -170,7 +169,7 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 1. Het uitvoeren van een zelfmoordscenario is niet toegestaan.
 
     **Uitzondering:** Dit artikel kan alleen worden overschreden met goedkeuring van de staff.
-   Het Bomvest is uitzondering op dit artikel. 
+   Het Bomvest is uitzondering op dit artikel. Hierbij moet wel een roleplay aan vast zitten.
 
 → **Sanctie:** Categorie 8 en/of 200 maanden celstraf.
 
@@ -192,6 +191,7 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
     * Bij ontsnappingen (Art. 25 APV) geldt hetzelfde videobewijsvereiste als bij lid 1.
     * In calls zitten met je vrienden die geen Tedeapolis spelen is ook verboden.
     * Het is toegestaan om in Discord via een "ic-bewijs" kanaal, bewijs te delen in Discord. Dit bewijs moet opgenomen zijn met een bodycam (360 graden), dashcam (voor/achter) en/of telefoon in de hand (360 graden).
+    * Een dashcam en/of bodycam is niet meer geldig vanaf het moment dat je ontploft bent. Dit telt ook op ontplofte voertuigen. Mocht dit toch gebruikt worden is dit Metagaming.
 
 → **Sanctie:** Categorie 1.
 
@@ -209,6 +209,7 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 
 1. Het gebruik van software of hulpmiddelen van derden (cheats) om voordeel te behalen in het spel is verboden.
 2. Dit artikel geldt ook voor de Discord-client. Het gebruik van bijvoorbeeld **BetterDiscord** of soortgelijke clients is niet toegestaan.
+3. Stretched resolutie mag ook niet. Hiermee pak je ook een oneerlijk voordeel.
 
 → **Sanctie:** Categorie 7.
 
@@ -222,7 +223,7 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 4. Officiële Tedeapolis-kleding, bedoeld voor specifieke groeperingen, mag niet door anderen worden gebruikt of als startkleding worden gekozen, tenzij er een sterke en goedgekeurde roleplay aan verbonden is.
 5. Kleding die aangekocht is via de Tedeapolis website mag wel gedragen worden door iedereen. (Op eigen risico)
 
-→ **Sanctie:** eerst een mondelinge waarschuwing. Bij het niet aanpassen volgt een straf volgens Categorie 1.
+→ **Sanctie:** Eerst een mondelinge waarschuwing. Bij het niet aanpassen volgt een straf volgens Categorie 1.
 
 ---
 
@@ -288,24 +289,24 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 3. Het betreden van gebouwen met voertuigen is verboden.
 → **Sanctie:** Categorie 1.
 4. Het gebruik van voertuigen als wapen (VDM) is verboden. Het opzettelijk beuken van stilstaande voertuigen met de intentie om mensen om te laten vallen is ook niet toegestaan.
-→ **Sanctie:** Categorie 2.
-5. **Pit-manoeuvres:** Deze moeten realistisch zijn en mogen niet worden uitgevoerd bij snelheden boven de **125 km/u**.
-
 → **Sanctie:** Categorie 1.
+5. **Pit-manoeuvres:** Deze moeten realistisch zijn en mogen niet worden uitgevoerd bij snelheden boven de **125 km/u**.
+→ **Sanctie:** Categorie 1.
+6. Het gebruiken van een eigen voertuig tijdens jobs zoals ramenwassen,vrachtwagenchauffeur,post, enz. is niet toegestaan.
+
+→ **Sanctie:** Categorie 2.
 
 ---
 
 ### **Artikel 20 - Belediging**
 
-1. Het gebruik van beledigingen met betrekking tot relevante/hedendaagse ziektes, racistische of ongepaste opmerkingen is verboden op alle door Tedeapolis erkende platformen.
+1. Het gebruik van beledigingen met betrekking tot relevante of hedendaagse ziektes, of het maken van grensoverschrijdende racistische opmerkingen, is verboden op alle door Tedeapolis erkende platformen.
 
 → **Sanctie:**
-    **Eerste overtreding:** Twee weken ban.
-    **Tweede overtreding:** Drie maanden ban.
-    **Derde overtreding:** Permanente ban.
-2. Toxic, uitlokkend, haatzaaiend of opruiend gedrag is niet toegestaan.
 
-→ **Sanctie:** Categorie 7.
+* **Eerste overtreding:** Twee weken ban.
+* **Tweede overtreding:** Drie maanden ban.
+* **Derde overtreding:** Permanente ban.
 
 ---
 
@@ -321,12 +322,19 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
     * Nieuwe spelers;
     * Voertuigen (alleen legaal te koop met legaal geld).
 3. Het is de verantwoordelijkheid van de koper om te controleren of aanpassingen (zoals tunes) op een voertuig aanwezig zijn bij overdracht.
-4. Counteren van een overval/gijzeling is verboden zodra politie/KMAR ter plaatse is.
-      * **Uitzondering:** Als de crimineel de politie/KMAR is kwijtgeraakt en een nieuw scenario start, mag er wel worden gecounterd.
+4. Counteren van een overval/gijzeling is verboden zodra er een politie/KMAR onderhandelaar ter plaatse is.
+      * **Uitzondering:** is wanneer persoon een ongeplande gijzeling start, terwijl je hiervoor in scenario zat met desbetreffende crimineel. Je mag de crimineel dan counteren op het moment dat hij de politie en/of KMAR kwijtgeraakt is uit een achtervolging. Denk hierbij aan een straatgijzeling van de politie en/of burgers.
 5. Wapens, drugs, en gijzelingen in appartementen zijn verboden.
 6. Na een overval/oplichting mag je het slachtoffer niet vermoorden, zelfs niet om de gebeurtenis te laten vergeten.
+7. Wanneer jij hebt waargenomen dat personen bezig zijn met criminele activiteiten heb jij de volgende tijden te respecteren om ze nog te overvallen en/of oplichten:
+   * Hetzelfde voertuig met de juiste kleur: 15 minuten;
+   * Zelfde kenteken: 1 uur;
+   * Persoonsherkenning: 4 uren;
+8. Indien je aan het overladen, kloppen of illegale substanties aan het vervoeren bent moet je altijd een prop zien. Indien de prop niet zichtbaar is, heb je dus foutief gehandeld.
 
-→ **Sanctie:** categorie 1.
+Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
+
+→ **Sanctie:** Minimaal categorie 1.
 
 ---
 
@@ -339,7 +347,6 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 * **Justitie**
 * **Ambulance**
 * **TDA Wegenwacht**
-* **Taxi**
 * **Handhaving**
 
 <!-- Kaas saak -->
@@ -348,7 +355,7 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 2. Het is niet toegestaan om door de politie in beslag genomen objecten door te handelen naar spelers. Dit geldt ook voor andere overheidsobjecten en informatie verkregen tijdens de carrière bij een overheidsdienst, ook na ontslag.
 **Uitzondering:** Politie- of KMAR-medewerkers met een speciale vergunning mogen hun wapens buiten dienst behouden.
 
-→ **Sanctie:** categorie 6.
+→ **Sanctie:** Categorie 6.
 
 ---
 
@@ -356,20 +363,19 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 
 1. Meldingen naar een overheidsinstantie moeten realistisch en uitgebreid zijn; valse meldingen zijn verboden.
 2. Roleplay met TDA Wegenwacht en Ambulance moet realistisch en uitgebreid zijn. Medewerkers zijn altijd leidend in de roleplay.
-3. Het maken van een melding met de intentie om overheidsmedewerkers te vermoorden, ontvoeren of overvallen is niet toegestaan.
+3. Het maken van een melding om een overheidsmedewerkers te vermoorden, ontvoeren of overvallen is niet toegestaan.
 4. Er moeten altijd minstens vijf overheidsmedewerkers beschikbaar blijven na een ontvoering uitgezonderd zijn de Justitie medewerkers.
+5. Ambulanciers mogen vanaf vier aanwezige collega's ontvoerd worden door criminele organisaties, mits de roleplay goed wordt uitgevoerd en het enkel voor de eigen groep is.
+6. Het is toegestaan een agent te ontvoeren om een voertuig uit de opslag te halen, mits het openstaande bedrag wordt voldaan. Dit mag niet tussen 00:00 en 10:00 uur.
 
-**Uitzondering:** Ambulanciers mogen vanaf vier aanwezige collega's ontvoerd worden door criminele organisaties, mits de roleplay goed wordt uitgevoerd.
-5. Het is toegestaan een agent te ontvoeren om een voertuig uit de opslag te halen, mits het openstaande bedrag wordt voldaan. Dit mag niet tussen 00:00 en 10:00 uur.
-
-→ **Sanctie:** categorie 5, bij herhaling categorie 6.
+→ **Sanctie:** Categorie 5, bij herhaling categorie 6.
 
 ---
 
 ### **Artikel 24 - Roleplay & Ledenaantal Criminele Organisaties**
 
 1. Criminele organisaties mogen maximaal 25 leden hebben, exclusief hangarounds maximaal 5.
-2. Samenwerking tussen criminele organisaties is toegestaan met maximaal twee gangs. Tot een totale van 20 leden van beide gangs.
+2. Samenwerking tussen criminele organisaties is toegestaan met maximaal twee gangs. Tot een totale van 10 leden van beide gangs.
 3. Politie-invallen mogen worden gecounterd door maximaal twee groepen met in totaal 25 personen.
 4. Samenwerkingen tussen officiële organisaties moeten worden gemeld via het daarvoor bestemde kanaal in de Discord.
 5. Bij negatieve uitstraling van de organisatie (denk daarbij aan warns / combatgedrag ect.) kunnen sancties volgen.
@@ -385,14 +391,14 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 3. Ontsnappen is verboden tussen 01:30 en 10:00 uur.
 4. Er moet samen minstens 10 politie- en KMAR-medewerkers aanwezig zijn.
 
-→ **Sanctie:** categorie 1.
+→ **Sanctie:** Categorie 1.
 
 ---
 
 ### **Artikel 26 - Witwassen, Winkel- en bankovervallen & overige criminaliteit**
 
 1. Witwassers overvallen is toegestaan wanneer minimaal één van onderstaande punten van toepassing is.
-    * Hij/zij/het gezichtsbedekking of beschermende kleding zoals een body armor draagt.
+    * Hij/zij/het gezichtsbedekking.
     * Het kenteken van een voertuig dat overeenkomt met het kenteken dat is verstuurd in het deepweb kanaal dat hiervoor bestemd is en niet ouder is dan 1 uur.
     * Een persoon verdachte handelingen doet bij een afleverpunt die niet passen bij de baan die de persoon op dat moment uitvoert.
     * Een persoon die niet de juiste kleding draagt die bij de job past.
@@ -404,22 +410,24 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 7. Een liquidatie mag niet uitgevoerd worden zonder dat het slachtoffer op de hoogte is van de reden hierachter. Er dient dus aan het slachtoffer duidelijk gemaakt te worden, terwijl hij/zij/het nog leeft, waarom diegene geliquideerd wordt.
 8. Het campen op een niet actieve drugs locatie is niet toegestaan, zowel op land als op het eiland.
 9. Je hebt pas recht op een wapen als je daadwerkelijk een achtervolging/scenario bent aangegaan met de persoon. Dit moet je wel duidelijk kenbaar maken.
-10. Indien je op borgtocht bent gestuurd zijn de volgende regels van kracht.
-   * Een persoon die de borgtocht aan gegaan is mag niet meer worden uitgebroken.
-   * Indien persoon dood gegaan is in een scenario waarbij de politie betrokken is geld de New Life rule niet meer. De huiszoeking gaat dan alsnog plaatsvinden.
-   * Je kan geen spullen pakken/verwijderen uit auto's en appartementen. Dit geld ook voor kleding verwijderen.
-→ **Sanctie:** categorie 1.
+10. Indien je op borgtocht bent gestuurd zijn de volgende regels van kracht:
+    * Een persoon die de borgtocht aangegaan is mag niet meer worden uitgebroken.
+    * Indien de persoon dood is gegaan in een scenario waarbij de politie betrokken is geldt de New Life rule niet meer. De huiszoeking gaat dan alsnog plaatsvinden.
+    * Je kan geen spullen pakken/verwijderen uit auto's en appartementen. Dit geldt ook voor kleding verwijderen.
+
+11. Dertig minuten voor een herstart mag je geen overvallen doen van locaties. Denk hierbij aan: winkels, banken en casinoheist.
+
+**Sanctie:** Categorie 1.
 
 ---
 
 ### **Artikel 27 - Jobhoppen**
 
-1. (Ex-)leden van een criminele organisatie dienen minimaal 72 uur te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere criminele organisatie voordat zij aangenomen mogen worden bij een overheidsbaan of een andere criminele organisatie.
-2. (Ex-)medewerkers van een overheidsbaan dienen minimaal 72 uur te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere criminele organisatie voordat zij aangenomen mogen worden bij een andere overheidsbaan of een criminele organisatie.
-3. Het is voor de leidinggevenden van overheidsbanen en criminele organisaties verplicht om een document bij te houden met informatie omtrent de in- en uitdiensttreding van hun medewerkers ten behoeve van de handhaving van dit artikel.
-4. (Ex-)medewerkes van een overheidsbaan dienen in de periode van 72 uur niet in de overheidsdiscord te zitten mochten zijn wisselen van baan.
+1. (Ex-)leden van een officiële groepering dienen minimaal 72 uur te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere officiële groepering voordat zij aangenomen mogen worden bij een overheidsbaan of een andere officiële groepering.
+2. (Ex-)medewerkers van een overheidsbaan dienen minimaal 72 uur te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere officiële groepering voordat zij aangenomen mogen worden bij een andere overheidsbaan of een officiële groepering.
+3. Het is voor de leidinggevenden van overheidsbanen en officiële groeperingen verplicht om een document bij te houden met informatie omtrent de in- en uitdiensttreding van hun medewerkers ten behoeve van de handhaving van dit artikel.
 
-→ **Sanctie:** categorie 1. (bij de overheid volgt ook ontslag van de nieuwe baan)
+→ **Sanctie:** Categorie 1. (bij de overheid volgt ook ontslag van de nieuwe baan)
 
 ---
 
@@ -429,7 +437,7 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 2. Indien de speler duidelijk moeite doet om zijn stem te vervormen, dan is het niet toegestaan om een speler aan zijn/haar/de stem te herkennen.
 3. Het is toegestaan om gebruik te maken van externe software om je stem te vervormen gedurende het uitvoeren van criminele activiteiten, echter dient dit realistisch te blijven.
 
-→ **Sanctie:** categorie 1.
+→ **Sanctie:** Categorie 1.
 
 ---
 
@@ -449,7 +457,7 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
     * Het naar buiten trekken van de persoon.
    Elke directe interactie via F6 zonder bovengenoemde handelingen wordt beschouwd als F6-Abuse.
 
-→ **Sanctie:** categorie 5.
+→ **Sanctie:** Categorie 5.
 
 ---
 
@@ -460,8 +468,24 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 3. Het verhandelen van aandelen in loodsen is toegestaan.
 4. Alle overeenkomsten met betrekking tot loodsen moeten schriftelijk worden vastgelegd en gedocumenteerd in de stad Tedeapolis met het commando /docu, en dienen te worden ondertekend door alle betrokken partijen.
 5. In geval van onduidelijkheid over de bepalingen van lid 2 of 3, zal het oordeel van een staflid leidend zijn, en dit staflid zal beslissen over de verdeling van de loods. De partij die beweert benadeeld te zijn, dient bewijsmateriaal te overleggen en draagt de verantwoordelijkheid voor de bewijslast.
+6. Indien een loods en eigenaar beide minimaal 120 dagen inactief zijn, kan SA+ deze loods opnieuw beschikbaar maken voor het publiek.
 
-→ **Sanctie:** categorie 3. Indien de overtreding over bedragen boven de 2 miljoen gaat, zal er gestraft worden volgens categorie 5.
+→ **Sanctie:** Categorie 3. Indien de overtreding over bedragen boven de 2 miljoen gaat, zal er gestraft worden volgens categorie 5.
+
+### **Artikel 31 - Eerlijkheid in tickets**
+
+1. Je dient te allen tijde eerlijke en volledige informatie te verstrekken in een ticket.
+2. Heb je eerder contact gehad met een stafflid via een report of privébericht, dien je dit expliciet te vermelden in het ticket.
+
+→ **Sanctie:** Categorie 5.
+
+---
+
+### **Artikel 32 - Baiting**
+
+1. Het is verboden om eenieder opzettelijk uit te lokken zonder een geldig of geloofwaardig scenario voorafgaand aan, of volgend op, de handeling. Dit wordt beschouwd als baiting.
+
+→ **Sanctie:** Categorie 1.
 
 ---
 
@@ -475,7 +499,7 @@ Onderstaande regels zijn er alleen op Narcopolis
 2. Het is voor de koninklijke marechaussee verboden om op het vasteland te schieten.
 3. Er mag op binnenkomende vluchten en schepen geschoten worden, die niet afkomstig zijn van de koninklijke marechaussee.
 
-→ **Sanctie:** categorie 1.
+→ **Sanctie:** Categorie 1.
 
 ---
 
@@ -483,8 +507,9 @@ Onderstaande regels zijn er alleen op Narcopolis
 
 1. Wanneer jij drugs wilt inladen in een vliegtuig of helikopter moet het vliegtuig of de helikopter binnen een straal van 50 meter van een helipad of landingsbaan staan.
 2. De sea sparrow en dodo mag wel volgeladen worden op open water.
+3. De Kleine eilandjes rondom Narcopolis zijn eveneens uitgezonderd van deze regel.
 
-→ **Sanctie:** categorie 1.
+→ **Sanctie:** Categorie 1.
 
 ---
 
@@ -493,7 +518,7 @@ Onderstaande regels zijn er alleen op Narcopolis
 1. Op Narcopolis is het voor een officiële groep niet toegestaan om samen te werken met een officiele of onofficiele groep of persoon.
 2. Uitzondering op lid 1 is er voor het kopen en verkopen van drugs. Dit mag wel gedaan worden op het eiland tussen verschillende groepen en personen.
 
-→ **Sanctie:** categorie 1.
+→ **Sanctie:** Categorie 1.
 
 ---
 
@@ -503,7 +528,7 @@ Onderstaande regels zijn er alleen op Narcopolis
 2. Zodra je binnen 1000 meter van de pluk bent, kan dit onder campen vallen. Dit is ter beoordeling aan een stafflid.
 3. Het is niet toegestaan om constant op en neer te rijden naar een niet-actieve drugs locatie, om zo de camp regel te omzeilen. Als dit blijft gebeuren zullen er sancties komen. Dit is ter beoordeling aan een stafflid.
 
-→ **Sanctie:** categorie 1.
+→ **Sanctie:** Categorie 1.
 
 ---
 
@@ -574,7 +599,6 @@ Het overtreden van de onderstaande regels zullen resulteren in sancties voor de 
 * Ben je als agent niet in game, mag je niet deelnemen aan een overval.
 * Wanneer je wordt vermoord door een rivaliserende gang mag je 24 uur niet deelnemen aan eventuele wraakacties of roleplay richting een andere gang.
 * Het is verboden een ambulancier of een medewerker van de TDA Wegenwacht te vermoorden of te ontvoeren bij een oproep of gebruik van hen.
-* Het is verboden om drugslocaties of wapens te verkopen via twitter, ook als je het hebt over "theeblaadjeslocaties", "broodmessen", "waterpistolen" en dergelijke.
 
 ---
 

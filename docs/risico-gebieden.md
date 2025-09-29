@@ -78,7 +78,7 @@ De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Tedeapolis
 
 ### Car Dealer
 
-- 3212
+- 5146
 
 ### Gemeentehuis
 
