@@ -178,6 +178,11 @@
 2. Bij een akkoord van een borgtocht ben je je verplicht te houden aan de afspraken die gemaakt zijn.
 3. Indien de huiszoeking per direct kan uitgevoerd worden vervalt lid 1.
 
+### A15 - Arrestatiebevel
+
+1. De politie mag een arrestatiebevel uitvaardigen voor maximaal 21 dagen.
+2. Alleen een rechter mag een arrestatiebevel uitvaardigen tot maximaal 42 dagen.
+
 ## Titel I - Vermogensdelicten
 
 ![Titel I](img/wetboek/Vermogen.webp)
