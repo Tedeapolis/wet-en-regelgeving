@@ -331,6 +331,7 @@ In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte be
    * Zelfde kenteken: 1 uur;
    * Persoonsherkenning: 4 uren;
 8. Indien je aan het overladen, kloppen of illegale substanties aan het vervoeren bent moet je altijd een prop zien. Indien de prop niet zichtbaar is, heb je dus foutief gehandeld.
+9. Het kopen van goederen/items bij Ammunation wordt niet beschouwd als een illegale activiteit. Het is niet toegestaan dit als aanleiding te gebruiken voor een overval of controle.
 
 Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 
@@ -374,8 +375,8 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 
 ### **Artikel 24 - Roleplay & Ledenaantal Criminele Organisaties**
 
-1. Criminele organisaties mogen maximaal 25 leden hebben, exclusief hangarounds maximaal 5.
-2. Samenwerking tussen criminele organisaties is toegestaan met maximaal twee gangs. Tot een totale van 10 leden van beide gangs.
+1. Criminele organisaties mogen maximaal 20 leden hebben, inclusief maximaal 5 hangarounds.
+2. Samenwerking tussen criminele organisaties is toegestaan met maximaal 2 gangs, met een totaal van maximaal 6 leden van beide gangs samen. Mits als doelstelling hier een roleplay aan gekoppeld is. (niet voor het opzoeken van actie zoals jagen, rippen of vergelijkbare situaties).
 3. Politie-invallen mogen worden gecounterd door maximaal twee groepen met in totaal 25 personen.
 4. Samenwerkingen tussen officiële organisaties moeten worden gemeld via het daarvoor bestemde kanaal in de Discord.
 5. Bij negatieve uitstraling van de organisatie (denk daarbij aan warns / combatgedrag ect.) kunnen sancties volgen.
@@ -580,6 +581,7 @@ Het overtreden van de onderstaande regels zullen resulteren in sancties voor de 
 2. Het in beslag nemen van een voertuig door een officiële gang hoort met goede of langdurige roleplay te gebeuren, en niet met de intentie om geld te verdienen.
 3. Wanneer er twee weken lang geen roleplay aan de inbeslagname gebonden wordt, is het toegestaan om het voertuig weer gratis uit de garage te halen.
 4. Het confisqueren van items, wapens en geld van een speler is alleen toegestaan als hier een roleplay aan is verbonden. Het confisqueren van overheids objecten is niet toegestaan.
+5. Een officiële gang mag zijn/haar wapen inkoop niet door verkopen aan andere spelers.
 
 → **Sanctie:** Sanctie door CA, mogelijk opschorting van de organisatie.
 
