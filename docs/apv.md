@@ -489,6 +489,26 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 
 ---
 
+### **Artikel 33 - IRL Traden**
+
+1. Het verhandelen van in-game items, valuta of accounts voor echte valuta of goederen (IRL traden) is verboden.
+2. Dit geldt voor alle vormen van externe deals buiten het spel om, ongeacht het platform dat gebruikt wordt.
+3. Pogingen tot IRL traden, ook zonder succesvolle afronding, worden als overtreding beschouwd.
+
+→ **Sanctie:** Categorie 7.
+
+---
+
+### **Artikel 34 - Doxen**
+
+1. Het is strikt verboden om persoonlijke informatie van andere spelers te delen, dan wel te dreigen met het delen daarvan, waaronder begrepen maar niet beperkt tot zogenoemd “doxing”. (art. 285d Sr).
+2. Onder persoonlijke informatie vallen onder andere naam, adres, telefoonnummer, sociale media of andere herleidbare gegevens.
+3. Ook het aanzetten van anderen tot het verzamelen of verspreiden van deze informatie is niet toegestaan.
+
+→ **Sanctie:** Categorie 7.
+
+---
+
 ## **Narcopolis**
 
 Onderstaande regels zijn er alleen op Narcopolis
