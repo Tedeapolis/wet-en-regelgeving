@@ -74,11 +74,11 @@
 ### A7 - Inbeslagname
 
 1. Wanneer een strafbaar feit gepleegd is met een goed, of wanneer een goed uit een strafbaar feit is verkregen, kan deze in beslag worden genomen.
-    1. De keuze voor inbeslagname is ter beoordeling van Politie en/of de Koninklijke Marechaussee.  
+    1. De keuze voor inbeslagname is ter beoordeling van Politie.  
     2. Verwerking van de in beslag genomen goederen (behalve voertuigen) geschiedt volgens richtlijn van Politie.
 
 2. Wanneer een voertuig in beslag wordt genomen vanwege een strafbaar feit:
-    1. Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek. In deze 3 dagen heeft de Politie en/of Koninklijke Marechaussee de tijd om de bewijzen te verzamelen en beschikbaar te stellen.  
+    1. Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek. In deze 3 dagen heeft de Politie de tijd om de bewijzen te verzamelen en beschikbaar te stellen.  
     2. Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een strafbaar feit, uitgekocht kunnen worden op basis van de ernst van het strafbaar feit, 24 uur nadat de inbeslagname is geregistreerd in de politiesystemen.  
     3. Zal deze, wanneer het voertuig tevens uit het water moest worden gehaald, uitgekocht kunnen worden met een toevoeging van 10% op het basisuitkooppercentage.  
     4. Zal deze kosteloos worden teruggegeven als er na 3 dagen tijd niet voldoende bewijs is voor de inbeslagname. Als een advocaat op de 3e dag pas de hOvj/Ovj benadert, heeft de hOvj/Ovj het recht om een extra 48 uur te nemen om extra bewijs op te vragen, indien aanwezig.  
@@ -89,7 +89,7 @@
     9. Uitzonderingsgrond voor teruggave van het voertuig is van toepassing indien:  
         * Het voertuig valt onder Artikel III-14 (Illegale voertuigen); of  
         * Het voertuig voor de vierde keer in beslag is genomen.  
-        In beide gevallen zal het voertuig worden vernietigd of verkocht. Voertuigen die langer dan veertien (14) dagen in de opslag staan, worden eveneens vernietigd of verkocht, tenzij bezwaar is aangetekend via het klachtenformulier van Politie of Koninklijke Marechaussee.
+        In beide gevallen zal het voertuig worden vernietigd of verkocht. Voertuigen die langer dan veertien (14) dagen in de opslag staan, worden eveneens vernietigd of verkocht, tenzij bezwaar is aangetekend via het klachtenformulier van Politie.
 
 3. Geldige redenen voor inbeslagname zijn:
     1. Plegen van een strafbaar feit uit het wetboek van Tedeapolis waarbij het goed direct of indirect betrokken is, met uitzondering van fout parkeren en snelheidsovertredingen zoals beschreven in lid 4;  
@@ -105,14 +105,14 @@
 ### A8 - Inbeslagname van luchtvaartvoertuigen
 
 1. Wanneer een luchtvaartvoertuig (zoals een helikopter, vliegtuig of ander luchtvaartuig) betrokken is bij een strafbaar feit, kan deze in beslag worden genomen.
-    1. De keuze voor inbeslagname is ter beoordeling van Politie en/of de Koninklijke Marechaussee.
+    1. De keuze voor inbeslagname is ter beoordeling van Politie.
     2. Er geldt een basisuitkooppercentage van 20%. (Uizondering hierop is lid 2)
 2. Inbeslagname van onbemande luchtvaartvoertuigen met illegale goederen:
     1. Indien een onbemande helikopter of ander onbemand luchtvaartvoertuig wordt aangetroffen met illegale goederen, gelden de volgende maximale uitkoopkosten:
         * €200.000,- indien de eigenaar volledig meewerkt aan het onderzoek of de vordering;
 3. Inbeslagname in overige gevallen:
     1. indien de helikopter of ander luchtvaartvoertuig inbelag is genomen, gelden de volgende maximale uitkoopkosten:
-        * €500.000,- indien de eigenaar niet meewerkt met vorderingen van Politie of Koninklijke Marechaussee.
+        * €500.000,- indien de eigenaar niet meewerkt met vorderingen van Politie.
 4. Algemene bepalingen:
     1. Wanneer het voertuig na inbeslagname niet binnen veertien (14) dagen wordt opgeëist of uitgekocht, zal het worden vernietigd of verkocht, tenzij bezwaar is ingediend via het klachtenformulier.
     . Beroep tegen de inbeslagname is uitsluitend mogelijk via een advocaat.
@@ -281,9 +281,9 @@
 
 ### Artikel I-9 Geldige verklaring herkomst contanten (321 SR)
 
-1. Wanneer er tijdens aanhouding van een persoon door Politie of Koninklijke Marechaussee een geldbedrag, hoger dan € 15000,- aan contanten aangetroffen wordt bij die persoon, zal er om geldige verklaring van herkomst gevraagd worden.
-2. Wanneer deze verklaring niet bewijsbaar of redelijkerwijs aannemelijk is, dan heeft de Politie of Koninklijke Marechaussee de bevoegdheid dit bedrag in beslag te nemen voor onderzoek.
-3. Wanneer uit onderzoek blijkt, volgend op de inbeslagname zoals bedoeld in lid 2, geen criminele herkomst kan aantonen, dan is de Politie of Koninklijke Marechaussee gemaand tot restitutie.
+1. Wanneer er tijdens aanhouding van een persoon door Politie een geldbedrag, hoger dan € 15000,- aan contanten aangetroffen wordt bij die persoon, zal er om geldige verklaring van herkomst gevraagd worden.
+2. Wanneer deze verklaring niet bewijsbaar of redelijkerwijs aannemelijk is, dan heeft de Politie de bevoegdheid dit bedrag in beslag te nemen voor onderzoek.
+3. Wanneer uit onderzoek blijkt, volgend op de inbeslagname zoals bedoeld in lid 2, geen criminele herkomst kan aantonen, dan is de Politie gemaand tot restitutie.
 4. Wanneer uit onderzoek blijkt, volgend op de inbeslagname zoals bedoeld in lid 2, criminele herkomst aantoont, dan zal de in beslag genomen som vernietigd worden.
 
 ## Titel II - Geweldsdelicten
@@ -612,9 +612,9 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 #### Strafbepalingen Voertuigeisen
 
 1. Schuldig is een persoon van wie zijn of haar voertuig niet voldoet aan de bovenstaande eisen.
-2. Indien een bestuurder in een voertuig met een WOK-status deelneemt aan het verkeer, en de Politie of Koninklijke Marechaussee de bestuurder voor de eerste of tweede keer staande houdt, dan zal dit worden gezien als een misdrijf. Dit wordt bestraft met een inbeslagname van het desbetreffende voertuig.
+2. Indien een bestuurder in een voertuig met een WOK-status deelneemt aan het verkeer, en de Politie de bestuurder voor de eerste of tweede keer staande houdt, dan zal dit worden gezien als een misdrijf. Dit wordt bestraft met een inbeslagname van het desbetreffende voertuig.
 3. Wordt een bestuurder bij een derde keer of vaker staande gehouden, zal de sanctie van een inbeslagname vermeerderd worden met een taakstraf als hieronder vermeld.
-4. Een WOK-status is een status die vastgelegd is bij de Politie en Koninklijke marechaussee. Deze status kan na een reparatie of aanpassing van het voertuig door de Pechhulp, Politie of Koninklijke marechaussee verwijderd worden na een visuele controle van het voertuig.
+4. Een WOK-status is een status die vastgelegd is bij de Politie. Deze status kan na een reparatie of aanpassing van het voertuig door de Pechhulp of Politie verwijderd worden na een visuele controle van het voertuig.
 
 #### Rijden met WOK-status straffen
 
@@ -1145,7 +1145,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 ### Artikel VIII-11 Betreden van verboden domein
 
 1. Schuldig is een persoon die zonder daartoe gerechtigd is, over iemand anders zijn grond waarvan de toegang op een voor hem blijkbare wijze door den rechthebbende is verboden, loopt, rijdt of vee laat lopen.
-2. Schuldig is een persoon die zonder daartoe gerechtigd is, over bij wet geclassificeerde verboden domeinen te lopen, rijden, varen, vliegen of landen zonder nadrukkelijke en aantoonbaar toestemming te hebben verkregen van de Politie, Koninklijke Marechaussee, Koninklijke Luchtmacht of Korps Commando Troepen.
+2. Schuldig is een persoon die zonder daartoe gerechtigd is, over bij wet geclassificeerde verboden domeinen te lopen, rijden, varen, vliegen of landen zonder nadrukkelijke en aantoonbaar toestemming te hebben verkregen van de Politie, Koninklijke Luchtmacht of Korps Commando Troepen.
 
 | Bij wet geclassificeerde verboden domeinen | Gelegen Nabij Postcode |
 |--------------------------------------------|-------------------------|
@@ -1305,7 +1305,7 @@ Een persoon is schuldig wanneer deze een beschermd dier voorhanden heeft, vervoe
 ### Artikel X-1 Negeren van controle grensinspectiepost (1:1 - 1:31 Algemene Douanewet)
 
 1. Schuldig is een persoon die opzettelijk en wederrechtelijk een grensinspectiepost ontwijkt, daar waar hij redelijkerwijs deze grensinspectiepost zou moeten passeren.
-2. Schuldig is tevens een persoon die zich onthoudt van aanhouding dan wel controle door de Koninklijke Marechaussee bij een grensinspectiepost.
+2. Schuldig is tevens een persoon die zich onthoudt van aanhouding dan wel controle door de Politie bij een grensinspectiepost.
 3. Niet schuldig is een persoon die een grensinspectiepost passeert dan wel ontwijkt of vermijdt terwijl deze op dat moment niet bemenst is met dienstdoend personeel.
 4. Niet schuldig is tevens een persoon die een grensinspectiepost passeert zonder controle wanneer deze persoon niet tijdig en duidelijk tot stilstand wordt gemaand door het dienstdoend personeel.
 5. Niet schuldig is tevens een persoon die, gelet op artikel 4, zijn of haar voertuig na passeren van de grens, met inachtneming van enige redelijkheid van afstand en tijd, tot stilstand brengt om alsnog te worden gecontroleerd.
@@ -1319,18 +1319,18 @@ Een persoon is schuldig wanneer deze een beschermd dier voorhanden heeft, vervoe
 | Binnenland     | Gebieden met een vast ondergrond (zand/aarde/steen) |
 | Binnenwater     | Rivieren, kanalen en meren zonder directe verbinding met de open zee/oceaan, die voor schepen en/of boten bevaarbaar zijn |
 
-1. De Politie en Koninklijke Marechaussee zijn bevoegd aan controle te onderwerpen:
+1. De Politie is bevoegd aan controle te onderwerpen:
     1. Personen en/of vervoermiddelen en/of plaatsen voor distributie en overslag voor goederen die over de weg worden vervoerd, havens, haventerreinen, luchthavens, grensinspectiepost en luchtvaartterreinen.
     2. Controle zoals beschreven in lid 1 is alleen van toepassing op gebieden die staan gemarkeerd als douanegebied op de douanekaart. Zie hiervoor de kaart douanegebieden in het wetboek.
-    3. Uitzondering op lid 1b betreft vervoersmiddelen en/of personen, die aantoonbaar door de Politie of Koninklijke Marechaussee, vanuit open water het binnenland of binnenwater betreden, of die gecontroleerd worden tijdens een georganiseerde kustwachtcontrole.
-    4. Indien een vaartuig en/of watervliegtuig op of naast een strand word aangetroffen, zijn de Politie of Koninklijke Marechaussee bevoegd het vaartuig en/of watervliegtuig, de personen en aanwezige voertuigen rondom het vaartuig en/of watervliegtuig binnen een straal van 50 meter (shoutingring) te controleren.
-    5. Indien een persoon binnen een straal van 50 meter, zoals genoemd in dit artikel lid 1 onder d, en zijn/haar voertuig buiten deze straal bevind, zijn de Politie en de Koninklijke Marechaussee bevoegd dit voertuig te controleren. Dit voertuig dient op naam te staan van de persoon in aanwezigheid van de genoemde straal.
+    3. Uitzondering op lid 1b betreft vervoersmiddelen en/of personen, die aantoonbaar door de Politie, vanuit open water het binnenland of binnenwater betreden, of die gecontroleerd worden tijdens een georganiseerde kustwachtcontrole.
+    4. Indien een vaartuig en/of watervliegtuig op of naast een strand word aangetroffen, is de Politie bevoegd het vaartuig en/of watervliegtuig, de personen en aanwezige voertuigen rondom het vaartuig en/of watervliegtuig binnen een straal van 50 meter (shoutingring) te controleren.
+    5. Indien een persoon binnen een straal van 50 meter, zoals genoemd in dit artikel lid 1 onder d, en zijn/haar voertuig buiten deze straal bevind, is de Politie bevoegd dit voertuig te controleren. Dit voertuig dient op naam te staan van de persoon in aanwezigheid van de genoemde straal.
     6. Onder controle in de zin van lid 1 wordt mede verstaan doorzoeking en fouillering.
     7. Fouillering geschiedt op een besloten plaats. Dit mag elke agent doen van elk geslacht. De verdachte mag dan wel een voorkeur hebben van een geslacht maar mag ten alle tijden een agent van het andere geslacht hem/haar ook laten fouilleren.
     8. Onder fouillering zoals beschreven in lid 2 en lid 3 wordt verstaan: het onderzoek aan de kleding; en/of het verwijderen van de kleding, teneinde deze aan een nauwkeurig onderzoek te onderwerpen. Verwijderen van onderkleding is niet toegestaan.
-    9. De Politie en Koninklijke Marechaussee zijn bevoegd met het oog op de uitoefening van de bevoegdheden, zoals bedoeld in dit artikel, de bestuurder dan wel de gezagvoerder van het vervoermiddel te vorderen dat deze zijn vervoermiddel vaart laat minderen, bijdraait, landt, stilhoudt, naar een door hem aangewezen plaats overbrengt, aanlegt en de motor buiten werking stelt. De in dit lid bedoelde personen zijn gehouden aan de vordering te voldoen.
-    10. De Politie en Koninklijke Marechaussee zijn bevoegd personen die aanwezig zijn in of op de in dit artikel bedoelde locaties of vervoermiddelen of deze juist gaan betreden of hebben verlaten aan fouillering te onderwerpen.
-    11. De Politie en Koninklijke Marechaussee maken van hun bevoegdheden slechts gebruik voorzover dat redelijkerwijs voor de vervulling van zijn taak nodig is.
+    9. De Politie is bevoegd met het oog op de uitoefening van de bevoegdheden, zoals bedoeld in dit artikel, de bestuurder dan wel de gezagvoerder van het vervoermiddel te vorderen dat deze zijn vervoermiddel vaart laat minderen, bijdraait, landt, stilhoudt, naar een door hem aangewezen plaats overbrengt, aanlegt en de motor buiten werking stelt. De in dit lid bedoelde personen zijn gehouden aan de vordering te voldoen.
+    10. De Politie is bevoegd personen die aanwezig zijn in of op de in dit artikel bedoelde locaties of vervoermiddelen of deze juist gaan betreden of hebben verlaten aan fouillering te onderwerpen.
+    11. De Politie maakt van hun bevoegdheden slechts gebruik voorzover dat redelijkerwijs voor de vervulling van zijn taak nodig is.
 
 ### Artikel X-3 Illegaal transport in vrachtwagentrailer
 
@@ -1357,9 +1357,8 @@ Een persoon is schuldig wanneer deze een beschermd dier voorhanden heeft, vervoe
 1. Met de opsporing van strafbare feiten zijn belast:
    1. de (hulp)officieren van justitie;
    2. de ambtenaren van politie voor zover zij zijn aangesteld voor de uitvoering van de politietaak;
-   3. de ambtenaren van de Koninklijke marechaussee;
-   4. de opsporingsambtenaren van de Recherche en Dienst Speciale Interventies (DSI);
-   5. De bevoegdheid van ambtenaren die met de opsporing van strafbare feiten zijn belast, is beperkt tot het gebied waarvoor zij zijn aangesteld;
+   3. de opsporingsambtenaren van de Recherche en Dienst Speciale Interventies (DSI);
+   4. De bevoegdheid van ambtenaren die met de opsporing van strafbare feiten zijn belast, is beperkt tot het gebied waarvoor zij zijn aangesteld;
 
 ### Artikel XI-2 Wettige bewijsmiddelen (Artikel 338/339 SV)
 
