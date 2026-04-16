@@ -322,8 +322,8 @@ In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte be
     * Nieuwe spelers;
     * Voertuigen (alleen legaal te koop met legaal geld).
 3. Het is de verantwoordelijkheid van de koper om te controleren of aanpassingen (zoals tunes) op een voertuig aanwezig zijn bij overdracht.
-4. Counteren van een overval/gijzeling is verboden zodra er een politie/KMAR onderhandelaar ter plaatse is.
-      * **Uitzondering:** is wanneer persoon een ongeplande gijzeling start, terwijl je hiervoor in scenario zat met desbetreffende crimineel. Je mag de crimineel dan counteren op het moment dat hij de politie en/of KMAR kwijtgeraakt is uit een achtervolging. Denk hierbij aan een straatgijzeling van de politie en/of burgers.
+4. Counteren van een overval/gijzeling is verboden zodra er een politie onderhandelaar ter plaatse is.
+      * **Uitzondering:** is wanneer persoon een ongeplande gijzeling start, terwijl je hiervoor in scenario zat met desbetreffende crimineel. Je mag de crimineel dan counteren op het moment dat hij de politie kwijtgeraakt is uit een achtervolging. Denk hierbij aan een straatgijzeling van de politie en/of burgers.
 5. Wapens, drugs, en gijzelingen in appartementen zijn verboden.
 6. Na een overval/oplichting mag je het slachtoffer niet vermoorden, zelfs niet om de gebeurtenis te laten vergeten.
 7. Wanneer jij hebt waargenomen dat personen bezig zijn met criminele activiteiten heb jij de volgende tijden te respecteren om ze nog te overvallen en/of oplichten:
@@ -354,7 +354,7 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 
 1. Voor een ambtenaar is het niet toegestaan zich bezig te houden met illegale bezigheden.
 2. Het is niet toegestaan om door de politie in beslag genomen objecten door te handelen naar spelers. Dit geldt ook voor andere overheidsobjecten en informatie verkregen tijdens de carrière bij een overheidsdienst, ook na ontslag.
-**Uitzondering:** Politie- of KMAR-medewerkers met een speciale vergunning mogen hun wapens buiten dienst behouden.
+**Uitzondering:** Politiemedewerkers met een speciale vergunning mogen hun dienstwapens buiten dienst behouden.
 
 → **Sanctie:** Categorie 6.
 
@@ -390,7 +390,7 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 1. Ontsnappen is toegestaan mits gekoppeld aan een geldig roleplay-scenario, beoordeeld door een stafflid.
 2. Ontsnappen is niet toegestaan tijdens afgesproken pauzes in roleplay.
 3. Ontsnappen is verboden tussen 01:30 en 10:00 uur.
-4. Er moet samen minstens 10 politie- en KMAR-medewerkers aanwezig zijn.
+4. Er moeten minstens 10 politiemedewerkers aanwezig zijn.
 
 → **Sanctie:** Categorie 1.
 
@@ -399,7 +399,7 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 ### **Artikel 26 - Witwassen, Winkel- en bankovervallen & overige criminaliteit**
 
 1. Witwassers overvallen is toegestaan wanneer minimaal één van onderstaande punten van toepassing is.
-    * Hij/zij/het gezichtsbedekking.
+    * De persoon draagt gezichtsbedekkende kleding.
     * Het kenteken van een voertuig dat overeenkomt met het kenteken dat is verstuurd in het deepweb kanaal dat hiervoor bestemd is en niet ouder is dan 1 uur.
     * Een persoon verdachte handelingen doet bij een afleverpunt die niet passen bij de baan die de persoon op dat moment uitvoert.
     * Een persoon die niet de juiste kleding draagt die bij de job past.
@@ -562,7 +562,7 @@ Het overtreden van de onderstaande regels zullen resulteren in sancties voor de 
 
 1. Een voertuig mag alleen in beslag genomen worden met een geldige reden
 (een geldige reden kan zijn: Jouw voertuig is in beslag genomen, ze hebben een van je leden doodgeschoten, je hebt een oorlog, je wilt er een overval meedoen etc.)
-2. Het is niet toegestaan om elkaars voertuig in beslag te nemen om deze vervolgens expres in beslag te laten nemen door de politie/kmar.
+2. Het is niet toegestaan om elkaars voertuig in beslag te nemen om deze vervolgens expres in beslag te laten nemen door de politie.
 3. Na het in beslag nemen van een voertuig dient er binnen 24uur contact opgenomen te worden bij desbetreffende persoon (dit om de rp gaande te houden en persoon de kans te geven zijn voertuig op gestolen te zetten).
  Verder moet elke 24uur de RP gaande gehouden worden door berichten en onderhandelingen. (gebeurt dit niet mag het voertuig gratis terug geëist worden)
 4. Het is niet toegestaan om naar een gang zijn opslag te gaan en het voertuig eruit te eisen zonder dat je een directe aanleiding hebt dat het voertuig daar is opgeslagen.

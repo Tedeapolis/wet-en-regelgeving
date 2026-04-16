@@ -18,7 +18,7 @@ Twitch, Youtube en Tiktok
 7. De naam Tedeapolis moet in de titel van de video's of livestreams staan zodat het ook door ons gevonden kan worden.
 8. Het is niet toegestaan voor content creators vanuit overheidsdiensten om discord porto te laten horen op video's of livestreams.
 9. Het is niet toegestaan om deepwebkanalen, telefoonnummers of andere inhoudelijke informatie van telefoons te tonen in video's.
-10. Tijdens een livestream is het verplicht om gebruik te maken van streamermodus. Hiermee wordt informatie zoals vernoemd in lid 10 verborgen.  
+10. Tijdens een livestream is het verplicht om gebruik te maken van streamermodus. Hiermee wordt informatie zoals vernoemd in lid 9 verborgen.  
 11. Het is niet toegestaan om Tedeapolis of een andere spelers in een verkeerd daglicht te zetten.
 
 ## Sancties
