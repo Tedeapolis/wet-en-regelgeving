@@ -399,7 +399,7 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 ### **Artikel 26 - Witwassen, Winkel- en bankovervallen & overige criminaliteit**
 
 1. Witwassers overvallen is toegestaan wanneer minimaal één van onderstaande punten van toepassing is.
-    * Hij/zij/het gezichtsbedekking.
+    * De persoon draagt gezichtsbedekkende kleding.
     * Het kenteken van een voertuig dat overeenkomt met het kenteken dat is verstuurd in het deepweb kanaal dat hiervoor bestemd is en niet ouder is dan 1 uur.
     * Een persoon verdachte handelingen doet bij een afleverpunt die niet passen bij de baan die de persoon op dat moment uitvoert.
     * Een persoon die niet de juiste kleding draagt die bij de job past.
