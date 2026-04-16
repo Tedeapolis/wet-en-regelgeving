@@ -72,13 +72,13 @@ De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Tedeapolis
 - 3214
 - 3216
 
-### ANWB
+### Pechhulp
 
 - 6019
 
 ### Car Dealer
 
-- 3212
+- 5146
 
 ### Gemeentehuis
 

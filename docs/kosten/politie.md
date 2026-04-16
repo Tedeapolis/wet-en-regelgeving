@@ -83,7 +83,6 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Verstoring Openbare orde | € 220,- |
 | Valse informatie geven | € 250,- |
 | Valse melding | € 450,- |
-| In het bezit zijn van inbrekers gereedschap | € 2500,- |
 | Poging tot diefstal | € 1400,- |
 | Diefstal | € 2000,- |
 | Poging tot omkopen | € 1500,- |
@@ -93,6 +92,9 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Lokaalvredebreuk eerste veroordeling | € 1500,- |
 | Lokaalvredebreuk tweede veroordeling | € 2000,- |
 | Lokaalvredebreuk derde veroordeling | € 3000,- |
+| Vissen zonder vispas | €3000,- |
+| Vissen zonder vispas 2e keer | €6000,- |
+| Vissen zonder vispas meerdere keren | €8000,- |
 
 ## Middelmatig misdrijf
 

@@ -1,10 +1,10 @@
-# ANWB
+# Pechhulp
 
-De ANWB hanteert de volgende prijzen voor de diensten die zij leveren.
+De Pechhulp hanteert de volgende prijzen voor de diensten die zij leveren.
 
 ## Categoriën
 
-Bij de anwb worden verschillende categorieën gehanteerd hier onder zijn deze te vinden.
+Bij de Pechhulp worden verschillende categorieën gehanteerd hier onder zijn deze te vinden.
 
 |Categorie| omschrijving |
 |:-------:|------------|
