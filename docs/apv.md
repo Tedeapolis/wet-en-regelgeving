@@ -344,7 +344,6 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 *Onder ambtenaar wordt verstaan spelers die één van de volgende banen uitvoeren, zoals weergegeven in het F10-menu:*
 
 * **Politie**
-* **Koninklijke marechaussee**
 * **Justitie**
 * **Ambulance**
 * **TDA Wegenwacht**
@@ -517,8 +516,8 @@ Onderstaande regels zijn er alleen op Narcopolis
 ### **Artikel N-1 - Schieten vanaf het vasteland en water**
 
 1. Het is verboden om vanaf het vaste land op de patrouillerende schepen of heli's te schieten.
-2. Het is voor de koninklijke marechaussee verboden om op het vasteland te schieten.
-3. Er mag op binnenkomende vluchten en schepen geschoten worden, die niet afkomstig zijn van de koninklijke marechaussee.
+2. Het is voor de Politie verboden om op het vasteland te schieten.
+3. Er mag op binnenkomende vluchten en schepen geschoten worden, die niet afkomstig zijn van de Politie.
 
 → **Sanctie:** Categorie 1.
 
