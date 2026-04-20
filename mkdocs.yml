@@ -12,7 +12,7 @@ repo_url: 'https://github.com/Tedeapolis/wet-en-regelgeving/'
 repo_name: 'Tedeapolis/wet-en-regelgeving'
 edit_uri: 'edit/pre-release/docs/'
 
-google_analytics: ['UA-167800475-3', 'wetboek.tedeapolis.nl']
+google_analytics: ['UA-167800475-3', 'wetboek.tedeapolis.com']
 
 # Congiguration
 theme:
