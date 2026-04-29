@@ -146,7 +146,9 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 Ook wanneer het slachtoffer de deuren van zijn/haar voertuig open heeft én het mêlee-wapen zich binnen armlengte van het lichaam van het slachtoffer bevindt, is medewerking verplicht.
 In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte bevindt of het slachtoffer een vuurwapen in bezit heeft, is medewerking niet verplicht.
 
-3. Wanneer je in een armored voertuig zit en dit voertuig ramen mist, kapotte ramen heeft of volledig kapot is, is medewerking verplicht.  
+3. Wanneer je in een armored voertuig zit en dit voertuig ramen mist, kapotte ramen heeft of volledig kapot is, is medewerking verplicht.
+
+4. Een overval moet duidelijk verbaal worden aangekondigd (bijv. “Handen omhoog”, “Dit is een overval”, "Staan blijven").
 
 → **Sanctie:** Categorie 2.
 
