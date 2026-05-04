@@ -177,6 +177,7 @@
 1. Een verdachte heeft recht op een borgtocht indien er een huiszoeking is aangevraagd. Dit moet altijd goedgekeurd worden door een hOvJ of hoger.
 2. Bij een akkoord van een borgtocht ben je je verplicht te houden aan de afspraken die gemaakt zijn.
 3. Indien de huiszoeking per direct kan uitgevoerd worden vervalt lid 1.
+4. Borgtocht kan ook worden verleend in afwachting van een rechtszaak.
 
 ### A15 - Arrestatiebevel
 
@@ -1370,6 +1371,7 @@ Een persoon is schuldig wanneer deze een beschermd dier voorhanden heeft, vervoe
     4. verklaringen van een deskundige. Onder verklaring van een deskundige wordt verstaan de bij het onderzoek afgelegde verklaring en oordeel op basis van zijn wetenschap en kennis;
     5. schriftelijke stukken;
     6. (audio)visueel bewijs, zoals bodycambeelden of foto's.
+    7. CCTV beelden bevatten geen geluid en kan alleen als beeldmateriaal gebruikt worden.
 3. Onder schriftelijke stukken worden verstaan:
     1. processen-verbaal en andere geschriften, in de wettelijke vorm opgemaakt door colleges en personen, die daartoe bevoegd zijn, met mededeling van feiten of omstandigheden, door hen zelf waargenomen of ondervonden;
     2. verslagen van deskundigen met het antwoord op de opdracht die aan hen is verleend tot het verstrekken van informatie of het doen van onderzoek, gebaseerd op wat hun wetenschap en kennis hen leren omtrent datgene wat aan hun oordeel onderworpen is;
@@ -1379,11 +1381,11 @@ Een persoon is schuldig wanneer deze een beschermd dier voorhanden heeft, vervoe
 6. Feiten of omstandigheden van algemene bekendheid behoeven geen bewijs.
 7. Bodycam beelden zijn op de volgende manier toegestaan:
     * Medewerkers in dienst bij de overheid zijn uitgerust met bodycams.
-    * Medewerkers van alle overheidsdiensten zijn verplicht om de bodycams visueel te dragen als zij de bodycam beelden als bewijs willen gebruiken.   (Uitzondering op deze regel is wanneer dit niet mogelijk is (bijvoorbeeld bij een zwaar vest van de politie))
+    * Medewerkers van alle overheidsdiensten zijn verplicht om de bodycams visueel te dragen als zij de bodycam beelden als bewijs willen gebruiken.   (Uitzondering op deze regel is wanneer dit niet mogelijk is (bijvoorbeeld bij een zwaar vest van de politie)
     * De bodycam beelden mogen met 360 graden beeld gebruikt worden.Wanneer je in een voertuig zit gelden de dashcam regels, dus geen 360 graden beeld.
     * Burgers kunnen gebruik maken van een telefoon, visuele bodycam & dashcam om te filmen.
     * Alle voertuigen inclusief overheidsvoertuigen kunnen enkel met een dashcam voor- en achteruit filmen.
 8. Indien er een afspraak gemaakt word in de zaak om geen bewijsstukken meer toe te voegen mag dit ook niet. Word dit wel gedaan mag dit gezien worden als een vormfout. Je hebt namelijk 24 uur de tijd om bewijs te verzamelen.
 
 ---------------------
-*Wetboek Tedeapolis is opgesteld uit naam van de Hoge Raad, bedoeld voor de gemeente en de stad “Tedeapolis”, opgetekend door Bram Mosterdfiets, te Tedeapolis.*
+*Wetboek Tedeapolis is opgesteld uit naam van de Hoge Raad, bedoeld voor de gemeente en de stad “Tedeapolis”, Dit wetboek wordt beheerd door het ministerie, te Tedeapolis.*
