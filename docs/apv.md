@@ -47,13 +47,16 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ove
 1. De straffen zijn onderverdeeld in de volgende categorieën:
     * **Categorie 1:** Een waarschuwing + 100 uur taakstraf
       *(Maximaal 3 waarschuwingen in 1 maand; hierna volgt een verzwaring naar categorie 2.)*
-    * **Categorie 2:** Een ban van 1 dag + 50 uur taakstraf
-    * **Categorie 3:** Een ban van 2 dagen + 50 uur taakstraf
-    * **Categorie 4:** Een ban van 3 dagen + 50 uur taakstraf
-    * **Categorie 5:** Een ban van 1 week + 50 uur taakstraf
-    * **Categorie 6:** Een ban van 1 maand + 50 uur taakstraf
+    * **Categorie 2:** Een ban van 1 dag + 50 uur taakstraf, of een waarschuwing met 150 t/m 250 uur taakstraf.
+    * **Categorie 3:** Een ban van 2 dagen + 50 uur taakstraf, of een waarschuwing met 250 t/m 350 uur taakstraf.
+    * **Categorie 4:** Een ban van 3 dagen + 50 uur taakstraf, of een waarschuwing met 350 t/m 450 uur taakstraf.
+    * **Categorie 5:** Een ban van 1 week + 50 uur taakstraf, of een ban van 3 t/m 7 dagen met 100 t/m 200 uur taakstraf.
+    * **Categorie 6:** Een ban van 1 maand + 50 uur taakstraf, of een ban van 2 t/m 4 weken met 200 t/m 300 uur taakstraf.
     * **Categorie 7:** Permanente ban
     * **Categorie 8:** Account wipe
+
+> **Aanvullende bepaling:** Categorie 1 t/m 4 kunnen worden opgelegd in de vorm van een waarschuwing of tijdelijke ban.
+Categorie 5 en hoger zijn altijd verbonden aan een ban.
 
 2. De straffen van categorie 5, 6 en 7 kunnen preventief worden opgelegd. Er zal dan nader onderzoek worden gedaan om de strafmaat te bepalen.
 3. Een staff-lid kan besluiten de strafmaat te verhogen of te verlagen op basis van context, situatie of eerdere overtredingen van de persoon in kwestie. Bij onenigheid over een oordeel kan een ticket worden aangemaakt.
@@ -202,6 +205,7 @@ In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte be
 ### **Artikel 11 - Exploits**
 
 1. Het moedwillig misbruiken van bugs en/of exploits om voordeel te behalen of in-game functionaliteiten te omzeilen, is verboden. Dit geldt ongeacht de gebruikte middelen.
+    * Het opzettelijk annuleren van een uitzendbureaujob met als doel een gunstigere route of opdracht te verkrijgen, wordt eveneens beschouwd als exploit.
 
 → **Sanctie:** Categorie 7.
 
@@ -496,6 +500,7 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 1. Het verhandelen van in-game items, valuta of accounts voor echte valuta of goederen (IRL traden) is verboden.
 2. Dit geldt voor alle vormen van externe deals buiten het spel om, ongeacht het platform dat gebruikt wordt.
 3. Pogingen tot IRL traden, ook zonder succesvolle afronding, worden als overtreding beschouwd.
+4. Bij transacties met een waarde boven de €2.000.000 dient vooraf een ticket aangemaakt te worden waarin toestemming gevraagd wordt. Dit om verdenking van IRL traden te voorkomen en de transactie administratief te kunnen controleren.
 
 → **Sanctie:** Categorie 7.
 
@@ -508,6 +513,15 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 3. Ook het aanzetten van anderen tot het verzamelen of verspreiden van deze informatie is niet toegestaan.
 
 → **Sanctie:** Categorie 7.
+
+---
+
+### **Artikel 35 - Onderling oplossen**
+
+1. Partijen hebben de mogelijkheid om een conflict of strafbaar feit onderling op te lossen, mits beide partijen hiermee akkoord gaan. Uitzonderingen hierop zijn feiten zoals cheaten, meta-gamen, exploits en soortgelijke overtredingen. Staff behoudt te allen tijde het recht om alsnog een straf op te leggen, ongeacht een onderlinge oplossing.
+2. Een onderlinge oplossing mag er nooit toe leiden dat de schuldige partij enig voordeel behaalt uit het gepleegde feit of incident. Denk hierbij aan financieel, materieel of enig ander voordeel.
+
+→ **Sanctie:** Categorie 2 + verlies van het voordeel.
 
 ---
 
