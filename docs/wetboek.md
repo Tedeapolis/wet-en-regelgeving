@@ -102,6 +102,11 @@
 4. Er geldt een basisuitkooppercentage van 10% indien er sprake is van een verkeersdelict. Hierbij geldt een maximaal uitkoopbedrag van €100.000,-.
 5. Er geldt een basisuitkooppercentage van 20% indien er sprake is van een ander delict dan een verkeersdelict.
 
+6. Vervallen van inbeslagname registraties.
+    1. Registraties van inbeslagname vervallen automatisch na één (1) maand vanaf de datum van registratie in de politiesystemen. Dit betreft uitsluitend de administratieve registratie van de inbeslagname.
+    2. Het vervallen van de registratie betekent nadrukkelijk niet dat het in beslag genomen voertuig of goed automatisch wordt teruggegeven aan de eigenaar.
+    3. Teruggave, uitkoop, verkoop of vernietiging van het in beslag genomen voertuig of goed blijft uitsluitend plaatsvinden volgens de geldende procedures en bepalingen van dit artikel.
+
 ### A8 - Inbeslagname van luchtvaartvoertuigen
 
 1. Wanneer een luchtvaartvoertuig (zoals een helikopter, vliegtuig of ander luchtvaartuig) betrokken is bij een strafbaar feit, kan deze in beslag worden genomen.
