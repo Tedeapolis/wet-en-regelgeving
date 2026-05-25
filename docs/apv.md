@@ -12,13 +12,13 @@ Aangezien wij in overweging hebben genomen dat het noodzakelijk is een nieuwe **
 
 **Zo is het dat wij, de staff der Tedeapolis, gehoord en met gemeen overleg van de Hoge Raad, hebben goedgevonden en verstaan, gelijk wij goedvinden en verstaan bij deze, vast te stellen de navolgende bepalingen, welke zullen uitmaken de Algemene Plaatselijke Verordening Tedeapolis.**
 
-| **Kenmerk**                | **Details**                          |
-|----------------------------|--------------------------------------|
-| Overheidsorganisatie       | Staff der Tedeapolis                |
-| Officiële naam regeling    | Algemene Plaatselijke Verordening Tedeapolis |
-| Citeertitel                | Algemene Plaatselijke Verordening Tedeapolis |
-| Vastgesteld door           | De Hoge Raad                        |
-| Onderwerp                  | Openbare orde en veiligheid         |
+| **Kenmerk**             | **Details**                                    |
+|-------------------------|------------------------------------------------|
+| Overheidsorganisatie    | Staff der Tedeapolis                           |
+| Officiële naam regeling | Algemene Plaatselijke Verordening Tedeapolis   |
+| Citeertitel             | Algemene Plaatselijke Verordening Tedeapolis   |
+| Vastgesteld door        | De Hoge Raad                                   |
+| Onderwerp               | Openbare orde en veiligheid                    |
 
 ---
 
@@ -54,8 +54,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ove
     * **Categorie 6:** Een ban van 1 maand + 50 uur taakstraf, of een ban van 2 t/m 4 weken met 200 t/m 300 uur taakstraf.
     * **Categorie 7:** Permanente ban
     * **Categorie 8:** Account wipe
-
-> **Aanvullende bepaling:** Categorie 1 t/m 4 kunnen worden opgelegd in de vorm van een waarschuwing of tijdelijke ban.
+    > **Aanvullende bepaling:** Categorie 1 t/m 4 kunnen worden opgelegd in de vorm van een waarschuwing of tijdelijke ban.
 Categorie 5 en hoger zijn altijd verbonden aan een ban.
 
 2. De straffen van categorie 5, 6 en 7 kunnen preventief worden opgelegd. Er zal dan nader onderzoek worden gedaan om de strafmaat te bepalen.
@@ -329,8 +328,7 @@ In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte be
     * Voertuigen (alleen legaal te koop met legaal geld).
 3. Het is de verantwoordelijkheid van de koper om te controleren of aanpassingen (zoals tunes) op een voertuig aanwezig zijn bij overdracht.
 4. Counteren van een overval/gijzeling is verboden zodra de politie ter plaatse is. Het is daarbij niet toegestaan om aanwezige agenten te gijzelen of weg te lokken met als doel te claimen dat er “geen politie meer aanwezig” is om zo alsnog te kunnen counteren.
-
-Uitzondering: is wanneer persoon een ongeplande gijzeling start, terwijl je hiervoor in scenario zat met desbetreffende crimineel. Je mag de crimineel dan counteren op het moment dat hij de politie kwijtgeraakt is uit een achtervolging. Denk hierbij aan een straatgijzeling van de politie en/of burgers.
+   > Uitzondering: is wanneer persoon een ongeplande gijzeling start, terwijl je hiervoor in scenario zat met desbetreffende crimineel. Je mag de crimineel dan counteren op het moment dat hij de politie kwijtgeraakt is uit een achtervolging. Denk hierbij aan een straatgijzeling van de politie en/of burgers.
 
 5. Wapens, drugs, en gijzelingen in appartementen zijn verboden.
 6. Na een overval/oplichting mag je het slachtoffer niet vermoorden, zelfs niet om de gebeurtenis te laten vergeten.
@@ -382,7 +380,7 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 
 ### **Artikel 24 - Roleplay & Ledenaantal Criminele Organisaties**
 
-1. Criminele organisaties mogen maximaal 20 leden hebben, naast de 20 leden maximaal 2 meelopers.
+1. Criminele organisaties mogen maximaal 20 leden hebben, inclusief maximaal 2 meelopers.
 2. Samenwerking tussen criminele organisaties is toegestaan met maximaal 2 gangs, met een totaal van maximaal 6 leden van beide gangs samen. Mits als doelstelling hier een roleplay aan gekoppeld is. (niet voor het opzoeken van actie zoals jagen, rippen of vergelijkbare situaties).
 3. Politie-invallen mogen worden gecounterd door maximaal twee groepen met in totaal 25 personen.
 4. Samenwerkingen tussen officiële organisaties moeten worden gemeld via het daarvoor bestemde kanaal in de Discord.
