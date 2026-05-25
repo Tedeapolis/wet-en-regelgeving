@@ -382,7 +382,7 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 
 ### **Artikel 24 - Roleplay & Ledenaantal Criminele Organisaties**
 
-1. Criminele organisaties mogen maximaal 20 leden hebben, inclusief maximaal 2 meelopers.
+1. Criminele organisaties mogen maximaal 20 leden hebben, naast de 20 leden maximaal 2 meelopers.
 2. Samenwerking tussen criminele organisaties is toegestaan met maximaal 2 gangs, met een totaal van maximaal 6 leden van beide gangs samen. Mits als doelstelling hier een roleplay aan gekoppeld is. (niet voor het opzoeken van actie zoals jagen, rippen of vergelijkbare situaties).
 3. Politie-invallen mogen worden gecounterd door maximaal twee groepen met in totaal 25 personen.
 4. Samenwerkingen tussen officiële organisaties moeten worden gemeld via het daarvoor bestemde kanaal in de Discord.
