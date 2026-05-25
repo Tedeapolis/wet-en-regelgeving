@@ -55,7 +55,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ove
     * **Categorie 7:** Permanente ban
     * **Categorie 8:** Account wipe
     > **Aanvullende bepaling:** Categorie 1 t/m 4 kunnen worden opgelegd in de vorm van een waarschuwing of tijdelijke ban.
-Categorie 5 en hoger zijn altijd verbonden aan een ban.
+    Categorie 5 en hoger zijn altijd verbonden aan een ban.
 
 2. De straffen van categorie 5, 6 en 7 kunnen preventief worden opgelegd. Er zal dan nader onderzoek worden gedaan om de strafmaat te bepalen.
 3. Een staff-lid kan besluiten de strafmaat te verhogen of te verlagen op basis van context, situatie of eerdere overtredingen van de persoon in kwestie. Bij onenigheid over een oordeel kan een ticket worden aangemaakt.
