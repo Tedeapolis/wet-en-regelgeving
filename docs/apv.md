@@ -328,8 +328,10 @@ In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte be
     * Nieuwe spelers;
     * Voertuigen (alleen legaal te koop met legaal geld).
 3. Het is de verantwoordelijkheid van de koper om te controleren of aanpassingen (zoals tunes) op een voertuig aanwezig zijn bij overdracht.
-4. Counteren van een overval/gijzeling is verboden zodra er een politie onderhandelaar ter plaatse is.
-      * **Uitzondering:** is wanneer persoon een ongeplande gijzeling start, terwijl je hiervoor in scenario zat met desbetreffende crimineel. Je mag de crimineel dan counteren op het moment dat hij de politie kwijtgeraakt is uit een achtervolging. Denk hierbij aan een straatgijzeling van de politie en/of burgers.
+4. Counteren van een overval/gijzeling is verboden zodra de politie ter plaatse is. Het is daarbij niet toegestaan om aanwezige agenten te gijzelen of weg te lokken met als doel te claimen dat er “geen politie meer aanwezig” is om zo alsnog te kunnen counteren.
+
+Uitzondering: is wanneer persoon een ongeplande gijzeling start, terwijl je hiervoor in scenario zat met desbetreffende crimineel. Je mag de crimineel dan counteren op het moment dat hij de politie kwijtgeraakt is uit een achtervolging. Denk hierbij aan een straatgijzeling van de politie en/of burgers.
+
 5. Wapens, drugs, en gijzelingen in appartementen zijn verboden.
 6. Na een overval/oplichting mag je het slachtoffer niet vermoorden, zelfs niet om de gebeurtenis te laten vergeten.
 7. Wanneer jij hebt waargenomen dat personen bezig zijn met criminele activiteiten heb jij de volgende tijden te respecteren om ze nog te overvallen en/of oplichten:
