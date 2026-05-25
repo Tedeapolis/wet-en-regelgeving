@@ -54,6 +54,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ove
     * **Categorie 6:** Een ban van 1 maand + 50 uur taakstraf, of een ban van 2 t/m 4 weken met 200 t/m 300 uur taakstraf.
     * **Categorie 7:** Permanente ban
     * **Categorie 8:** Account wipe
+
     > **Aanvullende bepaling:** Categorie 1 t/m 4 kunnen worden opgelegd in de vorm van een waarschuwing of tijdelijke ban.
     > Categorie 5 en hoger zijn altijd verbonden aan een ban.
 
