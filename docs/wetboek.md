@@ -703,6 +703,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 5. Wanneer niet te bewijzen valt dat meerdere personen in samenwerking waren wordt de strafbepaling niet opgeteld toegepast.
 6. Strafbepaling geschiedt op basis van aantallen ingrediënten en aantallen eindproducten.
 7. Wanneer er een mix van de aantallen in lid 6 aangetroffen wordt, zal er met een berekening van het aantal eindproducten maal 5, een totaal aan goederen berekend worden. De strafbepaling geschiedt vervolgens zoals bepaald in lid 2.
+8. Een eindproduct in de vorm van een blok bedraagt 5 eindproducten.
 
 #### Rekentabel Harddrugs: ingrediënten
 
