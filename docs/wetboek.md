@@ -1395,7 +1395,7 @@ Een persoon is schuldig wanneer deze een beschermd dier voorhanden heeft, vervoe
     * De bodycam beelden mogen met 360 graden beeld gebruikt worden.Wanneer je in een voertuig zit gelden de dashcam regels, dus geen 360 graden beeld.
     * Burgers kunnen gebruik maken van een telefoon, visuele bodycam & dashcam om te filmen.
     * Alle voertuigen inclusief overheidsvoertuigen kunnen enkel met een dashcam voor- en achteruit filmen.
-8. Indien er een afspraak gemaakt word in de zaak om geen bewijsstukken meer toe te voegen mag dit ook niet. Word dit wel gedaan mag dit gezien worden als een vormfout. Je hebt namelijk 24 uur de tijd om bewijs te verzamelen.
+8. Indien er een afspraak gemaakt word in de zaak om geen bewijsstukken meer toe te voegen mag dit ook niet. Word dit wel gedaan mag dit gezien worden als een vormfout. Je hebt namelijk 8 uur om bewijs te verzamelen met uitzondering van de nacht tussen 00:00 - 10:00 uur of verlening van HOVJ / OVJ tot maximaal 16 uur.
 
 ---------------------
 *Wetboek Tedeapolis is opgesteld uit naam van de Hoge Raad, bedoeld voor de gemeente en de stad “Tedeapolis”, Dit wetboek wordt beheerd door het ministerie, te Tedeapolis.*
