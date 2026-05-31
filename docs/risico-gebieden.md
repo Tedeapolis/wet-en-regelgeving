@@ -24,7 +24,6 @@ De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Tedeapolis
 - 7032
 - 7031
 - 7035
-- 7033
 
 ### Alta Bank Vlakbij Basic Fit
 
@@ -83,7 +82,6 @@ De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Tedeapolis
 ### Gemeentehuis
 
 - 7041
-- 7040
 
 ### Ziekenhuis
 
@@ -112,3 +110,10 @@ De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Tedeapolis
 - 704
 - 706
 - 707
+
+### Juwelier
+
+- 874
+- 919
+- 7033
+- 7040
