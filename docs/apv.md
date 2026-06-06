@@ -415,14 +415,13 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 5. Een gijzelaar mag geen kennis of vriend van je zijn, maar moet een onbekend persoon zijn.
 6. Probeer op alle mogelijke manieren een vuurgevecht te vermijden en onderhandel eerst met de politie.
 7. Een liquidatie mag niet uitgevoerd worden zonder dat het slachtoffer op de hoogte is van de reden hierachter. Er dient dus aan het slachtoffer duidelijk gemaakt te worden, terwijl hij/zij/het nog leeft, waarom diegene geliquideerd wordt.
-8. Het campen op een niet actieve drugs locatie is niet toegestaan, zowel op land als op het eiland.
-9. Je hebt pas recht op een wapen als je daadwerkelijk een achtervolging/scenario bent aangegaan met de persoon. Dit moet je wel duidelijk kenbaar maken.
-10. Indien je op borgtocht bent gestuurd zijn de volgende regels van kracht:
+8. Je hebt pas recht op een wapen als je daadwerkelijk een achtervolging/scenario bent aangegaan met de persoon. Dit moet je wel duidelijk kenbaar maken.
+9. Indien je op borgtocht bent gestuurd zijn de volgende regels van kracht:
     * Een persoon die de borgtocht aangegaan is mag niet meer worden uitgebroken.
     * Indien de persoon dood is gegaan in een scenario waarbij de politie betrokken is geldt de New Life rule niet meer. De huiszoeking gaat dan alsnog plaatsvinden.
     * Je kan geen spullen pakken/verwijderen uit auto's en appartementen. Dit geldt ook voor kleding verwijderen.
 
-11. Dertig minuten voor een herstart mag je geen overvallen doen van locaties. Denk hierbij aan: winkels, banken en casinoheist.
+10. Dertig minuten voor een herstart mag je geen overvallen doen van locaties. Denk hierbij aan: winkels, banken en casinoheist.
 
 **Sanctie:** Categorie 1.
 
