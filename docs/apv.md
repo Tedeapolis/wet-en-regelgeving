@@ -587,7 +587,10 @@ Het overtreden van de onderstaande regels zullen resulteren in sancties voor de 
 2. Het in beslag nemen van een voertuig door een officiële gang hoort met goede of langdurige roleplay te gebeuren, en niet met de intentie om geld te verdienen.
 3. Wanneer er twee weken lang geen roleplay aan de inbeslagname gebonden wordt, is het toegestaan om het voertuig weer gratis uit de garage te halen.
 4. Het confisqueren van items, wapens en geld van een speler is alleen toegestaan als hier een roleplay aan is verbonden. Het confisqueren van overheids objecten is niet toegestaan.
-5. Een officiële gang mag zijn/haar wapen inkoop niet door verkopen aan andere spelers.
+5. De wapens uit "Wapenwinkel Verkoop" mogen niet gebruikt worden door de groepering zelf en ze mogen niet met winst verkocht worden.
+6. Als officiële ben je verplicht om een logging bij te houden voor de wapens die verkocht worden uit "Wapenwinkel Verkoop". Hier moet duidelijk in staan naar welke groep / persoon dit gaat.
+7. Een officiële gang mag zijn/haar wapen inkoop niet door verkopen aan andere spelers.
+   * **Uitzondering:** Indien de wapens ingekocht zijn in "Wapenwinkel Verkoop" mogen deze wel verkocht worden.
 
 → **Sanctie:** Sanctie door CA, mogelijk opschorting van de organisatie.
 
