@@ -453,7 +453,7 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
     * De deuren van het voertuig openen.
     * De geboeide persoon begeleiden naar de deuropening.
     * Verbaal (op normale of luide toon) of via een actiecommando (/me) aangeven dat de persoon in het voertuig wordt getrokken.
-    * Je dient iemand te overmeesteren voordat er gebruik gemaakt kan worden van het F6 menu.
+    * Je dient iemand te overmeesteren voordat er gebruik gemaakt kan worden van het F6 menu. Onder overmeesteren valt dat een politieagent mondeling mag aangeven dat een persoon is aangehouden. Vervolgens mag het F6-menu gebruikt worden om handboeien toe te passen.
     * fouilleren mag alleen met een legitieme reden.
 
 2. Het uit een voertuig trekken van een persoon dient gepaard te gaan met de volgende realistische roleplay-handelingen:
