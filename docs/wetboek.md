@@ -100,7 +100,7 @@
     6. Rijden op de openbare weg met een voertuig met een WOK-status.
 
 4. Er geldt een basisuitkooppercentage van 10% indien er sprake is van een verkeersdelict. Hierbij geldt een maximaal uitkoopbedrag van €100.000,-.
-5. Er geldt een basisuitkooppercentage van 20% indien er sprake is van een ander delict dan een verkeersdelict.
+5. Er geldt een basisuitkooppercentage van 20% indien er sprake is van een ander delict dan een verkeersdelict. Hierbij geldt een maximaal uitkoopbedrag van €300.000,-
 
 6. Vervallen van inbeslagname registraties.
     1. Registraties van inbeslagname vervallen automatisch na één (1) maand vanaf de datum van registratie in de politiesystemen. Dit betreft uitsluitend de administratieve registratie van de inbeslagname.
