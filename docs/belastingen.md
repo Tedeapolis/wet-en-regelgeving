@@ -16,13 +16,3 @@ Fietsen zijn uitgesloten van belasting. Alle overige voertuigen met een motor va
 | 30   | € 14.810,-   |
 | 40   | € 23.420,-   |
 | 50   | € 33.250,-   |
-
-## Tol heffing
-
-Binnen Tedeapolis wordt er bij de grensposten tol geïnd. Deze tol wordt over alle *motor*voertuigen geheven.
-
-Er kan gekozen worden voor een abonnement om korting te krijgen op de tol. Dit bedrag is €450,- per dag, wanneer u meer dan 2 dagen niet meer in de stad bent geweest word dit niet meer geind. De aansluitingskosten van dit abonnement bedragen €1500,-
-
-|Met abonnement| Zonder abonnement|
-|:-----:|:----:|
-| €0,- | €125,- |
