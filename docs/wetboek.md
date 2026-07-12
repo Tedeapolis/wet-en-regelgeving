@@ -109,22 +109,25 @@
 
 ### A8 - Inbeslagname van luchtvaartvoertuigen
 
-1. Wanneer een luchtvaartvoertuig (zoals een helikopter, vliegtuig of ander luchtvaartuig) betrokken is bij een strafbaar feit, kan deze in beslag worden genomen.
-    1. De keuze voor inbeslagname is ter beoordeling van Politie.
-    2. Er geldt een basisuitkooppercentage van 20%. (Uizondering hierop is lid 2)
-2. Inbeslagname van onbemande luchtvaartvoertuigen met illegale goederen:
-    1. Indien een onbemande helikopter of ander onbemand luchtvaartvoertuig wordt aangetroffen met illegale goederen, gelden de volgende maximale uitkoopkosten:
-        * €150.000,- indien de eigenaar volledig meewerkt aan het onderzoek of de vordering;
-3. Inbeslagname in overige gevallen:
-    1. indien de helikopter of ander luchtvaartvoertuig inbelag is genomen, gelden de volgende maximale uitkoopkosten:
-        * €375.000,- indien de eigenaar niet meewerkt met vorderingen van Politie.
-4. Vervallen van inbeslagname registraties.
+1. Een luchtvaartvoertuig dat betrokken is bij een strafbaar feit, kan in beslag worden genomen.
+    1. De Politie beslist of een luchtvaartvoertuig in beslag wordt genomen.
+    2. Het uitkooppercentage is 20%, met een maximum van €500.000,-. Lid 2 vormt hierop een uitzondering.
+
+2. Wordt een luchtvaartvoertuig aangetroffen met illegale goederen, dan gelden de volgende maximumbedragen voor uitkoop:
+
+| Situatie  | Maximumbedrag  | Uitkooppercentage |
+|---|---|---|
+|  Eigenaar, bestuurder, gebruiker of verantwoordelijke persoon werkt volledig mee | €150.000,- | 20%  |
+| Eigenaar, bestuurder, gebruiker of verantwoordelijke persoon werkt niet mee  | €375.000,- | 20% |
+| Niemand aanwezig of aangetroffen bij het voertuig  | €150.000,- | 20% |
+
+3. Vervallen van inbeslagname registraties.
     1. Registraties van inbeslagname vervallen automatisch na één (1) maand vanaf de datum van registratie in de politiesystemen. Dit betreft uitsluitend de administratieve registratie van de inbeslagname.
     2. Het vervallen van de registratie betekent nadrukkelijk niet dat het in beslag genomen voertuig of goed automatisch wordt teruggegeven aan de eigenaar.
     3. Teruggave, uitkoop, verkoop of vernietiging van het in beslag genomen voertuig of goed blijft uitsluitend plaatsvinden volgens de geldende procedures en bepalingen van dit artikel.
-5. Algemene bepalingen:
+4. Algemene bepalingen:
     1. Wanneer het voertuig na inbeslagname niet binnen veertien (14) dagen wordt opgeëist of uitgekocht, zal het worden vernietigd of verkocht, tenzij bezwaar is ingediend via het klachtenformulier.
-    . Beroep tegen de inbeslagname is uitsluitend mogelijk via een advocaat.
+    2. Beroep tegen de inbeslagname is uitsluitend mogelijk via een advocaat.
 
 ### A9 - Openstaande boetes
 
