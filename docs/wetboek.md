@@ -107,13 +107,13 @@
     2. Het vervallen van de registratie betekent nadrukkelijk niet dat het in beslag genomen voertuig of goed automatisch wordt teruggegeven aan de eigenaar.
     3. Teruggave, uitkoop, verkoop of vernietiging van het in beslag genomen voertuig of goed blijft uitsluitend plaatsvinden volgens de geldende procedures en bepalingen van dit artikel.
 
-### A8 - Inbeslagname van luchtvaartvoertuigen
+### A8 - Inbeslagname van luchtvaartvoertuigen & vaartuigen
 
-1. Een luchtvaartvoertuig dat betrokken is bij een strafbaar feit, kan in beslag worden genomen.
-    1. De Politie beslist of een luchtvaartvoertuig in beslag wordt genomen.
+1. Een luchtvaartvoertuig en/of vaartuig dat betrokken is bij een strafbaar feit, kan in beslag worden genomen.
+    1. De Politie beslist of een luchtvaartvoertuig en/of vaartuig in beslag wordt genomen.
     2. Het uitkooppercentage is 20%, met een maximum van €500.000,-. Lid 2 vormt hierop een uitzondering.
 
-2. Wordt een luchtvaartvoertuig aangetroffen met illegale goederen, dan gelden de volgende maximumbedragen voor uitkoop:
+2. Wordt een luchtvaartvoertuig en/of vaartuig aangetroffen met illegale goederen, dan gelden de volgende maximumbedragen voor uitkoop:
 
 | Situatie  | Maximumbedrag  | Uitkooppercentage |
 |---|---|---|
@@ -1229,11 +1229,11 @@ Een persoon is schuldig wanneer deze een beschermd dier voorhanden heeft, vervoe
 | Tweede Veroordeling  |  | 25 uur | € 75000,-  |
 | Meerdere Veroordelingen  |  | 50 uur | € 100000,-  |
 
-### Artikel VIII-15 Werkzaam bedrijf zonder KvK-Inschrijving
+### Artikel VIII-15 Werkzaam bedrijf zonder Bedrijfsregister-Inschrijving
 
-1. Schuldig is een persoon die onder een bedrijfsnaam handelt of een omzet creëert doormiddel van zijn of haar bedrijf en niet KvK ingeschreven staat.
+1. Schuldig is een persoon die onder een bedrijfsnaam handelt of een omzet creëert doormiddel van zijn of haar bedrijf en niet bij het Bedrijfsregister ingeschreven staat.
 2. Indien een opsporingsambtenaar merkt dat de schuldige nergens van afwist, dan kan deze zijn discretionaire bevoegdheid gebruiken om het af te doen met een waarschuwing in de vorm van een notitie.
-3. Indien de persoon wel ingeschreven staat maar geen vergunning heeft dient dit uitgezocht te worden door een werknemer van de KVK.
+3. Indien de persoon wel ingeschreven staat maar geen vergunning heeft dient dit uitgezocht te worden door een werknemer van het Bedrijfsregister.
 
 |  |Celstraf  | Taakstraf  | boete  |
 |---|---|---|---|
