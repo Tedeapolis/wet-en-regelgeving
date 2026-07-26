@@ -275,14 +275,14 @@ In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte be
 
 ### **Artikel 18 - Voertuighandelaar / Voertuigmeetings**
 
-1. Een voertuigdealer mag alleen bestaan met goedkeuring van KVK.
+1. Een voertuigdealer mag alleen bestaan met goedkeuring van het Bedrijfsregister.
 2. Regels voor voertuighandelaren:
     * Maximaal **10 voertuigen** in de “showroom”;
-    * Alleen op een door KVK goedgekeurde locatie;
-    * Officiële vergunningen vereist, ondertekend door een lid van KVK.
+    * Alleen op een door het Bedrijfsregister goedgekeurde locatie;
+    * Officiële vergunningen vereist, ondertekend door een lid het Bedrijfsregister.
 3. Bij voertuigmeetings mogen maximaal **20 voertuigen** aanwezig zijn.
 
-→ **Sanctie:** Categorie 1. De KvK wordt ook geïnformeerd.
+→ **Sanctie:** Categorie 1. Het Bedrijfsregister wordt ook geïnformeerd.
 
 ---
 
@@ -543,7 +543,7 @@ Onderstaande regels zijn er alleen op Narcopolis
 ### **Artikel N-2 - Inladen van helikopers/vliegtuigen**
 
 1. Wanneer jij drugs wilt inladen in een vliegtuig of helikopter moet het vliegtuig of de helikopter binnen een straal van 50 meter van een helipad of landingsbaan staan.
-2. De sea sparrow en dodo mag wel volgeladen worden op open water.
+2. De sea sparrow, Sea Breeze en dodo mag wel volgeladen worden op open water.
 3. De Kleine eilandjes rondom Narcopolis zijn eveneens uitgezonderd van deze regel.
 4. Uitzondering als het gaat om het overladen van een eindproduct.
 
