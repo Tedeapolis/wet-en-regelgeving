@@ -148,10 +148,9 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 2. Een overval met een mêlee-wapen is toegestaan, mits het wapen zich binnen armlengte van het slachtoffer bevindt en daadwerkelijk op het slachtoffer is gericht. In deze situatie is het slachtoffer verplicht om mee te werken.
 Ook wanneer het slachtoffer de deuren van zijn/haar voertuig open heeft én het mêlee-wapen zich binnen armlengte van het lichaam van het slachtoffer bevindt, is medewerking verplicht.
 In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte bevindt of het slachtoffer een vuurwapen in bezit heeft, is medewerking niet verplicht.
-
 3. Wanneer je in een armored voertuig zit en dit voertuig ramen mist, kapotte ramen heeft of volledig kapot is, is medewerking verplicht.
-
 4. Een overval moet duidelijk verbaal worden aangekondigd (bijv. “Handen omhoog”, “Dit is een overval”, "Staan blijven").
+5. Wanneer medewerking op grond van dit artikel verplicht is, dienen spelers mee te werken aan het kunnen invoeren van "/rs". Het opzettelijk blokkeren, hinderen of verstoren van dit proces gedurende de daarvoor benodigde tijd van circa vijf (5) seconden is niet toegestaan.
 
 → **Sanctie:** Categorie 2.
 
@@ -205,7 +204,8 @@ In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte be
 ### **Artikel 11 - Exploits**
 
 1. Het moedwillig misbruiken van bugs en/of exploits om voordeel te behalen of in-game functionaliteiten te omzeilen, is verboden. Dit geldt ongeacht de gebruikte middelen.
-    * Het opzettelijk annuleren van een uitzendbureaujob met als doel een gunstigere route of opdracht te verkrijgen, wordt eveneens beschouwd als exploit.
+2. Het opzettelijk annuleren van een uitzendbureaujob met als doel een gunstigere route of opdracht te verkrijgen, wordt eveneens beschouwd als exploit.
+3. Het moedwillig een voertuig in het water rijden met als doel om wapens, goederen of andere bezittingen veilig te stellen en/of te voorkomen dat andere spelers deze kunnen bemachtigen, wordt eveneens beschouwd als exploit.
 
 → **Sanctie:** Categorie 7.
 
@@ -330,13 +330,13 @@ In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte be
 3. Het is de verantwoordelijkheid van de koper om te controleren of aanpassingen (zoals tunes) op een voertuig aanwezig zijn bij overdracht.
 4. Counteren van een overval/gijzeling is verboden zodra de politie ter plaatse is. Het is daarbij niet toegestaan om aanwezige agenten te gijzelen of weg te lokken met als doel te claimen dat er “geen politie meer aanwezig” is om zo alsnog te kunnen counteren.
    * Uitzondering: Dit is toegestaan wanneer een persoon een ongeplande gijzeling start, terwijl je daarvoor al in een scenario zat met de desbetreffende crimineel. Je mag de crimineel dan counteren op het moment dat hij de politie is kwijtgeraakt na een achtervolging. Denk hierbij aan een straatgijzeling van de politie en/of burgers.
-
 5. Wapens, drugs, en gijzelingen in appartementen zijn verboden.
 6. Na een overval/oplichting mag je het slachtoffer niet vermoorden, zelfs niet om de gebeurtenis te laten vergeten.
 7. Wanneer jij hebt waargenomen dat personen bezig zijn met criminele activiteiten heb jij de volgende tijden te respecteren om ze nog te overvallen en/of oplichten:
    * Hetzelfde voertuig met de juiste kleur: 15 minuten;
    * Zelfde kenteken: 1 uur;
-   * Persoonsherkenning: 4 uren;
+   * Persoonsherkenning: 2 uren;
+   * Uiterlijke herkenning: 30 min
 8. Indien je aan het overladen, kloppen of illegale substanties aan het vervoeren bent moet je altijd een prop zien. Indien de prop niet zichtbaar is, heb je dus foutief gehandeld.
 9. Het kopen van goederen/items bij Ammunation wordt niet beschouwd als een illegale activiteit. Het is niet toegestaan dit als aanleiding te gebruiken voor een overval of controle.
 
@@ -479,9 +479,9 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 
 → **Sanctie:** Categorie 3. Indien de overtreding over bedragen boven de 2 miljoen gaat, zal er gestraft worden volgens categorie 5.
 
-### **Artikel 31 - Eerlijkheid in tickets**
+### **Artikel 31 - Eerlijkheid & Volledigheid**
 
-1. Je dient te allen tijde eerlijke en volledige informatie te verstrekken in een ticket.
+1. Je dient te allen tijde eerlijke en volledige informatie te verstrekken in een ticket en/of report.
 2. Heb je eerder contact gehad met een stafflid via een report of privébericht, dien je dit expliciet te vermelden in het ticket.
 
 → **Sanctie:** Categorie 5.
