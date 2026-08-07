@@ -879,10 +879,9 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ### Artikel V-3 Steek- en slagwapens (27 WWM)
 
-1. Strafbaar is een persoon die een steekwapen voorhanden heeft, bij zich draagt, of opgeslagen heeft in huis of in de laadruimte van zijn of haar vervoersmiddel.
-2. Strafbaar is een persoon die een slagwapen voorhanden heeft of bij zich draagt, waarvan redelijkerwijs kan worden aangenomen dat deze bestemd is om letsel toe te brengen.
-3. Er geldt een gedoogbeleid betreffende het bezit van steekwapens. Indien er geen strafbaar feit is gepleegd met het wapen, kan een persoon het wapen vrijwillig afgeven en in ruil daarvoor geen strafvervolging ondergaan.
-4. In risicogebieden is het voorhanden hebben, bij je dragen, of opgeslagen hebben in huis of in de laadruimte van je vervoersmiddel van een steek- of slagwapen onder alle omstandigheden verboden. Het gedoogbeleid is dan niet van toepassing.
+1. Strafbaar is een persoon die een steekwapen voorhanden heeft en/of opgeslagen heeft in huis of in de laadruimte van zijn of haar vervoersmiddel.
+2. Strafbaar is een persoon die een slagwapen voorhanden heeft, waarvan redelijkerwijs kan worden aangenomen dat deze bestemd is om letsel toe te brengen.
+3. In afwijking van lid 2 is in risicogebieden strafbaar een persoon die een slagwapen voorhanden heeft en/of opgeslagen heeft in huis of in de laadruimte van zijn of haar vervoersmiddel, ongeacht de bestemming van het wapen.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -1376,29 +1375,31 @@ Een persoon is schuldig wanneer deze een beschermd dier voorhanden heeft, vervoe
 
 ### Artikel XI-2 Wettige bewijsmiddelen (Artikel 338/339 SV)
 
-1. Het bewijs dat de verdachte het telastegelegde feit heeft begaan, kan alleen worden aangenomen, indien de inhoud van wettige bewijsmiddelen de rechter de overtuiging heeft dat de verdachte het telastegelegde feit heeft begaan.
+1. Het bewijs dat de verdachte het tenlastegelegde feit heeft begaan, kan alleen worden aangenomen, indien de inhoud van wettige bewijsmiddelen de rechter de overtuiging heeft dat de verdachte het tenlastegelegde feit heeft begaan.
 2. Als wettige bewijsmiddelen worden alleen erkend:
     1. eigen waarneming van de rechter. Denk hierbij bijvoorbeeld aan foto- en videomateriaal die de rechter op de zitting te zien krijgt.
-    2. verklaringen van de verdachte. Onder verklaring van de verdachte wordt verstaan de bij het onderzoek gedane opgave van feiten of omstandigheden, door verdachte zelf waargenomen of ondervonden. Het bewijs dat de verdachte het telastegelegde feit heeft begaan, kan niet uitsluitend worden aangenomen op de verklaring van verdachte;
-    3. verklaringen van een getuige. Onder verklaring van een getuige wordt verstaan de bij het onderzoek gedane mededeling van feiten of omstandigheden, welke hij zelf waargenomen of ondervonden heeft. Het bewijs dat de verdachte het telastegelegde feit heeft begaan, kan niet uitsluitend worden aangenomen op de verklaring van één getuige;
+    2. verklaringen van de verdachte. Onder verklaring van de verdachte wordt verstaan de bij het onderzoek gedane opgave van feiten of omstandigheden, door verdachte zelf waargenomen of ondervonden. Het bewijs dat de verdachte het tenlastegelegde feit heeft begaan, kan niet uitsluitend worden aangenomen op de verklaring van verdachte;
+    3. verklaringen van een getuige. Onder verklaring van een getuige wordt verstaan de bij het onderzoek gedane mededeling van feiten of omstandigheden, welke hij zelf waargenomen of ondervonden heeft. Het bewijs dat de verdachte het tenlastegelegde feit heeft begaan, kan niet uitsluitend worden aangenomen op de verklaring van één getuige;
     4. verklaringen van een deskundige. Onder verklaring van een deskundige wordt verstaan de bij het onderzoek afgelegde verklaring en oordeel op basis van zijn wetenschap en kennis;
     5. schriftelijke stukken;
-    6. (audio)visueel bewijs, zoals bodycambeelden of foto's.
+    6. (audio)visueel bewijs, zoals bodycam beelden of foto's.
     7. CCTV beelden bevatten geen geluid en kan alleen als beeldmateriaal gebruikt worden.
 3. Onder schriftelijke stukken worden verstaan:
     1. processen-verbaal en andere geschriften, in de wettelijke vorm opgemaakt door colleges en personen, die daartoe bevoegd zijn, met mededeling van feiten of omstandigheden, door hen zelf waargenomen of ondervonden;
     2. verslagen van deskundigen met het antwoord op de opdracht die aan hen is verleend tot het verstrekken van informatie of het doen van onderzoek, gebaseerd op wat hun wetenschap en kennis hen leren omtrent datgene wat aan hun oordeel onderworpen is;
     3. alle andere geschriften; deze kunnen alleen gelden in verband met de inhoud van andere bewijsmiddelen;
 4. Er geldt een bewijsminimum van één bewijsstuk als het/de strafbare feit(en) volledig en overtuigend bewezen kunnen worden. Indien dit niet het geval is, dan zijn minimaal 2 bewijsstukken vereist. Dit betekent concreet dat de identiteit van de verdacht(en) en de exacte feiten en omstandigheden, bijvoorbeeld of er sprake is van opzet voor zover van toepassing, duidelijk moeten worden.
-5. Het bewijs dat de verdachte het telastegelegde feit heeft gepleegd, kan worden aangenomen op alleen het proces-verbaal van een opsporingsambtenaar.
+5. Het bewijs dat de verdachte het tenlastegelegde feit heeft gepleegd, kan worden aangenomen op alleen het proces-verbaal van een opsporingsambtenaar.
 6. Feiten of omstandigheden van algemene bekendheid behoeven geen bewijs.
 7. Bodycam beelden zijn op de volgende manier toegestaan:
     * Medewerkers in dienst bij de overheid zijn uitgerust met bodycams.
     * Medewerkers van alle overheidsdiensten zijn verplicht om de bodycams visueel te dragen als zij de bodycam beelden als bewijs willen gebruiken.   (Uitzondering op deze regel is wanneer dit niet mogelijk is (bijvoorbeeld bij een zwaar vest van de politie)
-    * De bodycam beelden mogen met 360 graden beeld gebruikt worden.Wanneer je in een voertuig zit gelden de dashcam regels, dus geen 360 graden beeld.
+    * De bodycam beelden mogen met 360 graden beeld gebruikt worden. Wanneer je in een voertuig zit gelden de dashcam regels, dus geen 360 graden beeld.
     * Burgers kunnen gebruik maken van een telefoon, visuele bodycam & dashcam om te filmen.
     * Alle voertuigen inclusief overheidsvoertuigen kunnen enkel met een dashcam voor- en achteruit filmen.
 8. Indien er een afspraak gemaakt word in de zaak om geen bewijsstukken meer toe te voegen mag dit ook niet. Word dit wel gedaan mag dit gezien worden als een vormfout. Je hebt namelijk 8 uur om bewijs te verzamelen met uitzondering van de nacht tussen 00:00 - 10:00 uur of verlening van HOVJ / OVJ tot maximaal 16 uur.
+9. Bewijs op grond van stemherkenning vervalt dertig (30) dagen na de datum van de waarneming waarop de herkenning berust. Na het verstrijken van deze termijn kan de stemherkenning niet meer voor het bewijs worden gebruikt.
+10. Onder stemherkenning wordt verstaan het door een getuige of opsporingsambtenaar herkennen van een persoon aan diens stem, op grond van eerdere eigen waarneming van die stem.
 
 ---------------------
 *Wetboek Tedeapolis is opgesteld uit naam van de Hoge Raad, bedoeld voor de gemeente en de stad “Tedeapolis”, Dit wetboek wordt beheerd door het ministerie, te Tedeapolis.*
