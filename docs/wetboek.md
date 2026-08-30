@@ -621,6 +621,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 6. Het voertuig dient een eentonige claxon te voeren.
 7. Het voertuig dient vrij te zijn van een WOK-status bij deelname aan het verkeer.
 8. Het licht van de koplampen van het voertuigen dient een witte of gele kleur te hebben.
+9. Het voertuig mag bij deelname aan het verkeer geen nitrosysteem voeren of gebruiken.
 
 #### Strafbepalingen Voertuigeisen
 
