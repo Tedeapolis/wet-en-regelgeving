@@ -3,12 +3,12 @@
 ## Wetstechnische informatie
 
 | | |
-|---|---|
-| Overheidsorganisatie      | Hoge Raad Tedeapolis |
-| Officiële naam            | Algemeen Wetboek Tedeapolis |
-| Citeertitel               | Wetboek Tedeapolis |
-| Vastgesteld door          | De Hoge Raad|
-| Onderwerp                 | Openbare orde en veiligheid |
+| --- | --- |
+| Overheidsorganisatie | Hoge Raad Tedeapolis |
+| Officiële naam | Algemeen Wetboek Tedeapolis |
+| Citeertitel | Wetboek Tedeapolis |
+| Vastgesteld door | De Hoge Raad |
+| Onderwerp | Openbare orde en veiligheid |
 
 ## Algemene Bepalingen
 
@@ -115,17 +115,17 @@
 
 2. Wordt een luchtvaartvoertuig en/of vaartuig aangetroffen met illegale goederen, dan gelden de volgende maximumbedragen voor uitkoop:
 
-| Situatie  | Maximumbedrag  | Uitkooppercentage |
-|---|---|---|
-|  Eigenaar, bestuurder, gebruiker of verantwoordelijke persoon werkt volledig mee | €150.000,- | 20%  |
-| Eigenaar, bestuurder, gebruiker of verantwoordelijke persoon werkt niet mee  | €375.000,- | 20% |
-| Niemand aanwezig of aangetroffen bij het voertuig  | €150.000,- | 20% |
+| Situatie                                                                            | Maximumbedrag | Uitkooppercentage |
+|-------------------------------------------------------------------------------------|---------------|-------------------|
+| Eigenaar, bestuurder, gebruiker of verantwoordelijke persoon werkt volledig mee     | €150.000,-    | 20%               |
+| Eigenaar, bestuurder, gebruiker of verantwoordelijke persoon werkt niet mee         | €375.000,-    | 20%               |
+| Niemand aanwezig of aangetroffen bij het voertuig                                   | €150.000,-    | 20%               |
 
-3. Vervallen van inbeslagname registraties.
+1. Vervallen van inbeslagname registraties.
     1. Registraties van inbeslagname vervallen automatisch na één (1) maand vanaf de datum van registratie in de politiesystemen. Dit betreft uitsluitend de administratieve registratie van de inbeslagname.
     2. Het vervallen van de registratie betekent nadrukkelijk niet dat het in beslag genomen voertuig of goed automatisch wordt teruggegeven aan de eigenaar.
     3. Teruggave, uitkoop, verkoop of vernietiging van het in beslag genomen voertuig of goed blijft uitsluitend plaatsvinden volgens de geldende procedures en bepalingen van dit artikel.
-4. Algemene bepalingen:
+2. Algemene bepalingen:
     1. Wanneer het voertuig na inbeslagname niet binnen veertien (14) dagen wordt opgeëist of uitgekocht, zal het worden vernietigd of verkocht, tenzij bezwaar is ingediend via het klachtenformulier.
     2. Beroep tegen de inbeslagname is uitsluitend mogelijk via een advocaat.
 
@@ -205,11 +205,11 @@
 1. Schuldig is een persoon die een goed, of voertuig, wegneemt zonder daarvoor toestemming of enig recht toe te hebben
 2. Bij een poging tot diefstal is de maximaal op te leggen straf 33% van de volledige strafeis
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** |   | 12 uur  | €4875,-  |
-| **Tweede Veroordeling**  | 10 maanden  |  | €6375,-  |
-| **Meerdere Veroordelingen**  | 19 maanden  |   | €7500,-  |
+|                             | *Celstraf* | *Taakstraf* | *Boete* |
+|-----------------------------|------------|-------------|---------|
+| **Eerste Veroordeling**     |            | 12 uur      | €4875,- |
+| **Tweede Veroordeling**     | 10 maanden |             | €6375,- |
+| **Meerdere Veroordelingen** | 19 maanden |             | €7500,- |
 
 ### Artikel I-2 Gekwalificeerde Diefstal (311 SR)
 
@@ -219,11 +219,11 @@
 4. Schuldig is een persoon die een diefstal pleegt in gelegenheid van een brand of ontploffing.
 5. Bij een poging tot gekwalificeerde diefstal wordt de straf met 33% verminderd.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** |   | 30 uur  | €7500,-  |
-| **Tweede Veroordeling**  | 6 maanden  |  | €9000,-  |
-| **Meerdere Veroordelingen**  | 12 maanden  |   | €12750,-  |
+|                             | *Celstraf* | *Taakstraf* | *Boete* |
+|-----------------------------|------------|-------------|---------|
+| **Eerste Veroordeling**     |            | 30 uur      | €7500,- |
+| **Tweede Veroordeling**     | 6 maanden  |             | €9000,- |
+| **Meerdere Veroordelingen** | 12 maanden |             | €12750,-|
 
 ### Artikel I-3 Diefstal met geweld / Overval (312 SR)
 
@@ -232,43 +232,43 @@
 3. Bij een poging tot diefstal met geweld / overval wordt de straf met 33% verminderd.
 4. Indien de persoon een winkel heeft overvallen word dit artikel met 33% extra verlaagd.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** | 31 maanden  |  | € 15000,-  |
-| **Tweede Veroordeling**  | 61 maanden  |  | € 18750,-  |
-| **Meerdere Veroordelingen**  | 92 maanden  |  | € 22500,-  |
+|                             | *Celstraf* | *Taakstraf* | *Boete*   |
+|-----------------------------|------------|-------------|-----------|
+| **Eerste Veroordeling**     | 31 maanden |             | € 15000,- |
+| **Tweede Veroordeling**     | 61 maanden |             | € 18750,- |
+| **Meerdere Veroordelingen** | 92 maanden |             | € 22500,- |
 
 ### Artikel I-4 Afpersing (317 SR)
 
 1. Schuldig is een persoon die met dwang gegevens of goederen opeist van een derde.
 2. Schuldig is een persoon die met dwang een actie forceert of eist van een derde.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** | 45 maanden  |  | € 7500,-  |
-| **Tweede Veroordeling**  | 72 maanden  |  | € 10000,-  |
-| **Meerdere Veroordelingen**  | 108 maanden  |  | € 15000,-  |
+|                             | *Celstraf*  | *Taakstraf* | *Boete*   |
+|-----------------------------|-------------|-------------|-----------|
+| **Eerste Veroordeling**     | 45 maanden  |             | € 7500,-  |
+| **Tweede Veroordeling**     | 72 maanden  |             | € 10000,- |
+| **Meerdere Veroordelingen** | 108 maanden |             | € 15000,- |
 
 ### Artikel I-5 Afdreiging / Chantage (318 SR)
 
 1. Schuldig is een persoon die gegevens of goederen opeist van een derde door bedreiging met smaad of openbaring van een geheim.
 2. Schuldig is een persoon die een actie forceert of eist van een derde door bedreiging met smaad of openbaring van een geheim.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** | 27 maanden  |   | € 7500,-  |
-| **Tweede Veroordeling**  | 40 maanden  |   | € 10000,-  |
-| **Meerdere Veroordelingen**  | 90 maanden  |   | € 15000,-  |
+|                             | *Celstraf* | *Taakstraf* | *Boete*   |
+|-----------------------------|------------|-------------|-----------|
+| **Eerste Veroordeling**     | 27 maanden |             | € 7500,-  |
+| **Tweede Veroordeling**     | 40 maanden |             | € 10000,- |
+| **Meerdere Veroordelingen** | 90 maanden |             | € 15000,- |
 
 ### Artikel I-6 Verduistering (321 SR)
 
 1. Schuldig is een persoon die geld of goederen, die niet middels een misdrijf verkregen zijn, maar wel toebehoren aan een ander, opzettelijk en wederrechtelijk toeëigent.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** |   | 20 uur  | € 5000,-  |
-| **Tweede Veroordeling**  |   | 30 uur  | € 7500,-  |
-| **Meerdere Veroordelingen**  |   | 60 uur  | € 10000,-  |
+|                             | *Celstraf* | *Taakstraf* | *Boete*   |
+|-----------------------------|------------|-------------|-----------|
+| **Eerste Veroordeling**     |            | 20 uur      | € 5000,-  |
+| **Tweede Veroordeling**     |            | 30 uur      | € 7500,-  |
+| **Meerdere Veroordelingen** |            | 60 uur      | € 10000,- |
 
 ### Artikel I-7 Heling (416 SR)
 
@@ -276,21 +276,21 @@
 2. Schuldig is een persoon die voordeel trekt uit opbrengst van een door misdrijf verkregen goed.
 3. Niet schuldig is een persoon die redelijkerwijs geen weet heeft, of kan hebben, van de afkomst uit een misdrijf van het goed.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** |   | 20 uur  | € 2000,-  |
-| **Tweede Veroordeling**  |   | 30 uur  | € 4000,-  |
-| **Meerdere Veroordelingen**  |   | 60 uur  | € 5000,-  |
+|                             | *Celstraf* | *Taakstraf* | *Boete*  |
+|-----------------------------|------------|-------------|----------|
+| **Eerste Veroordeling**     |            | 20 uur      | € 2000,- |
+| **Tweede Veroordeling**     |            | 30 uur      | € 4000,- |
+| **Meerdere Veroordelingen** |            | 60 uur      | € 5000,- |
 
 ### Artikel I-8 Witwassen (420bis SR)
 
 1. Schuldig is een persoon die geld of goederen, verkregen uit misdrijf, vermengt of poogt te vermengen met het reguliere circuit van geld en goederen.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** | 27 maanden  |   | € 15000,-  |
-| **Tweede Veroordeling**  | 54 maanden  |  | € 20000,-  |
-| **Meerdere Veroordelingen**  | 108 maanden  |  | € 25000,-  |
+|                             | *Celstraf*  | *Taakstraf* | *Boete*   |
+|-----------------------------|-------------|-------------|-----------|
+| **Eerste Veroordeling**     | 27 maanden  |             | € 15000,- |
+| **Tweede Veroordeling**     | 54 maanden  |             | € 20000,- |
+| **Meerdere Veroordelingen** | 108 maanden |             | € 25000,- |
 
 ### Artikel I-9 Geldige verklaring herkomst contanten (321 SR)
 
@@ -307,11 +307,11 @@
 
 1. Schuldig is een persoon die geweld pleegt of zich gewelddadig verzet tegen een ambtenaar in dienst.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** |   | 10 uur  | € 1000,-  |
-| **Tweede Veroordeling**  |   | 15 uur  | € 1500,-  |
-| **Meerdere Veroordelingen**  |   | 20 uur  | € 2000,-  |
+|                             | *Celstraf* | *Taakstraf* | *Boete*  |
+|-----------------------------|------------|-------------|----------|
+| **Eerste Veroordeling**     |            | 10 uur      | € 1000,- |
+| **Tweede Veroordeling**     |            | 15 uur      | € 1500,- |
+| **Meerdere Veroordelingen** |            | 20 uur      | € 2000,- |
 
 ### Artikel II-2 Gijzeling (282 SR)
 
@@ -320,22 +320,22 @@
 3. Bij poging tot wederrechtelijke beroving van de vrijheid van een derde wordt de straf met 33% verminderd.
 4. In het geval van meerdere slachtoffers is er geen vermeerdering op de straf van toepassing (zoals benoemd in A4 Strafbepaling lid 5).
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** | 46 maanden  |   | € 7500,-  |
-| **Tweede Veroordeling**  | 54 maanden  |   | € 11250,-  |
-| **Meerdere Veroordelingen**  | 61 maanden  |   | €15000,-  |
+|                             | *Celstraf* | *Taakstraf* | *Boete*   |
+|-----------------------------|------------|-------------|-----------|
+| **Eerste Veroordeling**     | 46 maanden |             | € 7500,-  |
+| **Tweede Veroordeling**     | 54 maanden |             | € 11250,- |
+| **Meerdere Veroordelingen** | 61 maanden |             | € 15000,- |
 
 ### Artikel II-3 Bedreiging (285 SR)
 
 1. Schuldig is een persoon die dreiging uit met gewelddadige inhoud of misdadig karakter, jegens personen of goederen.
 2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 33% verhoogd.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** |   | 13 uur  | € 2250,-  |
-| **Tweede Veroordeling**  |   | 17 uur  | € 3000,-  |
-| **Meerdere Veroordelingen**  |   | 21 uur  | € 3750,-  |
+|                             | *Celstraf* | *Taakstraf* | *Boete*  |
+|-----------------------------|------------|-------------|----------|
+| **Eerste Veroordeling**     |            | 13 uur      | € 2250,- |
+| **Tweede Veroordeling**     |            | 17 uur      | € 3000,- |
+| **Meerdere Veroordelingen** |            | 21 uur      | € 3750,- |
 
 ### Artikel II-4 Doodslag (287 SR)
 
@@ -343,11 +343,11 @@
 2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 33% verhoogd.
 3. Bij een poging tot doodslag wordt de straf met 33% verminderd.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** | 61 maanden  |  | € 11250,-  |
-| **Tweede Veroordeling**  | 69 maanden  |  | € 15000,-  |
-| **Meerdere Veroordelingen**  | 77 maanden  |  | € 18750,-  |
+|                             | *Celstraf* | *Taakstraf* | *Boete*   |
+|-----------------------------|------------|-------------|-----------|
+| **Eerste Veroordeling**     | 61 maanden |             | € 11250,- |
+| **Tweede Veroordeling**     | 69 maanden |             | € 15000,- |
+| **Meerdere Veroordelingen** | 77 maanden |             | € 18750,- |
 
 ### Artikel II-5 Moord (289 SR)
 
@@ -355,11 +355,11 @@
 2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 33% verhoogd.
 3. Bij een poging tot moord wordt de straf met 33% verminderd.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** | 77 maanden  |  | € 15000,-  |
-| **Tweede Veroordeling**  | 84 maanden  |  | € 18750,-  |
-| **Meerdere Veroordelingen**  | 92 maanden  |  | € 22500,-  |
+|                             | *Celstraf* | *Taakstraf* | *Boete*   |
+|-----------------------------|------------|-------------|-----------|
+| **Eerste Veroordeling**     | 77 maanden |             | € 15000,- |
+| **Tweede Veroordeling**     | 84 maanden |             | € 18750,- |
+| **Meerdere Veroordelingen** | 92 maanden |             | € 22500,- |
 
 ### Artikel II-6 Eenvoudige mishandeling (300 SR)
 
@@ -368,11 +368,11 @@
 3. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 33% verhoogd.
 4. Een poging tot eenvoudige mishandeling is niet strafbaar.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** |   | 30 uur  | € 3750,-  |
-| **Tweede Veroordeling**  |   | 40 uur  | € 5625,-  |
-| **Meerdere Veroordelingen**  |   | 50 uur  | € 7500,-  |
+|                             | *Celstraf* | *Taakstraf* | *Boete*  |
+|-----------------------------|------------|-------------|----------|
+| **Eerste Veroordeling**     |            | 30 uur      | € 3750,- |
+| **Tweede Veroordeling**     |            | 40 uur      | € 5625,- |
+| **Meerdere Veroordelingen** |            | 50 uur      | € 7500,- |
 
 ### Artikel II-7 Zware mishandeling (302 SR)
 
@@ -382,11 +382,11 @@
 4. Bij een poging tot zware mishandeling wordt de straf met 33% verminderd.
 5. Indien de persoon bewusteloos is geweest telt dit ook als zware mishandeling.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** | 8 maanden  |  | € 7500,-  |
-| **Tweede Veroordeling**  | 11 maanden  |  | € 9375,-  |
-| **Meerdere Veroordelingen**  | 15 maanden  |  | € 11250,-  |
+|                             | *Celstraf* | *Taakstraf* | *Boete*   |
+|-----------------------------|------------|-------------|-----------|
+| **Eerste Veroordeling**     | 8 maanden  |             | € 7500,-  |
+| **Tweede Veroordeling**     | 11 maanden |             | € 9375,-  |
+| **Meerdere Veroordelingen** | 15 maanden |             | € 11250,- |
 
 ### Artikel II-8 Vernieling (350 SR)
 
@@ -395,22 +395,22 @@
 3. Wanneer het goed of dier aangemerkt kan worden als eigendom van de overheid wordt de straf met 33% verhoogd.
 4. Bij een poging tot vernieling wordt de straf met 33% verminderd.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** |   | 15 uur | € 3000,-  |
-| **Tweede Veroordeling**  |   | 25 uur | € 4500,-  |
-| **Meerdere Veroordelingen**  | 9 maanden  |  | € 6000,-  |
+|                             | *Celstraf* | *Taakstraf* | *Boete*  |
+|-----------------------------|------------|-------------|----------|
+| **Eerste Veroordeling**     |            | 15 uur      | € 3000,- |
+| **Tweede Veroordeling**     |            | 25 uur      | € 4500,- |
+| **Meerdere Veroordelingen** | 9 maanden  |             | € 6000,- |
 
 ### Artikel II-8a Brandstichting en ontploffingen (157 SR)
 
 1. Schuldig is een persoon die opzettelijk brand sticht of een ontploffing teweegbrengt.
 2. Bij een poging tot brandstichting of een ontploffing teweegbrengen wordt de straf met 33% verminderd.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** |   | 43 uur | € 4500,-  |
-| **Tweede Veroordeling**  | 17 maanden  |  | € 6750,-  |
-| **Meerdere Veroordelingen**  | 26 maanden  |  | € 9000,-  |
+|                             | *Celstraf* | *Taakstraf* | *Boete*  |
+|-----------------------------|------------|-------------|----------|
+| **Eerste Veroordeling**     |            | 43 uur      | € 4500,- |
+| **Tweede Veroordeling**     | 17 maanden |             | € 6750,- |
+| **Meerdere Veroordelingen** | 26 maanden |             | € 9000,- |
 
 ### Artikel II-9 Terroristisch misdrijf (134a SR en 142a SR)
 
@@ -423,22 +423,22 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 5. Veroordeling op dit artikel sluit verdere strafvervolging/veroordeling van andere strafbare feiten niet uit, tenzij het in strijd is met het Ne bis in idem beginsel zoals beschreven in artikel A10 - Algemene rechtsbeginselen.
 6. Bij veroordeling op basis van lid 3 wordt de straf met 33% verminderd.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** | 128 maanden  |  | € 22500,-  |
-| **Tweede Veroordeling**  | 153 maanden  |  | € 28125,-  |
-| **Meerdere Veroordelingen**  | 179 maanden  |  | € 33750,-  |
+|                             | *Celstraf*  | *Taakstraf* | *Boete*   |
+|-----------------------------|-------------|-------------|-----------|
+| **Eerste Veroordeling**     | 128 maanden |             | € 22500,- |
+| **Tweede Veroordeling**     | 153 maanden |             | € 28125,- |
+| **Meerdere Veroordelingen** | 179 maanden |             | € 33750,- |
 
 ### Artikel II-10 Dood door schuld (307 SR)
 
 1. Schuldig is een persoon die door zijn toedoen een ander van het leven berooft, zonder dat hierbij sprake is van opzet of voorbedachte rade.
 2. Indien de schuld bestaat door roekeloosheid wordt de straf met 33% verhoogd.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** | 26 maanden  |  | € 7500,-  |
-| **Tweede Veroordeling**  | 43 maanden  |  | € 11250,-  |
-| **Meerdere Veroordelingen**  | 60 maanden  |  | € 15000,-  |
+|                             | *Celstraf* | *Taakstraf* | *Boete*   |
+|-----------------------------|------------|-------------|-----------|
+| **Eerste Veroordeling**     | 26 maanden |             | € 7500,-  |
+| **Tweede Veroordeling**     | 43 maanden |             | € 11250,- |
+| **Meerdere Veroordelingen** | 60 maanden |             | € 15000,- |
 
 ## Titel III - Verkeersdelicten
 
@@ -454,11 +454,11 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 1. Schuldig is een persoon die zich zodanig gedraagt in het verkeer dat er sprake is van gevaar of (mogelijke) hinder op de openbare weg.
 2. Op basis van inschatting van de dienstdoende agent kan eveneens overgegaan worden tot invordering van het rijbewijs.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
-|---|---|---|---|---|
-|  **Eerste Veroordeling** |   |  | € 3000,-  | 0-24 uur |
-| **Tweede Veroordeling**  |   | 5 uur | € 4000,-  | 0-24 uur |
-| **Meerdere Veroordelingen**  |   | 10 uur | € 5000,-  | 0-24 uur |
+|                             | *Celstraf* | *Taakstraf* | *Boete*   | *Rijontzegging* |
+|-----------------------------|------------|-------------|-----------|-----------------|
+| **Eerste Veroordeling**     |            |             | € 3000,-  | 0-24 uur        |
+| **Tweede Veroordeling**     |            | 5 uur       | € 4000,-  | 0-24 uur        |
+| **Meerdere Veroordelingen** |            | 10 uur      | € 5000,-  | 0-24 uur        |
 
 ### Artikel III-3 Opzettelijk veroorzaken van ernstig gevaar of hinder (5a WvW)
 
@@ -483,11 +483,11 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 4. Veroordeling voor dit artikel kan enkel geschieden met toestemming van een (h)OvJ of een rechter.
 5. Op basis van inschatting van de feiten en omstandigheden kan eveneens overgegaan worden tot invordering van het rijbewijs en/of inbeslagname van het voertuig.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
-|---|---|---|---|---|
-|  **Eerste Veroordeling** |   | 38 uur  | € 3000,-  | 24-48 uur |
-| **Tweede Veroordeling**  |   | 64 uur | € 7500,-  | 48-72 uur |
-| **Meerdere Veroordelingen**  |   | 85 uur | € 10250,-  | 48-72 uur |
+|                             | *Celstraf* | *Taakstraf* | *Boete*   | *Rijontzegging* |
+|-----------------------------|------------|-------------|-----------|-----------------|
+| **Eerste Veroordeling**     |            | 38 uur      | € 3000,-  | 24-48 uur       |
+| **Tweede Veroordeling**     |            | 64 uur      | € 7500,-  | 48-72 uur       |
+| **Meerdere Veroordelingen** |            | 85 uur      | € 10250,- | 48-72 uur       |
 
 ### Artikel III-4 Veroorzaken ongeval, met al dan niet licht lichamelijk letsel tot gevolg (6 WVW)
 
@@ -495,11 +495,11 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 2. Licht lichamelijk letsel is in dezen alle letsel die ter plaatse, zonder ziekenhuisopname, te behandelen is.
 3. Op basis van inschatting van de dienstdoende agent kan eveneens overgegaan worden tot invordering van het rijbewijs.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
-|---|---|---|---|---|
-|  **Eerste Veroordeling** |   | 10 uur  | € 4000,-  | 0-12 uur |
-| **Tweede Veroordeling**  |   | 15 uur | € 5000,-  | 0-24 uur |
-| **Meerdere Veroordelingen**  |   | 20 uur | € 6000,-  | 0-24 uur |
+|                             | *Celstraf* | *Taakstraf* | *Boete*  | *Rijontzegging* |
+|-----------------------------|------------|-------------|----------|-----------------|
+| **Eerste Veroordeling**     |            | 10 uur      | € 4000,- | 0-12 uur        |
+| **Tweede Veroordeling**     |            | 15 uur      | € 5000,- | 0-24 uur        |
+| **Meerdere Veroordelingen** |            | 20 uur      | € 6000,- | 0-24 uur        |
 
 ### Artikel III-5 Veroorzaken ongeval, met zwaar lichamelijk letsel tot gevolg (6 WVW)
 
@@ -507,22 +507,22 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 2. Zwaar lichamelijk letsel is in dezen alle letsel die niet ter plaatse te behandelen is.
 3. Op basis van inschatting van de dienstdoende agent kan eveneens overgegaan worden tot invordering van het rijbewijs.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
-|---|---|---|---|---|
-|  **Eerste Veroordeling** |   | 15 uur  | € 10000,-  | 0-24 uur |
-| **Tweede Veroordeling**  |   | 20 uur | € 11000,-  | 0-24 uur |
-| **Meerdere Veroordelingen**  |   | 25 uur | € 12000,-  | 0-24 uur |
+|                             | *Celstraf* | *Taakstraf* | *Boete*   | *Rijontzegging* |
+|-----------------------------|------------|-------------|-----------|-----------------|
+| **Eerste Veroordeling**     |            | 15 uur      | € 10000,- | 0-24 uur        |
+| **Tweede Veroordeling**     |            | 20 uur      | € 11000,- | 0-24 uur        |
+| **Meerdere Veroordelingen** |            | 25 uur      | € 12000,- | 0-24 uur        |
 
 ### Artikel III-6 Veroorzaken ongeval, met de dood tot gevolg (6 WVW)
 
 1. Schuldig is een persoon die een ongeval veroorzaakt, met de dood van een derde tot gevolg, door een gevaarlijke dan wel hinderlijke deelname aan het verkeer.
 2. Op basis van inschatting van de dienstdoende agent kan eveneens overgegaan worden tot invordering van het rijbewijs.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
-|---|---|---|---|---|
-|  **Eerste Veroordeling** | 9 maanden  |  | € 16000,-  | 0-24 uur |
-| **Tweede Veroordeling**  | 13 maanden  |  | € 17000,-  | 0-24 uur |
-| **Meerdere Veroordelingen**  | 18 maanden  |  | € 18000,-  | 0-24 uur |
+|                             | *Celstraf* | *Taakstraf* | *Boete*   | *Rijontzegging* |
+|-----------------------------|------------|-------------|-----------|-----------------|
+| **Eerste Veroordeling**     | 9 maanden  |             | € 16000,- | 0-24 uur        |
+| **Tweede Veroordeling**     | 13 maanden |             | € 17000,- | 0-24 uur        |
+| **Meerdere Veroordelingen** | 18 maanden |             | € 18000,- | 0-24 uur        |
 
 ### Artikel III-7 Verlaten plaats van verkeersongeval (7 WVW)
 
@@ -531,33 +531,33 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 3. Wanneer de persoon zich nadien, tijdig, alsnog meldt bij de politie zal worden afgezien van strafvervolging.
 4. Een eventuele rijontzegging is ter beoordeling van de dienstdoende ambtenaar.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
-|---|---|---|---|---|
-|  **Eerste Veroordeling** | 9 maanden |  | € 15000,-  | 12-24 uur |
-| **Tweede Veroordeling**  | 13 maanden  |  | € 16000,-  | 24-48 uur |
-| **Meerdere Veroordelingen**  | 22 maanden  |  | € 18000,-  | 72 uur |
+|                             | *Celstraf* | *Taakstraf* | *Boete*   | *Rijontzegging* |
+|-----------------------------|------------|-------------|-----------|-----------------|
+| **Eerste Veroordeling**     | 9 maanden  |             | € 15000,- | 12-24 uur       |
+| **Tweede Veroordeling**     | 13 maanden |             | € 16000,- | 24-48 uur       |
+| **Meerdere Veroordelingen** | 22 maanden |             | € 18000,- | 72 uur          |
 
 ### Artikel III-8 Rijden onder invloed (8 WVW)
 
 1. Schuldig is een persoon die deelneemt aan het verkeer onder invloed van alcohol, verdovende middelen of medicijnen die de rijvaardigheid beïnvloeden.
 2. Uitzonderingsgrond is het te voet deelnemen aan het verkeer.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
-|---|---|---|---|---|
-|  **Eerste Veroordeling** |   | 30 uur  | € 4000,-  | 0-24 uur |
-| **Tweede Veroordeling**  |   | 40 uur | € 5000,-  | 0-24 uur |
-| **Meerdere Veroordelingen**  |   | 50 uur | € 6000,-  | 0-24 uur |
+|                             | *Celstraf* | *Taakstraf* | *Boete*  | *Rijontzegging* |
+|-----------------------------|------------|-------------|----------|-----------------|
+| **Eerste Veroordeling**     |            | 30 uur      | € 4000,- | 0-24 uur        |
+| **Tweede Veroordeling**     |            | 40 uur      | € 5000,- | 0-24 uur        |
+| **Meerdere Veroordelingen** |            | 50 uur      | € 6000,- | 0-24 uur        |
 
 ### Artikel III-9 Rijden zonder bevoegdheid (9 WVW)
 
 1. Schuldig is een persoon die weet of redelijkerwijs behoort te weten dat hem of haar de rijbevoegdheid is ontzegd en desondanks deelneemt aan het verkeer.
 2. Wanneer de bevoegdheid is ontzegd middels een invordering van het rijbewijs, dan geldt dit voor alle categoriën van dat rijbewijs.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
-|---|---|---|---|---|
-|  **Eerste Veroordeling** |   | 10 uur  | € 4000,-  | 0-24 uur |
-| **Tweede Veroordeling**  |   | 20 uur | € 4000,-  | 0-24 uur |
-| **Meerdere Veroordelingen**  |   | 30 uur | € 6000,-  | 0-24 uur |
+|                             | *Celstraf* | *Taakstraf* | *Boete*  | *Rijontzegging* |
+|-----------------------------|------------|-------------|----------|-----------------|
+| **Eerste Veroordeling**     |            | 10 uur      | € 4000,- | 0-24 uur        |
+| **Tweede Veroordeling**     |            | 20 uur      | € 4000,- | 0-24 uur        |
+| **Meerdere Veroordelingen** |            | 30 uur      | € 6000,- | 0-24 uur        |
 
 ### Artikel III-10 Fout parkeren (25 RVV 1990)
 
@@ -576,8 +576,8 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 4. Flitscamera's die op verschillende plaatsen staan, schrijven in geval van een overtreding een boete uit aan de overtredende partij.
 5. Er geldt een wettelijke correctie van 5 km/h en de eerste 5km/h die gemeten zijn boven de toegestane snelheid, blijven ongestraft.
 
-| ***`Op de overige wegen`***  |   |
-|---|---|
+| ***`Op de overige wegen`*** | |
+| --- | --- |
 | Te hard rijden 6 - 10KM/H | € 100,- |
 | Te hard rijden 10 - 20KM/H | € 400,- |
 | Te hard rijden 21 - 30KM/H | € 1000,- |
@@ -592,8 +592,8 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | Te hard rijden 126 - 150 KM/H | € 12500,- |
 | Te hard rijden 150+ KM/H | € 15000,- |
 
-| ***`Op snelwegen`***  |   |
-|---|---|
+| ***`Op snelwegen`*** | |
+| --- | --- |
 | Te hard rijden 6 - 10KM/H | € 100,- |
 | Te hard rijden 10 - 20KM/H | € 300,- |
 | Te hard rijden 21 - 30KM/H | € 700,- |
@@ -632,18 +632,18 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 #### Rijden met WOK-status straffen
 
-|  | *Taakstraf*  | *Sanctie* |
-|---|---|---|
-| **Eerste Staandehouding**  |  | Inbeslagname/afslepen voertuig |
-| **Tweede Staandehouding**  |  | Inbeslagname/afslepen voertuig |
-| **Meerdere Staandehoudingen**  | 30 uur | Inbeslagname/afslepen voertuig |
+|                               | *Taakstraf* | *Sanctie*                         |
+|-------------------------------|-------------|-----------------------------------|
+| **Eerste Staandehouding**     |             | Inbeslagname/afslepen voertuig    |
+| **Tweede Staandehouding**     |             | Inbeslagname/afslepen voertuig    |
+| **Meerdere Staandehoudingen** | 30 uur      | Inbeslagname/afslepen voertuig    |
 
-| *Feit* | *boete* |
-|---|---|
-| Rijden zonder kentekenplaten | € 10000,- |
-| Ramen dusdanig donker getint zodat de bestuurder en passagier voor in niet zichtbaar zijn | € 7500,- |
-| Verlichting(NEON) onder het voertuig | € 2500,- |
-| Rijden met koplampen met een andere lichtkleur dan wit of geel | € 5000,- |
+| *Feit*                                                                                         | *boete*   |
+|------------------------------------------------------------------------------------------------|-----------|
+| Rijden zonder kentekenplaten                                                                   | € 10000,- |
+| Ramen dusdanig donker getint zodat de bestuurder en passagier voor in niet zichtbaar zijn      | € 7500,-  |
+| Verlichting(NEON) onder het voertuig                                                           | € 2500,-  |
+| Rijden met koplampen met een andere lichtkleur dan wit of geel                                 | € 5000,-  |
 
 ### Artikel III-13 Overige verkeersboetes
 
@@ -651,19 +651,19 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 2. Een volledig overzicht van alle boetes is tevens te vinden in het kostendocument.
 3. Onderstaande strafbare feiten kunnen bestraft worden met een boete, als zodanig:
 
-|   |   |
-|---|---|
-| Blokkeren van de weg | € 720,- |
-| Maken van een U-turn daar waar dat niet is toegestaan | € 420,- |
-| Rijden in een voertuig dat niet toegestaan is op de openbare weg | € 3300,-  |
-| Maken van een Burnout  | € 430,- |
-| Onnodig Claxoneren | € 370,-  |
-| Over een doorgestrokken streep rijden  | € 480,-  |
-| Aan de verkeerde kant van de weg rijden (spookrijden) | € 1860,- |
-| Illegaal off road rijden | € 420,- |
-| Stilstaan waar dit niet is toegestaan | € 420,- |
-| Onnodig links rijden | € 420,-  |
-| Doorrijden bij een stopbord | € 420,- |
+|                                                                           | *        |
+|---------------------------------------------------------------------------|----------|
+| Blokkeren van de weg                                                      | € 720,-  |
+| Maken van een U-turn daar waar dat niet is toegestaan                     | € 420,-  |
+| Rijden in een voertuig dat niet toegestaan is op de openbare weg          | € 3300,- |
+| Maken van een Burnout                                                     | € 430,-  |
+| Onnodig Claxoneren                                                        | € 370,-  |
+| Over een doorgestrokken streep rijden                                     | € 480,-  |
+| Aan de verkeerde kant van de weg rijden (spookrijden)                     | € 1860,- |
+| Illegaal off road rijden                                                  | € 420,-  |
+| Stilstaan waar dit niet is toegestaan                                     | € 420,-  |
+| Onnodig links rijden                                                      | € 420,-  |
+| Doorrijden bij een stopbord                                               | € 420,-  |
 
 ### Artikel III-14 Illegale voertuigen
 
@@ -674,13 +674,13 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 5. De eigenaar van het voertuig blijft verantwoordelijk, ook al wordt het voertuig met een andere bestuurder aangetroffen.
 6. Voertuigen die gehuurd worden op een illegale manier worden ook bestempeld als illegaal. Ook als er geen eigenaar aan te linken is is het voertuig illegaal. Dit zal resulteren in het in beslag nemen van het voertuig.
 
-| Illegale voertuigen | Soort |
-|---|---|
-| Cliffhanger | Motor |
-| Dune Buggy | Buggy |
-| Manchez | Motor |
-| Sanchez | Motor |
-| Sanchez Sport | Motor |
+| Illegale voertuigen | Soort  |
+|---------------------|--------|
+| Cliffhanger         | Motor  |
+| Dune Buggy          | Buggy  |
+| Manchez             | Motor  |
+| Sanchez             | Motor  |
+| Sanchez Sport       | Motor  |
 
 ### Artikel III-15 Straatraces
 
@@ -688,11 +688,11 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 2. Onder straatrace word gezien als 2 of meerdere auto's naast of achter elkaar duelleren om sneller te zijn op een willekeurige of geplande route. Vaak gebeurd dit op Hoge snelheden, maar kan ook gebeuren op lage snelheden.
 3. Indien persoon de race organiseert word de straf met 33% verhoogt.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
-|---|---|---|---|---|
-|  **Eerste Veroordeling** |   | 15 uur  | € 10000,-  | 24-48 uur |
-| **Tweede Veroordeling**  |   | 25 uur | € 15000,-  | 48-72 uur |
-| **Meerdere Veroordelingen**  |   | 40 uur | € 22500,-  | 48-72 uur |
+|                             | *Celstraf* | *Taakstraf* | *boete*   | *rijontzegging* |
+|-----------------------------|------------|-------------|-----------|-----------------|
+| **Eerste Veroordeling**     |            | 15 uur      | € 10000,- | 24-48 uur       |
+| **Tweede Veroordeling**     |            | 25 uur      | € 15000,- | 48-72 uur       |
+| **Meerdere Veroordelingen** |            | 40 uur      | € 22500,- | 48-72 uur       |
 
 ## Titel IV - Opiumwet
 
@@ -711,63 +711,63 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 #### Rekentabel Harddrugs: ingrediënten
 
-|***`1-25 ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** |   | 20 uur  | € 2000,-  |
-| **Tweede Veroordeling**  |   | 40 uur  | € 3000,-  |
-| **Meerdere Veroordelingen**  | 12 maanden  |   | € 4000,-  |
+| ***`1-25 ingrediënten`***       | *Celstraf* | *Taakstraf* | *boete*   |
+|---------------------------------|------------|-------------|-----------|
+| **Eerste Veroordeling**         |            | 20 uur      | € 2000,-  |
+| **Tweede Veroordeling**         |            | 40 uur      | € 3000,-  |
+| **Meerdere Veroordelingen**     | 12 maanden |             | € 4000,-  |
 
-|***`26-200 ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** | 18 maanden  |  | € 5000,-  |
-| **Tweede Veroordeling**  | 27 maanden  |   | € 6000,-  |
-| **Meerdere Veroordelingen**  | 54 maanden  |   | € 7000,-  |
+| ***`26-200 ingrediënten`***     | *Celstraf* | *Taakstraf* | *boete*   |
+|---------------------------------|------------|-------------|-----------|
+| **Eerste Veroordeling**         | 18 maanden |             | € 5000,-  |
+| **Tweede Veroordeling**         | 27 maanden |             | € 6000,-  |
+| **Meerdere Veroordelingen**     | 54 maanden |             | € 7000,-  |
 
-|***`201-250 ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** | 63 maanden  |  | € 8000,-  |
-| **Tweede Veroordeling**  | 72 maanden  |  | € 9000,-  |
-| **Meerdere Veroordelingen**  | 81 maanden  |   | € 10000,-  |
+| ***`201-250 ingrediënten`***    | *Celstraf* | *Taakstraf* | *boete*   |
+|---------------------------------|------------|-------------|-----------|
+| **Eerste Veroordeling**         | 63 maanden |             | € 8000,-  |
+| **Tweede Veroordeling**         | 72 maanden |             | € 9000,-  |
+| **Meerdere Veroordelingen**     | 81 maanden |             | € 10000,- |
 
-|***`ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **251-500** | 95 maanden  |  | € 10000,-  |
-| **501-750**  | 100 maanden  |  | € 11000,-  |
-| **751-1000**  | 110 maanden  |   | € 12000,-  |
-| **1001-1500**  | 125 maanden  |   | € 15000,-  |
-| **1501-2500**  | 140 maanden  |   | € 20000,-  |
-| **2501-5000**  | 165 maanden  |   | € 27500,-  |
-| **5001 en meer**  | 200 maanden  |   | € 35000,-  |
+| ***`ingrediënten`***            | *Celstraf*  | *Taakstraf*| *boete*   |
+|---------------------------------|-------------|------------|-----------|
+| **251-500**                     | 95 maanden  |            | € 10000,- |
+| **501-750**                     | 100 maanden |            | € 11000,- |
+| **751-1000**                    | 110 maanden |            | € 12000,- |
+| **1001-1500**                   | 125 maanden |            | € 15000,- |
+| **1501-2500**                   | 140 maanden |            | € 20000,- |
+| **2501-5000**                   | 165 maanden |            | € 27500,- |
+| **5001 en meer**                | 200 maanden |            | € 35000,- |
 
 #### Rekentabel Harddrugs: eindproducten
 
-|***`1-5 eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** | 12 maanden  |   | € 5000,-  |
-| **Tweede Veroordeling**  | 18 maanden  |   | € 6000,-  |
-| **Meerdere Veroordelingen**  | 22 maanden  |   | € 7000,-  |
+| ***`1-5 eindproducten`***       | *Celstraf* | *Taakstraf* | *boete*   |
+|---------------------------------|------------|-------------|-----------|
+| **Eerste Veroordeling**         | 12 maanden |             | € 5000,-  |
+| **Tweede Veroordeling**         | 18 maanden |             | € 6000,-  |
+| **Meerdere Veroordelingen**     | 22 maanden |             | € 7000,-  |
 
-|***`6-40 eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** | 27 maanden  |  | €8000,-  |
-| **Tweede Veroordeling**  | 36 maanden  |   | €9000,-  |
-| **Meerdere Veroordelingen**  | 54 maanden  |   | €10000,-  |
+| ***`6-40 eindproducten`***      | *Celstraf* | *Taakstraf* | *boete*   |
+|---------------------------------|------------|-------------|-----------|
+| **Eerste Veroordeling**         | 27 maanden |             | €8000,-   |
+| **Tweede Veroordeling**         | 36 maanden |             | €9000,-   |
+| **Meerdere Veroordelingen**     | 54 maanden |             | €10000,-  |
 
-|***`41-50 eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** | 62 maanden  |  | € 11000,-  |
-| **Tweede Veroordeling**  | 80 maanden  |  | € 12000,-  |
-| **Meerdere Veroordelingen**  | 98 maanden  |   | € 13000,-  |
+| ***`41-50 eindproducten`***     | *Celstraf* | *Taakstraf* | *boete*   |
+|---------------------------------|------------|-------------|-----------|
+| **Eerste Veroordeling**         | 62 maanden |             | € 11000,- |
+| **Tweede Veroordeling**         | 80 maanden |             | € 12000,- |
+| **Meerdere Veroordelingen**     | 98 maanden |             | € 13000,- |
 
-|***`eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **51-100** | 125 maanden  |  | € 13000,-  |
-| **101-150**  | 135 maanden  |  | € 14000,-  |
-| **151-250**  | 145 maanden  |   | € 15500,-  |
-| **251-500**  | 160 maanden  |   | € 17000,-  |
-| **501-1000**  | 190 maanden  |   | € 20000,-  |
-| **1001-2500**  | 220 maanden  |   | € 30000,-  |
-| **2501 en meer**  | 275 maanden  |   | € 45000,-  |
+| ***`eindproducten`***            | *Celstraf*  | *Taakstraf* | *boete*   |
+|----------------------------------|-------------|-------------|-----------|
+| **51-100**                       | 125 maanden |             | € 13000,- |
+| **101-150**                      | 135 maanden |             | € 14000,- |
+| **151-250**                      | 145 maanden |             | € 15500,- |
+| **251-500**                      | 160 maanden |             | € 17000,- |
+| **501-1000**                     | 190 maanden |             | € 20000,- |
+| **1001-2500**                    | 220 maanden |             | € 30000,- |
+| **2501 en meer**                 | 275 maanden |             | € 45000,- |
 
 ### Artikel IV-2 Softdrugs (3 OW)
 
@@ -787,63 +787,63 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 #### Rekentabel Softdrugs: ingrediënten
 
-|***`6-25 ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** |   | 10 uur  | € 500,-  |
-| **Tweede Veroordeling**  |   | 20 uur  | € 1000,-  |
-| **Meerdere Veroordelingen**  |  | 30 uur  | € 1500,-  |
+| ***`6-25 ingrediënten`***       | *Celstraf* | *Taakstraf* | *boete*  |
+|---------------------------------|------------|-------------|----------|
+| **Eerste Veroordeling**         |            | 10 uur      | € 500,-  |
+| **Tweede Veroordeling**         |            | 20 uur      | € 1000,- |
+| **Meerdere Veroordelingen**     |            | 30 uur      | € 1500,- |
 
-|***`26-200 ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** |   | 35 uur | € 2000,-  |
-| **Tweede Veroordeling**  |   | 50 uur  | € 3000,-  |
-| **Meerdere Veroordelingen**  | 12 maanden  |   | € 4000,-  |
+| ***`26-200 ingrediënten`***     | *Celstraf* | *Taakstraf* | *boete*  |
+|---------------------------------|------------|-------------|----------|
+| **Eerste Veroordeling**         |            | 35 uur      | € 2000,- |
+| **Tweede Veroordeling**         |            | 50 uur      | € 3000,- |
+| **Meerdere Veroordelingen**     | 12 maanden |             | € 4000,- |
 
-|***`201-250> ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** | 27 maanden  |  | € 5000,-  |
-| **Tweede Veroordeling**  | 40 maanden  |  | € 6000,-  |
-| **Meerdere Veroordelingen**  | 54 maanden  |   | €7000,-  |
+| ***`201-250> ingrediënten`***   | *Celstraf* | *Taakstraf* | *boete*  |
+|---------------------------------|------------|-------------|----------|
+| **Eerste Veroordeling**         | 27 maanden |             | € 5000,- |
+| **Tweede Veroordeling**         | 40 maanden |             | € 6000,- |
+| **Meerdere Veroordelingen**     | 54 maanden |             | €7000,-  |
 
-|***`ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **251-500** | 45 maanden  |  | € 6750,-  |
-| **501-750**  | 60 maanden  |  | € 7500,-  |
-| **751-1000**  | 75 maanden  |   | € 9000,-  |
-| **1001-1500**  | 95 maanden  |   | € 11500,-  |
-| **1501-2500**  | 120 maanden  |   | € 13500,-  |
-| **2501-5000**  | 150 maanden  |   | € 17500,-  |
-| **5001 en meer**  | 175 maanden  |   | € 20000,-  |
+| ***`ingrediënten`***            | *Celstraf* | *Taakstraf* | *boete*   |
+|---------------------------------|------------|-------------|-----------|
+| **251-500**                     | 45 maanden |             | € 6750,-  |
+| **501-750**                     | 60 maanden |             | € 7500,-  |
+| **751-1000**                    | 75 maanden |             | € 9000,-  |
+| **1001-1500**                   | 95 maanden |             | € 11500,- |
+| **1501-2500**                   | 120 maanden|             | € 13500,- |
+| **2501-5000**                   | 150 maanden|             | € 17500,- |
+| **5001 en meer**                | 175 maanden|             | € 20000,- |
 
 #### Rekentabel Softdrugs: eindproducten
 
-|***`2-5 eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** |   | 10 uur   | € 2000,-  |
-| **Tweede Veroordeling**  |   | 20 uur  | € 3000,-  |
-| **Meerdere Veroordelingen**  |   | 30 uur  | € 4000,-  |
+| ***`2-5 eindproducten`***       | *Celstraf* | *Taakstraf* | *boete*  |
+|---------------------------------|------------|-------------|----------|
+| **Eerste Veroordeling**         |            | 10 uur      | € 2000,- |
+| **Tweede Veroordeling**         |            | 20 uur      | € 3000,- |
+| **Meerdere Veroordelingen**     |            | 30 uur      | € 4000,- |
 
-|***`6-40 eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** |   | 40 uur  | € 5000,-  |
-| **Tweede Veroordeling**  | 18 maanden  |   | € 6000,-  |
-| **Meerdere Veroordelingen**  | 45 maanden  |   | € 7000,-  |
+| ***`6-40 eindproducten`***      | *Celstraf* | *Taakstraf* | *boete*  |
+|---------------------------------|------------|-------------|----------|
+| **Eerste Veroordeling**         |            | 40 uur      | € 5000,- |
+| **Tweede Veroordeling**         | 18 maanden |             | € 6000,- |
+| **Meerdere Veroordelingen**     | 45 maanden |             | € 7000,- |
 
-|***`41-50 eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** | 50 maanden  |   | € 8000,-  |
-| **Tweede Veroordeling**  | 54 maanden  |  | € 9000,-  |
-| **Meerdere Veroordelingen**  | 63 maanden  |   | € 10000,-  |
+| ***`41-50 eindproducten`***     | *Celstraf* | *Taakstraf* | *boete*   |
+|---------------------------------|------------|-------------|-----------|
+| **Eerste Veroordeling**         | 50 maanden |             | € 8000,-  |
+| **Tweede Veroordeling**         | 54 maanden |             | € 9000,-  |
+| **Meerdere Veroordelingen**     | 63 maanden |             | € 10000,- |
 
-|***`eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **51-100** | 60 maanden  |  | € 9500,-  |
-| **101-150**  | 70 maanden  |  | € 10500,-  |
-| **151-250**  | 80 maanden  |   | € 11500,-  |
-| **251-500**  | 100 maanden  |   | € 15000,-  |
-| **501-1000**  | 125 maanden  |   | € 19500,-  |
-| **1001-2500**  | 160 maanden  |   | € 25000,-  |
-| **2501 en meer**  | 190 maanden  |   | € 30000,-  |
+| ***`eindproducten`***           | *Celstraf*  | *Taakstraf*| *boete*   |
+|---------------------------------|-------------|------------|-----------|
+| **51-100**                      | 60 maanden  |            | € 9500,-  |
+| **101-150**                     | 70 maanden  |            | € 10500,- |
+| **151-250**                     | 80 maanden  |            | € 11500,- |
+| **251-500**                     | 100 maanden |            | € 15000,- |
+| **501-1000**                    | 125 maanden |            | € 19500,- |
+| **1001-2500**                   | 160 maanden |            | € 25000,- |
+| **2501 en meer**                | 190 maanden |            | € 30000,- |
 
 ## Titel V - Wet Wapens en Munitie
 
@@ -853,11 +853,11 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 1. Strafbaar is een persoon die een stroomstootwapen voorhanden heeft, bij zich draagt, opgeslagen heeft in huis of in de laadruimte van zijn of haar vervoersmiddel.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** | 11 maanden  |  | € 5000,-  |
-| **Tweede Veroordeling**  | 23 maanden  |  | € 7500,-  |
-| **Meerdere Veroordelingen**  | 46 maanden  |  | € 10000,- |
+|                             | *Celstraf* | *Taakstraf* | *boete*   |
+|-----------------------------|------------|-------------|-----------|
+| **Eerste Veroordeling**     | 11 maanden |             | € 5000,-  |
+| **Tweede Veroordeling**     | 23 maanden |             | € 7500,-  |
+| **Meerdere Veroordelingen** | 46 maanden |             | € 10000,- |
 
 ### Artikel V-2 Vuurwapens en Explosieven (26 WWM)
 
@@ -866,17 +866,17 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
    * kleine vuurwapens (pistolen, revolvers, e.d.), aangeduid als Categorie 1;
    * Automatische vuurwapens, jachtgeweren, shotguns, explosieven, granaten, thermiet, etc., aangeduid als Categorie 2.
 
-| ***`Categorie 1`***  | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** | 45 maanden  |  | € 7500,-  |
-| **Tweede Veroordeling**  | 63 maanden  |  | € 9375,-  |
-| **Meerdere Veroordelingen**  | 81 maanden  |  | € 11250,-  |
+| ***`Categorie 1`***           | *Celstraf* | *Taakstraf* | *boete*   |
+|-------------------------------|------------|-------------|-----------|
+| **Eerste Veroordeling**       | 45 maanden |             | € 7500,-  |
+| **Tweede Veroordeling**       | 63 maanden |             | € 9375,-  |
+| **Meerdere Veroordelingen**   | 81 maanden |             | € 11250,- |
 
-| ***`Categorie 2`***  | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** | 69 maanden  |  | € 15000,-  |
-| **Tweede Veroordeling**  | 92 maanden  |  | € 18750,-  |
-| **Meerdere Veroordelingen**  | 122 maanden  |  | € 20625,-  |
+| ***`Categorie 2`***           | *Celstraf* | *Taakstraf* | *boete*   |
+|-------------------------------|------------|-------------|-----------|
+| **Eerste Veroordeling**       | 69 maanden |             | € 15000,- |
+| **Tweede Veroordeling**       | 92 maanden |             | € 18750,- |
+| **Meerdere Veroordelingen**   | 122 maanden|             | € 20625,- |
 
 ### Artikel V-3 Steek- en slagwapens (27 WWM)
 
@@ -884,21 +884,21 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 2. Strafbaar is een persoon die een slagwapen voorhanden heeft, waarvan redelijkerwijs kan worden aangenomen dat deze bestemd is om letsel toe te brengen.
 3. In afwijking van lid 2 is in risicogebieden strafbaar een persoon die een slagwapen voorhanden heeft en/of opgeslagen heeft in huis of in de laadruimte van zijn of haar vervoersmiddel, ongeacht de bestemming van het wapen.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** |   |  | € 3750,-  |
-| **Tweede Veroordeling**  |   | 34 uur  | € 5625,-  |
-| **Meerdere Veroordelingen**  | 11 maanden  |   | € 7500,-  |
+|                             | *Celstraf* | *Taakstraf* | *boete*  |
+|-----------------------------|------------|-------------|----------|
+| **Eerste Veroordeling**     |            |             | € 3750,- |
+| **Tweede Veroordeling**     |            | 34 uur      | € 5625,- |
+| **Meerdere Veroordelingen** | 11 maanden |             | € 7500,- |
 
 ### Artikel V-4 Nepwapens, holsters en replica's (26 WWM)
 
 1. Strafbaar is een persoon die een holster draagt met daarin een nepwapen of replica die, van dichtbij of op enige afstand, niet gemakkelijk van echt te onderscheiden is.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** | 7 maanden   |  | € 3750,-  |
-| **Tweede Veroordeling**  | 14 maanden   |   | € 5625,-  |
-| **Meerdere Veroordelingen**  | 20 maanden  |   | € 7500,-  |
+|                             | *Celstraf* | *Taakstraf* | *boete*  |
+|-----------------------------|------------|-------------|----------|
+| **Eerste Veroordeling**     | 7 maanden  |             | € 3750,- |
+| **Tweede Veroordeling**     | 14 maanden |             | € 5625,- |
+| **Meerdere Veroordelingen** | 20 maanden |             | € 7500,- |
 
 ### Artikel V-5 Wapenhandel (14-20 WWM)
 
@@ -907,28 +907,28 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 3. Indien een ophanden zijnde wapentransactie aantoonbaar gepleegd zou gaan worden, of dreigde te gaan worden, doch niet is afgerond, wordt dit aangemerkt als poging tot wapenhandel.
 4. Een poging tot wapenhandel zoals beschreven in lid 2 wordt bestraft als zijnde wapenhandel, verminderd met 1/2.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** | 15 maanden  |  | € 18750,-  |
-| **Tweede Veroordeling**  | 31 maanden  |  | € 22500,-  |
-| **Meerdere Veroordelingen**  | 46 maanden  |  | € 33750,-  |
+|                             | *Celstraf* | *Taakstraf* | *boete*   |
+|-----------------------------|------------|-------------|-----------|
+| **Eerste Veroordeling**     | 15 maanden |             | € 18750,- |
+| **Tweede Veroordeling**     | 31 maanden |             | € 22500,- |
+| **Meerdere Veroordelingen** | 46 maanden |             | € 33750,- |
 
 ### Artikel V-6 Munitiebezit
 
 1. Strafbaar is een persoon die munitie voorhanden heeft.
 2. Voor elke clip word de straf met 25% verhoogd
 
-| ***`Categorie 1 Munitie`***  | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** | 13 maanden  |  | € 2550,-  |
-| **Tweede Veroordeling**  | 18 maanden  |  | € 3563,-  |
-| **Meerdere Veroordelingen**  | 24 maanden  |  | € 3825,-  |
+| ***`Categorie 1 Munitie`***   | *Celstraf* | *Taakstraf* | *boete*  |
+|-------------------------------|------------|-------------|----------|
+| **Eerste Veroordeling**       | 13 maanden |             | € 2550,- |
+| **Tweede Veroordeling**       | 18 maanden |             | € 3563,- |
+| **Meerdere Veroordelingen**   | 24 maanden |             | € 3825,- |
 
-| ***`Categorie 2 Munitie`***  | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** | 18 maanden  |  | € 5100,-  |
-| **Tweede Veroordeling**  | 31 maanden  |  | € 6375,-  |
-| **Meerdere Veroordelingen**  | 42 maanden  |  | € 7013,-  |
+| ***`Categorie 2 Munitie`***   | *Celstraf* | *Taakstraf* | *boete*  |
+|-------------------------------|------------|-------------|----------|
+| **Eerste Veroordeling**       | 18 maanden |             | € 5100,- |
+| **Tweede Veroordeling**       | 31 maanden |             | € 6375,- |
+| **Meerdere Veroordelingen**   | 42 maanden |             | € 7013,- |
 
 ### Artikel V-7 Vuurwerkbezit
 
@@ -937,11 +937,11 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 3. Een persoon is ook niet strafbaar als hij/zij vuurwerk bij zich draagt op Oudjaardag en nieuwjaarsdag (31 december en 1 januari).
 4. Een persoon is ook strafbaar als deze heterdaad word betrapt op het afsteken van vuurwerk. Als dit artikel van kracht is mag de straf met 33% omhoog.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** | 9 maanden  |  | € 3750,-  |
-| **Tweede Veroordeling**  | 13 maanden  |  | € 5625,-  |
-| **Meerdere Veroordelingen**  | 26 maanden  |  | € 11250,-  |
+|                             | *Celstraf* | *Taakstraf* | *boete*   |
+|-----------------------------|------------|-------------|-----------|
+| **Eerste Veroordeling**     | 9 maanden  |             | € 3750,-  |
+| **Tweede Veroordeling**     | 13 maanden |             | € 5625,-  |
+| **Meerdere Veroordelingen** | 26 maanden |             | € 11250,- |
 
 ### Artikel V-8 Vuurwerkhandel
 
@@ -950,11 +950,11 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 3. Een persoon is ook niet strafbaar als hij/zij vuurwerk bij zich draagt op Oudjaardag en nieuwjaarsdag (31 december en 1 januari).
 4. Een persoon is ook strafbaar als deze heterdaad word betrapt op het afsteken van vuurwerk. Als dit artikel van kracht is mag de straf met 33% omhoog.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** | 13 maanden  |  | € 5625,-  |
-| **Tweede Veroordeling**  | 21 maanden  |  | € 9375,-  |
-| **Meerdere Veroordelingen**  | 38 maanden  |  | € 16875,-  |
+|                             | *Celstraf* | *Taakstraf* | *boete*   |
+|-----------------------------|------------|-------------|-----------|
+| **Eerste Veroordeling**     | 13 maanden |             | € 5625,-  |
+| **Tweede Veroordeling**     | 21 maanden |             | € 9375,-  |
+| **Meerdere Veroordelingen** | 38 maanden |             | € 16875,- |
 
 ## Titel VI - Wet op de Kansspelen
 
@@ -965,11 +965,11 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 1. Schuldig is een persoon die zonder geldige vergunning een gelegenheid biedt om mee te dingen naar prijzen of geld, in de vorm van een kansspel.
 2. Niet schuldig is een persoon die hiervoor een geldende vergunning heeft.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** |   |   | € 1000,-  |
-| **Tweede Veroordeling**  |   |   | € 2500,-  |
-| **Meerdere Veroordelingen**  |   |  | € 7500,-  |
+|                             | *Celstraf* | *Taakstraf* | *boete*  |
+|-----------------------------|------------|-------------|----------|
+| **Eerste Veroordeling**     |            |             | € 1000,- |
+| **Tweede Veroordeling**     |            |             | € 2500,- |
+| **Meerdere Veroordelingen** |            |             | € 7500,- |
 
 ### Artikel VI-2 Casinospelen (27g Wok)
 
@@ -977,11 +977,11 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 2. Niet schuldig is een persoon die hiervoor een geldende vergunning heeft.
 3. De Overheid behoudt het recht om op één of enkele plekken casinospelen aan te bieden.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** |   | 5 uur  | € 1000,-  |
-| **Tweede Veroordeling**  |   | 10 uur  | € 2500,-  |
-| **Meerdere Veroordelingen**  |   | 20 uur | € 5000,-  |
+|                             | *Celstraf* | *Taakstraf* | *boete*  |
+|-----------------------------|------------|-------------|----------|
+| **Eerste Veroordeling**     |            | 5 uur       | € 1000,- |
+| **Tweede Veroordeling**     |            | 10 uur      | € 2500,- |
+| **Meerdere Veroordelingen** |            | 20 uur      | € 5000,- |
 
 ### Artikel VI-3 Loterijen (27 Wok)
 
@@ -989,11 +989,11 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 2. Schuldig is een persoon die zonder geldige vergunning een loterij houdt waarbij een winnend lotnummer door trekking wordt gekozen.
 3. Niet schuldig is een persoon die hiervoor een geldende vergunning heeft.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** |   |  | € 2500,-  |
-| **Tweede Veroordeling**  |   | 10 uur  | € 5000,-  |
-| **Meerdere Veroordelingen**  |   | 20 uur | € 7500,-  |
+|                             | *Celstraf* | *Taakstraf* | *boete*  |
+|-----------------------------|------------|-------------|----------|
+| **Eerste Veroordeling**     |            |             | € 2500,- |
+| **Tweede Veroordeling**     |            | 10 uur      | € 5000,- |
+| **Meerdere Veroordelingen** |            | 20 uur      | € 7500,- |
 
 ### Artikel VI-4 Verdubbelaar en pyramidespel (1a Wok)
 
@@ -1001,11 +1001,11 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 2. Schuldig is een persoon die zonder geldige vergunning geld of goederen eist, teneinde daaruit een voordeel uit te beloven dat geheel of ten dele afhankelijk is van de afgifte van geld of goederen door latere deelnemers.
 3. Niet schuldig is een persoon die hiervoor een geldende vergunning heeft.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** |   | 5 uur  | € 2500,-  |
-| **Tweede Veroordeling**  |   | 10 uur  | € 5000,-  |
-| **Meerdere Veroordelingen**  |   | 20 uur | € 10000,-  |
+|                             | *Celstraf* | *Taakstraf* | *boete*   |
+|-----------------------------|------------|-------------|-----------|
+| **Eerste Veroordeling**     |            | 5 uur       | € 2500,-  |
+| **Tweede Veroordeling**     |            | 10 uur      | € 5000,-  |
+| **Meerdere Veroordelingen** |            | 20 uur      | € 10000,- |
 
 ## Titel VII - Uitsluitings- en strafverminderingsgronden
 
@@ -1068,22 +1068,22 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 1. Schuldig is een persoon die opzettelijk niet voldoet aan een bevel of vordering dat krachtens wettelijk voorschrift wordt gegeven door een ambtenaar in functie.
 2. Schuldig is een persoon die opzettelijk een ambtenaar in functie belemmert in de uitvoering daarvan.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** |   | 20 uur  | € 1320,-  |
-| **Tweede Veroordeling**  |   | 30 uur  | € 2320,-  |
-| **Meerdere Veroordelingen**  |   | 40 uur  | € 3320,-  |
+|                             | *Celstraf* | *Taakstraf* | *boete*   |
+|-----------------------------|------------|-------------|-----------|
+| **Eerste Veroordeling**     |            | 20 uur      | € 1320,-  |
+| **Tweede Veroordeling**     |            | 30 uur      | € 2320,-  |
+| **Meerdere Veroordelingen** |            | 40 uur      | € 3320,-  |
 
 ### Artikel VIII-2 Belediging (266 SR)
 
 1. Schuldig is een persoon die opzettelijk een ander belegdigt.
 2. Wanneer de belediging opzettelijk is geuit richting een ambtenaar in functie wordt de boete met 33% verhoogd.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** |   | 10 uur  | € 2000,-  |
-| **Tweede Veroordeling**  |   | 15 uur  | € 3000,-  |
-| **Meerdere Veroordelingen**  |   | 20 uur  | € 4000,-  |
+|                             | *Celstraf* | *Taakstraf* | *boete*   |
+|-----------------------------|------------|-------------|-----------|
+| **Eerste Veroordeling**     |            | 10 uur      | € 2000,-  |
+| **Tweede Veroordeling**     |            | 15 uur      | € 3000,-  |
+| **Meerdere Veroordelingen** |            | 20 uur      | € 4000,-  |
 
 ### Artikel VIII-3 Opgeven valse gegevens (435 SR)
 
@@ -1097,11 +1097,11 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 1. Schuldig is een persoon die zich begeeft in de openbare ruimte terwijl hij of zij in kennelijke staat van dronkenschap verkeert.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** |   |   | € 120,-  |
-| **Tweede Veroordeling**  |   |   | € 120,-  |
-| **Meerdere Veroordelingen**  |   | 5 uur  | € 120,-  |
+|                             | *Celstraf* | *Taakstraf* | *boete*  |
+|-----------------------------|------------|-------------|----------|
+| **Eerste Veroordeling**     |            |             | € 120,-  |
+| **Tweede Veroordeling**     |            |             | € 120,-  |
+| **Meerdere Veroordelingen** |            | 5 uur       | € 120,-  |
 
 ### Artikel VIII-6 Dragen van gezichtsbedekkende kledij (1 Wet gedeeltelijk verbod gezichtsbedekkende kleding)
 
@@ -1116,11 +1116,11 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 1. Schuldig is een persoon die zich uitgeeft als iemand anders, onder naam van iemand anders, in naam van iemand anders, of gelieerd aan iemand anders met als doel daaruit een gewin te behalen in brede zin.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** |   |   | € 2000,-  |
-| **Tweede Veroordeling**  |   |   | € 4000,-  |
-| **Meerdere Veroordelingen**  |   | 20 uur  | € 6000,-  |
+|                             | *Celstraf* | *Taakstraf* | *boete*  |
+|-----------------------------|------------|-------------|----------|
+| **Eerste Veroordeling**     |            |             | € 2000,- |
+| **Tweede Veroordeling**     |            |             | € 4000,- |
+| **Meerdere Veroordelingen** |            | 20 uur      | € 6000,- |
 
 ### Artikel VIII-8 Deelname aan een criminele organisatie
 
@@ -1128,51 +1128,51 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 2. Ten aanzien van de oprichters, leiders of bestuurders kunnen de gevangenisstraffen met een derde worden verhoogd.
 3. Onder deelneming als omschreven in het eerste lid wordt mede begrepen het verlenen van geldelijke of andere stoffelijke steun aan alsmede het werven van gelden of personen ten behoeve van de daar omschreven organisatie.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** |   |   | € 3000,-  |
-| **Tweede Veroordeling**  |   | 20 uur  | € 6000,-  |
-| **Meerdere Veroordelingen**  | 20 maanden  |  | € 9000,-  |
+|                             | *Celstraf* | *Taakstraf* | *boete*  |
+|-----------------------------|------------|-------------|----------|
+| **Eerste Veroordeling**     |            |             | € 3000,- |
+| **Tweede Veroordeling**     |            | 20 uur      | € 6000,- |
+| **Meerdere Veroordelingen** | 20 maanden |             | € 9000,- |
 
 ### Artikel VIII-9 Lokaalvredebreuk (139 SR)
 
 1. Schuldig is een persoon die in een voor de openbare dienst bestemd lokaal, besloten erf of openbare ruimte, wederrechtelijk binnendringt, of, wederrechtelijk aldaar vertoevende, zich niet op de vordering van de bevoegde ambtenaar aanstonds verwijdert.
 2. Schuldig is een persoon die zich de toegang heeft verschaft door middel van braak of inklimming, van valse sleutels, van een valse order of een vals kostuum, of die zonder voorkennis van de bevoegde ambtenaar en anders dan ten gevolge van vergissing binnengekomen, aldaar wordt aangetroffen in de voor de nachtrust bestemde tijd, wordt geacht te zijn binnengedrongen.
 
-|  |Celstraf  | Taakstraf  | boete  |
-|---|---|---|---|
-|  Eerste Veroordeling |   | 25 uur  | €1125,- |
-| Tweede Veroordeling  |   | 30 uur  | €1500,- |
-| Meerdere Veroordelingen  |   | 35 uur | €2250,- |
+|                             | *Celstraf* | *Taakstraf* | *boete*  |
+|-----------------------------|------------|-------------|----------|
+| **Eerste Veroordeling**     |            | 25 uur      | € 1125,- |
+| **Tweede Veroordeling**     |            | 30 uur      | € 1500,- |
+| **Meerdere Veroordelingen** |            | 35 uur      | € 2250,- |
 
 ### Artikel VIII-10 Huisvredebreuk (138 SR)
 
 1. Schuldig is een persoon die een woning of besloten lokaal of erf bij een ander in gebruik, wederrechtelijk binnendringt of, wederrechtelijk aldaar vertoevende, zich niet op de vordering van of vanwege de rechthebbende aanstonds verwijdert.
 2. Schuldig is een persoon die zich de toegang heeft verschaft door middel van braak of inklimming, van lockpicks, van een valse order of vals kostuum, of die, zonder voorkennis van de rechthebbende en anders dan ten gevolge van vergissing binnengekomen, aldaar wordt aangetroffen in de voor de nachtrust bestemde tijd, wordt geacht te zijn binnengedrongen.
 
-|  |Celstraf  | Taakstraf  | boete  |
-|---|---|---|---|
-|  Eerste Veroordeling |   | 15 uur | € 1125,- |
-| Tweede Veroordeling  |   | 25 uur  | € 2250,- |
-| Meerdere Veroordelingen  |   | 35 uur | € 3000,- |
+|                             | *Celstraf* | *Taakstraf* | *boete*  |
+|-----------------------------|------------|-------------|----------|
+| **Eerste Veroordeling**     |            | 15 uur      | € 1125,- |
+| **Tweede Veroordeling**     |            | 25 uur      | € 2250,- |
+| **Meerdere Veroordelingen** |            | 35 uur      | € 3000,- |
 
 ### Artikel VIII-11 Betreden van verboden domein
 
 1. Schuldig is een persoon die zonder daartoe gerechtigd is, over iemand anders zijn grond waarvan de toegang op een voor hem blijkbare wijze door den rechthebbende is verboden, loopt, rijdt of vee laat lopen.
 2. Schuldig is een persoon die zonder daartoe gerechtigd is, over bij wet geclassificeerde verboden domeinen te lopen, rijden, varen, vliegen of landen zonder nadrukkelijke en aantoonbaar toestemming te hebben verkregen van de Politie, Koninklijke Luchtmacht of Korps Commando Troepen.
 
-| Bij wet geclassificeerde verboden domeinen | Gelegen Nabij Postcode |
+| Bij wet geclassificeerde verboden domeinen | Gelegen Nabij Postcode  |
 |--------------------------------------------|-------------------------|
 | Luchtmachtbasis                            | 719                     |
 | Vliegdekschepen                            | 3705 & 719              |
 | Gevangenis                                 | 704                     |
 | Ministerie van Defensie                    | 6035                    |
 
-|  |Celstraf  | Taakstraf  | boete  |
-|---|---|---|---|
-|  Eerste Veroordeling | 18 maanden |  | € 10000,-  |
-| Tweede Veroordeling  | 36 maanden | | € 15000,-  |
-| Meerdere Veroordelingen  | 54 maanden |  | € 20000,-  |
+|                         | Celstraf   | Taakstraf | boete     |
+|-------------------------|------------|-----------|-----------|
+| Eerste Veroordeling     | 18 maanden |           | € 10000,- |
+| Tweede Veroordeling     | 36 maanden |           | € 15000,- |
+| Meerdere Veroordelingen | 54 maanden |           | € 20000,- |
 
 ### Artikel VIII-12 Bescherming van in het wild levende diersoorten
 
@@ -1186,33 +1186,33 @@ Een persoon is schuldig wanneer deze weet of behoort te weten dat het verboden i
 Een persoon is schuldig wanneer deze een beschermd dier voorhanden heeft, vervoert en/of verkoopt.
 
 | Bij wet geclassificeerde beschermde dieren |
-|---|
-| Lepelsteur |
-| Zaagvis |
-| Paling |
-| Hamerkop haai |
-| Zeeschildpad |
-| Luipaard haai |
-| Blauwe haai |
-| Witte haai |
+|--------------------------------------------|
+| Lepelsteur                                 |
+| Zaagvis                                    |
+| Paling                                     |
+| Hamerkop haai                              |
+| Zeeschildpad                               |
+| Luipaard haai                              |
+| Blauwe haai                                |
+| Witte haai                                 |
 
-|1-5 dieren | Celstraf  | Taakstraf  | boete  |
-|---|---|---|---|
-|  Eerste Veroordeling |   |  21 uur  | €1.500 |
-| Tweede Veroordeling  | 10 maanden |  | €2.500 |
-| Meerdere Veroordelingen  | 20 maanden |   | €4.000 |
+| 1-5 dieren              | Celstraf   | Taakstraf | boete   |
+|-------------------------|------------|-----------|---------|
+| Eerste Veroordeling     |            | 21 uur    | €1.500  |
+| Tweede Veroordeling     | 10 maanden |           | €2.500  |
+| Meerdere Veroordelingen | 20 maanden |           | €4.000  |
 
-|6-40 dieren | Celstraf  | Taakstraf  | boete  |
-|---|---|---|---|
-|  Eerste Veroordeling |  | 30 uur  | €2.500 |
-| Tweede Veroordeling  | 15 maanden |  | €4.000 |
-| Meerdere Veroordelingen  | 20 maanden |   | €5.000 |
+| 6-40 dieren             | Celstraf   | Taakstraf | boete   |
+|-------------------------|------------|-----------|---------|
+| Eerste Veroordeling     |            | 30 uur    | €2.500  |
+| Tweede Veroordeling     | 15 maanden |           | €4.000  |
+| Meerdere Veroordelingen | 20 maanden |           | €5.000  |
 
-|>40 dieren | Celstraf  | Taakstraf  | boete  |
-|---|---|---|---|
-|  Eerste Veroordeling | 15 maanden |   | €4.000 |
-| Tweede Veroordeling  | 20 maanden |  | €5.000 |
-| Meerdere Veroordelingen  | 30 maanden |   | €10.000 |
+| >40 dieren              | Celstraf   | Taakstraf | boete    |
+|-------------------------|------------|-----------|----------|
+| Eerste Veroordeling     | 15 maanden |           | €4.000   |
+| Tweede Veroordeling     | 20 maanden |           | €5.000   |
+| Meerdere Veroordelingen | 30 maanden |           | €10.000  |
 
 ### Artikel VIII-13 Recht op bijstand Advocaat tijdens huiszoeking (artikel 99a sv)
 
@@ -1223,11 +1223,11 @@ Een persoon is schuldig wanneer deze een beschermd dier voorhanden heeft, vervoe
 1. Schuldig is een persoon die meerdere voertuigen verhandeld op een locatie, zonder over de daarvoor vereiste vergunning te beschikken.
 2. Indien een opsporingsambtenaar merkt dat de schuldige nergens van afwist, dan kan deze zijn discretionaire bevoegdheid gebruiken om het af te doen met een waarschuwing in de vorm van een notitie.
 
-|  |Celstraf  | Taakstraf  | boete  |
-|---|---|---|---|
-|  Eerste Veroordeling |  |  | € 50000,-  |
-| Tweede Veroordeling  |  | 25 uur | € 75000,-  |
-| Meerdere Veroordelingen  |  | 50 uur | € 100000,-  |
+|                         | Celstraf | Taakstraf | boete      |
+|-------------------------|----------|-----------|------------|
+| Eerste Veroordeling     |          |           | € 50000,-  |
+| Tweede Veroordeling     |          | 25 uur    | € 75000,-  |
+| Meerdere Veroordelingen |          | 50 uur    | € 100000,- |
 
 ### Artikel VIII-15 Werkzaam bedrijf zonder Bedrijfsregister-Inschrijving
 
@@ -1235,11 +1235,11 @@ Een persoon is schuldig wanneer deze een beschermd dier voorhanden heeft, vervoe
 2. Indien een opsporingsambtenaar merkt dat de schuldige nergens van afwist, dan kan deze zijn discretionaire bevoegdheid gebruiken om het af te doen met een waarschuwing in de vorm van een notitie.
 3. Indien de persoon wel ingeschreven staat maar geen vergunning heeft dient dit uitgezocht te worden door een werknemer van het Bedrijfsregister.
 
-|  |Celstraf  | Taakstraf  | boete  |
-|---|---|---|---|
-|  Eerste Veroordeling |  | 70 uur | € 12000,-  |
-| Tweede Veroordeling  | 25 maanden |  | € 15000,-  |
-| Meerdere Veroordelingen  | 50 maanden |  | € 100000,-  |
+|                         | Celstraf   | Taakstraf | boete      |
+|-------------------------|------------|-----------|------------|
+| Eerste Veroordeling     |            | 70 uur    | € 12000,-  |
+| Tweede Veroordeling     | 25 maanden |           | € 15000,-  |
+| Meerdere Veroordelingen | 50 maanden |           | € 100000,- |
 
 ### Artikel VIII-16 Niet in bezit hebben van juiste vergunningen
 
@@ -1248,33 +1248,33 @@ Een persoon is schuldig wanneer deze een beschermd dier voorhanden heeft, vervoe
 3. Indien een persoon ingeschreven staat bij een bedrijf dient de eigenaren/leiding dit aan te geven in hun werknemersregister.
 4. Als lid 3 wel van toepassing is hoeven alleen de eigenaren/leiding de juiste vergunningen aan te tonen. Als dit niet up to date is mag er gesanctioneerd worden.
 
-|  |Celstraf  | Taakstraf  | boete  |
-|---|---|---|---|
-|  Eerste Veroordeling |  | 50 uur | € 10000,-  |
-| Tweede Veroordeling  | 15 maanden |  | € 15000,-  |
-| Meerdere Veroordelingen  | 25 maanden |  | € 20000,-  |
+|                         | Celstraf   | Taakstraf | boete     |
+|-------------------------|------------|-----------|-----------|
+| Eerste Veroordeling     |            | 50 uur    | € 10000,- |
+| Tweede Veroordeling     | 15 maanden |           | € 15000,- |
+| Meerdere Veroordelingen | 25 maanden |           | € 20000,- |
 
 ### Artikel VIII-17 Misdrijven tegen de openbare orde (131 SR)
 
 1. Hij die in het openbaar, mondeling of bij geschrift of afbeelding, tot enig strafbaar feit of tot gewelddadig optreden tegen het openbaar gezag opruit, wordt gestraft volgens onderstaande tabel.
 2. Dit geld ook voor personen die de openbare orde verstoren. De straf word dan wel met 33% verlaagt indien het alleen het verstoren van de openbare orde is.
 
-|  |Celstraf  | Taakstraf  | boete  |
-|---|---|---|---|
-|  Eerste Veroordeling |  | 20 uur | € 1875,-  |
-| Tweede Veroordeling  | 17 maanden |  | € 3750,-  |
-| Meerdere Veroordelingen  | 34 maanden |  | € 7500,-  |
+|                         | Celstraf   | Taakstraf | boete     |
+|-------------------------|------------|-----------|-----------|
+| Eerste Veroordeling     |            | 20 uur    | € 1875,-  |
+| Tweede Veroordeling     | 17 maanden |           | € 3750,-  |
+| Meerdere Veroordelingen | 34 maanden |           | € 7500,-  |
 
 ### Artikel VIII-18 Misdrijven tegen het openbaar gezag (189 SR)
 
 1. Schuldig is een persoon die opzettelijk iemand die schuldig is aan of verdacht wordt van enig misdrijf behulpzaam is in het ontkomen aan de nasporing van of aanhouding door enige ambtenaar in functie.
 2. Schuldig is een persoon die opzettelijk voorwerpen vernietigd of ontneemt om de inbeslagneming door een ambtenaar in functie te beletten of te belemmeren.
 
-|  |Celstraf  | Taakstraf  | boete  |
-|---|---|---|---|
-|  Eerste Veroordeling | 10 maanden |  | € 7500,-  |
-| Tweede Veroordeling  | 31 maanden |  | € 11250,-  |
-| Meerdere Veroordelingen  | 41 maanden |  | € 15000,-  |
+|                         | Celstraf   | Taakstraf | boete     |
+|-------------------------|------------|-----------|-----------|
+| Eerste Veroordeling     | 10 maanden |           | € 7500,-  |
+| Tweede Veroordeling     | 31 maanden |           | € 11250,- |
+| Meerdere Veroordelingen | 41 maanden |           | € 15000,- |
 
 ## Titel IX – Schadevergoeding
 
@@ -1288,11 +1288,11 @@ Een persoon is schuldig wanneer deze een beschermd dier voorhanden heeft, vervoe
 6. Het schadevergoeding document kan alleen worden ondertekend door een OvJ/HOvJ/hOvJ.
 7. Een Schadevergoeding wordt uitgekeerd vanuit Justitie op vertoon van het schadevergoeding document.
 
-| Vergoedingen | schadevergoeding  |
-|---|---|
-| per 1 uur politiebureau | € 3000,- |
-| per 1 uur gevangenis | € 5000,- |
-| Advocaat kosten | n.t.b. |
+| Vergoedingen             | schadevergoeding |
+|--------------------------|------------------|
+| per 1 uur politiebureau  | € 3000,-         |
+| per 1 uur gevangenis     | € 5000,-         |
+| Advocaat kosten          | n.t.b.           |
 
 ### Artikel IX-2 (Im)materiële schadevergoeding voor buitensporig geweld door overheidsmedewerker
 
@@ -1306,13 +1306,13 @@ Een persoon is schuldig wanneer deze een beschermd dier voorhanden heeft, vervoe
 8. Het schadevergoeding document kan alleen worden ondertekend door een advocaat of OvJ/HOvJ/hOvJ.
 9. Schadevergoeding wordt uitgekeerd vanuit Justitie op vertoon van het schadevergoeding document.
 
-| Vergoedingen | schadevergoeding |
-|---|---|
-| Onterecht gebruik wapenstok als geweldsmiddel | € 1000,- |
-| Onterecht gebruik stroomstootwapen als geweldsmiddel | € 2500,- |
-| Onterecht gebruik vuurwapen (cat. 1) als geweldsmiddel | € 4000,- |
-| Onterecht inzet surveillancehond als geweldsmiddel | € 5000,- |
-| Onterecht gebruik vuurwapen (cat. 2) als geweldsmiddel | € 7000,- |
+| Vergoedingen                                           | schadevergoeding |
+| ------------------------------------------------------ | ---------------- |
+| Onterecht gebruik wapenstok als geweldsmiddel          | € 1000,-         |
+| Onterecht gebruik stroomstootwapen als geweldsmiddel   | € 2500,-         |
+| Onterecht gebruik vuurwapen (cat. 1) als geweldsmiddel | € 4000,-         |
+| Onterecht inzet surveillancehond als geweldsmiddel     | € 5000,-         |
+| Onterecht gebruik vuurwapen (cat. 2) als geweldsmiddel | € 7000,-         |
 
 ## Titel X – Algemene douanewet
 
@@ -1327,11 +1327,11 @@ Een persoon is schuldig wanneer deze een beschermd dier voorhanden heeft, vervoe
 
 ### Artikel X-2 Bepalingen inzake douanetoezicht en douanecontrole (Artikel 1:26 en 1:27 en 1:28)
 
-| DEFINITIE | TOELICHTING  |
-|---|---|
-| Open water      | Rivieren en riviermondingen, meren en zeeën van natuurlijke oorsprong die in directe verbinding staan met de open zee/oceaan. Met in directe verbinding staan wordt bedoeld: Een verbinding zonder obstakels, zoals een: dam(men), waterval(len), waterkering(en), etc. De directe verbinding dient voor schepen en of boten tevens bevaarbaar te zijn |
-| Binnenland     | Gebieden met een vast ondergrond (zand/aarde/steen) |
-| Binnenwater     | Rivieren, kanalen en meren zonder directe verbinding met de open zee/oceaan, die voor schepen en/of boten bevaarbaar zijn |
+| DEFINITIE   | TOELICHTING                                                                                                                                                                                                                                                                                                                                                                                 |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Open water  | Rivieren en riviermondingen, meren en zeeën van natuurlijke oorsprong die in directe verbinding staan met de open zee/oceaan. Met in directe verbinding staan wordt bedoeld: Een verbinding zonder obstakels, zoals een: dam(men), waterval(len), waterkering(en), etc. De directe verbinding dient voor schepen en of boten tevens bevaarbaar te zijn.                                     |
+| Binnenland  | Gebieden met een vast ondergrond (zand/aarde/steen)                                                                                                                                                                                                                                                                                                                                         |
+| Binnenwater | Rivieren, kanalen en meren zonder directe verbinding met de open zee/oceaan, die voor schepen en/of boten bevaarbaar zijn.                                                                                                                                                                                                                                                                  |
 
 1. De Politie is bevoegd aan controle te onderwerpen:
     1. Personen en/of vervoermiddelen en/of plaatsen voor distributie en overslag voor goederen die over de weg worden vervoerd, havens, haventerreinen, luchthavens, grensinspectiepost en luchtvaartterreinen.
@@ -1350,19 +1350,19 @@ Een persoon is schuldig wanneer deze een beschermd dier voorhanden heeft, vervoe
 
 1. Het is verboden om op enigerlei wijze illegale goederen te vervoeren in de trailer van een vrachtwagen, ongeacht of de vervoerder op de hoogte is van de inhoud.
 
-| DEFINITIE ILLEGALE GOEDEREN |
-|------|
-|  a. Gestolen goederen of eigendommen zonder geldige herkomst; |
-|  b. Chemicaliën die niet volgens de geldende wet- en regelgeving zijn opgeslagen of vervoerd; |
-|  c. Het vervoeren van dieren; |
-|  d. Alcohol zonder accijnsregistratie of afkomstig uit illegale productie; |
-|  e. Medicatie die niet via erkende en gereguleerde kanalen is verkregen. |
+| DEFINITIE ILLEGALE GOEDEREN                                                                  |
+|----------------------------------------------------------------------------------------------|
+| a. Gestolen goederen of eigendommen zonder geldige herkomst;                                 |
+| b. Chemicaliën die niet volgens de geldende wet- en regelgeving zijn opgeslagen of vervoerd; |
+| c. Het vervoeren van dieren;                                                                 |
+| d. Alcohol zonder accijnsregistratie of afkomstig uit illegale productie;                    |
+| e. Medicatie die niet via erkende en gereguleerde kanalen is verkregen.                      |
 
-|  |Celstraf  | Taakstraf  | boete  |
-|---|---|---|---|
-| Eerste Veroordeling |  | 30 | € 5.000,-  |
-| Tweede Veroordeling  |  | 50 | € 15.000,-  |
-| Meerdere Veroordelingen  | 15 |  | € 20.000,-  |
+|                         | Celstraf | Taakstraf | boete       |
+|-------------------------|----------|-----------|-------------|
+| Eerste Veroordeling     |          | 30        | € 5.000,-   |
+| Tweede Veroordeling     |          | 50        | € 15.000,-  |
+| Meerdere Veroordelingen | 15       |           | € 20.000,-  |
 
 ## Titel XI – Bewijs
 
