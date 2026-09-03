@@ -195,6 +195,7 @@ In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte be
     * Bij ontsnappingen (Art. 25 APV) geldt hetzelfde videobewijsvereiste als bij lid 1.
     * In calls zitten met je vrienden die geen Tedeapolis spelen is ook verboden.
     * Het is toegestaan om in Discord via een "ic-bewijs" kanaal, bewijs te delen in Discord. Dit bewijs moet opgenomen zijn met een bodycam (360 graden), dashcam (voor/achter) en/of telefoon in de hand (360 graden).
+    * Het is toegestaan om tijdens een politie inval van je eigen officiële groep, dit te vermelden in de officiële gang discord mits je je telefoon bij hebt en deze op dat moment hiervoor gebruikt.
     * Een dashcam en/of bodycam is niet meer geldig vanaf het moment dat je ontploft bent. Dit telt ook op ontplofte voertuigen. Mocht dit toch gebruikt worden is dit Metagaming.
 
 → **Sanctie:** Categorie 1.
