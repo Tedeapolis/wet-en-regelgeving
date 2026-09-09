@@ -195,6 +195,7 @@ In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte be
     * Bij ontsnappingen (Art. 25 APV) geldt hetzelfde videobewijsvereiste als bij lid 1.
     * In calls zitten met je vrienden die geen Tedeapolis spelen is ook verboden.
     * Het is toegestaan om in Discord via een "ic-bewijs" kanaal, bewijs te delen in Discord. Dit bewijs moet opgenomen zijn met een bodycam (360 graden), dashcam (voor/achter) en/of telefoon in de hand (360 graden).
+    * Het is toegestaan om tijdens een politie inval van je eigen officiële groep, dit te vermelden in de officiële gang discord mits je je telefoon bij hebt en deze op dat moment hiervoor gebruikt.
     * Een dashcam en/of bodycam is niet meer geldig vanaf het moment dat je ontploft bent. Dit telt ook op ontplofte voertuigen. Mocht dit toch gebruikt worden is dit Metagaming.
 
 → **Sanctie:** Categorie 1.
@@ -289,18 +290,17 @@ In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte be
 ### **Artikel 19 - Gebruik van voertuigen**
 
 1. Burgers mogen geen overheidsvoertuigen besturen, tenzij hier een goede reden voor is of toestemming is gegeven door een stafflid.
-→ **Sanctie:** Categorie 1.
+   → **Sanctie:** Categorie 1.
 2. Baanvoertuigen mogen niet worden gebruikt voor illegale activiteiten zonder goedkeuring van een stafflid.
-→ **Sanctie:** Categorie 1.
+   → **Sanctie:** Categorie 1.
 3. Het betreden van gebouwen met voertuigen is verboden.
-→ **Sanctie:** Categorie 1.
-4. Het gebruik van voertuigen als wapen (VDM) is verboden. Het opzettelijk beuken van stilstaande voertuigen met de intentie om mensen om te laten vallen is ook niet toegestaan.
-→ **Sanctie:** Categorie 1.
+   → **Sanctie:** Categorie 1.
+4. Het gebruik van voertuigen als wapen (VDM) is verboden. → **Sanctie:** Categorie 1.
+   * Het opzettelijk beuken van stilstaande voertuigen met de intentie om mensen om te laten vallen, is niet toegestaan.
+   * Je dient tijdens een achtervolging voldoende afstand te bewaren. Indien je door onvoldoende afstand een ander voertuig beukt, dan is dit VDM.
 5. **Pit-manoeuvres:** Deze moeten realistisch zijn en mogen niet worden uitgevoerd bij snelheden boven de **125 km/u**.
-→ **Sanctie:** Categorie 1.
-6. Het gebruiken van een eigen voertuig tijdens jobs zoals ramenwassen,vrachtwagenchauffeur,post, enz. is niet toegestaan.
-
-→ **Sanctie:** Categorie 2.
+   → **Sanctie:** Categorie 1.
+6. Het gebruiken van een eigen voertuig tijdens jobs zoals ramenwassen, vrachtwagenchauffeur, post, enz. is niet toegestaan. → **Sanctie:** Categorie 2.
 
 ---
 
@@ -553,7 +553,7 @@ Onderstaande regels zijn er alleen op Narcopolis
 
 ### **Artikel N-3 - Samenwerking criminele organisaties**
 
-1. Op Narcopolis is het voor een officiële groep niet toegestaan om samen te werken met een officiele of onofficiele groep of persoon.
+1. Op Narcopolis is het voor een criminele groep niet toegestaan om samen te werken met een andere criminele groep of persoon.
 2. Uitzondering op lid 1 is er voor het kopen en verkopen van drugs. Dit mag wel gedaan worden op het eiland tussen verschillende groepen en personen.
 
 → **Sanctie:** Categorie 1.
