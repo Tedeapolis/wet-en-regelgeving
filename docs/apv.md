@@ -289,18 +289,17 @@ In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte be
 ### **Artikel 19 - Gebruik van voertuigen**
 
 1. Burgers mogen geen overheidsvoertuigen besturen, tenzij hier een goede reden voor is of toestemming is gegeven door een stafflid.
-→ **Sanctie:** Categorie 1.
+   → **Sanctie:** Categorie 1.
 2. Baanvoertuigen mogen niet worden gebruikt voor illegale activiteiten zonder goedkeuring van een stafflid.
-→ **Sanctie:** Categorie 1.
+   → **Sanctie:** Categorie 1.
 3. Het betreden van gebouwen met voertuigen is verboden.
-→ **Sanctie:** Categorie 1.
-4. Het gebruik van voertuigen als wapen (VDM) is verboden. Het opzettelijk beuken van stilstaande voertuigen met de intentie om mensen om te laten vallen is ook niet toegestaan.
-→ **Sanctie:** Categorie 1.
+   → **Sanctie:** Categorie 1.
+4. Het gebruik van voertuigen als wapen (VDM) is verboden. → **Sanctie:** Categorie 1.
+   * Het opzettelijk beuken van stilstaande voertuigen met de intentie om mensen om te laten vallen, is niet toegestaan.
+   * Je dient tijdens een achtervolging voldoende afstand te bewaren. Indien je door onvoldoende afstand een ander voertuig beukt, dan is dit VDM.
 5. **Pit-manoeuvres:** Deze moeten realistisch zijn en mogen niet worden uitgevoerd bij snelheden boven de **125 km/u**.
-→ **Sanctie:** Categorie 1.
-6. Het gebruiken van een eigen voertuig tijdens jobs zoals ramenwassen,vrachtwagenchauffeur,post, enz. is niet toegestaan.
-
-→ **Sanctie:** Categorie 2.
+   → **Sanctie:** Categorie 1.
+6. Het gebruiken van een eigen voertuig tijdens jobs zoals ramenwassen, vrachtwagenchauffeur, post, enz. is niet toegestaan. → **Sanctie:** Categorie 2.
 
 ---
 
