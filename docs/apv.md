@@ -542,8 +542,8 @@ Onderstaande regels zijn er alleen op Narcopolis
 
 ### **Artikel N-2 - Inladen van helikopers/vliegtuigen**
 
-1. Wanneer jij drugs wilt inladen in een vliegtuig of helikopter moet het vliegtuig of de helikopter binnen een straal van 50 meter van een helipad of landingsbaan staan.
-2. De sea sparrow, Sea Breeze en dodo mag wel volgeladen worden op open water.
+1. Wanneer jij drugs wilt inladen in een luchtvaartuig, moet het luchtvaartuig buiten een straal van 30 meter van de pluk staan.
+2. De Sea sparrow, Sea Breeze en Dodo mag wel volgeladen worden op open water.
 3. De Kleine eilandjes rondom Narcopolis zijn eveneens uitgezonderd van deze regel.
 4. Uitzondering als het gaat om het overladen van een eindproduct.
 
