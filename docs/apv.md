@@ -542,8 +542,8 @@ Onderstaande regels zijn er alleen op Narcopolis
 
 ### **Artikel N-2 - Inladen van helikopers/vliegtuigen**
 
-1. Wanneer jij drugs wilt inladen in een vliegtuig of helikopter moet het vliegtuig of de helikopter binnen een straal van 50 meter van een helipad of landingsbaan staan.
-2. De sea sparrow, Sea Breeze en dodo mag wel volgeladen worden op open water.
+1. Wanneer jij drugs wilt inladen in een luchtvaartuig, moet het luchtvaartuig buiten een straal van 30 meter van de pluk staan.
+2. De Sea sparrow, Sea Breeze en Dodo mag wel volgeladen worden op open water.
 3. De Kleine eilandjes rondom Narcopolis zijn eveneens uitgezonderd van deze regel.
 4. Uitzondering als het gaat om het overladen van een eindproduct.
 
@@ -590,7 +590,9 @@ Het overtreden van de onderstaande regels zullen resulteren in sancties voor de 
 4. Het confisqueren van items, wapens en geld van een speler is alleen toegestaan als hier een roleplay aan is verbonden. Het confisqueren van overheids objecten is niet toegestaan.
 5. De wapens uit "Wapenwinkel Verkoop" mogen niet gebruikt worden door de groepering zelf en ze mogen niet met winst verkocht worden.
 6. Als officiële ben je verplicht om een logging bij te houden voor de wapens die verkocht worden uit "Wapenwinkel Verkoop". Hier moet duidelijk in staan naar welke groep / persoon dit gaat.
-7. Een officiële gang mag zijn/haar wapen inkoop niet door verkopen aan andere spelers.
+7. Als crimineel moet je na het rippen van een wapen, dit loggen en minimaal 168 uur (7 dagen) apart houden en mag deze niet verkocht / gebruikt worden.
+   * **Uitzondering** Indien je nog in hetzelfde scenario zit en je hebt geen mogelijkheid gehad om het wapen veilig te leggen, mag je deze wel gebruiken.
+8. Een officiële gang mag zijn/haar wapen inkoop niet door verkopen aan andere spelers.
    * **Uitzondering:** Indien de wapens ingekocht zijn in "Wapenwinkel Verkoop" mogen deze wel verkocht worden.
 
 → **Sanctie:** Sanctie door CA, mogelijk opschorting van de organisatie.
