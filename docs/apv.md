@@ -278,7 +278,7 @@ In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte be
 
 1. Een voertuigdealer mag alleen bestaan met goedkeuring van het Bedrijfsregister.
 2. Regels voor voertuighandelaren:
-    * Maximaal **10 voertuigen** in de “showroom”;
+    * Maximaal **15 voertuigen** in de “showroom”;
     * Alleen op een door het Bedrijfsregister goedgekeurde locatie;
     * Officiële vergunningen vereist, ondertekend door een lid het Bedrijfsregister.
 3. Bij voertuigmeetings mogen maximaal **20 voertuigen** aanwezig zijn.
