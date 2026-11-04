@@ -106,6 +106,17 @@
     2. Het vervallen van de registratie betekent nadrukkelijk niet dat het in beslag genomen voertuig of goed automatisch wordt teruggegeven aan de eigenaar.
     3. Teruggave, uitkoop, verkoop of vernietiging van het in beslag genomen voertuig of goed blijft uitsluitend plaatsvinden volgens de geldende procedures en bepalingen van dit artikel.
 
+7. Teruggave van inbeslagname via de rechter
+Wie het niet eens is met een inbeslagname, kan om teruggave vragen:
+a. bij een agent, of diens leidinggevende;
+b. bij de rechter, via een advocaat.
+Gaat de agent akkoord, dan wordt het goed direct teruggegeven. Een rechtszaak is dan niet nodig.
+De rechter beslist tijdens een rolzitting in de rechtszaal.
+De politie levert het bewijs aan via het ic-bewijskanaal. De politie kan een OvJ of HOvJ sturen om verweer te voeren. Is er niemand, dan beslist de rechter op basis van het aangeleverde bewijs.
+Zolang de zaak loopt, wordt het goed niet vernietigd of verkocht.
+Wijst de rechter de teruggave toe, dan is er een terugkoop som tenzij de rechter anders aangeeft.
+Dit artikel geldt voor alle in beslag genomen goederen, ook voor voertuigen (A7), lucht- en vaartuigen (A8) en contant geld (I-9).    
+
 ### A8 - Inbeslagname van luchtvaartvoertuigen & vaartuigen
 
 1. Een luchtvaartvoertuig en/of vaartuig dat betrokken is bij een strafbaar feit, kan in beslag worden genomen.
