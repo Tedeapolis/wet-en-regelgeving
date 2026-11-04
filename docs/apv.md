@@ -339,6 +339,7 @@ In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte be
    * Uiterlijke herkenning: 30 min
 8. Indien je aan het overladen, kloppen of illegale substanties aan het vervoeren bent moet je altijd een prop zien. Indien de prop niet zichtbaar is, heb je dus foutief gehandeld.
 9. Het kopen van goederen/items bij Ammunation wordt niet beschouwd als een illegale activiteit. Het is niet toegestaan dit als aanleiding te gebruiken voor een overval of controle.
+10. De persoon mag worden overvallen wanneer hij gezichtsbedekkende kleding draagt, tenzij hij op een motor rijdt of in een voertuig zit.
 
 Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 
