@@ -32,7 +32,7 @@
     * Voor misdrijven waar de totale strafeis meer dan 251 maanden bedroeg, verjaren deze feiten na 21 dagen;
 
 2. Het recht tot strafvordering vervalt niet door verjaring voor misdrijven waar de totale strafeis geen celstraf bedroeg.
-3. Wanneer een zaak door de rechtbank is beoordeeld kan het zijn dat een misdrijf pas na 42 dagen verjaart.
+3. Het recht tot strafvordering verjaart niet zodra aan de verdachte een dagvaarding is uitgereikt.
 
 ### A4 - Strafbepaling
 
