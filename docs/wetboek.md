@@ -85,11 +85,10 @@
     5. Zal deze kosteloos worden teruggegeven indien is aangetoond dat het voertuig als gestolen is opgegeven vóór de tijd van het gepleegde strafbaar feit. Het opgeven als gestolen moet worden gedaan door middel van aangifte bij een ambtenaar in functie.  
     6. Wanneer het goed bewijsbaar onderdeel was van het strafbare feit en de eigenaar daarvan overleden is, zal het voertuig ook uitgekocht moeten worden volgens de standaardregels.  
     7. Wanneer een advocaat een hOvj of Ovj inschakelt, heeft deze altijd het recht om 48 uur de tijd te krijgen om bewijs op te vragen vanaf het moment van inschakeling. Deze 48 uur kunnen het maximum van 3 dagen (72 uur) verlengen als de hOvj of Ovj pas op de 3e dag wordt ingeschakeld. Indien de OvJ op de 1e dag wordt ingeschakeld, dan is lid a leidend en mag deze 48 uur niet worden gebruikt om de maximale duur van 3 dagen te verlengen.  
-    8. Er kan alleen in beroep worden gegaan tegen een inbeslagname door middel van een advocaat. Het voertuig kan alleen worden vrijgegeven als er een advocaat betrokken is, of via het klachtenformulier.  
-    9. Uitzonderingsgrond voor teruggave van het voertuig is van toepassing indien:  
+    8. Er kan alleen in beroep worden gegaan tegen een inbeslagname door middel van een advocaat. Teruggave van een inbeslagname kan worden gevraagd volgens A7a.
         * Het voertuig valt onder Artikel III-14 (Illegale voertuigen); of  
         * Het voertuig voor de vierde keer in beslag is genomen.  
-        In beide gevallen zal het voertuig worden vernietigd of verkocht. Voertuigen die langer dan veertien (14) dagen in de opslag staan, worden eveneens vernietigd of verkocht, tenzij bezwaar is aangetekend via het klachtenformulier van Politie.
+        In beide gevallen zal het voertuig worden vernietigd of verkocht. Voertuigen die langer dan veertien (14) dagen in de opslag staan, worden eveneens vernietigd of verkocht, tenzij er bezwaar is ingediend via het klachtenformulier of een zaak loopt volgens A7a.
 
 3. Geldige redenen voor inbeslagname zijn:
     1. Plegen van een strafbaar feit uit het wetboek van Tedeapolis waarbij het goed direct of indirect betrokken is, met uitzondering van fout parkeren en snelheidsovertredingen zoals beschreven in lid 4;  
