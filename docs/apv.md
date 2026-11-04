@@ -353,7 +353,7 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 * **Politie**
 * **Justitie**
 * **Ambulance**
-* **TDA Wegenwacht**
+* **TDA Pechhulp**
 * **Handhaving**
 
 <!-- Kaas saak -->
@@ -369,7 +369,7 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 ### **Artikel 23 - Gedrag tegen overheidsmedewerkers**
 
 1. Meldingen naar een overheidsinstantie moeten realistisch en uitgebreid zijn; valse meldingen zijn verboden.
-2. Roleplay met TDA Wegenwacht en Ambulance moet realistisch en uitgebreid zijn. Medewerkers zijn altijd leidend in de roleplay.
+2. Roleplay met TDA Pechhulp en Ambulance moet realistisch en uitgebreid zijn. Medewerkers zijn altijd leidend in de roleplay.
 3. Het maken van een melding om een overheidsmedewerkers te vermoorden, ontvoeren of overvallen is niet toegestaan.
 4. Er moeten altijd minstens vijf overheidsmedewerkers beschikbaar blijven na een ontvoering uitgezonderd zijn de Justitie medewerkers.
 5. Ambulanciers mogen vanaf vier aanwezige collega's ontvoerd worden door criminele organisaties, mits de roleplay goed wordt uitgevoerd en het enkel voor de eigen groep is.
@@ -633,7 +633,7 @@ Het overtreden van de onderstaande regels zullen resulteren in sancties voor de 
 * Onder de AFK-kick proberen uit te komen is verboden.
 * Ben je als agent niet in game, mag je niet deelnemen aan een overval.
 * Wanneer je wordt vermoord door een rivaliserende gang mag je 24 uur niet deelnemen aan eventuele wraakacties of roleplay richting een andere gang.
-* Het is verboden een ambulancier of een medewerker van de TDA Wegenwacht te vermoorden of te ontvoeren bij een oproep of gebruik van hen.
+* Het is verboden een ambulancier of een medewerker van de TDA Pechhulp te vermoorden of te ontvoeren bij een oproep of gebruik van hen.
 
 ---
 
