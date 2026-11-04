@@ -32,7 +32,7 @@
     * Voor misdrijven waar de totale strafeis meer dan 251 maanden bedroeg, verjaren deze feiten na 21 dagen;
 
 2. Het recht tot strafvordering vervalt niet door verjaring voor misdrijven waar de totale strafeis geen celstraf bedroeg.
-3. Wanneer een zaak door de rechtbank is beoordeeld kan het zijn dat een misdrijf pas na 42 dagen verjaart.
+3. Het recht tot strafvordering verjaart niet zodra aan de verdachte een dagvaarding is uitgereikt.
 
 ### A4 - Strafbepaling
 
@@ -78,10 +78,10 @@
     2. Verwerking van de in beslag genomen goederen (behalve voertuigen) geschiedt volgens richtlijn van Politie.
 
 2. Wanneer een voertuig in beslag wordt genomen vanwege een strafbaar feit:
-    1. Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek. In deze 3 dagen heeft de Politie de tijd om de bewijzen te verzamelen en beschikbaar te stellen.  
+    1. Kan deze maximaal 48 uur worden vastgehouden voor onderzoek. In deze 2 dagen heeft de Politie de tijd om de bewijzen te verzamelen en beschikbaar te stellen.  
     2. Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een strafbaar feit, uitgekocht kunnen worden op basis van de ernst van het strafbaar feit, 24 uur nadat de inbeslagname is geregistreerd in de politiesystemen.  
     3. Zal deze, wanneer het voertuig tevens uit het water moest worden gehaald, uitgekocht kunnen worden met een toevoeging van 10% op het basisuitkooppercentage.  
-    4. Zal deze kosteloos worden teruggegeven als er na 3 dagen tijd niet voldoende bewijs is voor de inbeslagname. Als een advocaat op de 3e dag pas de hOvj/Ovj benadert, heeft de hOvj/Ovj het recht om een extra 48 uur te nemen om extra bewijs op te vragen, indien aanwezig.  
+    4. Zal deze kosteloos worden teruggegeven als er na 2 dagen tijd niet voldoende bewijs is voor de inbeslagname. Als een advocaat op de 3e dag pas de hOvj/Ovj benadert, heeft de hOvj/Ovj het recht om een extra 48 uur te nemen om extra bewijs op te vragen, indien aanwezig.  
     5. Zal deze kosteloos worden teruggegeven indien is aangetoond dat het voertuig als gestolen is opgegeven vóór de tijd van het gepleegde strafbaar feit. Het opgeven als gestolen moet worden gedaan door middel van aangifte bij een ambtenaar in functie.  
     6. Wanneer het goed bewijsbaar onderdeel was van het strafbare feit en de eigenaar daarvan overleden is, zal het voertuig ook uitgekocht moeten worden volgens de standaardregels.  
     7. Wanneer een advocaat een hOvj of Ovj inschakelt, heeft deze altijd het recht om 48 uur de tijd te krijgen om bewijs op te vragen vanaf het moment van inschakeling. Deze 48 uur kunnen het maximum van 3 dagen (72 uur) verlengen als de hOvj of Ovj pas op de 3e dag wordt ingeschakeld. Indien de OvJ op de 1e dag wordt ingeschakeld, dan is lid a leidend en mag deze 48 uur niet worden gebruikt om de maximale duur van 3 dagen te verlengen.  
