@@ -115,7 +115,7 @@ De rechter beslist tijdens een rolzitting in de rechtszaal.
 De politie levert het bewijs aan via het ic-bewijskanaal. De politie kan een OvJ of HOvJ sturen om verweer te voeren. Is er niemand, dan beslist de rechter op basis van het aangeleverde bewijs.
 Zolang de zaak loopt, wordt het goed niet vernietigd of verkocht.
 Wijst de rechter de teruggave toe, dan is er een terugkoop som tenzij de rechter anders aangeeft.
-Dit artikel geldt voor alle in beslag genomen goederen, ook voor voertuigen (A7), lucht- en vaartuigen (A8) en contant geld (I-9).    
+Dit artikel geldt voor alle in beslag genomen goederen, ook voor voertuigen (A7), lucht- en vaartuigen (A8) en contant geld (I-9).
 
 ### A8 - Inbeslagname van luchtvaartvoertuigen & vaartuigen
 
